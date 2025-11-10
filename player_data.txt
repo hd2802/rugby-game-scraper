@@ -1,0 +1,5251 @@
+EXE
+	
+Feyi-Waboso, I
+		£10.7m 	95.5 	19.1 	
+NOR
+	
+Todaro, E
+		£4.6m 	88.5 	20.6 	
+SAR
+	
+Caluori, N
+		£4.1m 	83.5 	31.8 	
+BAT
+	
+Arundell, H
+		£8.3m 	77.5 	17.5 	
+SAL
+	
+Roebuck, T
+		£8.1m 	73.5 	18.6 	
+HAR
+	
+Green, T
+		£8.2m 	63.5 	12.6 	
+LEI
+	
+Hassell-Collins, O
+		£7.1m 	58.0 	16.7 	
+LEI
+	
+Radwan, A
+		£7.7m 	55.5 	10.7 	
+SAR
+	
+Bracken, J
+		£4.1m 	49.5 	13.2 	
+GLO
+	
+Loader, B
+		£4.3m 	49.0 	14.2 	
+SAL
+	
+Carpenter, J
+		£7.1m 	46.5 	6.3 	
+EXE
+	
+Brown-Bampoe, P
+		£6.6m 	45.0 	4.8 	
+SAR
+	
+Malins, M
+		£8.4m 	44.0 	10.5 	
+LEI
+	
+Steward, F
+		£8.0m 	40.0 	14.3 	
+BAT
+	
+de Glanville, T
+		£5.6m 	38.5 	8.5 	
+NOR
+	
+Freeman, T
+		£10.3m 	37.5 	15.7 	
+NEW
+	
+Hearle, A
+		£4.1m 	33.5 	5.2 	
+BRI
+	
+Rees-Zammit, L
+		£9.5m 	31.5 	1.2 	
+SAL
+	
+Reed, A
+		£7.0m 	31.5 	9.6 	
+NOR
+	
+Hendy, G
+		£6.9m 	30.5 	3.1 	
+BAT
+	
+Cokanasiga, J
+		£5.9m 	29.5 	6.9 	
+SAR
+	
+Segun, R
+		£5.7m 	29.0 	4.1 	
+BRI
+	
+Carrington, J
+		£4.0m 	29.0 	3.2 	
+GLO
+	
+Thorley, O
+		£6.5m 	25.0 	6.6 	
+SAL
+	
+O'Flaherty, T
+		£5.4m 	23.5 	3.8 	
+EXE
+	
+Hammersley, B
+		£4.0m 	23.0 	6.0 	
+HAR
+	
+Murley, C
+		£8.0m 	22.0 	2.9 	
+BRI
+	
+Elizalde, B
+		£4.1m 	21.0 	8.6 	
+BRI
+	
+Ibitoye, G
+		£8.8m 	17.5 	0.0 	
+NEW
+	
+Obatoyinbo, E
+		£4.0m 	17.0 	4.6 	
+EXE
+	
+Hodge, J
+		£6.9m 	16.5 	5.9 	
+HAR
+	
+David, N
+		£5.4m 	16.0 	1.1 	
+BAT
+	
+Carreras, S
+		£9.5m 	14.0 	5.9 	
+EXE
+	
+Woodburn, O
+		£4.1m 	14.0 	6.3 	
+EXE
+	
+John, D
+		£4.0m 	14.0 	3.8 	
+HAR
+	
+Cleaves, C
+		£5.0m 	12.5 	2.5 	
+HAR
+	
+Isgro, R
+		£6.0m 	10.5 	4.3 	
+NEW
+	
+Coetzee, St
+		£4.0m 	10.0 	4.5 	
+NEW
+	
+Grayson, E
+		£4.0m 	9.5 	2.5 	
+BRI
+	
+Fricker, T
+		£4.0m 	9.0 	4.1 	
+NOR
+	
+Ramm, J
+		£3.6m 	8.0 	0.0 	
+NEW
+	
+Williams, L
+		£5.5m 	7.5 	2.9 	
+BRI
+	
+Bates, J
+		£4.0m 	6.5 	2.3 	
+BRI
+	
+Boshoff, A
+		£4.0m 	6.5 	1.3 	
+HAR
+	
+Anderson, C
+		£4.0m 	5.0 	1.7 	
+NOR
+	
+Martin, J
+		£4.0m 	2.0 	0.4 	
+BAT
+	
+Muir, W
+		£8.5m 	0.0 	0.0 	
+NOR
+	
+Furbank, G
+		£7.5m 	0.0 	0.0 	
+NOR
+	
+Sleightholme, O
+		£7.5m 	0.0 	0.0 	
+SAR
+	
+Daly, E
+		£6.6m 	0.0 	0.0 	
+NEW
+	
+Wade, C
+		£6.0m 	0.0 	0.0 	
+GLO
+	
+Hathaway, J
+		£6.0m 	0.0 	0.0 	
+SAR
+	
+Elliott, T
+		£5.5m 	0.0 	0.0 	
+BRI
+	
+Lane, R
+		£5.0m 	0.0 	0.0 	
+EXE
+	
+Wyatt, T
+		£4.0m 	0.0 	0.0 	
+GLO
+	
+Redshaw, B
+		£4.0m 	0.0 	0.0 	
+GLO
+	
+Russell, R
+		£4.0m 	0.0 	0.0 	
+LEI
+	
+Browning, J
+		£4.0m 	0.0 	0.0 	
+LEI
+	
+Hamer-Webb, G
+		£4.0m 	0.0 	0.0 	
+NEW
+	
+Greenwood, N
+		£4.0m 	0.0 	0.0 	
+SAL
+	
+Wills, A
+		£4.0m 	0.0 	0.0 	
+BRI
+	
+Hamid, S
+		£4.0m 	0.0 	0.0 	
+BRI
+	
+Heward, N
+		£4.0m 	0.0 	0.0 	
+GLO
+	
+Cotgreave, J
+		£4.0m 	0.0 	0.0 	
+GLO
+	
+Morris, J
+		£4.0m 	0.0 	0.0 	
+NEW
+	
+Grayson, Jo
+		£4.0m 	0.0 	0.0 	
+NOR
+	
+Caqusau, A
+		£4.0m 	0.0 	0.0 	
+NOR
+	
+Glister, W
+		£4.0m 	0.0 	0.0 	
+NOR
+	
+Pater, J
+		£4.0m 	0.0 	0.0 	
+SAL
+	
+Ene, O
+		£4.0m 	0.0 	0.0 	
+BAT
+	
+Woods, Ja
+		£3.0m 	0.0 	0.0 	
+BAT
+	
+Emens, A
+		£3.0m 	0.0 	0.0 	
+BAT
+	
+Offiah, T
+		£3.0m 	0.0 	0.0 	
+BAT
+	
+Harris, S
+		£3.0m 	0.0 	0.0
+
+EXE
+	
+Slade, H
+		£6.7m 	78.0 	23.3 	
+SAR
+	
+Tompkins, N
+		£5.1m 	55.5 	7.7 	
+BRI
+	
+Ravouvou, K
+		£7.3m 	54.5 	18.8 	
+GLO
+	
+Joseph, W
+		£4.7m 	46.5 	13.8 	
+NOR
+	
+Hutchinson, R
+		£4.5m 	44.0 	12.7 	
+BAT
+	
+Lawrence, O
+		£7.4m 	42.0 	7.9 	
+NOR
+	
+Litchfield, T
+		£3.3m 	42.0 	6.9 	
+BRI
+	
+Janse van Rensburg, B
+		£5.7m 	41.0 	11.8 	
+SAR
+	
+Cinti, L
+		£3.3m 	35.5 	14.6 	
+GLO
+	
+Atkinson, S
+		£4.5m 	30.5 	6.0 	
+BAT
+	
+Redpath, C
+		£4.9m 	29.5 	7.9 	
+LEI
+	
+Wand, W
+		£2.2m 	29.5 	6.6 	
+GLO
+	
+Edwards-Giraud, J
+		£2.0m 	26.5 	11.6 	
+SAL
+	
+du Preez, R
+		£6.0m 	25.5 	8.1 	
+NEW
+	
+Spencer, O
+		£2.0m 	23.0 	8.7 	
+LEI
+	
+Kata, S
+		£5.1m 	22.0 	6.0 	
+SAR
+	
+Jackson-Richards, B
+		£2.0m 	22.0 	1.4 	
+BAT
+	
+Ojomoh, M
+		£5.5m 	18.5 	3.5 	
+NOR
+	
+Dingwall, F
+		£5.2m 	17.5 	4.5 	
+HAR
+	
+Beard, O
+		£4.9m 	16.5 	4.1 	
+SAL
+	
+Maasi-White, R
+		£2.7m 	13.0 	1.8 	
+GLO
+	
+Llewellyn, M
+		£4.8m 	12.0 	4.3 	
+SAL
+	
+Louw, M
+		£3.1m 	10.0 	3.4 	
+BRI
+	
+Jenkins, J
+		£2.0m 	10.0 	0.6 	
+BAT
+	
+Harris, C
+		£4.0m 	8.5 	1.1 	
+HAR
+	
+Kerr, S
+		£2.0m 	8.5 	0.3 	
+NEW
+	
+Doherty, C
+		£3.0m 	8.0 	2.1 	
+LEI
+	
+Woodward, J
+		£2.8m 	8.0 	2.4 	
+EXE
+	
+Ikitau, L
+		£4.2m 	7.5 	3.4 	
+BRI
+	
+Moroni, M
+		£4.0m 	6.0 	2.7 	
+EXE
+	
+Lilley, N
+		£3.0m 	6.0 	0.5 	
+SAL
+	
+Bedlow, S
+		£2.1m 	5.5 	1.8 	
+BAT
+	
+Butt, W
+		£3.0m 	5.0 	1.5 	
+SAR
+	
+Hutchison, C
+		£2.0m 	5.0 	0.6 	
+BAT
+	
+Hennessey, L
+		£2.0m 	4.5 	2.0 	
+HAR
+	
+Northmore, L
+		£4.5m 	3.5 	1.6 	
+NEW
+	
+Arnold, Sa
+		£2.0m 	3.0 	0.0 	
+NOR
+	
+Thame, T
+		£2.0m 	2.5 	0.0 	
+SAL
+	
+James, L
+		£2.0m 	1.5 	0.7 	
+NEW
+	
+Clark, M
+		£2.0m 	0.5 	0.0 	
+NEW
+	
+Beeckmans, R
+		£2.0m 	0.5 	0.2 	
+SAR
+	
+Lozowski, A
+		£4.0m 	0.0 	0.0 	
+LEI
+	
+Perese, I
+		£4.0m 	0.0 	0.0 	
+HAR
+	
+Waghorn, B
+		£3.5m 	0.0 	0.0 	
+SAR
+	
+Hartley, O
+		£3.5m 	0.0 	0.0 	
+SAR
+	
+Spink, S
+		£3.5m 	0.0 	0.0 	
+BRI
+	
+Williams, J
+		£3.0m 	0.0 	0.0 	
+EXE
+	
+Wimbush, Z
+		£2.0m 	0.0 	0.0 	
+BRI
+	
+Ascherl, H
+		£2.0m 	0.0 	0.0 	
+BRI
+	
+Baker, T
+		£2.0m 	0.0 	0.0 	
+EXE
+	
+Rigg, W
+		£2.0m 	0.0 	0.0 	
+EXE
+	
+Tua, T
+		£2.0m 	0.0 	0.0 	
+GLO
+	
+Butler, W
+		£2.0m 	0.0 	0.0 	
+SAL
+	
+Bedlow, J
+		£2.0m 	0.0 	0.0 	
+SAR
+	
+Hall, A
+		£2.0m 	0.0 	0.0 	
+SAR
+	
+Wilson, O
+		£2.0m 	0.0 	0.0 	
+BAT
+	
+Parry, W
+		£2.0m 	0.0 	0.0 	
+BRI
+	
+Campbell Wu, I
+		£2.0m 	0.0 	0.0 	
+BRI
+	
+Power, D
+		£2.0m 	0.0 	0.0 	
+BRI
+	
+Rowson, H
+		£2.0m 	0.0 	0.0 	
+HAR
+	
+Bradley, B
+		£2.0m 	0.0 	0.0 	
+HAR
+	
+Hyde, H
+		£2.0m 	0.0 	0.0 	
+NOR
+	
+Lumley, H
+		£2.0m 	0.0 	0.0 	
+HAR
+	
+Kolade, L
+		£2.0m 	-0.5 	0.0
+
+NOR
+	
+Belleau, A
+		£5.1m 	70.5 	14.6 	
+SAR
+	
+Farrell, O
+		£8.3m 	63.5 	15.5 	
+SAL
+	
+Ford, G
+		£9.0m 	62.0 	13.2 	
+EXE
+	
+Skinner, H
+		£4.0m 	58.0 	15.7 	
+SAR
+	
+Burke, F
+		£7.5m 	55.5 	14.9 	
+LEI
+	
+Searle, B
+		£3.2m 	51.0 	14.5 	
+BRI
+	
+Worsley, S
+		£3.2m 	45.0 	18.4 	
+NOR
+	
+Smith, F
+		£10.2m 	40.0 	15.7 	
+HAR
+	
+Smith, M
+		£9.2m 	37.5 	14.1 	
+GLO
+	
+Atkinson, C
+		£4.1m 	35.0 	10.9 	
+HAR
+	
+Evans, J
+		£5.5m 	33.0 	4.1 	
+NEW
+	
+Connon, B
+		£4.0m 	32.5 	6.1 	
+GLO
+	
+Byrne, R
+		£7.0m 	30.0 	9.1 	
+BAT
+	
+Russell, F
+		£10.2m 	25.5 	9.8 	
+BRI
+	
+Jordan, T
+		£5.4m 	24.5 	-0.6 	
+LEI
+	
+O'Connor, J
+		£6.0m 	20.0 	8.5 	
+LEI
+	
+Bailey, O
+		£4.1m 	18.0 	1.1 	
+HAR
+	
+Benson, J
+		£3.5m 	18.0 	5.4 	
+NEW
+	
+Chamberlain, B
+		£3.2m 	10.0 	2.2 	
+BRI
+	
+MacGinty, AJ
+		£7.8m 	6.5 	0.0 	
+BAT
+	
+Donoghue, C
+		£5.0m 	0.0 	0.0 	
+GLO
+	
+Barton, G
+		£4.0m 	0.0 	0.0 	
+HAR
+	
+Slevin, C
+		£3.1m 	0.0 	0.0 	
+EXE
+	
+Coen, B
+		£3.0m 	0.0 	0.0 	
+NEW
+	
+Newton, J
+		£3.0m 	0.0 	0.0 	
+SAL
+	
+Curtis, T
+		£3.0m 	0.0 	0.0 	
+EXE
+	
+Haydon-Wood, W
+		£3.0m 	0.0 	0.0 	
+LEI
+	
+Titcombe, C
+		£3.0m 	0.0 	0.0 	
+SAL
+	
+Davies, O
+		£3.0m 	0.0 	0.0 	
+SAR
+	
+Johnson, L
+		£3.0m 	0.0 	0.0
+
+BRI
+	
+Marmion, K
+		£3.4m 	62.5 	16.4 	
+BAT
+	
+Spencer, B
+		£4.4m 	40.0 	5.4 	
+LEI
+	
+van Poortvliet, J
+		£4.2m 	32.5 	4.1 	
+EXE
+	
+Varney, S
+		£2.4m 	31.5 	7.6 	
+NOR
+	
+McParland, A
+		£2.1m 	28.5 	4.4 	
+SAR
+	
+van Zyl, I
+		£3.5m 	27.5 	3.7 	
+HAR
+	
+Porter, W
+		£3.6m 	24.0 	5.1 	
+NOR
+	
+Mitchell, A
+		£5.0m 	23.5 	9.2 	
+BAT
+	
+Carr-Smith, T
+		£2.1m 	17.0 	3.8 	
+SAR
+	
+Bracken, C
+		£2.0m 	17.0 	4.8 	
+SAL
+	
+Quirke, R
+		£3.5m 	13.0 	5.3 	
+SAL
+	
+Warr, G
+		£2.3m 	12.5 	2.6 	
+GLO
+	
+Williams, T
+		£4.3m 	8.5 	1.1 	
+EXE
+	
+Chapman, C
+		£2.0m 	8.5 	2.4 	
+BRI
+	
+Pepper, M
+		£2.0m 	7.5 	3.0 	
+NEW
+	
+Elliott, J
+		£2.0m 	7.5 	1.2 	
+BRI
+	
+Lennon, O
+		£2.0m 	6.0 	2.4 	
+BRI
+	
+Randall, H
+		£3.8m 	5.5 	0.0 	
+LEI
+	
+Whiteley, T
+		£2.0m 	5.5 	1.8 	
+GLO
+	
+Austin, M
+		£2.0m 	5.5 	2.5 	
+NEW
+	
+Benitez Cruz, S
+		£2.0m 	4.0 	1.5 	
+LEI
+	
+Allan, O
+		£2.0m 	3.5 	1.6 	
+HAR
+	
+Townsend, S
+		£2.0m 	3.0 	1.1 	
+NEW
+	
+Dickens, J
+		£2.0m 	3.0 	0.6 	
+NOR
+	
+Weimann, J
+		£2.0m 	3.0 	0.6 	
+SAR
+	
+Simpson, G
+		£2.0m 	3.0 	1.4 	
+BAT
+	
+le Roux, N
+		£2.0m 	2.5 	0.9 	
+GLO
+	
+Englefield, C
+		£2.0m 	1.0 	0.4 	
+HAR
+	
+Green, M
+		£2.0m 	1.0 	0.0 	
+SAL
+	
+Hanson, D
+		£2.0m 	0.5 	0.1 	
+BAT
+	
+van der Linde, B
+		£2.0m 	0.0 	0.0 	
+NEW
+	
+Stuart, S
+		£2.0m 	0.0 	0.0 	
+SAL
+	
+Wootton, W
+		£2.0m 	0.0 	0.0 	
+BRI
+	
+Wolstenholme, S
+		£2.0m 	0.0 	0.0 	
+EXE
+	
+Becconsall, W
+		£2.0m 	0.0 	0.0 	
+EXE
+	
+Cairns, T
+		£2.0m 	0.0 	0.0 	
+NOR
+	
+James, T
+		£2.0m 	0.0 	0.0 	
+HAR
+	
+Friday, L
+		£2.0m 	0.0 	0.0 	
+HAR
+	
+Murray, J
+		£2.0m 	0.0 	0.0 	
+NEW
+	
+Davis, J
+		£2.0m 	0.0 	0.0 	
+SAL
+	
+Thomas, N
+		£2.0m 	0.0 	0.0
+
+SAR
+	
+Willis, T
+		£8.8m 	85.0 	19.3 	
+HAR
+	
+Evans, W
+		£4.7m 	56.5 	10.8 	
+NOR
+	
+Chick, C
+		£5.3m 	55.5 	11.3 	
+HAR
+	
+Kenningham, J
+		£4.3m 	55.0 	13.0 	
+BRI
+	
+Mata, V
+		£6.3m 	54.0 	16.9 	
+BRI
+	
+Harding, F
+		£6.2m 	52.0 	15.0 	
+EXE
+	
+Vintcent, R
+		£3.8m 	49.0 	7.2 	
+SAR
+	
+Onyeama-Christie, A
+		£5.2m 	46.5 	6.6 	
+NOR
+	
+Pearson, T
+		£6.5m 	45.5 	7.4 	
+NEW
+	
+Lelei Mafi, A
+		£3.7m 	42.0 	12.3 	
+SAL
+	
+Dugdale, S
+		£4.2m 	40.0 	7.4 	
+BAT
+	
+Underhill, S
+		£7.7m 	39.5 	10.6 	
+GLO
+	
+Venter, J
+		£4.0m 	39.5 	11.5 	
+BAT
+	
+Reid, M
+		£4.5m 	39.0 	8.2 	
+EXE
+	
+Fisilau, G
+		£4.1m 	39.0 	8.7 	
+LEI
+	
+Cracknell, O
+		£5.4m 	36.5 	10.9 	
+SAR
+	
+Earl, B
+		£8.2m 	35.0 	14.5 	
+HAR
+	
+Dombrandt, A
+		£6.8m 	34.0 	4.1 	
+SAL
+	
+van Rhyn, E
+		£4.0m 	33.5 	8.8 	
+LEI
+	
+Ilione, E
+		£4.4m 	32.5 	8.6 	
+BRI
+	
+Grondona, B
+		£3.0m 	32.5 	6.0 	
+HAR
+	
+Cunningham-South, C
+		£7.2m 	31.0 	9.4 	
+BRI
+	
+Luatua, S
+		£3.9m 	29.5 	6.9 	
+EXE
+	
+Roots, E
+		£4.0m 	29.0 	9.3 	
+LEI
+	
+Reffell, T
+		£4.1m 	27.0 	10.2 	
+NEW
+	
+Gordon, T
+		£4.0m 	26.0 	7.4 	
+BAT
+	
+Bayliss, J
+		£4.0m 	25.5 	3.5 	
+HAR
+	
+Carr, Z
+		£3.0m 	25.5 	8.1 	
+BAT
+	
+Pepper, G
+		£6.5m 	23.5 	4.3 	
+LEI
+	
+Liebenberg, H
+		£5.5m 	23.5 	8.6 	
+SAL
+	
+Woodman, T
+		£3.1m 	23.5 	5.8 	
+BAT
+	
+Barbeary, A
+		£6.6m 	22.5 	8.4 	
+GLO
+	
+Basham, J
+		£3.0m 	21.0 	7.3 	
+GLO
+	
+Mann, J
+		£3.5m 	20.0 	6.1 	
+NOR
+	
+Scott-Young, A
+		£3.4m 	19.5 	1.7 	
+SAR
+	
+Gonzalez, JM
+		£8.0m 	19.0 	8.1 	
+SAL
+	
+Curry, B
+		£6.4m 	18.0 	1.7 	
+LEI
+	
+Moro, J
+		£3.0m 	17.0 	3.2 	
+EXE
+	
+James, K
+		£3.0m 	16.5 	3.8 	
+NOR
+	
+Kemeny, J
+		£6.1m 	16.0 	6.2 	
+NOR
+	
+Graham, S
+		£5.0m 	15.5 	2.9 	
+NOR
+	
+Pollock, H
+		£8.2m 	13.5 	5.2 	
+GLO
+	
+Taylor, H
+		£3.0m 	13.0 	4.2 	
+NEW
+	
+Neild, C
+		£2.9m 	11.5 	2.0 	
+BAT
+	
+Hill, T
+		£6.3m 	10.5 	1.0 	
+SAL
+	
+Vermeulen, J
+		£4.7m 	10.5 	0.0 	
+BRI
+	
+Grondona, S
+		£4.0m 	10.0 	3.5 	
+BAT
+	
+Staddon, E
+		£3.0m 	10.0 	4.5 	
+EXE
+	
+Hooper, T
+		£6.6m 	7.0 	3.2 	
+GLO
+	
+Clement, J
+		£5.0m 	6.5 	0.0 	
+SAR
+	
+West, C
+		£3.0m 	6.5 	1.3 	
+BRI
+	
+Ivanishvili, L
+		£3.0m 	4.5 	0.9 	
+GLO
+	
+Ludlow, L
+		£4.9m 	3.0 	0.0 	
+SAR
+	
+Michelow, N
+		£3.0m 	3.0 	0.0 	
+LEI
+	
+Manz, J
+		£3.0m 	2.0 	0.0 	
+NEW
+	
+Lockwood, F
+		£3.0m 	1.5 	0.5 	
+BAT
+	
+Green, A
+		£3.0m 	1.0 	0.5 	
+SAL
+	
+Curry, TM
+		£7.5m 	0.0 	0.0 	
+NEW
+	
+Christie, T
+		£5.0m 	0.0 	0.0 	
+SAL
+	
+du Preez, D
+		£4.0m 	0.0 	0.0 	
+HAR
+	
+Chisholm, J
+		£4.0m 	0.0 	0.0 	
+BAT
+	
+Coetzee, J
+		£4.0m 	0.0 	0.0 	
+EXE
+	
+Capstick, R
+		£3.0m 	0.0 	0.0 	
+HAR
+	
+Lawday, T
+		£3.0m 	0.0 	0.0 	
+LEI
+	
+Carnduff, F
+		£3.0m 	0.0 	0.0 	
+NEW
+	
+Turnbull, C
+		£3.0m 	0.0 	0.0 	
+BAT
+	
+Cowan, T
+		£3.0m 	0.0 	0.0 	
+BAT
+	
+Timmins, G
+		£3.0m 	0.0 	0.0 	
+BRI
+	
+Cripps, K
+		£3.0m 	0.0 	0.0 	
+BRI
+	
+Harvey, E
+		£3.0m 	0.0 	0.0 	
+EXE
+	
+Moloney, M
+		£3.0m 	0.0 	0.0 	
+GLO
+	
+Trenholm, W
+		£3.0m 	0.0 	0.0 	
+HAR
+	
+Schmid, L
+		£3.0m 	0.0 	0.0 	
+HAR
+	
+Smith, J
+		£3.0m 	0.0 	0.0 	
+NEW
+	
+Leatherbarrow, O
+		£3.0m 	0.0 	0.0 	
+NEW
+	
+Parsons, R
+		£3.0m 	0.0 	0.0 	
+NOR
+	
+Benson, A
+		£3.0m 	0.0 	0.0 	
+SAL
+	
+Gilmore, J
+		£3.0m 	0.0 	0.0 	
+SAL
+	
+Logan, R
+		£3.0m 	0.0 	0.0 	
+SAR
+	
+Eke, M
+		£3.0m 	0.0 	0.0 	
+SAR
+	
+Hammick, R
+		£3.0m 	0.0 	0.0 	
+SAR
+	
+Knight, T
+		£3.0m 	0.0 	0.0 	
+NOR
+	
+Brown, F
+		£2.2m 	0.0 	0.0
+
+NOR
+	
+Coles, A
+		£4.6m 	54.5 	13.5 	
+BRI
+	
+Batley, J
+		£4.1m 	47.5 	12.7 	
+SAR
+	
+Tizard, H
+		£3.5m 	46.5 	10.9 	
+SAL
+	
+Bamber, B
+		£2.5m 	35.0 	8.4 	
+SAR
+	
+Isiekwe, N
+		£3.3m 	34.5 	6.9 	
+SAL
+	
+Andrews, H
+		£2.3m 	33.0 	6.3 	
+GLO
+	
+Jordan, C
+		£2.1m 	31.0 	7.6 	
+GLO
+	
+Alemanno, M
+		£2.0m 	30.0 	9.6 	
+BAT
+	
+Richards, E
+		£2.0m 	29.5 	10.5 	
+BRI
+	
+Owen, J
+		£2.0m 	29.0 	6.1 	
+SAR
+	
+Wilson, H
+		£2.2m 	27.5 	5.2 	
+BRI
+	
+Dun, J
+		£2.0m 	27.5 	5.9 	
+NOR
+	
+van der Mescht, J
+		£2.8m 	26.5 	5.9 	
+EXE
+	
+Jenkins, D
+		£3.7m 	26.0 	7.4 	
+EXE
+	
+Zambonin, A
+		£3.0m 	25.5 	6.9 	
+LEI
+	
+Chessum, O
+		£5.1m 	25.0 	7.8 	
+GLO
+	
+Thomas, F
+		£2.3m 	24.0 	5.4 	
+BAT
+	
+Molony, R
+		£2.5m 	23.5 	5.6 	
+BRI
+	
+Rubiolo, P
+		£2.5m 	22.0 	8.6 	
+LEI
+	
+Henderson, C
+		£1.8m 	22.0 	6.6 	
+GLO
+	
+Bokenham, H
+		£2.0m 	21.5 	7.4 	
+HAR
+	
+Petti, G
+		£3.1m 	21.0 	8.2 	
+NEW
+	
+Lee-Warner, F
+		£2.0m 	20.5 	6.4 	
+SAR
+	
+Sodeke, O
+		£2.0m 	20.0 	2.1 	
+BAT
+	
+Roux, Q
+		£2.9m 	17.5 	3.8 	
+HAR
+	
+Treadwell, K
+		£2.0m 	17.5 	3.7 	
+EXE
+	
+Pearson, L
+		£2.0m 	17.5 	4.2 	
+SAL
+	
+Burrow, T
+		£2.0m 	17.5 	5.2 	
+NEW
+	
+Hodgson, J
+		£2.0m 	17.0 	4.3 	
+SAR
+	
+Itoje, M
+		£5.1m 	16.0 	7.2 	
+NEW
+	
+Clarke, F
+		£2.0m 	16.0 	4.1 	
+HAR
+	
+Green, J
+		£2.0m 	16.0 	3.3 	
+NOR
+	
+Prowse, E
+		£1.1m 	15.5 	2.5 	
+EXE
+	
+Tuima, R
+		£2.0m 	14.0 	3.6 	
+NOR
+	
+Lockett, T
+		£2.5m 	13.0 	4.9 	
+NEW
+	
+Usher, O
+		£2.0m 	12.5 	3.7 	
+BAT
+	
+Ewels, C
+		£2.8m 	10.0 	1.0 	
+HAR
+	
+Lewies, S
+		£2.0m 	7.0 	3.2 	
+LEI
+	
+Wells, H
+		£2.0m 	7.0 	2.5 	
+EXE
+	
+Tshiunza, C
+		£1.9m 	5.0 	0.0 	
+LEI
+	
+Thompson, J
+		£2.0m 	4.5 	0.7 	
+GLO
+	
+Clark, A
+		£1.7m 	4.5 	0.0 	
+LEI
+	
+Martin, G
+		£3.5m 	0.0 	0.0 	
+NOR
+	
+Munga, C
+		£3.0m 	0.0 	0.0 	
+SAR
+	
+McFarland, T
+		£2.9m 	0.0 	0.0 	
+HAR
+	
+Launchbury, J
+		£2.0m 	0.0 	0.0 	
+LEI
+	
+Chessum, L
+		£2.0m 	0.0 	0.0 	
+NEW
+	
+Baker, F
+		£2.0m 	0.0 	0.0 	
+NEW
+	
+de Chaves, S
+		£2.0m 	0.0 	0.0 	
+EXE
+	
+Bailey, J
+		£2.0m 	0.0 	0.0 	
+EXE
+	
+Bell, A
+		£2.0m 	0.0 	0.0 	
+BAT
+	
+Dingley, J
+		£2.0m 	0.0 	0.0 	
+BAT
+	
+Graham, M
+		£2.0m 	0.0 	0.0 	
+BAT
+	
+Jeanes, W
+		£2.0m 	0.0 	0.0 	
+BRI
+	
+Barker, S
+		£2.0m 	0.0 	0.0 	
+BRI
+	
+Pearce, P
+		£2.0m 	0.0 	0.0 	
+BRI
+	
+Taylor, G
+		£2.0m 	0.0 	0.0 	
+GLO
+	
+Eite, D
+		£2.0m 	0.0 	0.0 	
+HAR
+	
+Browne, H
+		£2.0m 	0.0 	0.0 	
+HAR
+	
+Jurevicius, M
+		£2.0m 	0.0 	0.0 	
+LEI
+	
+Carmichael, R
+		£2.0m 	0.0 	0.0 	
+LEI
+	
+Manz, T
+		£2.0m 	0.0 	0.0 	
+NEW
+	
+Cardall, T
+		£2.0m 	0.0 	0.0 	
+NEW
+	
+Hawkins, J
+		£2.0m 	0.0 	0.0 	
+NEW
+	
+Scott, Ad
+		£2.0m 	0.0 	0.0 	
+NOR
+	
+Atuanya, E
+		£2.0m 	0.0 	0.0 	
+SAL
+	
+Birch, R
+		£2.0m 	0.0 	0.0 	
+SAL
+	
+Roets, L
+		£2.0m 	0.0 	0.0
+
+BRI
+	
+Oghre, G
+		£4.6m 	68.0 	19.5 	
+SAL
+	
+Jibulu, N
+		£2.4m 	62.0 	15.5 	
+SAR
+	
+Dan, T
+		£4.3m 	54.0 	12.9 	
+BAT
+	
+Dunn, T
+		£4.1m 	40.0 	8.5 	
+BRI
+	
+Thacker, H
+		£4.5m 	29.5 	8.0 	
+NEW
+	
+McGuigan, G
+		£2.4m 	26.0 	5.7 	
+GLO
+	
+Blake, S
+		£3.0m 	25.5 	9.2 	
+SAL
+	
+Caine, E
+		£2.0m 	24.0 	5.9 	
+HAR
+	
+Turner, G
+		£3.5m 	23.5 	6.9 	
+LEI
+	
+Blamire, J
+		£3.1m 	23.5 	6.8 	
+NOR
+	
+Wright, C
+		£2.0m 	23.0 	5.4 	
+HAR
+	
+Walker, J
+		£3.0m 	22.5 	6.4 	
+NOR
+	
+Smith, R
+		£2.1m 	21.5 	7.1 	
+GLO
+	
+Innard, J
+		£2.0m 	20.0 	4.8 	
+EXE
+	
+Dweba, J
+		£2.9m 	19.5 	5.6 	
+EXE
+	
+Yeandle, J
+		£2.1m 	18.5 	5.0 	
+BAT
+	
+Frost, D
+		£2.1m 	18.0 	6.4 	
+BAT
+	
+Tuipulotu, K
+		£2.0m 	17.0 	3.9 	
+SAR
+	
+Hadfield, J
+		£2.0m 	17.0 	3.4 	
+LEI
+	
+Clare, C
+		£2.1m 	15.5 	5.2 	
+NOR
+	
+Walker, H
+		£2.1m 	14.0 	1.2 	
+NEW
+	
+Fletcher, O
+		£2.0m 	13.5 	3.6 	
+SAR
+	
+George, J
+		£4.5m 	10.0 	4.4 	
+SAR
+	
+Clarke, Eo
+		£2.5m 	10.0 	0.0 	
+SAL
+	
+Cowan-Dickie, L
+		£4.6m 	8.0 	2.7 	
+EXE
+	
+Heaven, J
+		£2.0m 	2.0 	0.7 	
+HAR
+	
+Riley, S
+		£2.0m 	1.0 	0.2 	
+NOR
+	
+Langdon, C
+		£4.0m 	0.0 	0.0 	
+GLO
+	
+Singleton, J
+		£3.5m 	0.0 	0.0 	
+NEW
+	
+Faiva, H
+		£2.0m 	0.0 	0.0 	
+BRI
+	
+Capon, W
+		£2.0m 	0.0 	0.0 	
+HAR
+	
+Musk, J
+		£2.0m 	0.0 	0.0 	
+LEI
+	
+Theobald-Thomas, F
+		£2.0m 	0.0 	0.0 	
+SAL
+	
+Longstaff, A
+		£2.0m 	0.0 	0.0 	
+SAL
+	
+Webber, R
+		£2.0m 	0.0 	0.0 	
+SAR
+	
+Adejimi, S
+		£2.0m 	0.0 	0.0 	
+BAT
+	
+Spandler, J
+		£2.0m 	0.0 	0.0 	
+BRI
+	
+Gwilliam, T
+		£2.0m 	0.0 	0.0 	
+EXE
+	
+Gulley, L
+		£2.0m 	0.0 	0.0 	
+EXE
+	
+Norey, M
+		£2.0m 	0.0 	0.0 	
+GLO
+	
+Freeman Price, K
+		£2.0m 	0.0 	0.0 	
+SAL
+	
+McElroy, T
+		£2.0m 	0.0 	0.0
+
+SAR
+	
+Carre, R
+		£2.2m 	38.0 	8.4 	
+SAL
+	
+Rodd, B
+		£3.0m 	37.0 	10.2 	
+BAT
+	
+Obano, B
+		£3.8m 	36.0 	6.9 	
+BRI
+	
+Kloska, G
+		£1.2m 	32.0 	8.6 	
+BRI
+	
+Woolmore, J
+		£1.1m 	32.0 	7.6 	
+HAR
+	
+Baxter, F
+		£3.4m 	31.5 	7.3 	
+SAR
+	
+Riccioni, M
+		£2.3m 	30.0 	5.8 	
+NOR
+	
+Iyogun, E
+		£2.0m 	27.0 	6.1 	
+BRI
+	
+Chawatama, L
+		£1.0m 	27.0 	6.5 	
+NOR
+	
+Fischetti, D
+		£2.5m 	26.0 	5.9 	
+SAR
+	
+Mawi, E
+		£1.0m 	25.5 	5.0 	
+NOR
+	
+Davison, T
+		£2.4m 	23.5 	5.3 	
+SAL
+	
+Opoku-Fordjour, A
+		£3.3m 	21.5 	4.8 	
+LEI
+	
+Smith, N
+		£2.6m 	21.5 	7.2 	
+HAR
+	
+Williams, H
+		£2.0m 	21.5 	5.9 	
+GLO
+	
+Fasogbon, A
+		£2.1m 	21.0 	5.5 	
+SAL
+	
+McIntyre, S
+		£1.0m 	20.0 	3.8 	
+LEI
+	
+Heyes, J
+		£2.3m 	19.5 	6.1 	
+SAR
+	
+Clarey, A
+		£1.0m 	18.5 	1.9 	
+EXE
+	
+Goodrick-Clarke, W
+		£1.0m 	18.0 	4.4 	
+BRI
+	
+Grahamslaw, S
+		£1.0m 	18.0 	4.0 	
+BAT
+	
+van Wyk, F
+		£2.0m 	17.5 	4.2 	
+LEI
+	
+Hurd, W
+		£1.0m 	16.5 	5.2 	
+GLO
+	
+McArthur, A
+		£2.0m 	15.5 	4.5 	
+NOR
+	
+Millar-Mills, E
+		£1.0m 	14.5 	1.4 	
+BAT
+	
+Sela, V
+		£1.0m 	14.0 	0.5 	
+BAT
+	
+Griffin, A
+		£1.0m 	13.5 	0.8 	
+NOR
+	
+Green, L
+		£1.0m 	13.5 	5.3 	
+HAR
+	
+Delgado, P
+		£2.0m 	13.0 	5.1 	
+EXE
+	
+Tchumbadze, B
+		£1.0m 	13.0 	3.2 	
+GLO
+	
+Knight, C
+		£1.0m 	12.5 	4.6 	
+EXE
+	
+Iosefa-Scott, J
+		£1.0m 	12.0 	3.4 	
+HAR
+	
+Wenger, B
+		£2.0m 	11.5 	4.7 	
+NEW
+	
+McCallum, M
+		£1.0m 	11.5 	2.6 	
+EXE
+	
+Burger, E
+		£1.0m 	11.0 	4.8 	
+BAT
+	
+Stuart, W
+		£3.5m 	10.5 	4.0 	
+NEW
+	
+Palframan, R
+		£1.0m 	10.5 	3.1 	
+BRI
+	
+Genge, E
+		£4.2m 	9.5 	3.3 	
+EXE
+	
+Blose, K
+		£1.0m 	9.0 	0.8 	
+SAL
+	
+Harper, J
+		£1.0m 	7.0 	2.6 	
+GLO
+	
+Gotovtsev, K
+		£1.0m 	6.5 	2.0 	
+NOR
+	
+Kundiona, C
+		£1.0m 	6.5 	1.3 	
+SAR
+	
+Street, M
+		£1.0m 	6.5 	2.9 	
+SAL
+	
+John, W
+		£1.0m 	6.0 	0.0 	
+NEW
+	
+Brocklebank, A
+		£1.0m 	5.5 	1.7 	
+HAR
+	
+Els, J
+		£1.0m 	5.5 	0.0 	
+BAT
+	
+du Toit, T
+		£4.1m 	5.0 	1.6 	
+NEW
+	
+de Bruin, L
+		£1.0m 	5.0 	1.3 	
+LEI
+	
+van der Flier, A
+		£1.0m 	5.0 	1.0 	
+HAR
+	
+Streeter, O
+		£1.0m 	4.0 	0.0 	
+GLO
+	
+Laulala, N
+		£2.0m 	2.5 	0.9 	
+HAR
+	
+Lamositele, T
+		£2.0m 	2.0 	0.4 	
+LEI
+	
+Haffar, T
+		£1.0m 	2.0 	0.0 	
+GLO
+	
+Bellamy, H
+		£1.0m 	2.0 	0.0 	
+HAR
+	
+Kerrod, S
+		£1.0m 	2.0 	0.4 	
+NEW
+	
+Rewcastle, M
+		£1.0m 	1.5 	0.5 	
+LEI
+	
+Loman, A
+		£1.0m 	1.0 	0.4 	
+GLO
+	
+Rapava-Ruskin, V
+		£2.5m 	0.0 	0.0 	
+BRI
+	
+Lahiff, M
+		£2.0m 	0.0 	0.0 	
+EXE
+	
+Sio, S
+		£2.0m 	0.0 	0.0 	
+GLO
+	
+Ford-Robinson, J
+		£2.0m 	0.0 	0.0 	
+NOR
+	
+West, T
+		£2.0m 	0.0 	0.0 	
+NEW
+	
+Bello, E
+		£1.0m 	0.0 	0.0 	
+SAR
+	
+Beaton, H
+		£1.0m 	0.0 	0.0 	
+BAT
+	
+Kirk, S
+		£1.0m 	0.0 	0.0 	
+BAT
+	
+Summerfield, M
+		£1.0m 	0.0 	0.0 	
+BRI
+	
+Halliwell, J
+		£1.0m 	0.0 	0.0 	
+BRI
+	
+Longwell, S
+		£1.0m 	0.0 	0.0 	
+EXE
+	
+Mona, K
+		£1.0m 	0.0 	0.0 	
+EXE
+	
+Painter, E
+		£1.0m 	0.0 	0.0 	
+EXE
+	
+Roots, J
+		£1.0m 	0.0 	0.0 	
+HAR
+	
+Clarke, E
+		£1.0m 	0.0 	0.0 	
+HAR
+	
+Hobson, W
+		£1.0m 	0.0 	0.0 	
+NEW
+	
+Hancock, C
+		£1.0m 	0.0 	0.0 	
+NEW
+	
+Hancock, C
+		£1.0m 	0.0 	0.0 	
+SAL
+	
+Jones, J
+		£1.0m 	0.0 	0.0 	
+SAL
+	
+McEachran, R
+		£1.0m 	0.0 	0.0 	
+SAL
+	
+Onasanya, T
+		£1.0m 	0.0 	0.0 	
+SAL
+	
+Raymont, T
+		£1.0m 	0.0 	0.0 	
+SAR
+	
+Brantingham, P
+		£1.0m 	0.0 	0.0 	
+SAR
+	
+Nairau, V
+		£1.0m 	0.0 	0.0 	
+SAR
+	
+Tuimauga, T
+		£1.0m 	0.0 	0.0
+
+BUL
+	
+de Klerk, S
+		$5.6m 	73.5 	22.5 	
+CAR
+	
+Bowen, T
+		$4.4m 	70.0 	19.4 	
+BEN
+	
+Lynagh, L
+		$6.2m 	66.5 	18.0 	
+GLA
+	
+Steyn, K
+		$8.0m 	57.0 	20.2 	
+LEI
+	
+O'Brien, J
+		$6.0m 	49.0 	15.2 	
+ULS
+	
+Stockdale, J
+		$8.1m 	48.0 	15.0 	
+BUL
+	
+Kriel, D
+		$7.1m 	46.0 	8.8 	
+CAR
+	
+Winnett, C
+		$5.0m 	46.0 	11.6 	
+MUN
+	
+Abrahams, T
+		$4.7m 	44.0 	9.2 	
+GLA
+	
+McKay, J
+		$7.7m 	42.0 	7.6 	
+OSP
+	
+Giles, K
+		$6.8m 	41.0 	5.6 	
+EDI
+	
+Graham, D
+		$5.0m 	41.0 	17.3 	
+BUL
+	
+Le Roux, W
+		$5.1m 	40.0 	11.7 	
+BEN
+	
+Smith, R
+		$6.6m 	39.0 	12.9 	
+ZEB
+	
+Belloni, M
+		$4.0m 	38.5 	11.9 	
+BEN
+	
+Mendy, I
+		$6.1m 	38.0 	13.6 	
+ULS
+	
+Lowry, M
+		$5.4m 	38.0 	12.5 	
+LIO
+	
+Keyter, E
+		$4.2m 	38.0 	11.7 	
+SHA
+	
+van der Merwe, E
+		$5.8m 	36.5 	5.5 	
+DRA
+	
+O'Brien, A
+		$4.0m 	36.5 	10.3 	
+STO
+	
+Senatla, S
+		$4.4m 	33.0 	1.9 	
+LIO
+	
+Horn, Q
+		$6.2m 	32.0 	10.4 	
+OSP
+	
+Kasende, D
+		$5.2m 	32.0 	5.5 	
+ZEB
+	
+Gesi, S
+		$5.1m 	32.0 	5.5 	
+LEI
+	
+Lowe, J
+		$9.5m 	31.0 	11.6 	
+GLA
+	
+Smith, O
+		$4.0m 	29.5 	7.5 	
+GLA
+	
+Rowe, K
+		$7.2m 	28.5 	3.8 	
+EDI
+	
+Goosen, W
+		$6.5m 	28.5 	9.8 	
+BUL
+	
+Jooste, C
+		$4.5m 	28.0 	0.0 	
+CON
+	
+Naughton, S
+		$4.0m 	28.0 	9.5 	
+LIO
+	
+Davids, A
+		$4.1m 	27.0 	7.7 	
+MUN
+	
+Haley, M
+		$6.0m 	26.5 	2.6 	
+STO
+	
+Zas, L
+		$5.3m 	26.5 	5.4 	
+SCA
+	
+Murray, Bl
+		$6.3m 	25.5 	7.6 	
+CON
+	
+Bolton, S
+		$5.0m 	25.5 	8.9 	
+EDI
+	
+van der Merwe, D
+		$8.5m 	25.0 	9.8 	
+SHA
+	
+Hooker, E
+		$6.5m 	25.0 	9.5 	
+LEI
+	
+O'Brien, T
+		$6.0m 	25.0 	3.3 	
+CAR
+	
+Beetham, J
+		$4.0m 	24.0 	6.1 	
+ULS
+	
+Kok, W
+		$6.0m 	22.5 	10.1 	
+CAR
+	
+Adams, J
+		$4.5m 	22.5 	3.7 	
+MUN
+	
+Daly, S
+		$6.6m 	20.5 	1.8 	
+LIO
+	
+Kriel, R
+		$4.5m 	20.5 	6.5 	
+SCA
+	
+Mee, E
+		$4.0m 	19.5 	5.7 	
+MUN
+	
+Smith, A
+		$6.0m 	19.0 	7.1 	
+BUL
+	
+Williams, D
+		$4.5m 	17.0 	3.5 	
+DRA
+	
+Anderson, Hu
+		$4.0m 	17.0 	4.2 	
+STO
+	
+Willemse, D
+		$6.9m 	16.5 	6.2 	
+STO
+	
+Gelant, W
+		$6.5m 	16.5 	7.4 	
+BEN
+	
+Gallagher, M
+		$5.5m 	16.5 	2.9 	
+CON
+	
+Mullins, C
+		$4.0m 	16.0 	5.6 	
+CON
+	
+Hansen, M
+		$8.0m 	15.5 	7.0 	
+BUL
+	
+Moodie, C
+		$6.1m 	13.5 	5.6 	
+MUN
+	
+Nash, C
+		$5.6m 	13.0 	4.6 	
+ZEB
+	
+Pani, L
+		$6.0m 	12.0 	2.3 	
+SHA
+	
+Penxe, Y
+		$4.0m 	12.0 	0.0 	
+DRA
+	
+Dyer, R
+		$5.5m 	11.5 	2.4 	
+LEI
+	
+Osborne, A
+		$4.0m 	11.0 	2.2 	
+LEI
+	
+Larmour, J
+		$8.2m 	10.0 	1.8 	
+BEN
+	
+Ratave, O
+		$6.5m 	10.0 	0.0 	
+DRA
+	
+Rosser, J
+		$4.5m 	10.0 	0.0 	
+ULS
+	
+Baloucoune, R
+		$4.5m 	9.5 	3.3 	
+SHA
+	
+Grobbelaar, C
+		$4.5m 	9.0 	0.1 	
+MUN
+	
+O'Connor, Ben
+		$4.0m 	9.0 	1.8 	
+LEI
+	
+Kenny, Jo
+		$4.0m 	9.0 	3.2 	
+OSP
+	
+Morgan, L
+		$4.5m 	8.5 	3.8 	
+OSP
+	
+Hopkins, I
+		$4.0m 	8.0 	3.1 	
+SHA
+	
+Mapimpi, M
+		$6.0m 	7.0 	2.8 	
+SCA
+	
+Rogers, T
+		$4.0m 	7.0 	1.9 	
+EDI
+	
+McCann, R
+		$4.0m 	5.5 	2.5 	
+BUL
+	
+Gans, S
+		$4.0m 	5.5 	0.6 	
+BEN
+	
+Odogwu, P
+		$5.5m 	5.0 	0.9 	
+STO
+	
+Mars, J
+		$4.0m 	5.0 	2.3 	
+DRA
+	
+Richards, D
+		$4.0m 	4.5 	1.6 	
+EDI
+	
+Paterson, H
+		$4.0m 	4.0 	1.0 	
+SHA
+	
+Sobahle, P
+		$4.0m 	3.0 	0.6 	
+OSP
+	
+Houston, H
+		$4.0m 	3.0 	0.0 	
+SHA
+	
+Kunene, H
+		$4.0m 	2.5 	0.3 	
+LIO
+	
+Mafura, T
+		$4.0m 	2.0 	0.0 	
+SCA
+	
+Nicholas, I
+		$4.0m 	2.0 	0.9 	
+OSP
+	
+Nagy, M
+		$4.0m 	1.5 	0.7 	
+EDI
+	
+Brown, Ja
+		$4.0m 	1.0 	0.2 	
+SHA
+	
+Fassi, A
+		$8.5m 	0.0 	0.0 	
+BUL
+	
+Arendse, K
+		$8.1m 	0.0 	0.0 	
+LEI
+	
+Keenan, H
+		$8.0m 	0.0 	0.0 	
+MUN
+	
+Kilgallen, D
+		$7.0m 	0.0 	0.0 	
+CAR
+	
+Cabango, T
+		$6.0m 	0.0 	0.0 	
+STO
+	
+Hartzenberg, S
+		$5.5m 	0.0 	0.0 	
+BUL
+	
+Petersen, S
+		$5.5m 	0.0 	0.0 	
+SCA
+	
+Lewis, T
+		$5.0m 	0.0 	0.0 	
+OSP
+	
+Conbeer, R
+		$4.5m 	0.0 	0.0 	
+ULS
+	
+McIlroy, E
+		$4.5m 	0.0 	0.0 	
+ZEB
+	
+Trulla, J
+		$4.5m 	0.0 	0.0 	
+CAR
+	
+Young, M
+		$4.0m 	0.0 	0.0 	
+CAR
+	
+Stephens, I
+		$4.0m 	0.0 	0.0 	
+CON
+	
+Gilbert, S
+		$4.0m 	0.0 	0.0 	
+STO
+	
+Makata, S
+		$4.0m 	0.0 	0.0 	
+DRA
+	
+Rees-Weldon, H
+		$4.0m 	0.0 	0.0 	
+DRA
+	
+Rosser,
+		$4.0m 	0.0 	0.0 	
+EDI
+	
+Satala, M
+		$4.0m 	0.0 	0.0 	
+LIO
+	
+Damon, M
+		$4.0m 	0.0 	0.0 	
+LIO
+	
+Finca, L
+		$4.0m 	0.0 	0.0 	
+LIO
+	
+Maxwane, R
+		$4.0m 	0.0 	0.0 	
+LIO
+	
+Smith, K
+		$4.0m 	0.0 	0.0 	
+GLA
+	
+Watson, F
+		$4.0m 	0.0 	0.0 	
+SHA
+	
+Potgieter, M
+		$4.0m 	0.0 	0.0 	
+SHA
+	
+Williams, Ja
+		$4.0m 	0.0 	0.0 	
+LEI
+	
+Farrell, P
+		$4.0m 	0.0 	0.0 	
+LEI
+	
+Mangan, C
+		$4.0m 	0.0 	0.0 	
+LEI
+	
+McErlean, H
+		$4.0m 	0.0 	0.0 	
+LEI
+	
+McLaughlin, H
+		$4.0m 	0.0 	0.0 	
+LEI
+	
+Moloney, R
+		$4.0m 	0.0 	0.0 	
+MUN
+	
+McCarthy,
+		$4.0m 	0.0 	0.0 	
+SCA
+	
+Davies, Jac
+		$4.0m 	0.0 	0.0 	
+SCA
+	
+Jones, I
+		$4.0m 	0.0 	0.0 	
+SCA
+	
+Woolley, C
+		$4.0m 	0.0 	0.0 	
+ULS
+	
+Moxham, B
+		$4.0m 	0.0 	0.0 	
+BUL
+	
+Dyantyi, A
+		$4.0m 	0.0 	0.0 	
+BUL
+	
+Mokoena, K
+		$4.0m 	0.0 	0.0 	
+BUL
+	
+Novuka, S
+		$4.0m 	0.0 	0.0 	
+ZEB
+	
+Einstein Batista, A
+		$4.0m 	0.0 	0.0 	
+ZEB
+	
+Faissal, M
+		$4.0m 	0.0 	0.0
+
+STO
+	
+Simelane, W
+		$4.4m 	44.5 	8.8 	
+MUN
+	
+Farrell, T
+		$5.3m 	39.5 	16.1 	
+LIO
+	
+van Wyk, H
+		$5.2m 	38.5 	9.9 	
+STO
+	
+Nel, R
+		$5.3m 	37.5 	10.5 	
+OSP
+	
+Williams, K
+		$5.5m 	37.0 	5.4 	
+BEN
+	
+Menoncello, T
+		$5.9m 	36.0 	6.4 	
+CON
+	
+Forde, C
+		$4.6m 	36.0 	9.7 	
+MUN
+	
+Kelly, D
+		$3.4m 	34.5 	6.9 	
+GLA
+	
+McDowall, S
+		$5.0m 	30.0 	6.1 	
+LEI
+	
+Osborne, J
+		$6.4m 	29.5 	11.1 	
+CAR
+	
+Millard, H
+		$3.6m 	28.5 	5.1 	
+BUL
+	
+Jacobs, S
+		$4.7m 	27.5 	6.9 	
+MUN
+	
+Nankivell, A
+		$5.5m 	26.5 	4.7 	
+DRA
+	
+Inisi, F
+		$4.0m 	26.5 	8.2 	
+ULS
+	
+McCloskey, S
+		$4.6m 	25.0 	7.5 	
+BUL
+	
+Serfontein, J
+		$4.4m 	24.5 	4.5 	
+OSP
+	
+Cokanasiga, P
+		$3.0m 	24.0 	6.3 	
+GLA
+	
+Tuipulotu, S
+		$6.6m 	22.0 	7.2 	
+EDI
+	
+Lang, J
+		$4.5m 	21.0 	7.5 	
+EDI
+	
+O'Conor, P
+		$3.1m 	20.0 	8.3 	
+ZEB
+	
+Mazza, D
+		$3.5m 	19.5 	3.3 	
+LEI
+	
+Henshaw, R
+		$5.1m 	19.0 	4.9 	
+ZEB
+	
+Bertaccini, G
+		$3.0m 	19.0 	3.0 	
+SHA
+	
+Am, L
+		$4.6m 	18.0 	1.2 	
+ULS
+	
+Hume, J
+		$3.5m 	18.0 	5.6 	
+SHA
+	
+Julius, J
+		$3.3m 	17.0 	5.8 	
+OSP
+	
+Florence, T
+		$3.0m 	16.0 	5.5 	
+LEI
+	
+Cooney, H
+		$3.0m 	15.5 	3.1 	
+CON
+	
+Ralston, B
+		$4.5m 	15.0 	5.5 	
+SCA
+	
+Roberts, J
+		$3.5m 	15.0 	5.2 	
+SHA
+	
+Esterhuizen, A
+		$5.3m 	14.0 	6.3 	
+DRA
+	
+Ackerman, H
+		$3.0m 	14.0 	4.9 	
+DRA
+	
+Owen, A
+		$3.5m 	13.5 	4.1 	
+STO
+	
+du Plessis, D
+		$4.5m 	13.0 	1.4 	
+MUN
+	
+O'Brien, S
+		$5.0m 	12.5 	3.3 	
+SCA
+	
+Williams, J
+		$3.5m 	11.0 	3.9 	
+BUL
+	
+Vorster, H
+		$4.5m 	10.5 	2.9 	
+DRA
+	
+Paea, F
+		$3.0m 	9.5 	1.9 	
+ULS
+	
+Postlethwaite, J
+		$3.0m 	9.5 	3.6 	
+CAR
+	
+Thomas, B
+		$5.0m 	9.0 	4.3 	
+BEN
+	
+Fekitoa, M
+		$4.1m 	9.0 	2.3 	
+ZEB
+	
+Zanon, M
+		$4.5m 	8.5 	2.6 	
+SCA
+	
+Hawkins, J
+		$3.5m 	8.0 	2.0 	
+BEN
+	
+Drago, F
+		$3.0m 	8.0 	3.2 	
+CAR
+	
+Emanuel, S
+		$3.0m 	8.0 	2.7 	
+SHA
+	
+Venter, F
+		$3.0m 	7.5 	1.3 	
+CON
+	
+Aki, B
+		$5.9m 	7.0 	3.2 	
+STO
+	
+Swart, C
+		$3.0m 	6.0 	0.7 	
+GLA
+	
+Yule, K
+		$3.0m 	5.5 	0.0 	
+CON
+	
+Treacy, F
+		$3.0m 	5.0 	1.8 	
+ULS
+	
+Carson,
+		$3.0m 	4.0 	0.8 	
+LEI
+	
+Ringrose, G
+		$5.2m 	3.5 	1.6 	
+CAR
+	
+Jennings, R
+		$4.0m 	3.5 	0.7 	
+DRA
+	
+Westwood, J
+		$3.0m 	3.0 	0.0 	
+CAR
+	
+Lewis, O
+		$3.0m 	3.0 	1.1 	
+CON
+	
+Gavin,
+		$3.0m 	3.0 	1.1 	
+LIO
+	
+Mpeku, K
+		$3.0m 	3.0 	1.4 	
+CON
+	
+Hawkshaw, D
+		$4.5m 	2.5 	0.9 	
+ZEB
+	
+Lucchin, E
+		$4.0m 	2.5 	0.9 	
+LIO
+	
+Jonker, R
+		$3.0m 	2.5 	0.4 	
+ZEB
+	
+Morisi, L
+		$3.0m 	2.0 	0.7 	
+SCA
+	
+Page, M
+		$3.0m 	1.0 	0.3 	
+LIO
+	
+Rass, M
+		$3.0m 	1.0 	0.4 	
+GLA
+	
+Jones, H
+		$6.1m 	0.0 	0.0 	
+CAR
+	
+Grady, M
+		$5.0m 	0.0 	0.0 	
+BEN
+	
+Flook, J
+		$4.5m 	0.0 	0.0 	
+EDI
+	
+Currie, M
+		$4.5m 	0.0 	0.0 	
+LIO
+	
+Cronje, E
+		$4.5m 	0.0 	0.0 	
+OSP
+	
+Watkin, O
+		$4.5m 	0.0 	0.0 	
+BUL
+	
+Smit, Ch
+		$4.5m 	0.0 	0.0 	
+CON
+	
+Jennings, S
+		$4.0m 	0.0 	0.0 	
+STO
+	
+Roche, J
+		$4.0m 	0.0 	0.0 	
+OSP
+	
+Boshoff, E
+		$3.5m 	0.0 	0.0 	
+ULS
+	
+Moore, S
+		$3.5m 	0.0 	0.0 	
+EDI
+	
+Tuipulotu, M
+		$3.1m 	0.0 	0.0 	
+BEN
+	
+Zanandrea, F
+		$3.0m 	0.0 	0.0 	
+CON
+	
+Devine,
+		$3.0m 	0.0 	0.0 	
+EDI
+	
+McCraig, C
+		$3.0m 	0.0 	0.0 	
+EDI
+	
+Thompson, F
+		$3.0m 	0.0 	0.0 	
+LIO
+	
+Ivanisevic, B
+		$3.0m 	0.0 	0.0 	
+LIO
+	
+Mills, B
+		$3.0m 	0.0 	0.0 	
+GLA
+	
+Munn, D
+		$3.0m 	0.0 	0.0 	
+SHA
+	
+Appollis, D
+		$3.0m 	0.0 	0.0 	
+SHA
+	
+Bester, L
+		$3.0m 	0.0 	0.0 	
+LEI
+	
+Deegan, J
+		$3.0m 	0.0 	0.0 	
+LEI
+	
+Fahy, C
+		$3.0m 	0.0 	0.0 	
+MUN
+	
+Gibbons, F
+		$3.0m 	0.0 	0.0 	
+MUN
+	
+O'Leary-Kareem, G
+		$3.0m 	0.0 	0.0 	
+MUN
+	
+Smyth, E
+		$3.0m 	0.0 	0.0 	
+MUN
+	
+Wood, G
+		$3.0m 	0.0 	0.0 	
+SCA
+	
+James, E
+		$3.0m 	0.0 	0.0 	
+SCA
+	
+McDonald, G
+		$3.0m 	0.0 	0.0 	
+SCA
+	
+Price, E
+		$3.0m 	0.0 	0.0 	
+BUL
+	
+Smit, C
+		$3.0m 	0.0 	0.0
+
+STO
+	
+Matthee, J
+		$4.0m 	61.0 	7.4 	
+GLA
+	
+Hastings, A
+		$5.3m 	60.0 	19.7 	
+MUN
+	
+Crowley, J
+		$8.2m 	59.0 	14.5 	
+STO
+	
+Feinberg-Mngomezulu, S
+		$7.6m 	57.5 	24.0 	
+CAR
+	
+Sheedy, C
+		$6.0m 	52.5 	11.5 	
+OSP
+	
+Edwards, D
+		$6.1m 	49.0 	13.7 	
+OSP
+	
+Walsh, J
+		$6.1m 	48.5 	12.0 	
+BEN
+	
+Umaga, J
+		$5.9m 	42.5 	7.9 	
+DRA
+	
+de Beer, T
+		$6.6m 	39.5 	8.4 	
+LEI
+	
+Prendergast, S
+		$5.9m 	38.0 	10.6 	
+ZEB
+	
+Da Re, G
+		$4.1m 	36.5 	7.2 	
+CON
+	
+Ioane, J
+		$5.4m 	27.0 	8.7 	
+SCA
+	
+Costelow, S
+		$6.9m 	26.0 	8.6 	
+LIO
+	
+Smith, C
+		$5.7m 	25.5 	9.2 	
+ZEB
+	
+Montemauri,
+		$5.0m 	21.0 	6.9 	
+EDI
+	
+Healy, B
+		$5.0m 	20.5 	5.4 	
+MUN
+	
+Hanrahan, J
+		$6.0m 	19.0 	3.1 	
+GLA
+	
+Lancaster, D
+		$3.9m 	19.0 	5.0 	
+LEI
+	
+Byrne, H
+		$5.5m 	18.0 	6.0 	
+LIO
+	
+Dobela, L
+		$4.1m 	17.5 	0.6 	
+ZEB
+	
+Roger Farias, M
+		$4.0m 	17.0 	2.7 	
+SHA
+	
+Smith, J
+		$4.0m 	16.5 	3.7 	
+LEI
+	
+Frawley, C
+		$5.0m 	15.5 	3.1 	
+CAR
+	
+Lloyd, I
+		$6.0m 	13.5 	3.5 	
+ULS
+	
+Murphy, J
+		$4.0m 	13.0 	4.3 	
+ULS
+	
+Flannery, J
+		$5.0m 	11.0 	3.4 	
+CON
+	
+Carty, J
+		$5.1m 	9.0 	2.3 	
+LIO
+	
+Lombard, G
+		$4.0m 	9.0 	4.1 	
+EDI
+	
+Scott, C
+		$4.0m 	8.0 	3.6 	
+EDI
+	
+Thompson, R
+		$4.5m 	7.5 	3.4 	
+MUN
+	
+Butler, T
+		$4.5m 	5.5 	1.6 	
+BUL
+	
+Pollard, H
+		$8.2m 	4.5 	1.6 	
+DRA
+	
+Evans, C
+		$5.5m 	4.0 	1.8 	
+SHA
+	
+Masuku, S
+		$5.5m 	3.5 	1.4 	
+SHA
+	
+Hendrikse, J
+		$6.5m 	3.0 	1.4 	
+DRA
+	
+Lloyd, J
+		$4.0m 	2.0 	0.7 	
+BEN
+	
+Marin, L
+		$4.5m 	1.0 	0.5 	
+BEN
+	
+Avaca, G
+		$4.0m 	0.5 	-0.3 	
+BUL
+	
+Goosen, J
+		$7.5m 	0.0 	0.0 	
+BEN
+	
+Albornoz, T
+		$6.0m 	0.0 	0.0 	
+BUL
+	
+van der Walt, J
+		$6.0m 	0.0 	0.0 	
+STO
+	
+du Plessis, JL
+		$4.5m 	0.0 	0.0 	
+GLA
+	
+Weir, D
+		$4.5m 	0.0 	0.0 	
+MUN
+	
+Wood, T
+		$4.1m 	0.0 	0.0 	
+LIO
+	
+Wolhuter, K
+		$4.0m 	0.0 	0.0 	
+CAR
+	
+Wilde, H
+		$4.0m 	0.0 	0.0 	
+CON
+	
+West,
+		$4.0m 	0.0 	0.0 	
+STO
+	
+Smith, K
+		$4.0m 	0.0 	0.0 	
+DRA
+	
+Ford, H
+		$4.0m 	0.0 	0.0 	
+LIO
+	
+Francis, Sam
+		$4.0m 	0.0 	0.0 	
+GLA
+	
+Savala, C
+		$4.0m 	0.0 	0.0 	
+LEI
+	
+Gabriel, C
+		$4.0m 	0.0 	0.0 	
+LEI
+	
+Tector, C
+		$4.0m 	0.0 	0.0 	
+MUN
+	
+Hicks, D
+		$4.0m 	0.0 	0.0 	
+OSP
+	
+Scully, L
+		$4.0m 	0.0 	0.0 	
+ULS
+	
+Humphreys,
+		$4.0m 	0.0 	0.0
+
+ULS
+	
+Doak, N
+		$4.2m 	71.5 	24.7 	
+BUL
+	
+Johannes, K
+		$4.4m 	55.0 	12.6 	
+GLA
+	
+Dobie, J
+		$4.6m 	53.0 	15.7 	
+GLA
+	
+Horne, G
+		$5.0m 	42.0 	8.5 	
+MUN
+	
+Coughlan, E
+		$3.0m 	27.0 	10.8 	
+BUL
+	
+de Wet, P
+		$2.1m 	26.5 	9.6 	
+OSP
+	
+Hardy, K
+		$3.1m 	25.5 	6.0 	
+CON
+	
+Blade, C
+		$3.5m 	24.5 	7.9 	
+STO
+	
+Ungerer, S
+		$2.6m 	24.5 	5.1 	
+EDI
+	
+Vellacott, B
+		$3.6m 	24.0 	7.6 	
+CAR
+	
+Mulder,
+		$2.0m 	24.0 	5.3 	
+LIO
+	
+Steyn, N
+		$2.2m 	22.5 	6.5 	
+OSP
+	
+Morgan-Williams, R
+		$3.0m 	22.0 	7.5 	
+ZEB
+	
+Fusco, A
+		$2.2m 	21.0 	1.3 	
+SHA
+	
+Hendrikse, J
+		$3.2m 	17.5 	1.9 	
+BEN
+	
+Werchon, L
+		$2.0m 	17.0 	4.4 	
+BUL
+	
+Papier, E
+		$3.5m 	15.5 	2.4 	
+MUN
+	
+Casey, C
+		$3.3m 	15.0 	0.0 	
+MUN
+	
+Patterson, P
+		$2.1m 	15.0 	4.3 	
+DRA
+	
+Williams, R
+		$3.5m 	12.5 	2.2 	
+LEI
+	
+Gunne, F
+		$2.5m 	12.0 	3.5 	
+EDI
+	
+Shiel, C
+		$3.0m 	11.5 	4.8 	
+STO
+	
+Khan, I
+		$2.0m 	11.5 	4.3 	
+BEN
+	
+Garbisi, A
+		$2.6m 	11.0 	-0.5 	
+STO
+	
+Duvenage, D
+		$2.6m 	10.5 	1.2 	
+LEI
+	
+McGrath, L
+		$3.4m 	9.5 	2.2 	
+ZEB
+	
+Dominguez, T
+		$2.5m 	9.5 	2.0 	
+CAR
+	
+Davies, A
+		$2.0m 	9.5 	2.5 	
+ULS
+	
+McKee,
+		$2.0m 	9.0 	3.0 	
+GLA
+	
+Afshar, B
+		$3.0m 	8.0 	3.2 	
+CON
+	
+Murphy, B
+		$3.0m 	6.0 	1.7 	
+BUL
+	
+Burger, Z
+		$3.0m 	6.0 	1.7 	
+SCA
+	
+Davies, G
+		$4.5m 	5.5 	1.2 	
+SHA
+	
+Williams, G
+		$3.8m 	5.5 	2.5 	
+DRA
+	
+Armstrong, N
+		$2.0m 	5.5 	2.0 	
+LEI
+	
+Gibson-Park, J
+		$5.3m 	3.5 	1.6 	
+CON
+	
+Devine, M
+		$3.0m 	3.5 	1.4 	
+LIO
+	
+Horn, L
+		$2.0m 	3.0 	1.4 	
+BEN
+	
+Uren, A
+		$3.5m 	2.5 	0.9 	
+SCA
+	
+Blacker, D
+		$2.5m 	2.5 	0.9 	
+SHA
+	
+Braude, R
+		$2.1m 	2.5 	0.0 	
+LIO
+	
+van den Berg, M
+		$4.1m 	2.0 	0.7 	
+OSP
+	
+Davies, L
+		$2.0m 	2.0 	0.5 	
+SCA
+	
+Hughes, A
+		$2.0m 	2.0 	0.9 	
+LIO
+	
+Pead, H
+		$2.0m 	1.0 	0.2 	
+ZEB
+	
+Prinsloo, M
+		$2.0m 	1.0 	0.5 	
+ZEB
+	
+Varotto, N
+		$2.0m 	1.0 	0.4 	
+DRA
+	
+Hope, C
+		$2.0m 	0.5 	0.0 	
+STO
+	
+Reinach, C
+		$4.1m 	0.0 	0.0 	
+LEI
+	
+Foley, C
+		$3.0m 	0.0 	0.0 	
+CAR
+	
+Bevan, E
+		$2.5m 	0.0 	0.0 	
+CON
+	
+Reilly, C
+		$2.5m 	0.0 	0.0 	
+OSP
+	
+Williams, H
+		$2.0m 	0.0 	0.0 	
+CAR
+	
+Davies, I
+		$2.0m 	0.0 	0.0 	
+STO
+	
+Moos, A
+		$2.0m 	0.0 	0.0 	
+DRA
+	
+Franklin, L
+		$2.0m 	0.0 	0.0 	
+DRA
+	
+Lloyd, M
+		$2.0m 	0.0 	0.0 	
+EDI
+	
+McAlpine, C
+		$2.0m 	0.0 	0.0 	
+SHA
+	
+Davids, B
+		$2.0m 	0.0 	0.0 	
+SHA
+	
+Fourie, Ti
+		$2.0m 	0.0 	0.0 	
+LEI
+	
+Coffey, O
+		$2.0m 	0.0 	0.0 	
+MUN
+	
+O'Riordan, J
+		$2.0m 	0.0 	0.0 	
+OSP
+	
+Kruger, Rew
+		$2.0m 	0.0 	0.0 	
+OSP
+	
+Whitlock, S
+		$2.0m 	0.0 	0.0 	
+SCA
+	
+Lewis,
+		$2.0m 	0.0 	0.0 	
+ULS
+	
+Shanahan, D
+		$2.0m 	0.0 	0.0 	
+ZEB
+	
+Garcia, G
+		$2.0m 	0.0 	0.0 	
+ZEB
+	
+Garcia, G
+		$2.0m 	0.0 	0.0
+
+STO
+	
+Roos, E
+		$7.8m 	76.5 	15.6 	
+STO
+	
+de Villiers, P
+		$3.4m 	58.5 	15.9 	
+LIO
+	
+Venter, R
+		$4.6m 	54.5 	14.4 	
+OSP
+	
+Morse, M
+		$4.3m 	53.0 	13.1 	
+SHA
+	
+Tshituka, V
+		$4.2m 	46.5 	9.8 	
+CAR
+	
+Lawrence, A
+		$3.5m 	45.0 	10.1 	
+GLA
+	
+Ferrie, E
+		$3.0m 	45.0 	12.2 	
+GLA
+	
+Fagerson, M
+		$5.3m 	44.5 	10.5 	
+EDI
+	
+Bradbury, M
+		$3.9m 	43.5 	16.8 	
+ZEB
+	
+Stavile Bravin,
+		$3.2m 	43.5 	3.7 	
+BUL
+	
+Janse van Rensburg, Nic
+		$4.3m 	43.0 	7.9 	
+LEI
+	
+Deegan, M
+		$6.0m 	41.0 	14.4 	
+ULS
+	
+Ward, Z
+		$3.3m 	41.0 	9.8 	
+DRA
+	
+Wainwright, A
+		$4.3m 	40.5 	8.0 	
+SHA
+	
+Buthelezi, P
+		$5.7m 	39.5 	9.1 	
+BUL
+	
+Coetzee, M
+		$5.5m 	39.5 	2.5 	
+BUL
+	
+Xaba, N
+		$4.0m 	39.0 	10.2 	
+LIO
+	
+Pretorius, JC
+		$5.8m 	38.5 	15.4 	
+BUL
+	
+Theron, JJ
+		$4.5m 	38.5 	7.4 	
+CAR
+	
+Mann, A
+		$3.0m 	38.5 	9.6 	
+MUN
+	
+Gleeson,
+		$3.0m 	38.5 	9.1 	
+ULS
+	
+Timoney, N
+		$6.0m 	38.0 	11.8 	
+STO
+	
+Dixon, B
+		$3.1m 	37.5 	8.5 	
+CON
+	
+Jansen, S
+		$3.1m 	37.5 	11.3 	
+BUL
+	
+Gumede, C
+		$3.1m 	37.5 	6.8 	
+LEI
+	
+Soroka, A
+		$3.1m 	37.0 	11.8 	
+CAR
+	
+Thomas, D
+		$3.0m 	37.0 	11.3 	
+GLA
+	
+Duncan, M
+		$3.1m 	36.5 	11.4 	
+OSP
+	
+Deaves, H
+		$4.0m 	35.5 	8.1 	
+MUN
+	
+O'Donoghue, J
+		$3.5m 	35.0 	9.0 	
+ULS
+	
+Augustus, J
+		$4.5m 	34.5 	11.6 	
+OSP
+	
+Moriarty, R
+		$4.6m 	34.0 	10.5 	
+STO
+	
+Theunissen, M
+		$3.6m 	32.5 	7.3 	
+SHA
+	
+Tshituka, E
+		$6.1m 	32.0 	7.0 	
+ULS
+	
+McCann, D
+		$5.5m 	30.5 	9.0 	
+EDI
+	
+McConnell, L
+		$3.0m 	30.5 	11.0 	
+LIO
+	
+Horn, F
+		$7.2m 	30.0 	11.1 	
+BEN
+	
+Izekor, A
+		$5.0m 	29.5 	10.2 	
+LEI
+	
+van der Flier, J
+		$7.5m 	29.0 	11.3 	
+BUL
+	
+Rudolph, J
+		$4.0m 	29.0 	11.8 	
+LIO
+	
+Cairns, J
+		$3.0m 	28.5 	6.7 	
+ZEB
+	
+Ruggeri, D
+		$3.0m 	27.5 	4.6 	
+ZEB
+	
+Volpi, G
+		$2.5m 	27.5 	5.4 	
+ZEB
+	
+Locatelli, S
+		$3.0m 	27.0 	5.2 	
+SCA
+	
+Plumtree, T
+		$3.4m 	26.5 	6.8 	
+CAR
+	
+Basham, T
+		$3.0m 	26.5 	6.7 	
+MUN
+	
+Coombes, G
+		$6.3m 	26.0 	6.4 	
+LEI
+	
+Penny, S
+		$4.9m 	24.0 	8.1 	
+BUL
+	
+Else, J
+		$3.0m 	24.0 	2.3 	
+BEN
+	
+Cannone, L
+		$4.5m 	23.0 	5.9 	
+MUN
+	
+Quinn, R
+		$3.0m 	22.0 	5.7 	
+LIO
+	
+Delport, R
+		$3.0m 	21.5 	3.0 	
+CON
+	
+Prendergast, C
+		$4.6m 	21.0 	6.8 	
+CON
+	
+Hurley-Langton, S
+		$3.0m 	20.5 	4.9 	
+SCA
+	
+Taylor,
+		$3.0m 	20.5 	7.1 	
+STO
+	
+Ackermann, R
+		$5.5m 	20.0 	4.5 	
+CON
+	
+Boyle, P
+		$3.0m 	19.0 	3.8 	
+SHA
+	
+Hatton, N
+		$3.0m 	18.5 	3.8 	
+SHA
+	
+Hlekani, B
+		$3.0m 	18.5 	4.6 	
+GLA
+	
+Darge, R
+		$4.7m 	18.0 	0.0 	
+BEN
+	
+Fa'aso'o, S
+		$3.0m 	18.0 	3.0 	
+CAR
+	
+Donnell, B
+		$3.0m 	17.5 	4.5 	
+LIO
+	
+du Plessis, R
+		$3.1m 	17.0 	2.0 	
+DRA
+	
+Beddall, H
+		$3.0m 	17.0 	7.1 	
+DRA
+	
+Woodman, R
+		$3.0m 	17.0 	5.6 	
+SCA
+	
+Davis, D
+		$3.0m 	17.0 	5.6 	
+BEN
+	
+Lamaro, M
+		$3.5m 	16.5 	4.7 	
+SHA
+	
+Kolisi, S
+		$6.2m 	16.0 	7.2 	
+LEI
+	
+Culhane, J
+		$5.0m 	16.0 	3.1 	
+LIO
+	
+Steenkamp, W
+		$2.1m 	15.0 	0.7 	
+CAR
+	
+Faletau, T
+		$3.1m 	14.5 	6.5 	
+BEN
+	
+Bryant, J
+		$3.0m 	14.0 	5.4 	
+LEI
+	
+Mangan, D
+		$3.0m 	13.5 	3.2 	
+SCA
+	
+Davies, T
+		$3.0m 	13.0 	3.4 	
+ULS
+	
+Reffell, S
+		$3.0m 	11.0 	4.2 	
+CON
+	
+O'Brien, Sean
+		$3.0m 	10.5 	4.2 	
+DRA
+	
+Martin, M
+		$3.0m 	10.5 	2.6 	
+EDI
+	
+Douglas, F
+		$3.0m 	10.5 	4.6 	
+MUN
+	
+Kendellen, A
+		$4.0m 	9.5 	0.0 	
+ZEB
+	
+Ferrari, G
+		$3.0m 	9.0 	1.8 	
+DRA
+	
+Keddie, H
+		$3.0m 	8.0 	0.6 	
+EDI
+	
+Muncaster, B
+		$3.0m 	8.0 	2.8 	
+SCA
+	
+Macleod, J
+		$3.0m 	7.5 	1.5 	
+BEN
+	
+Negri, S
+		$3.1m 	7.0 	0.0 	
+STO
+	
+Fourie, D
+		$5.0m 	6.0 	2.1 	
+SCA
+	
+Williams, B
+		$3.0m 	6.0 	2.2 	
+BUL
+	
+van Staden, M
+		$4.5m 	5.5 	1.9 	
+ZEB
+	
+Licata, G
+		$3.0m 	5.5 	2.3 	
+SHA
+	
+Mavesere, T
+		$3.0m 	5.0 	1.8 	
+EDI
+	
+Crosbie, L
+		$4.0m 	4.0 	0.8 	
+ZEB
+	
+Odiase, D
+		$3.0m 	4.0 	1.8 	
+OSP
+	
+Evans, Gw
+		$3.0m 	3.0 	1.4 	
+EDI
+	
+Watson, H
+		$4.0m 	2.0 	0.4 	
+ZEB
+	
+Bianchi, J
+		$3.0m 	2.0 	0.7 	
+LEI
+	
+Connors, W
+		$3.5m 	1.5 	0.0 	
+OSP
+	
+Morgan, J
+		$7.1m 	0.0 	0.0 	
+LEI
+	
+Conan, J
+		$7.1m 	0.0 	0.0 	
+BUL
+	
+Hanekom, C
+		$7.1m 	0.0 	0.0 	
+BUL
+	
+Louw, E
+		$7.0m 	0.0 	0.0 	
+LEI
+	
+Doris, C
+		$6.5m 	0.0 	0.0 	
+GLA
+	
+Vailanu, S
+		$6.5m 	0.0 	0.0 	
+GLA
+	
+Dempsey, J
+		$6.2m 	0.0 	0.0 	
+DRA
+	
+Young, T
+		$4.5m 	0.0 	0.0 	
+MUN
+	
+Hodnett, J
+		$4.5m 	0.0 	0.0 	
+OSP
+	
+Morris, M
+		$4.5m 	0.0 	0.0 	
+CAR
+	
+Botham, J
+		$4.0m 	0.0 	0.0 	
+BUL
+	
+Brink, C
+		$4.0m 	0.0 	0.0 	
+BUL
+	
+Carr, N
+		$4.0m 	0.0 	0.0 	
+BUL
+	
+Kirsten, J
+		$4.0m 	0.0 	0.0 	
+EDI
+	
+Boyle, C
+		$3.5m 	0.0 	0.0 	
+EDI
+	
+Currie, T
+		$3.0m 	0.0 	0.0 	
+BEN
+	
+Kingi, J
+		$3.0m 	0.0 	0.0 	
+BEN
+	
+Zuliani, M
+		$3.0m 	0.0 	0.0 	
+CAR
+	
+de la Rua,
+		$3.0m 	0.0 	0.0 	
+CON
+	
+McCormack, O
+		$3.0m 	0.0 	0.0 	
+STO
+	
+Fuller, D
+		$3.0m 	0.0 	0.0 	
+STO
+	
+Morabe, K
+		$3.0m 	0.0 	0.0 	
+STO
+	
+Nel, L
+		$3.0m 	0.0 	0.0 	
+DRA
+	
+Conquer, O
+		$3.0m 	0.0 	0.0 	
+DRA
+	
+Funaki, S
+		$3.0m 	0.0 	0.0 	
+DRA
+	
+Minto, E
+		$3.0m 	0.0 	0.0 	
+EDI
+	
+Dodd,
+		$3.0m 	0.0 	0.0 	
+EDI
+	
+Morris, H
+		$3.0m 	0.0 	0.0 	
+LIO
+	
+Esterhuizen, I
+		$3.0m 	0.0 	0.0 	
+LIO
+	
+Qoma, S
+		$3.0m 	0.0 	0.0 	
+LIO
+	
+Wessels, T
+		$3.0m 	0.0 	0.0 	
+GLA
+	
+Miller, A
+		$3.0m 	0.0 	0.0 	
+SHA
+	
+Barnard, M
+		$3.0m 	0.0 	0.0 	
+SHA
+	
+Potgieter, J
+		$3.0m 	0.0 	0.0 	
+LEI
+	
+Molony, L
+		$3.0m 	0.0 	0.0 	
+MUN
+	
+Edogbo, S
+		$3.0m 	0.0 	0.0 	
+MUN
+	
+Foy, M
+		$3.0m 	0.0 	0.0 	
+MUN
+	
+Minogue, O
+		$3.0m 	0.0 	0.0 	
+MUN
+	
+Murphy, L
+		$3.0m 	0.0 	0.0 	
+OSP
+	
+Griffiths, W
+		$3.0m 	0.0 	0.0 	
+OSP
+	
+Hickey, W
+		$3.0m 	0.0 	0.0 	
+SCA
+	
+Evans, K
+		$3.0m 	0.0 	0.0 	
+SCA
+	
+Sparrow, T
+		$3.0m 	0.0 	0.0 	
+SCA
+	
+Williams, Os
+		$3.0m 	0.0 	0.0 	
+ULS
+	
+McLoughlin,
+		$3.0m 	0.0 	0.0 	
+ULS
+	
+McNabney,
+		$3.0m 	0.0 	0.0 	
+ULS
+	
+Rea, M
+		$3.0m 	0.0 	0.0 	
+BUL
+	
+Maqondwana, P
+		$3.0m 	0.0 	0.0 	
+BUL
+	
+Mosi, M
+		$3.0m 	0.0 	0.0 	
+ZEB
+	
+Milano, G
+		$3.0m 	0.0 	0.0
+
+GLA
+	
+Brown, G
+		$3.2m 	50.0 	11.5 	
+STO
+	
+van Heerden, R
+		$4.8m 	42.5 	11.3 	
+SHA
+	
+Orie, M
+		$3.4m 	41.5 	10.7 	
+MUN
+	
+Wycherley, F
+		$2.4m 	41.0 	11.9 	
+OSP
+	
+Ratti, J
+		$2.7m 	39.0 	12.7 	
+ULS
+	
+Izuchukwu, C
+		$3.7m 	38.5 	10.6 	
+STO
+	
+Schickerling, JD
+		$3.3m 	38.0 	8.4 	
+STO
+	
+Smith, A
+		$3.4m 	35.5 	7.1 	
+DRA
+	
+Lewis-Hughes, S
+		$3.1m 	32.5 	6.9 	
+GLA
+	
+Samuel, A
+		$2.0m 	31.5 	8.3 	
+DRA
+	
+Carter, B
+		$2.1m 	29.0 	8.4 	
+GLA
+	
+Williamson, M
+		$3.5m 	28.5 	7.3 	
+OSP
+	
+Davies, R
+		$2.0m 	27.5 	8.3 	
+MUN
+	
+Kleyn, J
+		$3.4m 	27.0 	6.9 	
+BUL
+	
+Wiese, C
+		$4.7m 	26.5 	6.6 	
+BEN
+	
+Snyman, E
+		$2.6m 	26.5 	6.5 	
+OSP
+	
+Sutton, H
+		$2.0m 	26.0 	7.5 	
+ULS
+	
+Henderson, I
+		$2.7m 	23.5 	7.2 	
+EDI
+	
+Skinner, S
+		$3.5m 	23.0 	9.3 	
+ZEB
+	
+Ortombina, A
+		$2.1m 	23.0 	3.1 	
+ZEB
+	
+Krumov, L
+		$2.0m 	23.0 	3.5 	
+LEI
+	
+Baird, R
+		$4.2m 	21.5 	5.2 	
+ULS
+	
+Sheridan, H
+		$4.1m 	21.5 	7.1 	
+BEN
+	
+Favretto, R
+		$2.0m 	21.5 	4.9 	
+GLA
+	
+Cummings, S
+		$4.1m 	20.5 	3.7 	
+LIO
+	
+Oosthuizen, E
+		$2.0m 	20.5 	7.8 	
+CAR
+	
+Williams, T
+		$3.4m 	20.0 	3.9 	
+LEI
+	
+Deeny, B
+		$2.0m 	20.0 	4.8 	
+CAR
+	
+McNally, J
+		$2.5m 	19.5 	5.6 	
+DRA
+	
+Screech, M
+		$2.0m 	19.5 	4.5 	
+CON
+	
+Joyce, J
+		$3.1m 	18.5 	5.5 	
+BUL
+	
+van Heerden, JF
+		$2.9m 	18.5 	1.8 	
+GLA
+	
+Oguntibeju, O
+		$2.0m 	18.5 	2.1 	
+GLA
+	
+Craig, A
+		$4.0m 	18.0 	7.2 	
+CON
+	
+O'Connor, D
+		$2.0m 	18.0 	5.7 	
+BUL
+	
+Ludwig, R
+		$4.0m 	17.5 	7.5 	
+LIO
+	
+Landsberg, D
+		$2.5m 	17.5 	5.1 	
+STO
+	
+Evans, C
+		$2.1m 	17.0 	4.5 	
+MUN
+	
+Ahern, T
+		$3.8m 	16.5 	1.1 	
+CAR
+	
+Nott, G
+		$2.0m 	16.5 	6.5 	
+EDI
+	
+Gilchrist, G
+		$3.4m 	16.0 	6.2 	
+EDI
+	
+Young, G
+		$3.0m 	15.5 	6.9 	
+SHA
+	
+Slabbert, D
+		$2.0m 	15.0 	1.5 	
+ZEB
+	
+Canali, M
+		$2.0m 	15.0 	1.4 	
+OSP
+	
+Fender, J
+		$2.0m 	15.0 	6.2 	
+BEN
+	
+Cannone, N
+		$3.0m 	14.5 	3.1 	
+DRA
+	
+Davies, S
+		$2.5m 	14.0 	5.7 	
+MUN
+	
+Edogbo, E
+		$4.5m 	13.0 	5.4 	
+SCA
+	
+Douglas, Ma
+		$2.0m 	12.5 	3.3 	
+MUN
+	
+Beirne, T
+		$5.2m 	12.0 	5.4 	
+ZEB
+	
+Carrera, F
+		$2.0m 	12.0 	4.8 	
+CON
+	
+Murray, D
+		$2.0m 	11.5 	4.5 	
+EDI
+	
+Sykes, M
+		$2.0m 	11.0 	3.6 	
+SHA
+	
+Etzebeth, E
+		$5.4m 	10.0 	4.5 	
+LIO
+	
+Nothnagel, R
+		$2.0m 	10.0 	4.5 	
+LEI
+	
+Snyman, RG
+		$5.5m 	9.5 	4.3 	
+CON
+	
+Murray, N
+		$3.5m 	9.5 	1.9 	
+CON
+	
+Murphy, J
+		$2.2m 	9.5 	1.4 	
+DRA
+	
+Douglas, L
+		$2.5m 	8.5 	1.7 	
+LEI
+	
+Ryan, J
+		$4.6m 	7.0 	3.2 	
+LIO
+	
+Sjoblom, D
+		$2.0m 	7.0 	0.0 	
+CAR
+	
+Thornton, R
+		$2.0m 	6.5 	2.9 	
+SCA
+	
+Cummins, S
+		$2.0m 	6.5 	2.3 	
+SCA
+	
+Ball, J
+		$2.0m 	6.0 	1.2 	
+BUL
+	
+Manjezi, S
+		$2.0m 	6.0 	1.2 	
+ULS
+	
+Dalton, M
+		$2.0m 	4.5 	0.9 	
+ULS
+	
+Hopes,
+		$2.0m 	3.0 	1.4 	
+SCA
+	
+Groves, A
+		$2.0m 	2.5 	1.1 	
+BEN
+	
+Marini, G
+		$2.0m 	2.0 	0.9 	
+SCA
+	
+Cuckson, H
+		$2.0m 	1.5 	0.7 	
+BEN
+	
+Ruzza, F
+		$2.5m 	1.0 	0.5 	
+LEI
+	
+McCarthy, J
+		$5.0m 	0.0 	0.0 	
+SHA
+	
+Jenkins, J
+		$4.0m 	0.0 	0.0 	
+BEN
+	
+Scrafton, S
+		$3.5m 	0.0 	0.0 	
+STO
+	
+Moerat, S
+		$3.0m 	0.0 	0.0 	
+SCA
+	
+Lousi, S
+		$3.0m 	0.0 	0.0 	
+SHA
+	
+van Heerden, E
+		$3.0m 	0.0 	0.0 	
+OSP
+	
+Spencer, W
+		$3.0m 	0.0 	0.0 	
+BUL
+	
+Vermaak, R
+		$3.0m 	0.0 	0.0 	
+BUL
+	
+Nortje, R
+		$2.6m 	0.0 	0.0 	
+LIO
+	
+Schoeman, R
+		$2.5m 	0.0 	0.0 	
+SHA
+	
+le Roux, C
+		$2.0m 	0.0 	0.0 	
+CAR
+	
+Cottle, T
+		$2.0m 	0.0 	0.0 	
+CON
+	
+Dowling, O
+		$2.0m 	0.0 	0.0 	
+STO
+	
+Norton, R
+		$2.0m 	0.0 	0.0 	
+STO
+	
+Porter, G
+		$2.0m 	0.0 	0.0 	
+DRA
+	
+Langton, B
+		$2.0m 	0.0 	0.0 	
+DRA
+	
+Thomas, Ni
+		$2.0m 	0.0 	0.0 	
+EDI
+	
+Carmichael, R
+		$2.0m 	0.0 	0.0 	
+EDI
+	
+Hunter-Hill, C
+		$2.0m 	0.0 	0.0 	
+LIO
+	
+Ribbens, L
+		$2.0m 	0.0 	0.0 	
+LIO
+	
+Roets, R
+		$2.0m 	0.0 	0.0 	
+LIO
+	
+Stopforth, J
+		$2.0m 	0.0 	0.0 	
+SHA
+	
+Dyer, Th
+		$2.0m 	0.0 	0.0 	
+SHA
+	
+Koegelenberg, G
+		$2.0m 	0.0 	0.0 	
+SHA
+	
+Rahl, C
+		$2.0m 	0.0 	0.0 	
+LEI
+	
+Corrigan, B
+		$2.0m 	0.0 	0.0 	
+LEI
+	
+O'Tighearnaigh, C
+		$2.0m 	0.0 	0.0 	
+LEI
+	
+Ronan, M
+		$2.0m 	0.0 	0.0 	
+LEI
+	
+Spicer, A
+		$2.0m 	0.0 	0.0 	
+MUN
+	
+Kennelly, C
+		$2.0m 	0.0 	0.0 	
+MUN
+	
+O'Connell, E
+		$2.0m 	0.0 	0.0 	
+MUN
+	
+Ryan, C
+		$2.0m 	0.0 	0.0 	
+OSP
+	
+Greatbanks, W
+		$2.0m 	0.0 	0.0 	
+OSP
+	
+Jones, L
+		$2.0m 	0.0 	0.0 	
+OSP
+	
+Sekekete, V
+		$2.0m 	0.0 	0.0 	
+OSP
+	
+Smith, Ry
+		$2.0m 	0.0 	0.0 	
+OSP
+	
+Thomas, Rh
+		$2.0m 	0.0 	0.0 	
+SCA
+	
+Alford, D
+		$2.0m 	0.0 	0.0 	
+SCA
+	
+Price, J
+		$2.0m 	0.0 	0.0 	
+ULS
+	
+Irvine, C
+		$2.0m 	0.0 	0.0 	
+BUL
+	
+Grobbelaar, Ja
+		$2.0m 	0.0 	0.0 	
+BUL
+	
+Olivier,
+		$2.0m 	0.0 	0.0 	
+ZEB
+	
+Ruffolo, F
+		$2.0m 	0.0 	0.0 	
+SCA
+	
+Gemine, D
+		$2.0m 	-0.5 	-0.2
+
+GLA
+	
+Matthews, J
+		$4.9m 	64.0 	13.7 	
+BUL
+	
+Grobbelaar, J
+		$4.4m 	60.0 	9.3 	
+STO
+	
+Venter, A
+		$2.6m 	40.5 	9.1 	
+STO
+	
+Kotze, J
+		$3.6m 	40.0 	10.8 	
+LIO
+	
+Brandon, M
+		$2.0m 	38.0 	12.4 	
+EDI
+	
+Ashman, E
+		$4.1m 	36.5 	12.9 	
+ZEB
+	
+Di Bartolomeo, T
+		$2.1m 	36.5 	5.4 	
+ULS
+	
+Stewart, T
+		$4.1m 	33.0 	10.9 	
+EDI
+	
+Richardson, D
+		$3.5m 	32.5 	13.6 	
+CAR
+	
+Belcher, L
+		$3.1m 	31.5 	8.4 	
+LIO
+	
+Marais, F
+		$2.1m 	31.0 	9.5 	
+OSP
+	
+Lake, D
+		$2.9m 	29.5 	6.8 	
+DRA
+	
+Coghlan, B
+		$2.1m 	28.0 	7.1 	
+SHA
+	
+Mbatha, F
+		$2.1m 	27.5 	7.4 	
+MUN
+	
+Barron, D
+		$2.6m 	27.0 	8.8 	
+BEN
+	
+Maile, S
+		$2.1m 	26.0 	5.7 	
+GLA
+	
+Hiddleston, G
+		$3.5m 	25.5 	5.4 	
+LEI
+	
+McCarthy, G
+		$2.0m 	24.5 	6.6 	
+CON
+	
+Heffernan, D
+		$2.6m 	21.5 	7.1 	
+EDI
+	
+Harrison, P
+		$2.5m 	21.0 	7.3 	
+MUN
+	
+Barron, L
+		$2.5m 	20.5 	5.7 	
+LEI
+	
+Kelleher, R
+		$4.8m 	19.5 	8.0 	
+GLA
+	
+Fraser, A
+		$2.5m 	19.5 	8.0 	
+ULS
+	
+Herring, R
+		$3.4m 	19.0 	5.9 	
+ZEB
+	
+Ribaldi, G
+		$2.1m 	18.5 	2.5 	
+CON
+	
+Tierney-Martin, D
+		$2.0m 	16.0 	3.8 	
+SCA
+	
+van der Merwe, Mn
+		$3.2m 	14.0 	5.6 	
+OSP
+	
+Lloyd, L
+		$2.0m 	14.0 	4.5 	
+SHA
+	
+Mbonambi, B
+		$3.1m 	12.0 	4.9 	
+CAR
+	
+Hughes, D
+		$2.0m 	12.0 	3.5 	
+SHA
+	
+Swart, E
+		$2.0m 	12.0 	1.4 	
+BEN
+	
+Bernasconi, B
+		$2.0m 	11.5 	4.4 	
+SCA
+	
+Myhill, K
+		$2.0m 	11.0 	3.2 	
+MUN
+	
+Scannell, N
+		$4.0m 	10.0 	1.1 	
+DRA
+	
+Burrows, O
+		$2.0m 	10.0 	3.1 	
+LEI
+	
+McKee, J
+		$2.0m 	9.5 	1.2 	
+OSP
+	
+Lewis, E
+		$2.0m 	9.0 	3.6 	
+SCA
+	
+Thomas, Ha
+		$2.0m 	8.5 	1.7 	
+LEI
+	
+Sheehan, D
+		$5.2m 	7.5 	3.4 	
+GLA
+	
+Stephen, S
+		$2.0m 	7.5 	3.4 	
+BEN
+	
+Gasperini,
+		$2.0m 	5.0 	1.4 	
+DRA
+	
+Benjamin, J
+		$2.0m 	4.0 	1.4 	
+ZEB
+	
+Quattrini,
+		$2.0m 	3.0 	1.4 	
+BEN
+	
+Asiata, R
+		$2.0m 	2.5 	0.0 	
+CON
+	
+de Buitlear, E
+		$2.0m 	2.5 	0.9 	
+DRA
+	
+Dee, E
+		$2.0m 	2.0 	0.0 	
+BUL
+	
+van der Merwe, A
+		$4.0m 	0.0 	0.0 	
+LIO
+	
+Botha, PJ
+		$3.0m 	0.0 	0.0 	
+SCA
+	
+Elias, R
+		$3.0m 	0.0 	0.0 	
+STO
+	
+Ntubeni, S
+		$2.5m 	0.0 	0.0 	
+OSP
+	
+Parry, S
+		$2.5m 	0.0 	0.0 	
+GLA
+	
+Tuipulotu, T
+		$2.0m 	0.0 	0.0 	
+BUL
+	
+van Zyl, J
+		$2.0m 	0.0 	0.0 	
+BEN
+	
+Manfredi, M
+		$2.0m 	0.0 	0.0 	
+CAR
+	
+Lloyd, E
+		$2.0m 	0.0 	0.0 	
+STO
+	
+Vokozela, L
+		$2.0m 	0.0 	0.0 	
+DRA
+	
+Scarfe, S
+		$2.0m 	0.0 	0.0 	
+LIO
+	
+Grobbelaar, M
+		$2.0m 	0.0 	0.0 	
+LIO
+	
+Visagie, J
+		$2.0m 	0.0 	0.0 	
+GLA
+	
+Stewart, G
+		$2.0m 	0.0 	0.0 	
+SHA
+	
+Bester, E
+		$2.0m 	0.0 	0.0 	
+SHA
+	
+Calvert, B
+		$2.0m 	0.0 	0.0 	
+SHA
+	
+Davis, A
+		$2.0m 	0.0 	0.0 	
+LEI
+	
+Fitzpatrick, L
+		$2.0m 	0.0 	0.0 	
+LEI
+	
+Smyth, S
+		$2.0m 	0.0 	0.0 	
+MUN
+	
+Clein, M
+		$2.0m 	0.0 	0.0 	
+MUN
+	
+Sheahan, D
+		$2.0m 	0.0 	0.0 	
+OSP
+	
+Austin, W
+		$2.0m 	0.0 	0.0 	
+OSP
+	
+Daniel, E
+		$2.0m 	0.0 	0.0 	
+SCA
+	
+Young, I
+		$2.0m 	0.0 	0.0 	
+ULS
+	
+Andrew, J
+		$2.0m 	0.0 	0.0 	
+ULS
+	
+McCormick,
+		$2.0m 	0.0 	0.0 	
+BUL
+	
+Lange,
+		$2.0m 	0.0 	0.0
+
+LIO
+	
+Ntlabakanye, A
+		$3.0m 	36.0 	10.9 	
+STO
+	
+Matongo, V
+		$1.1m 	36.0 	8.6 	
+BUL
+	
+Steenekamp, G
+		$2.9m 	34.0 	8.0 	
+BEN
+	
+Spagnolo, M
+		$2.6m 	33.5 	7.1 	
+CAR
+	
+Southworth, D
+		$1.1m 	32.0 	9.8 	
+LIO
+	
+Kotze, S
+		$1.0m 	29.5 	9.2 	
+BUL
+	
+Klopper, F
+		$1.0m 	27.5 	6.1 	
+STO
+	
+Porthern, Z
+		$1.0m 	27.0 	7.1 	
+BUL
+	
+Tshakweni, A
+		$1.0m 	26.5 	5.7 	
+BEN
+	
+Ferrari, S
+		$2.0m 	24.5 	6.3 	
+STO
+	
+Vermaak, A
+		$1.0m 	24.5 	8.3 	
+SHA
+	
+Matanzima, S
+		$2.1m 	24.0 	6.9 	
+BUL
+	
+Smith, M
+		$2.0m 	24.0 	2.9 	
+MUN
+	
+Milne, M
+		$2.3m 	23.5 	8.8 	
+GLA
+	
+Schickerling, P
+		$2.0m 	23.0 	8.6 	
+ZEB
+	
+Hasa, M
+		$1.2m 	23.0 	3.9 	
+LIO
+	
+Schoeman, RF
+		$1.0m 	23.0 	6.8 	
+CAR
+	
+Sebastian, J
+		$1.0m 	22.5 	5.3 	
+SHA
+	
+Dreyer, R
+		$1.1m 	22.0 	5.6 	
+LEI
+	
+Clarkson, T
+		$3.2m 	21.5 	6.6 	
+LEI
+	
+McCarthy, P
+		$1.1m 	21.0 	7.0 	
+ZEB
+	
+Neculai, I
+		$1.0m 	20.0 	3.3 	
+EDI
+	
+Schoeman, P
+		$4.6m 	19.5 	7.7 	
+MUN
+	
+Jager, O
+		$1.2m 	19.5 	3.5 	
+GLA
+	
+Richardson, F
+		$1.0m 	19.5 	3.6 	
+BUL
+	
+Louw, W
+		$3.5m 	18.5 	7.5 	
+STO
+	
+Fouche, N
+		$2.5m 	18.5 	1.7 	
+GLA
+	
+Talakai, S
+		$2.0m 	18.5 	3.7 	
+OSP
+	
+Thomas, G
+		$1.0m 	18.5 	6.5 	
+LIO
+	
+van Vuuren, C
+		$2.0m 	18.0 	7.3 	
+EDI
+	
+Hill, P
+		$1.9m 	17.5 	7.0 	
+OSP
+	
+Warren, B
+		$1.0m 	17.5 	6.8 	
+ZEB
+	
+Pitinari, J
+		$1.0m 	17.5 	2.7 	
+BUL
+	
+Wessels, J
+		$4.2m 	17.0 	7.3 	
+CAR
+	
+Barratt, R
+		$1.0m 	17.0 	3.5 	
+OSP
+	
+Phillips, G
+		$1.0m 	17.0 	6.2 	
+GLA
+	
+Sutherland, R
+		$2.1m 	16.5 	2.9 	
+MUN
+	
+Wycherley, J
+		$2.0m 	16.5 	2.3 	
+OSP
+	
+Botha, T
+		$1.0m 	16.5 	4.3 	
+CAR
+	
+Assiratti, K
+		$2.0m 	16.0 	6.0 	
+ULS
+	
+Wilson, S
+		$2.0m 	15.5 	5.2 	
+MUN
+	
+Loughman, J
+		$2.4m 	15.0 	3.1 	
+STO
+	
+Sandi, S
+		$1.0m 	15.0 	4.1 	
+DRA
+	
+Martinez Manzano,
+		$1.0m 	15.0 	4.2 	
+LEI
+	
+Furlong, T
+		$2.3m 	14.5 	5.8 	
+SCA
+	
+Hepburn, A
+		$2.0m 	14.0 	4.1 	
+DRA
+	
+Jones, W
+		$1.1m 	14.0 	3.4 	
+CON
+	
+Duggan, J
+		$1.0m 	13.0 	3.8 	
+EDI
+	
+Rae, D
+		$1.0m 	12.5 	5.5 	
+DRA
+	
+Lewis, D
+		$1.0m 	12.5 	3.8 	
+ULS
+	
+O'Toole, T
+		$1.9m 	12.0 	2.9 	
+BEN
+	
+Zilocchi, G
+		$1.0m 	12.0 	3.7 	
+GLA
+	
+Walker, M
+		$1.0m 	12.0 	5.0 	
+ULS
+	
+Crean, S
+		$1.0m 	12.0 	3.9 	
+CON
+	
+Illo, S
+		$1.0m 	11.5 	2.6 	
+ULS
+	
+Reid, C
+		$1.0m 	11.5 	3.7 	
+STO
+	
+Reid, O
+		$1.1m 	11.0 	0.0 	
+DRA
+	
+Hunt, R
+		$1.0m 	11.0 	3.3 	
+MUN
+	
+Ryan, J
+		$1.0m 	10.5 	4.4 	
+SCA
+	
+Thomas, HM
+		$2.0m 	10.0 	2.6 	
+CON
+	
+Dooley, P
+		$1.0m 	10.0 	2.8 	
+SCA
+	
+O'Connor, S
+		$1.0m 	10.0 	3.0 	
+EDI
+	
+Whitcombe, J
+		$1.0m 	9.5 	4.0 	
+LEI
+	
+Porter, A
+		$4.1m 	9.0 	4.1 	
+ZEB
+	
+Nocera, M
+		$1.1m 	9.0 	1.1 	
+MUN
+	
+Foxe, R
+		$1.0m 	9.0 	3.3 	
+ZEB
+	
+Buonfiglio, P
+		$1.0m 	9.0 	0.4 	
+SHA
+	
+Nche, O
+		$3.9m 	8.5 	3.8 	
+GLA
+	
+Bhatti, J
+		$1.8m 	8.5 	0.0 	
+SHA
+	
+Bleuler, D
+		$1.0m 	8.5 	1.2 	
+SHA
+	
+Koch, V
+		$2.6m 	8.0 	3.2 	
+CON
+	
+Aungier, J
+		$2.0m 	8.0 	3.1 	
+CAR
+	
+Domachowski, C
+		$2.0m 	8.0 	3.6 	
+STO
+	
+van Wyk, H
+		$1.0m 	8.0 	3.6 	
+CON
+	
+Barrett, F
+		$1.0m 	8.0 	1.6 	
+BEN
+	
+Gallo, T
+		$3.0m 	7.5 	3.0 	
+EDI
+	
+Venter, B
+		$3.0m 	7.0 	2.5 	
+LEI
+	
+Boyle, J
+		$2.7m 	7.0 	1.3 	
+GLA
+	
+McBeth, N
+		$1.0m 	7.0 	3.2 	
+SHA
+	
+Dawson, Ca
+		$1.0m 	7.0 	1.4 	
+SHA
+	
+Dlamini, C
+		$1.0m 	7.0 	1.4 	
+SCA
+	
+Holz, A
+		$2.0m 	6.5 	2.5 	
+CON
+	
+Bealham, F
+		$2.2m 	6.0 	2.7 	
+MUN
+	
+Bartley, C
+		$1.0m 	6.0 	0.0 	
+OSP
+	
+Henry, R
+		$1.0m 	6.0 	0.8 	
+SCA
+	
+O'Connor, H
+		$1.0m 	5.0 	1.0 	
+BEN
+	
+Pasquali, T
+		$1.0m 	4.5 	0.9 	
+BEN
+	
+Nemer, I
+		$2.0m 	4.0 	0.0 	
+ULS
+	
+O'Sullivan, E
+		$1.0m 	4.0 	1.4 	
+LEI
+	
+Slimani, R
+		$3.7m 	3.0 	0.8 	
+BEN
+	
+Tetaz Chaparro, N
+		$1.0m 	3.0 	0.6 	
+CAR
+	
+Wainwright, S
+		$1.0m 	3.0 	0.6 	
+LIO
+	
+Lombard, S
+		$1.0m 	3.0 	0.6 	
+CON
+	
+Buckley, D
+		$1.0m 	2.0 	0.7 	
+LIO
+	
+Pohlmann, H
+		$1.0m 	2.0 	0.0 	
+DRA
+	
+Kelleher-Griffiths, D
+		$1.0m 	1.0 	0.4 	
+OSP
+	
+Hire, K
+		$1.0m 	1.0 	0.5 	
+LEI
+	
+Sparrow, A
+		$1.0m 	0.5 	0.0 	
+GLA
+	
+Fagerson, Z
+		$2.6m 	0.0 	0.0 	
+SHA
+	
+Nyakane, T
+		$2.5m 	0.0 	0.0 	
+STO
+	
+Malherbe, F
+		$2.0m 	0.0 	0.0 	
+CAR
+	
+Byrne, E
+		$2.0m 	0.0 	0.0 	
+STO
+	
+Mchunu, N
+		$2.0m 	0.0 	0.0 	
+STO
+	
+Sithole, S
+		$2.0m 	0.0 	0.0 	
+EDI
+	
+Williams, A
+		$2.0m 	0.0 	0.0 	
+LIO
+	
+Naude, M
+		$2.0m 	0.0 	0.0 	
+LIO
+	
+Schoeman, J
+		$2.0m 	0.0 	0.0 	
+SHA
+	
+Jacobs, H
+		$2.0m 	0.0 	0.0 	
+MUN
+	
+Ryan, K
+		$2.0m 	0.0 	0.0 	
+BEN
+	
+Aminu, D
+		$1.0m 	0.0 	0.0 	
+BEN
+	
+Gallorini, M
+		$1.0m 	0.0 	0.0 	
+CAR
+	
+Cowell, J
+		$1.0m 	0.0 	0.0 	
+CAR
+	
+Davies-King, W
+		$1.0m 	0.0 	0.0 	
+CAR
+	
+Emanuel, I
+		$1.0m 	0.0 	0.0 	
+CON
+	
+Lasisi, T
+		$1.0m 	0.0 	0.0 	
+STO
+	
+Lyons, L
+		$1.0m 	0.0 	0.0 	
+STO
+	
+Weilbach, C
+		$1.0m 	0.0 	0.0 	
+DRA
+	
+James, Ow
+		$1.0m 	0.0 	0.0 	
+DRA
+	
+Jones, R
+		$1.0m 	0.0 	0.0 	
+DRA
+	
+Morris, J
+		$1.0m 	0.0 	0.0 	
+DRA
+	
+Yendle, L
+		$1.0m 	0.0 	0.0 	
+EDI
+	
+Jones,
+		$1.0m 	0.0 	0.0 	
+EDI
+	
+Litterick,
+		$1.0m 	0.0 	0.0 	
+LIO
+	
+de Bruyn, S
+		$1.0m 	0.0 	0.0 	
+LIO
+	
+Mabece, S
+		$1.0m 	0.0 	0.0 	
+SHA
+	
+Ganyane, P
+		$1.0m 	0.0 	0.0 	
+SHA
+	
+Mazibuko, L
+		$1.0m 	0.0 	0.0 	
+SHA
+	
+Mdanda, M
+		$1.0m 	0.0 	0.0 	
+LEI
+	
+Mullan, A
+		$1.0m 	0.0 	0.0 	
+LEI
+	
+Smyth, N
+		$1.0m 	0.0 	0.0 	
+LEI
+	
+Usanov, A
+		$1.0m 	0.0 	0.0 	
+MUN
+	
+Calvey, E
+		$1.0m 	0.0 	0.0 	
+MUN
+	
+Donnelly, M
+		$1.0m 	0.0 	0.0 	
+MUN
+	
+Hadden, G
+		$1.0m 	0.0 	0.0 	
+MUN
+	
+McSweeney, D
+		$1.0m 	0.0 	0.0 	
+MUN
+	
+Salanoa, R
+		$1.0m 	0.0 	0.0 	
+OSP
+	
+Fackrell, E
+		$1.0m 	0.0 	0.0 	
+OSP
+	
+Iorwerth-Scott, M
+		$1.0m 	0.0 	0.0 	
+OSP
+	
+Jones, Ca
+		$1.0m 	0.0 	0.0 	
+SCA
+	
+Hawley, G
+		$1.0m 	0.0 	0.0 	
+SCA
+	
+Mathias, K
+		$1.0m 	0.0 	0.0 	
+SCA
+	
+Morse, J
+		$1.0m 	0.0 	0.0 	
+SCA
+	
+Phillips, T
+		$1.0m 	0.0 	0.0 	
+SCA
+	
+Pritchard, J
+		$1.0m 	0.0 	0.0 	
+ULS
+	
+McGuire, R
+		$1.0m 	0.0 	0.0 	
+ULS
+	
+O'Connor, Br
+		$1.0m 	0.0 	0.0 	
+BUL
+	
+Smith, D
+		$1.0m 	0.0 	0.0 	
+BUL
+	
+Van Rooyen, J
+		$1.0m 	0.0 	0.0 	
+ZEB
+	
+Franceschetto, L
+		$1.0m 	0.0 	0.0 	
+ZEB
+	
+Rizzoli, L
+		$1.0m 	0.0 	0.0 	
+OSP
+	
+Thomas, S
+		$1.0m 	-0.5 	0.0 	
+DRA
+	
+Coleman, C
+		$1.0m 	-2.5 	-0.3
