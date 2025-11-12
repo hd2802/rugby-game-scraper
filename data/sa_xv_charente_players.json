@@ -1,0 +1,4350 @@
+[
+    {
+        "name": "Georgy BALAKAREV",
+        "position": "Prop",
+        "dob": "04/04/2002",
+        "height": "1.84m",
+        "weight": "111kg",
+        "contract": "PRO",
+        "nation": "Russia",
+        "club": "SA XV Charente",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 20,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Jean-Yves LIUFAU",
+        "position": "Prop",
+        "dob": "/04/2005",
+        "height": "1.80m",
+        "weight": "117kg",
+        "contract": "ACADEMY",
+        "nation": "France",
+        "club": "SA XV Charente",
+        "league": "Pro D2",
+        "value": 45000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "France U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Omar DAHIR",
+        "position": "Prop",
+        "dob": "24/04/1994",
+        "height": "1.80m",
+        "weight": "120kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "SA XV Charente",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Paul TAILHADES",
+        "position": "Prop",
+        "dob": "15/04/1997",
+        "height": "1.82m",
+        "weight": "115kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "SA XV Charente",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 16,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Pau",
+                "tournament": "Challenge Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Montauban",
+                "tournament": "Pro D2",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Montauban",
+                "tournament": "Pro D2",
+                "matches": 22,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "Montauban",
+                "tournament": "Pro D2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Montauban",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Pone FA'AMAUSILI",
+        "position": "Prop",
+        "dob": "26/02/1997",
+        "height": "1.96m",
+        "weight": "130kg",
+        "contract": "PRO",
+        "nation": "Australia",
+        "club": "SA XV Charente",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 7,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Moana Pasifika",
+                "tournament": "Super Rugby Pacific",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Waratahs",
+                "tournament": "Super Rugby Pacific",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Rebels",
+                "tournament": "Super Rugby Pacific",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Australia",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Rebels",
+                "tournament": "Super Rugby Pacific",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Australia",
+                "tournament": "Rugby Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Rebels",
+                "tournament": "Super Rugby Pacific",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Australia",
+                "tournament": "Rugby Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Rebels",
+                "tournament": "Super Rugby AU",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Rebels",
+                "tournament": "Super Rugby AU",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Rebels",
+                "tournament": "Super Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Rebels",
+                "tournament": "Super Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Sami ZOUHAÏR",
+        "position": "Prop",
+        "dob": "21/02/1999",
+        "height": "1.89m",
+        "weight": "110kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "SA XV Charente",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 18,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Valence Romans",
+                "tournament": "Nationale",
+                "matches": 21,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "21/22",
+                "team": "Valence Romans",
+                "tournament": "Nationale",
+                "matches": 28,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "20/21",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 18,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "France U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Seydou DIAKITÉ",
+        "position": "Prop",
+        "dob": "06/01/2002",
+        "height": "1.75m",
+        "weight": "114kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "SA XV Charente",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 20,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Nationale",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Vivien DEVISME",
+        "position": "Prop",
+        "dob": "23/03/1992",
+        "height": "1.75m",
+        "weight": "120kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "SA XV Charente",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Lyon",
+                "tournament": "Top 14",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Lyon",
+                "tournament": "Top 14",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Lyon",
+                "tournament": "Top 14",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "6",
+                "tournament": "6 0 0",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Lyon",
+                "tournament": "Top 14",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Lyon",
+                "tournament": "Top 14",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 23,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "17/18",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Brive",
+                "tournament": "Challenge Cup",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "10",
+                "tournament": "5 0 5",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Yassin BOUTEMANNI",
+        "position": "Prop",
+        "dob": "12/07/1990",
+        "height": "1.88m",
+        "weight": "119kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "SA XV Charente",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 18,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 26,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Montauban",
+                "tournament": "Pro D2",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Nationale",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Montauban",
+                "tournament": "Pro D2",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Perpignan",
+                "tournament": "Pro D2",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Perpignan",
+                "tournament": "Top 14",
+                "matches": 24,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "3",
+                "tournament": "0 1 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Perpignan",
+                "tournament": "Pro D2",
+                "matches": 26,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 27,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Dax",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Maël AUGRY",
+        "position": "Hooker",
+        "dob": "09/09/2004",
+        "height": "1.80m",
+        "weight": "102kg",
+        "contract": "ACADEMY",
+        "nation": "France",
+        "club": "SA XV Charente",
+        "league": "Pro D2",
+        "value": 45000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Mamoudou MEÏTÉ",
+        "position": "Hooker",
+        "dob": "16/11/2002",
+        "height": "1.82m",
+        "weight": "108kg",
+        "contract": "ACADEMY",
+        "nation": "France",
+        "club": "SA XV Charente",
+        "league": "Pro D2",
+        "value": 45000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Paris",
+                "tournament": "Top 14",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 7,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Paris",
+                "tournament": "Top 14",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Massy",
+                "tournament": "Pro D2",
+                "matches": 9,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "France U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Motu MATU'U",
+        "position": "Hooker",
+        "dob": "30/04/1987",
+        "height": "1.82m",
+        "weight": "120kg",
+        "contract": "PRO",
+        "nation": "Samoa",
+        "club": "SA XV Charente",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 20,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 18,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "La Rochelle",
+                "tournament": "Top 14",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "London Irish",
+                "tournament": "Premiership",
+                "matches": 11,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "19/20",
+                "team": "London Irish",
+                "tournament": "Premiership",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Samoa",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Samoa",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Gloucester",
+                "tournament": "Premiership",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "7",
+                "tournament": "4 0 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Samoa",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Gloucester",
+                "tournament": "Premiership",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "6",
+                "tournament": "5 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Samoa",
+                "tournament": "Rugby World Cup",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "15/16",
+                "team": "1",
+                "tournament": "0 1 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Patxi BIDART",
+        "position": "Hooker",
+        "dob": "30/05/2000",
+        "height": "1.72m",
+        "weight": "91kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "SA XV Charente",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 24,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 21,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Nationale",
+                "matches": 22,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "20/21",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Enzo MORAND-BRUYAT",
+        "position": "Lock",
+        "dob": "07/07/2002",
+        "height": "1.91m",
+        "weight": "104kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "SA XV Charente",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Nationale",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Ian KITWANGA",
+        "position": "Lock",
+        "dob": "21/02/1999",
+        "height": "2.01m",
+        "weight": "122kg",
+        "contract": "PRO",
+        "nation": "Congo",
+        "club": "SA XV Charente",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 16,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Bordeaux",
+                "tournament": "Challenge Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Léo LABARTHE",
+        "position": "Lock",
+        "dob": "22/11/2003",
+        "height": "1.95m",
+        "weight": "111kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "SA XV Charente",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Toulouse",
+                "tournament": "Top 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "France U20",
+                "tournament": "U20 Summer Series",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Léo MORAND-BRUYAT",
+        "position": "Lock",
+        "dob": "07/07/2002",
+        "height": "1.91m",
+        "weight": "105kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "SA XV Charente",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Matt BEUKEBOOM",
+        "position": "Lock",
+        "dob": "03/04/1997",
+        "height": "1.98m",
+        "weight": "118kg",
+        "contract": "PRO",
+        "nation": "Canada",
+        "club": "SA XV Charente",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Pro D2",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Montauban",
+                "tournament": "Pro D2",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Montauban",
+                "tournament": "Pro D2",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Richie ARNOLD",
+        "position": "Lock",
+        "dob": "01/07/1990",
+        "height": "2.08m",
+        "weight": "127kg",
+        "contract": "PRO",
+        "nation": "Australia",
+        "club": "SA XV Charente",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Toulouse",
+                "tournament": "Top 14",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Toulouse",
+                "tournament": "Top 14",
+                "matches": 18,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "8",
+                "tournament": "8 0 0",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Australia",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Toulouse",
+                "tournament": "Top 14",
+                "matches": 22,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "7",
+                "tournament": "6 0 1",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Australia",
+                "tournament": "Rugby Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Toulouse",
+                "tournament": "Top 14",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Toulouse",
+                "tournament": "Top 14",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "4",
+                "tournament": "4 0 0",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Toulouse",
+                "tournament": "Top 14",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Toulouse",
+                "tournament": "Top 14",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Brumbies",
+                "tournament": "Super Rugby",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "Western Force",
+                "tournament": "Super Rugby",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Sikeli NABOU",
+        "position": "Lock",
+        "dob": "05/03/1988",
+        "height": "1.97m",
+        "weight": "111kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "SA XV Charente",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 17,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 16,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 25,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Nationale",
+                "matches": 23,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 25,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Biarritz",
+                "tournament": "Pro D2",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "Biarritz",
+                "tournament": "Pro D2",
+                "matches": 25,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "17/18",
+                "team": "Fiji",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Biarritz",
+                "tournament": "Pro D2",
+                "matches": 26,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "16/17",
+                "team": "Fiji",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Adrian MITU",
+        "position": "Back row",
+        "dob": "12/05/2004",
+        "height": "1.87m",
+        "weight": "100kg",
+        "contract": "PRO",
+        "nation": "Romania",
+        "club": "SA XV Charente",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Romania",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Romania",
+                "tournament": "Rugby Europe Championship",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Clément SENTUBÉRY",
+        "position": "Back row",
+        "dob": "22/03/2003",
+        "height": "1.91m",
+        "weight": "101kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "SA XV Charente",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 18,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Toulouse",
+                "tournament": "Top 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "France U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Gautier GIBOUIN",
+        "position": "Back row",
+        "dob": "24/03/1989",
+        "height": "1.84m",
+        "weight": "103kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "SA XV Charente",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 20,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Nationale",
+                "matches": 25,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "21/22",
+                "team": "Spain",
+                "tournament": "Rugby Europe Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 15,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "Spain",
+                "tournament": "Rugby Europe Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Nevers",
+                "tournament": "Pro D2",
+                "matches": 11,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "Spain",
+                "tournament": "Rugby Europe Championship",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "Nevers",
+                "tournament": "Pro D2",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "Nevers",
+                "tournament": "Pro D2",
+                "matches": 20,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "Spain",
+                "tournament": "Rugby Europe Championship",
+                "matches": 4,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "16/17",
+                "team": "Montauban",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "15/16",
+                "team": "Montauban",
+                "tournament": "Pro D2",
+                "matches": 24,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "14/15",
+                "team": "Montauban",
+                "tournament": "Pro D2",
+                "matches": 22,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "13/14",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "6",
+                "tournament": "3 0 3",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Spain",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Germain BURGAUD",
+        "position": "Back row",
+        "dob": "15/06/1996",
+        "height": "1.90m",
+        "weight": "100kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "SA XV Charente",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 18,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 26,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 25,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Nationale",
+                "matches": 18,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Hubert TEXIER",
+        "position": "Back row",
+        "dob": "19/04/2000",
+        "height": "1.85m",
+        "weight": "105kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "SA XV Charente",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 23,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 18,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Pau",
+                "tournament": "Challenge Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Nationale",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Pau",
+                "tournament": "Challenge Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Jean-Maurice DECUBBER",
+        "position": "Back row",
+        "dob": "10/09/1996",
+        "height": "1.78m",
+        "weight": "90kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "SA XV Charente",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "25/26",
+                "team": "Belgium",
+                "tournament": "Rugby World Cup 2027 Final Qualification Tournament",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Vannes",
+                "tournament": "Challenge Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Belgium",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Massy",
+                "tournament": "Pro D2",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Massy",
+                "tournament": "Nationale",
+                "matches": 23,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Belgium",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Belgium",
+                "tournament": "Rugby Europe Championship",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "Belgium",
+                "tournament": "Rugby Europe Championship",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "Belgium",
+                "tournament": "Rugby Europe Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Maxence LEMARDELET",
+        "position": "Back row",
+        "dob": "08/05/1999",
+        "height": "1.94m",
+        "weight": "118kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "SA XV Charente",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 27,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Béziers",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Béziers",
+                "tournament": "Pro D2",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Béziers",
+                "tournament": "Pro D2",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Béziers",
+                "tournament": "Pro D2",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Clermont",
+                "tournament": "Challenge Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "France U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "Clermont",
+                "tournament": "Top 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Ratu Nemani KURUCAKE",
+        "position": "Back row",
+        "dob": "19/07/2004",
+        "height": "-",
+        "weight": "-",
+        "contract": "ACADEMY",
+        "nation": "Fiji",
+        "club": "SA XV Charente",
+        "league": "Pro D2",
+        "value": 45000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Fiji U20",
+                "tournament": "U20 Championship",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Samuel NOLLET",
+        "position": "Back row",
+        "dob": "02/08/2001",
+        "height": "1.86m",
+        "weight": "102kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "SA XV Charente",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Massy",
+                "tournament": "Nationale",
+                "matches": 21,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Agen",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Massy",
+                "tournament": "Pro D2",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Agen",
+                "tournament": "Pro D2",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Agen",
+                "tournament": "Top 14",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Adrien BAU",
+        "position": "Scrum-half",
+        "dob": "03/03/1994",
+        "height": "1.68m",
+        "weight": "73kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "SA XV Charente",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 24,
+                "tries": 1,
+                "points": 19
+            },
+            {
+                "season": "23/24",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 22,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 25,
+                "tries": 0,
+                "points": 39
+            },
+            {
+                "season": "21/22",
+                "team": "Aix",
+                "tournament": "Pro D2",
+                "matches": 27,
+                "tries": 2,
+                "points": 15
+            },
+            {
+                "season": "20/21",
+                "team": "Aix",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "Aix",
+                "tournament": "Pro D2",
+                "matches": 15,
+                "tries": 1,
+                "points": 8
+            },
+            {
+                "season": "18/19",
+                "team": "Aix",
+                "tournament": "Pro D2",
+                "matches": 23,
+                "tries": 0,
+                "points": 2
+            },
+            {
+                "season": "17/18",
+                "team": "Dax",
+                "tournament": "Pro D2",
+                "matches": 16,
+                "tries": 0,
+                "points": 28
+            },
+            {
+                "season": "16/17",
+                "team": "Dax",
+                "tournament": "Pro D2",
+                "matches": 27,
+                "tries": 5,
+                "points": 110
+            },
+            {
+                "season": "15/16",
+                "team": "Dax",
+                "tournament": "Pro D2",
+                "matches": 21,
+                "tries": 2,
+                "points": 22
+            },
+            {
+                "season": "14/15",
+                "team": "Lyon",
+                "tournament": "Challenge Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Lyon",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Alexis LEVRON",
+        "position": "Scrum-half",
+        "dob": "02/11/2000",
+        "height": "1.69m",
+        "weight": "76kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "SA XV Charente",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 16,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Pau",
+                "tournament": "Challenge Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Tarbes",
+                "tournament": "Nationale",
+                "matches": 7,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 2,
+                "tries": 1,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Baptiste ESCOFFRE",
+        "position": "Scrum-half",
+        "dob": "/09/2005",
+        "height": "1.76m",
+        "weight": "75kg",
+        "contract": "ACADEMY",
+        "nation": "France",
+        "club": "SA XV Charente",
+        "league": "Pro D2",
+        "value": 45000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Emmanuel SAUBUSSE",
+        "position": "Scrum-half",
+        "dob": "23/11/1989",
+        "height": "1.81m",
+        "weight": "84kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "SA XV Charente",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 0,
+                "points": 14
+            },
+            {
+                "season": "24/25",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 20,
+                "tries": 0,
+                "points": 17
+            },
+            {
+                "season": "23/24",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 22,
+                "tries": 0,
+                "points": 31
+            },
+            {
+                "season": "22/23",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 24,
+                "tries": 1,
+                "points": 128
+            },
+            {
+                "season": "21/22",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Nationale",
+                "matches": 17,
+                "tries": 2,
+                "points": 134
+            },
+            {
+                "season": "20/21",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 20,
+                "tries": 2,
+                "points": 97
+            },
+            {
+                "season": "19/20",
+                "team": "Bayonne",
+                "tournament": "Top 14",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "5",
+                "tournament": "1 0 4",
+                "matches": 2,
+                "tries": 2,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Bayonne",
+                "tournament": "Pro D2",
+                "matches": 27,
+                "tries": 1,
+                "points": 53
+            },
+            {
+                "season": "17/18",
+                "team": "Bayonne",
+                "tournament": "Pro D2",
+                "matches": 29,
+                "tries": 2,
+                "points": 79
+            },
+            {
+                "season": "16/17",
+                "team": "Bayonne",
+                "tournament": "Top 14",
+                "matches": 26,
+                "tries": 1,
+                "points": 54
+            },
+            {
+                "season": "15/16",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 28,
+                "tries": 3,
+                "points": 211
+            },
+            {
+                "season": "14/15",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 13,
+                "tries": 1,
+                "points": 97
+            },
+            {
+                "season": "13/14",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 25,
+                "tries": 0,
+                "points": 19
+            },
+            {
+                "season": "13/14",
+                "team": "6",
+                "tournament": "3 0 3",
+                "matches": 5,
+                "tries": 5,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Ben BOTICA",
+        "position": "Fly-half",
+        "dob": "07/10/1989",
+        "height": "1.78m",
+        "weight": "93kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "SA XV Charente",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 0,
+                "points": 40
+            },
+            {
+                "season": "24/25",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 21,
+                "tries": 6,
+                "points": 164
+            },
+            {
+                "season": "23/24",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 22,
+                "tries": 3,
+                "points": 206
+            },
+            {
+                "season": "22/23",
+                "team": "Castres",
+                "tournament": "Top 14",
+                "matches": 4,
+                "tries": 0,
+                "points": 8
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 1,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 4,
+                "tries": 2,
+                "points": 34
+            },
+            {
+                "season": "21/22",
+                "team": "Castres",
+                "tournament": "Top 14",
+                "matches": 9,
+                "tries": 1,
+                "points": 64
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 4,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 2,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 22,
+                "tries": 3,
+                "points": 107
+            },
+            {
+                "season": "20/21",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 1,
+                "tries": 3,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 17,
+                "tries": 0,
+                "points": 101
+            },
+            {
+                "season": "19/20",
+                "team": "6",
+                "tournament": "4 1 1",
+                "matches": 2,
+                "tries": 2,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 25,
+                "tries": 8,
+                "points": 235
+            },
+            {
+                "season": "17/18",
+                "team": "Oyonnax",
+                "tournament": "Top 14",
+                "matches": 24,
+                "tries": 7,
+                "points": 318
+            },
+            {
+                "season": "16/17",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 9,
+                "tries": 0,
+                "points": 62
+            },
+            {
+                "season": "16/17",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 1,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 11,
+                "tries": 1,
+                "points": 135
+            },
+            {
+                "season": "15/16",
+                "team": "Harlequins",
+                "tournament": "Premiership",
+                "matches": 21,
+                "tries": 0,
+                "points": 129
+            },
+            {
+                "season": "15/16",
+                "team": "9",
+                "tournament": "7 0 2",
+                "matches": 6,
+                "tries": 12,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Harlequins",
+                "tournament": "Premiership",
+                "matches": 16,
+                "tries": 0,
+                "points": 33
+            },
+            {
+                "season": "14/15",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 1,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Harlequins",
+                "tournament": "Premiership",
+                "matches": 22,
+                "tries": 0,
+                "points": 55
+            },
+            {
+                "season": "13/14",
+                "team": "6",
+                "tournament": "3 0 3",
+                "matches": 2,
+                "tries": 3,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 1,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Corentin GLÉNAT",
+        "position": "Fly-half",
+        "dob": "26/08/1999",
+        "height": "1.88m",
+        "weight": "92kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "SA XV Charente",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 2,
+                "tries": 0,
+                "points": 6
+            },
+            {
+                "season": "24/25",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 12,
+                "tries": 1,
+                "points": 79
+            },
+            {
+                "season": "23/24",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 12,
+                "tries": 1,
+                "points": 50
+            },
+            {
+                "season": "22/23",
+                "team": "Grenoble",
+                "tournament": "Pro D2",
+                "matches": 10,
+                "tries": 1,
+                "points": 46
+            },
+            {
+                "season": "21/22",
+                "team": "Grenoble",
+                "tournament": "Pro D2",
+                "matches": 24,
+                "tries": 2,
+                "points": 74
+            },
+            {
+                "season": "20/21",
+                "team": "Grenoble",
+                "tournament": "Pro D2",
+                "matches": 29,
+                "tries": 2,
+                "points": 87
+            },
+            {
+                "season": "19/20",
+                "team": "Grenoble",
+                "tournament": "Pro D2",
+                "matches": 17,
+                "tries": 3,
+                "points": 71
+            },
+            {
+                "season": "18/19",
+                "team": "Grenoble",
+                "tournament": "Challenge Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 13
+            }
+        ]
+    },
+    {
+        "name": "Paul BERGÈS",
+        "position": "Fly-half",
+        "dob": "/04/2005",
+        "height": "1.77m",
+        "weight": "74kg",
+        "contract": "ACADEMY",
+        "nation": "France",
+        "club": "SA XV Charente",
+        "league": "Pro D2",
+        "value": 45000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 1,
+                "points": 35
+            }
+        ]
+    },
+    {
+        "name": "Arthur PROULT",
+        "position": "Centre",
+        "dob": "10/07/1998",
+        "height": "1.82m",
+        "weight": "90kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "SA XV Charente",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 25,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "23/24",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Suresnes",
+                "tournament": "Nationale",
+                "matches": 20,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "21/22",
+                "team": "Suresnes",
+                "tournament": "Nationale",
+                "matches": 20,
+                "tries": 3,
+                "points": 15
+            }
+        ]
+    },
+    {
+        "name": "François Carlo MEY",
+        "position": "Centre",
+        "dob": "01/07/2003",
+        "height": "1.87m",
+        "weight": "97kg",
+        "contract": "PRO",
+        "nation": "Italy",
+        "club": "SA XV Charente",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Clermont",
+                "tournament": "Champions Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Italy U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 4,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Italy U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "George TILSLEY",
+        "position": "Centre",
+        "dob": "27/02/1992",
+        "height": "1.96m",
+        "weight": "103kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "SA XV Charente",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 24,
+                "tries": 10,
+                "points": 50
+            },
+            {
+                "season": "23/24",
+                "team": "Agen",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Perpignan",
+                "tournament": "Top 14",
+                "matches": 18,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "22/23",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Perpignan",
+                "tournament": "Top 14",
+                "matches": 22,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Perpignan",
+                "tournament": "Pro D2",
+                "matches": 21,
+                "tries": 8,
+                "points": 40
+            },
+            {
+                "season": "19/20",
+                "team": "Perpignan",
+                "tournament": "Pro D2",
+                "matches": 12,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "18/19",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 12,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "18/19",
+                "team": "3",
+                "tournament": "1 1 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Agen",
+                "tournament": "Top 14",
+                "matches": 17,
+                "tries": 8,
+                "points": 40
+            },
+            {
+                "season": "16/17",
+                "team": "Agen",
+                "tournament": "Pro D2",
+                "matches": 31,
+                "tries": 13,
+                "points": 65
+            },
+            {
+                "season": "15/16",
+                "team": "Agen",
+                "tournament": "Top 14",
+                "matches": 24,
+                "tries": 8,
+                "points": 40
+            }
+        ]
+    },
+    {
+        "name": "Ledua MAU",
+        "position": "Centre",
+        "dob": "16/02/1993",
+        "height": "1.85m",
+        "weight": "95kg",
+        "contract": "PRO",
+        "nation": "Fiji",
+        "club": "SA XV Charente",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 26,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Nationale",
+                "matches": 24,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "20/21",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 24,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 26,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "17/18",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 25,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 22,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "15/16",
+                "team": "Albi",
+                "tournament": "Pro D2",
+                "matches": 17,
+                "tries": 3,
+                "points": 15
+            }
+        ]
+    },
+    {
+        "name": "Mathis LAFON",
+        "position": "Centre",
+        "dob": "28/02/1999",
+        "height": "1.85m",
+        "weight": "95kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "SA XV Charente",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 21,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "23/24",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 18,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 17,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "La Rochelle",
+                "tournament": "Top 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Nationale",
+                "matches": 7,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "La Rochelle",
+                "tournament": "Top 14",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Avakuki NIUSALELEKITOGA",
+        "position": "Winger",
+        "dob": "/07/2005",
+        "height": "-",
+        "weight": "-",
+        "contract": "ACADEMY",
+        "nation": "Fiji",
+        "club": "SA XV Charente",
+        "league": "Pro D2",
+        "value": 45000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Fiji U20",
+                "tournament": "U20 Championship",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Eoghan BARRETT",
+        "position": "Winger",
+        "dob": "31/05/1999",
+        "height": "1.83m",
+        "weight": "86kg",
+        "contract": "PRO",
+        "nation": "Ireland",
+        "club": "SA XV Charente",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 11,
+                "tries": 5,
+                "points": 28
+            },
+            {
+                "season": "23/24",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 13,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 8,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Pau",
+                "tournament": "Challenge Cup",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "5",
+                "tournament": "1 0 4",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Pau",
+                "tournament": "Challenge Cup",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Jonny MAY",
+        "position": "Winger",
+        "dob": "01/04/1990",
+        "height": "1.85m",
+        "weight": "92kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "SA XV Charente",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 17,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "Gloucester",
+                "tournament": "Premiership",
+                "matches": 7,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "8",
+                "tournament": "7 0 1",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "England",
+                "tournament": "Summer Nations Series",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Barbarian F.C.",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Gloucester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "14",
+                "tournament": "6 0 8",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "England",
+                "tournament": "Autumn Nations Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Gloucester",
+                "tournament": "Premiership",
+                "matches": 8,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "England",
+                "tournament": "Autumn Nations Cup",
+                "matches": 3,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Gloucester",
+                "tournament": "Premiership",
+                "matches": 6,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "England",
+                "tournament": "Autumn Nations Cup",
+                "matches": 4,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Leicester",
+                "tournament": "Premiership",
+                "matches": 4,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "19/20",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Gloucester",
+                "tournament": "Premiership",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "England",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Leicester",
+                "tournament": "Premiership",
+                "matches": 15,
+                "tries": 11,
+                "points": 55
+            },
+            {
+                "season": "18/19",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "England",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "5",
+                "tournament": "3 1 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Leicester",
+                "tournament": "Premiership",
+                "matches": 15,
+                "tries": 9,
+                "points": 45
+            },
+            {
+                "season": "17/18",
+                "team": "5",
+                "tournament": "1 0 4",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "England",
+                "tournament": "Test Matchs",
+                "matches": 5,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "17/18",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Gloucester",
+                "tournament": "Challenge Cup",
+                "matches": 8,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "16/17",
+                "team": "9",
+                "tournament": "3 0 6",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "England",
+                "tournament": "Test Matchs",
+                "matches": 5,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "16/17",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Gloucester",
+                "tournament": "Premiership",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "England",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "15/16",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Gloucester",
+                "tournament": "Premiership",
+                "matches": 16,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "14/15",
+                "team": "7",
+                "tournament": "7 0 0",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "England",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "14/15",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Gloucester",
+                "tournament": "Premiership",
+                "matches": 16,
+                "tries": 9,
+                "points": 45
+            },
+            {
+                "season": "13/14",
+                "team": "6",
+                "tournament": "3 0 3",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "England",
+                "tournament": "Six Nations Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Matthys GRATIEN",
+        "position": "Winger",
+        "dob": "15/02/1999",
+        "height": "1.72m",
+        "weight": "86kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "SA XV Charente",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 13,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "23/24",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 18,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 21,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "20/21",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "19/20",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 11,
+                "tries": 5,
+                "points": 25
+            }
+        ]
+    },
+    {
+        "name": "Nathan FARISSIER",
+        "position": "Winger",
+        "dob": "20/04/2001",
+        "height": "1.80m",
+        "weight": "85kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "SA XV Charente",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 21,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "Grenoble",
+                "tournament": "Pro D2",
+                "matches": 9,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Massy",
+                "tournament": "Pro D2",
+                "matches": 20,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "19/20",
+                "team": "France U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Jules DUBECQ",
+        "position": "Fullback",
+        "dob": "31/08/2001",
+        "height": "1.82m",
+        "weight": "75kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "SA XV Charente",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 9,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 21,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "23/24",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 17,
+                "tries": 2,
+                "points": 19
+            },
+            {
+                "season": "22/23",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Nationale",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Noé DARRÉLATOUR",
+        "position": "Fullback",
+        "dob": "16/11/2004",
+        "height": "-",
+        "weight": "-",
+        "contract": "ACADEMY",
+        "nation": "France",
+        "club": "SA XV Charente",
+        "league": "Pro D2",
+        "value": 45000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Peter LYDON",
+        "position": "Fullback",
+        "dob": "19/10/1992",
+        "height": "1.88m",
+        "weight": "100kg",
+        "contract": "PRO",
+        "nation": "Ireland",
+        "club": "SA XV Charente",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 4,
+                "tries": 0,
+                "points": 18
+            },
+            {
+                "season": "24/25",
+                "team": "Netherlands",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 18,
+                "tries": 2,
+                "points": 119
+            },
+            {
+                "season": "22/23",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 22,
+                "tries": 4,
+                "points": 247
+            },
+            {
+                "season": "22/23",
+                "team": "Netherlands",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 27,
+                "tries": 4,
+                "points": 185
+            },
+            {
+                "season": "20/21",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 22,
+                "tries": 0,
+                "points": 139
+            },
+            {
+                "season": "13/14",
+                "team": "Paris",
+                "tournament": "Top 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "6",
+                "tournament": "4 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Rémi BROSSET",
+        "position": "Fullback",
+        "dob": "12/02/2000",
+        "height": "1.91m",
+        "weight": "86kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "SA XV Charente",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 7,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 17,
+                "tries": 0,
+                "points": 6
+            },
+            {
+                "season": "22/23",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 20,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Biarritz",
+                "tournament": "Top 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Biarritz",
+                "tournament": "Pro D2",
+                "matches": 11,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    }
+]

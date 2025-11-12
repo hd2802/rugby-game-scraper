@@ -1,0 +1,5578 @@
+[
+    {
+        "name": "Adam BROCKLEBANK",
+        "position": "Prop",
+        "dob": "06/09/1995",
+        "height": "1.88m",
+        "weight": "125kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Newcastle",
+        "league": "Premiership",
+        "value": 75000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Newcastle",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "17",
+                "tournament": "0 0 17",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 19,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 20,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Newcastle",
+                "tournament": "Challenge Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Newcastle",
+                "tournament": "Challenge Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Eduardo BELLO",
+        "position": "Prop",
+        "dob": "27/11/1995",
+        "height": "1.91m",
+        "weight": "120kg",
+        "contract": "PRO",
+        "nation": "Argentina",
+        "club": "Newcastle",
+        "league": "Premiership",
+        "value": 75000.0,
+        "playing_history": [
+            {
+                "season": "23/24",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Argentina",
+                "tournament": "Test Matchs",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "7",
+                "tournament": "4 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Saracens",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Argentina",
+                "tournament": "Autumn Nations Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "4",
+                "tournament": "0 0 4",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Argentina",
+                "tournament": "Autumn Nations Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Zebre",
+                "tournament": "Pro 14",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "3",
+                "tournament": "1 1 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "4",
+                "tournament": "0 0 4",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Argentina",
+                "tournament": "Rugby Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Zebre",
+                "tournament": "Pro 14",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "6",
+                "tournament": "2 1 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Zebre",
+                "tournament": "Pro 14",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Zebre",
+                "tournament": "Pro 14",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Luan DE BRUIN",
+        "position": "Prop",
+        "dob": "13/02/1993",
+        "height": "1.83m",
+        "weight": "128kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Newcastle",
+        "league": "Premiership",
+        "value": 75000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Newcastle",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "25/26",
+                "team": "4",
+                "tournament": "0 0 4",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Edinburgh",
+                "tournament": "United Rugby Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Edinburgh",
+                "tournament": "United Rugby Championship",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Edinburgh",
+                "tournament": "United Rugby Championship",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Leicester",
+                "tournament": "Challenge Cup",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "12",
+                "tournament": "6 0 6",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Cheetahs",
+                "tournament": "Pro 14",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "5",
+                "tournament": "2 0 2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Cheetahs",
+                "tournament": "Pro 14",
+                "matches": 12,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "17/18",
+                "team": "Cheetahs",
+                "tournament": "Pro 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Cheetahs",
+                "tournament": "Super Rugby",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Cheetahs",
+                "tournament": "Super Rugby",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Murray MCCALLUM",
+        "position": "Prop",
+        "dob": "16/03/1996",
+        "height": "1.85m",
+        "weight": "126kg",
+        "contract": "PRO",
+        "nation": "Scotland",
+        "club": "Newcastle",
+        "league": "Premiership",
+        "value": 850000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Newcastle",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "25/26",
+                "team": "5",
+                "tournament": "0 0 5",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 18,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "8",
+                "tournament": "6 0 2",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "0 0 4",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Newcastle",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "12",
+                "tournament": "0 0 12",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Worcester",
+                "tournament": "Premiership",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Edinburgh",
+                "tournament": "United Rugby Championship",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Glasgow",
+                "tournament": "United Rugby Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Worcester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "8",
+                "tournament": "3 0 5",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Edinburgh",
+                "tournament": "Pro 14",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Edinburgh",
+                "tournament": "Pro 14",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Edinburgh",
+                "tournament": "Pro 14",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Edinburgh",
+                "tournament": "Pro 14",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Scotland",
+                "tournament": "Six Nations Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Edinburgh",
+                "tournament": "Pro 12",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "6",
+                "tournament": "4 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Richard PALFRAMAN",
+        "position": "Prop",
+        "dob": "20/12/1993",
+        "height": "1.85m",
+        "weight": "120kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Newcastle",
+        "league": "Premiership",
+        "value": 75000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Newcastle",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "6",
+                "tournament": "0 0 6",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Newcastle",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "14",
+                "tournament": "6 0 8",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Worcester",
+                "tournament": "Premiership",
+                "matches": 15,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Worcester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "20",
+                "tournament": "7 0 13",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "London Irish",
+                "tournament": "Challenge Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "London Irish",
+                "tournament": "Challenge Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "7",
+                "tournament": "2 1 4",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "London Irish",
+                "tournament": "European Challenge Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "George MCGUIGAN",
+        "position": "Hooker",
+        "dob": "30/03/1993",
+        "height": "1.83m",
+        "weight": "113kg",
+        "contract": "PRO",
+        "nation": "Ireland",
+        "club": "Newcastle",
+        "league": "Premiership",
+        "value": 850000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Newcastle",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "25/26",
+                "team": "5",
+                "tournament": "0 0 5",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Gloucester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Ospreys",
+                "tournament": "United Rugby Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Gloucester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "11",
+                "tournament": "3 0 8",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "4 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 10,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "22/23",
+                "team": "Gloucester",
+                "tournament": "Premiership",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 22,
+                "tries": 15,
+                "points": 75
+            },
+            {
+                "season": "21/22",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 17,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "20/21",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 20,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Leicester",
+                "tournament": "Premiership",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Leicester",
+                "tournament": "Premiership",
+                "matches": 20,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "15/16",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 21,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "15/16",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "14/15",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 20,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "13/14",
+                "team": "6",
+                "tournament": "4 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Hame FAIVA",
+        "position": "Hooker",
+        "dob": "09/05/1994",
+        "height": "1.82m",
+        "weight": "106kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Newcastle",
+        "league": "Premiership",
+        "value": 100000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Newcastle",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Bath",
+                "tournament": "Champions Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Italy",
+                "tournament": "Summer Nations Series",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Worcester",
+                "tournament": "Premiership",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Benetton",
+                "tournament": "United Rugby Championship",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Italy",
+                "tournament": "Autumn Nations Cup",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Benetton",
+                "tournament": "Pro 14",
+                "matches": 6,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "19/20",
+                "team": "Benetton",
+                "tournament": "Pro 14",
+                "matches": 8,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "19/20",
+                "team": "6",
+                "tournament": "1 0 5",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Benetton",
+                "tournament": "Pro 14",
+                "matches": 15,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "18/19",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Benetton",
+                "tournament": "Pro 14",
+                "matches": 12,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "17/18",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Blues",
+                "tournament": "Super Rugby",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Ollie FLETCHER",
+        "position": "Hooker",
+        "dob": "09/09/2002",
+        "height": "1.83m",
+        "weight": "108kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Newcastle",
+        "league": "Premiership",
+        "value": 100000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Newcastle",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "8",
+                "tournament": "6 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Newcastle",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 4,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Doncaster",
+                "tournament": "RFU Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Newcastle",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Newcastle",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "England U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Adam SCOTT",
+        "position": "Lock",
+        "dob": "27/11/2001",
+        "height": "1.99m",
+        "weight": "110kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Newcastle",
+        "league": "Premiership",
+        "value": 850000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Newcastle",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Newcastle",
+                "tournament": "Challenge Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Freddie CLARKE",
+        "position": "Lock",
+        "dob": "10/10/1992",
+        "height": "1.96m",
+        "weight": "114kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Newcastle",
+        "league": "Premiership",
+        "value": 100000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Gloucester",
+                "tournament": "Premiership",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Gloucester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "15",
+                "tournament": "5 0 10",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "8",
+                "tournament": "7 0 1",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Gloucester",
+                "tournament": "Premiership",
+                "matches": 20,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "22/23",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Gloucester",
+                "tournament": "Premiership",
+                "matches": 23,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Gloucester",
+                "tournament": "Premiership",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Gloucester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "12",
+                "tournament": "5 0 7",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "5",
+                "tournament": "1 0 4",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Gloucester",
+                "tournament": "Premiership",
+                "matches": 19,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "6",
+                "tournament": "2 0 4",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Gloucester",
+                "tournament": "Premiership",
+                "matches": 18,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "17/18",
+                "team": "7",
+                "tournament": "5 0 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Gloucester",
+                "tournament": "Challenge Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Jamie HODGSON",
+        "position": "Lock",
+        "dob": "19/03/1998",
+        "height": "1.97m",
+        "weight": "116kg",
+        "contract": "PRO",
+        "nation": "Scotland",
+        "club": "Newcastle",
+        "league": "Premiership",
+        "value": 100000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Newcastle",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "25/26",
+                "team": "5",
+                "tournament": "0 0 5",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Edinburgh",
+                "tournament": "United Rugby Championship",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Bristol",
+                "tournament": "Champions Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Edinburgh",
+                "tournament": "United Rugby Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Edinburgh",
+                "tournament": "United Rugby Championship",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Edinburgh",
+                "tournament": "United Rugby Championship",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Scotland",
+                "tournament": "Autumn Nations Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Edinburgh",
+                "tournament": "Pro 14",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "4",
+                "tournament": "1 1 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Edinburgh",
+                "tournament": "Pro 14",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Edinburgh",
+                "tournament": "Pro 14",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "John HAWKINS",
+        "position": "Lock",
+        "dob": "11/11/1996",
+        "height": "1.98m",
+        "weight": "117kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Newcastle",
+        "league": "Premiership",
+        "value": 100000.0,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Jersey Reds",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Bristol",
+                "tournament": "Premiership",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Bristol",
+                "tournament": "Premiership",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Bristol",
+                "tournament": "Premiership",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Bristol",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Bristol",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Sebastian DE CHAVES",
+        "position": "Lock",
+        "dob": "30/10/1990",
+        "height": "2.03m",
+        "weight": "121kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Newcastle",
+        "league": "Premiership",
+        "value": 100000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Newcastle",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "7",
+                "tournament": "6 0 1",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Newcastle",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "14",
+                "tournament": "0 0 14",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 21,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Wasps",
+                "tournament": "Premiership",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Austin",
+                "tournament": "Major League Rugby",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Austin",
+                "tournament": "Major League Rugby",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "London Irish",
+                "tournament": "Premiership",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "London Irish",
+                "tournament": "Premiership",
+                "matches": 21,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Leicester",
+                "tournament": "Premiership",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Leicester",
+                "tournament": "Premiership",
+                "matches": 20,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Leicester",
+                "tournament": "Premiership",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Tim CARDALL",
+        "position": "Lock",
+        "dob": "13/01/1997",
+        "height": "1.98m",
+        "weight": "122kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Newcastle",
+        "league": "Premiership",
+        "value": 100000.0,
+        "playing_history": [
+            {
+                "season": "23/24",
+                "team": "Newcastle",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "10",
+                "tournament": "0 0 10",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Wasps",
+                "tournament": "Premiership",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Rebels",
+                "tournament": "Super Rugby Pacific",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Wasps",
+                "tournament": "Premiership",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Wasps",
+                "tournament": "Premiership",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Wasps",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "12",
+                "tournament": "7 0 5",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Wasps",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Wasps",
+                "tournament": "Anglo Welsh Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Amanaki MAFI",
+        "position": "Back row",
+        "dob": "11/01/1990",
+        "height": "1.89m",
+        "weight": "112kg",
+        "contract": "PRO",
+        "nation": "Tonga",
+        "club": "Newcastle",
+        "league": "Premiership",
+        "value": 850000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Newcastle",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "25/26",
+                "team": "5",
+                "tournament": "0 0 5",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Canon Eagles",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 15,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "23/24",
+                "team": "Canon Eagles",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 16,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Canon Eagles",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 6,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "21/22",
+                "team": "Canon Eagles",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 13,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "20/21",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Sunwolves",
+                "tournament": "Super Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Japan",
+                "tournament": "Pacific Nations Cup",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "Rebels",
+                "tournament": "Super Rugby",
+                "matches": 16,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "17/18",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 6,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "16/17",
+                "team": "Rebels",
+                "tournament": "Super Rugby",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "15/16",
+                "team": "Bath",
+                "tournament": "Premiership",
+                "matches": 7,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "15/16",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "15/16",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Cameron NEILD",
+        "position": "Back row",
+        "dob": "06/09/1994",
+        "height": "1.85m",
+        "weight": "112kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Newcastle",
+        "league": "Premiership",
+        "value": 145000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Newcastle",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "25/26",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Newcastle",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "7",
+                "tournament": "0 0 7",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Edinburgh",
+                "tournament": "United Rugby Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Sale",
+                "tournament": "Challenge Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Worcester",
+                "tournament": "Premiership",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Glasgow",
+                "tournament": "Challenge Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Sale",
+                "tournament": "Premiership",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Sale",
+                "tournament": "Champions Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "15",
+                "tournament": "12 0 3",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Sale",
+                "tournament": "Premiership",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "Sale",
+                "tournament": "Premiership",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Sale",
+                "tournament": "Premiership",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "6",
+                "tournament": "2 1 3",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Sale",
+                "tournament": "Premiership",
+                "matches": 20,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "16/17",
+                "team": "5",
+                "tournament": "1 0 4",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Sale",
+                "tournament": "Challenge Cup",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "17",
+                "tournament": "9 2 6",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Sale",
+                "tournament": "Premiership",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Fergus LEE-WARNER",
+        "position": "Back row",
+        "dob": "03/02/1994",
+        "height": "1.97m",
+        "weight": "113kg",
+        "contract": "PRO",
+        "nation": "Australia",
+        "club": "Newcastle",
+        "league": "Premiership",
+        "value": 100000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Waratahs",
+                "tournament": "Super Rugby Pacific",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Bath",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "6",
+                "tournament": "3 0 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Waratahs",
+                "tournament": "Super Rugby Pacific",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Worcester",
+                "tournament": "Premiership",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Bath",
+                "tournament": "Premiership",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "4",
+                "tournament": "0 1 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Western Force",
+                "tournament": "Super Rugby Pacific",
+                "matches": 14,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "Western Force",
+                "tournament": "Super Rugby AU",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "5",
+                "tournament": "0 0 5",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Western Force",
+                "tournament": "Super Rugby AU",
+                "matches": 8,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Freddie LOCKWOOD",
+        "position": "Back row",
+        "dob": "31/12/2000",
+        "height": "1.88m",
+        "weight": "116kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Newcastle",
+        "league": "Premiership",
+        "value": 150000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Newcastle",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 18,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "8",
+                "tournament": "6 0 2",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Newcastle",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "11",
+                "tournament": "0 0 11",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Newcastle",
+                "tournament": "Challenge Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Ollie LEATHERBARROW",
+        "position": "Back row",
+        "dob": "08/04/2002",
+        "height": "1.84m",
+        "weight": "106kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Newcastle",
+        "league": "Premiership",
+        "value": 150000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "25/26",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "0 0 4",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Newcastle",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Exeter",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Exeter",
+                "tournament": "Premiership",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Scotland U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 2,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "4",
+                "tournament": "0 0 4",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Scotland U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Tom CHRISTIE",
+        "position": "Back row",
+        "dob": "04/03/1998",
+        "height": "1.86m",
+        "weight": "105kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Newcastle",
+        "league": "Premiership",
+        "value": 275000.0,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 12,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "24/25",
+                "team": "Canterbury",
+                "tournament": "NPC",
+                "matches": 12,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Canterbury",
+                "tournament": "NPC",
+                "matches": 12,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Canterbury",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 16,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "Canterbury",
+                "tournament": "NPC",
+                "matches": 12,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "20/21",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Aotearoa",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Crusaders",
+                "tournament": "Super Rugby",
+                "matches": 6,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Canterbury",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Tom GORDON",
+        "position": "Back row",
+        "dob": "30/01/1997",
+        "height": "1.81m",
+        "weight": "102kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Newcastle",
+        "league": "Premiership",
+        "value": 200000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Newcastle",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "25/26",
+                "team": "5",
+                "tournament": "0 0 5",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Glasgow",
+                "tournament": "United Rugby Championship",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Glasgow",
+                "tournament": "United Rugby Championship",
+                "matches": 10,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "21/22",
+                "team": "Glasgow",
+                "tournament": "United Rugby Championship",
+                "matches": 13,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Glasgow",
+                "tournament": "Pro 14",
+                "matches": 14,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "20/21",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Glasgow",
+                "tournament": "Pro 14",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Glasgow",
+                "tournament": "Pro 14",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "James ELLIOTT",
+        "position": "Scrum-half",
+        "dob": "29/08/1998",
+        "height": "1.77m",
+        "weight": "82kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Newcastle",
+        "league": "Premiership",
+        "value": 100000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Newcastle",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "25/26",
+                "team": "5",
+                "tournament": "0 0 5",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Newcastle",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Jersey Reds",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Jersey Reds",
+                "tournament": "RFU Championship",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Sam STUART",
+        "position": "Scrum-half",
+        "dob": "27/09/1991",
+        "height": "1.74m",
+        "weight": "85kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Newcastle",
+        "league": "Premiership",
+        "value": 100000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Newcastle",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 18,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "7",
+                "tournament": "5 0 2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Newcastle",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "13",
+                "tournament": "0 0 13",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 18,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 12,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "5",
+                "tournament": "3 1 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "8",
+                "tournament": "7 0 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Harlequins",
+                "tournament": "Premiership",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Harlequins",
+                "tournament": "Premiership",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Simón BENÍTEZ-CRUZ",
+        "position": "Scrum-half",
+        "dob": "06/09/1999",
+        "height": "1.77m",
+        "weight": "77kg",
+        "contract": "PRO",
+        "nation": "Argentina",
+        "club": "Newcastle",
+        "league": "Premiership",
+        "value": 850000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "25/26",
+                "team": "Argentina",
+                "tournament": "Autumn Nations Series",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Argentina",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Boeta CHAMBERLAIN",
+        "position": "Fly-half",
+        "dob": "22/02/1999",
+        "height": "1.84m",
+        "weight": "86kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Newcastle",
+        "league": "Premiership",
+        "value": 160000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Bulls",
+                "tournament": "United Rugby Championship",
+                "matches": 8,
+                "tries": 1,
+                "points": 46
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 1,
+                "tries": 1,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 14,
+                "tries": 0,
+                "points": 13
+            },
+            {
+                "season": "22/23",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 15,
+                "tries": 2,
+                "points": 76
+            },
+            {
+                "season": "22/23",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 16,
+                "tries": 1,
+                "points": 69
+            },
+            {
+                "season": "20/21",
+                "team": "Sharks",
+                "tournament": "Rainbow Cup SA",
+                "matches": 1,
+                "tries": 0,
+                "points": 2
+            },
+            {
+                "season": "19/20",
+                "team": "Sharks",
+                "tournament": "Super Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 2
+            }
+        ]
+    },
+    {
+        "name": "Brett CONNON",
+        "position": "Fly-half",
+        "dob": "29/08/1996",
+        "height": "1.76m",
+        "weight": "93kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Newcastle",
+        "league": "Premiership",
+        "value": 200000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Newcastle",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 9
+            },
+            {
+                "season": "25/26",
+                "team": "5",
+                "tournament": "0 0 5",
+                "matches": 4,
+                "tries": 2,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 14,
+                "tries": 0,
+                "points": 74
+            },
+            {
+                "season": "24/25",
+                "team": "8",
+                "tournament": "6 0 2",
+                "matches": 8,
+                "tries": 6,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Newcastle",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 23
+            },
+            {
+                "season": "23/24",
+                "team": "14",
+                "tournament": "0 0 14",
+                "matches": 12,
+                "tries": 13,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 4,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 19,
+                "tries": 0,
+                "points": 125
+            },
+            {
+                "season": "21/22",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 17,
+                "tries": 1,
+                "points": 58
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 1,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 3,
+                "tries": 3,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 18,
+                "tries": 0,
+                "points": 81
+            },
+            {
+                "season": "20/21",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 3,
+                "tries": 4,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Newcastle",
+                "tournament": "Champions Cup",
+                "matches": 6,
+                "tries": 0,
+                "points": 8
+            },
+            {
+                "season": "18/19",
+                "team": "4",
+                "tournament": "2 1 1",
+                "matches": 3,
+                "tries": 3,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "11",
+                "tournament": "5 0 6",
+                "matches": 1,
+                "tries": 3,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Newcastle",
+                "tournament": "Challenge Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 2
+            }
+        ]
+    },
+    {
+        "name": "Cammy HUTCHISON",
+        "position": "Centre",
+        "dob": "01/06/1998",
+        "height": "1.83m",
+        "weight": "102kg",
+        "contract": "PRO",
+        "nation": "Scotland",
+        "club": "Newcastle",
+        "league": "Premiership",
+        "value": 100000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Saracens",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Newcastle",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "8",
+                "tournament": "0 0 8",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Edinburgh",
+                "tournament": "United Rugby Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Edinburgh",
+                "tournament": "United Rugby Championship",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "4",
+                "tournament": "4 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Edinburgh",
+                "tournament": "Rainbow Cup",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Connor DOHERTY",
+        "position": "Centre",
+        "dob": "18/07/2000",
+        "height": "1.91m",
+        "weight": "97kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Newcastle",
+        "league": "Premiership",
+        "value": 150000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 10,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Sale",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Sale",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "6",
+                "tournament": "4 1 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Sale",
+                "tournament": "Champions Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "8",
+                "tournament": "5 0 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Sale",
+                "tournament": "Premiership",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "England U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "Sale",
+                "tournament": "Challenge Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "2",
+                "tournament": "0 1 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "England U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Sale",
+                "tournament": "Anglo Welsh Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Max CLARK",
+        "position": "Centre",
+        "dob": "03/10/1995",
+        "height": "1.90m",
+        "weight": "100kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Newcastle",
+        "league": "Premiership",
+        "value": 100000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Newcastle",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "25/26",
+                "team": "4",
+                "tournament": "0 0 4",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Saracens",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Ampthill",
+                "tournament": "RFU Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Newcastle",
+                "tournament": "Challenge Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "6",
+                "tournament": "0 0 6",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Cardiff",
+                "tournament": "United Rugby Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Dragons",
+                "tournament": "United Rugby Championship",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Bath",
+                "tournament": "Premiership",
+                "matches": 16,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Bath",
+                "tournament": "Premiership",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Bath",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Bath",
+                "tournament": "Premiership",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Bath",
+                "tournament": "Premiership",
+                "matches": 9,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "17/18",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Bath",
+                "tournament": "Premiership",
+                "matches": 13,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "16/17",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Bath",
+                "tournament": "Premiership",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Sammy ARNOLD",
+        "position": "Centre",
+        "dob": "08/04/1996",
+        "height": "1.82m",
+        "weight": "105kg",
+        "contract": "PRO",
+        "nation": "Ireland",
+        "club": "Newcastle",
+        "league": "Premiership",
+        "value": 850000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Newcastle",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "25/26",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 11,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 14,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Connacht",
+                "tournament": "United Rugby Championship",
+                "matches": 16,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "21/22",
+                "team": "6",
+                "tournament": "1 0 5",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Connacht",
+                "tournament": "Pro 14",
+                "matches": 9,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Munster",
+                "tournament": "Pro 14",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Connacht",
+                "tournament": "Pro 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Munster",
+                "tournament": "Pro 14",
+                "matches": 12,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "18/19",
+                "team": "4",
+                "tournament": "2 1 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Ireland",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Munster",
+                "tournament": "Pro 14",
+                "matches": 14,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "17/18",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Munster",
+                "tournament": "Pro 12",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Ulster",
+                "tournament": "Pro 12",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Ulster",
+                "tournament": "Pro 12",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Stewart MOORE",
+        "position": "Centre",
+        "dob": "08/08/1999",
+        "height": "1.84m",
+        "weight": "93kg",
+        "contract": "PRO",
+        "nation": "Ireland",
+        "club": "Newcastle",
+        "league": "Premiership",
+        "value": 175000.0,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Ulster",
+                "tournament": "United Rugby Championship",
+                "matches": 13,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Ulster",
+                "tournament": "United Rugby Championship",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Ulster",
+                "tournament": "United Rugby Championship",
+                "matches": 16,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "22/23",
+                "team": "4",
+                "tournament": "0 0 4",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Ulster",
+                "tournament": "United Rugby Championship",
+                "matches": 14,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Ulster",
+                "tournament": "Pro 14",
+                "matches": 13,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "20/21",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Ulster",
+                "tournament": "Pro 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Ireland U20",
+                "tournament": "U20 Championship",
+                "matches": 2,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Alex HEARLE",
+        "position": "Winger",
+        "dob": "08/11/1998",
+        "height": "1.85m",
+        "weight": "96kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Newcastle",
+        "league": "Premiership",
+        "value": 207000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Newcastle",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "25/26",
+                "team": "5",
+                "tournament": "0 0 5",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 14,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "7",
+                "tournament": "5 0 2",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Gloucester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "6",
+                "tournament": "3 0 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Worcester",
+                "tournament": "Premiership",
+                "matches": 3,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Gloucester",
+                "tournament": "Premiership",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Worcester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "12",
+                "tournament": "3 1 8",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Worcester",
+                "tournament": "Challenge Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "4",
+                "tournament": "0 0 4",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Worcester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Worcester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Worcester",
+                "tournament": "Anglo Welsh Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Christian WADE",
+        "position": "Winger",
+        "dob": "15/05/1991",
+        "height": "1.78m",
+        "weight": "89kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Newcastle",
+        "league": "Premiership",
+        "value": 350000.0,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Gloucester",
+                "tournament": "Premiership",
+                "matches": 14,
+                "tries": 11,
+                "points": 55
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Racing 92",
+                "tournament": "Top 14",
+                "matches": 14,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Racing 92",
+                "tournament": "Top 14",
+                "matches": 6,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "22/23",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Wasps",
+                "tournament": "Premiership",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Wasps",
+                "tournament": "Premiership",
+                "matches": 21,
+                "tries": 13,
+                "points": 67
+            },
+            {
+                "season": "17/18",
+                "team": "6",
+                "tournament": "3 0 3",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Wasps",
+                "tournament": "Premiership",
+                "matches": 23,
+                "tries": 17,
+                "points": 85
+            },
+            {
+                "season": "16/17",
+                "team": "6",
+                "tournament": "3 1 2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Wasps",
+                "tournament": "Premiership",
+                "matches": 17,
+                "tries": 12,
+                "points": 60
+            },
+            {
+                "season": "15/16",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Wasps",
+                "tournament": "Premiership",
+                "matches": 19,
+                "tries": 12,
+                "points": 60
+            },
+            {
+                "season": "14/15",
+                "team": "4",
+                "tournament": "1 1 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Wasps",
+                "tournament": "Premiership",
+                "matches": 8,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "13/14",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Elliott OBATOYINBO",
+        "position": "Winger",
+        "dob": "09/10/1998",
+        "height": "1.79m",
+        "weight": "89kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Newcastle",
+        "league": "Premiership",
+        "value": 200000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Newcastle",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "11",
+                "tournament": "0 0 11",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Newcastle",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 3,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "13",
+                "tournament": "5 0 8",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Saracens",
+                "tournament": "Premiership",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Saracens",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "10",
+                "tournament": "3 0 7",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Saracens",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Harrison OBATOYINBO",
+        "position": "Winger",
+        "dob": "15/07/2001",
+        "height": "1.87m",
+        "weight": "92kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Newcastle",
+        "league": "Premiership",
+        "value": 850000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Newcastle",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Toulon",
+                "tournament": "Top 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Joel GRAYSON",
+        "position": "Winger",
+        "dob": "15/04/2002",
+        "height": "1.87m",
+        "weight": "96kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Newcastle",
+        "league": "Premiership",
+        "value": 850000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Newcastle",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Ethan GRAYSON",
+        "position": "Fullback",
+        "dob": "15/04/2002",
+        "height": "1.92m",
+        "weight": "100kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Newcastle",
+        "league": "Premiership",
+        "value": 200000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 6,
+                "tries": 0,
+                "points": 23
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 14,
+                "tries": 1,
+                "points": 29
+            },
+            {
+                "season": "23/24",
+                "team": "Bedford",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 10,
+                "tries": 0,
+                "points": 12
+            },
+            {
+                "season": "22/23",
+                "team": "Bedford",
+                "tournament": "RFU Championship",
+                "matches": 15,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "22/23",
+                "team": "Northampton",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Northampton",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "England U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Liam WILLIAMS",
+        "position": "Fullback",
+        "dob": "09/04/1991",
+        "height": "1.85m",
+        "weight": "85kg",
+        "contract": "PRO",
+        "nation": "Wales",
+        "club": "Newcastle",
+        "league": "Premiership",
+        "value": 312000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Saracens",
+                "tournament": "Champions Cup",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Wales",
+                "tournament": "Six Nations Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Kubota Spears",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 6,
+                "tries": 3,
+                "points": 21
+            },
+            {
+                "season": "23/24",
+                "team": "Wales",
+                "tournament": "Summer Nations Series",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Cardiff",
+                "tournament": "United Rugby Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Wales",
+                "tournament": "Six Nations Championship",
+                "matches": 3,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Scarlets",
+                "tournament": "United Rugby Championship",
+                "matches": 4,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Wales",
+                "tournament": "Autumn Nations Cup",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Scarlets",
+                "tournament": "Pro 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Wales",
+                "tournament": "Autumn Nations Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Lions",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Wales",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "4",
+                "tournament": "4 0 0",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Saracens",
+                "tournament": "Premiership",
+                "matches": 9,
+                "tries": 9,
+                "points": 45
+            },
+            {
+                "season": "18/19",
+                "team": "6",
+                "tournament": "6 0 0",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Wales",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "18/19",
+                "team": "5",
+                "tournament": "5 0 0",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Saracens",
+                "tournament": "Premiership",
+                "matches": 12,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "17/18",
+                "team": "4",
+                "tournament": "2 1 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Wales",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Scarlets",
+                "tournament": "Pro 12",
+                "matches": 15,
+                "tries": 6,
+                "points": 45
+            },
+            {
+                "season": "16/17",
+                "team": "5",
+                "tournament": "2 1 2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Wales",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Lions",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Scarlets",
+                "tournament": "Pro 12",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "15/16",
+                "team": "Wales",
+                "tournament": "Rugby World Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "5",
+                "tournament": "3 1 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "4",
+                "tournament": "0 0 4",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Scarlets",
+                "tournament": "Pro 12",
+                "matches": 12,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "14/15",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Wales",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Scarlets",
+                "tournament": "Pro 12",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "13/14",
+                "team": "4",
+                "tournament": "1 1 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Wales",
+                "tournament": "Test Matchs",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Sam WAUGH",
+        "position": "Fullback",
+        "dob": "/07/2005",
+        "height": "1.98m",
+        "weight": "103kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Newcastle",
+        "league": "Premiership",
+        "value": 850000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Newcastle",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Stefan COETZEE",
+        "position": "Fullback",
+        "dob": "06/01/1998",
+        "height": "1.96m",
+        "weight": "110kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Newcastle",
+        "league": "Premiership",
+        "value": 850000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "25/26",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    }
+]

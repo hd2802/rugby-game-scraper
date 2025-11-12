@@ -1,0 +1,4858 @@
+[
+    {
+        "name": "Adrien BORDENAVE",
+        "position": "Prop",
+        "dob": "29/07/1993",
+        "height": "1.86m",
+        "weight": "117kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Oyonnax Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 21,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Oyonnax",
+                "tournament": "Top 14",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 26,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 23,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 24,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Bayonne",
+                "tournament": "Top 14",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Bayonne",
+                "tournament": "Pro D2",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Ali OZ",
+        "position": "Prop",
+        "dob": "28/05/1995",
+        "height": "1.93m",
+        "weight": "140kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Oyonnax Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 20,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Oyonnax",
+                "tournament": "Top 14",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Racing 92",
+                "tournament": "Top 14",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Racing 92",
+                "tournament": "Top 14",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Racing 92",
+                "tournament": "Top 14",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Racing 92",
+                "tournament": "Top 14",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Grenoble",
+                "tournament": "Top 14",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "6",
+                "tournament": "2 0 4",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Grenoble",
+                "tournament": "Pro D2",
+                "matches": 29,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "17/18",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Grenoble",
+                "tournament": "Top 14",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Grenoble",
+                "tournament": "Top 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Antoine ABRAHAM",
+        "position": "Prop",
+        "dob": "01/05/1995",
+        "height": "1.84m",
+        "weight": "113kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Oyonnax Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Oyonnax",
+                "tournament": "Top 14",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 18,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 20,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Massy",
+                "tournament": "Pro D2",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Massy",
+                "tournament": "Pro D2",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Massy",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Christopher VAOTOA",
+        "position": "Prop",
+        "dob": "16/11/1996",
+        "height": "1.85m",
+        "weight": "138kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Oyonnax Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Oyonnax",
+                "tournament": "Top 14",
+                "matches": 19,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "4",
+                "tournament": "0 0 4",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Montauban",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Montauban",
+                "tournament": "Pro D2",
+                "matches": 26,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Paris",
+                "tournament": "Top 14",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Montauban",
+                "tournament": "Pro D2",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Montauban",
+                "tournament": "Pro D2",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Montauban",
+                "tournament": "Pro D2",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Montauban",
+                "tournament": "Pro D2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Martin VILLAR",
+        "position": "Prop",
+        "dob": "06/11/2002",
+        "height": "1.84m",
+        "weight": "124kg",
+        "contract": "ACADEMY",
+        "nation": "Argentina",
+        "club": "Oyonnax Rugby",
+        "league": "Pro D2",
+        "value": 45000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Bayonne",
+                "tournament": "Top 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Bayonne",
+                "tournament": "Top 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Argentina U20",
+                "tournament": "Oceania Rugby U20 Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Mayco VIVAS",
+        "position": "Prop",
+        "dob": "02/06/1998",
+        "height": "1.86m",
+        "weight": "121kg",
+        "contract": "PRO",
+        "nation": "Argentina",
+        "club": "Oyonnax Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "25/26",
+                "team": "Argentina",
+                "tournament": "Autumn Nations Series",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Gloucester",
+                "tournament": "Premiership",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Argentina",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "6",
+                "tournament": "2 0 4",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Gloucester",
+                "tournament": "Premiership",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Argentina XV",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Argentina",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Gloucester",
+                "tournament": "Premiership",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Argentina",
+                "tournament": "Rugby Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Argentina",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Jaguares",
+                "tournament": "Super Rugby",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Argentina",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "4",
+                "tournament": "1 2 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Jaguares",
+                "tournament": "Super Rugby",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Argentina",
+                "tournament": "Rugby Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Paulo TAFILI",
+        "position": "Prop",
+        "dob": "15/02/1996",
+        "height": "1.83m",
+        "weight": "132kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Oyonnax Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 29,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Lyon",
+                "tournament": "Top 14",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Lyon",
+                "tournament": "Top 14",
+                "matches": 18,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Toulouse",
+                "tournament": "Top 14",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Toulouse",
+                "tournament": "Top 14",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Toulouse",
+                "tournament": "Top 14",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Toulouse",
+                "tournament": "Top 14",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Julien RATAJCZAK",
+        "position": "Hooker",
+        "dob": "22/04/2003",
+        "height": "1.74m",
+        "weight": "106kg",
+        "contract": "ACADEMY",
+        "nation": "France",
+        "club": "Oyonnax Rugby",
+        "league": "Pro D2",
+        "value": 45000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Bourgoin",
+                "tournament": "Nationale",
+                "matches": 20,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "Oyonnax",
+                "tournament": "Challenge Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "France U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Peniami Nasali NARISIA",
+        "position": "Hooker",
+        "dob": "10/06/1997",
+        "height": "1.87m",
+        "weight": "104kg",
+        "contract": "PRO",
+        "nation": "Fiji",
+        "club": "Oyonnax Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 23,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "Racing 92",
+                "tournament": "Top 14",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Racing 92",
+                "tournament": "Top 14",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 8,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 20,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Fiji",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Brive",
+                "tournament": "Challenge Cup",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Brive",
+                "tournament": "Challenge Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Sacha LONCHAMPT",
+        "position": "Hooker",
+        "dob": "/04/2006",
+        "height": "-",
+        "weight": "-",
+        "contract": "ACADEMY",
+        "nation": "France",
+        "club": "Oyonnax Rugby",
+        "league": "Pro D2",
+        "value": 45000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Vano KARKADZE",
+        "position": "Hooker",
+        "dob": "25/06/2000",
+        "height": "1.79m",
+        "weight": "114kg",
+        "contract": "PRO",
+        "nation": "Georgia",
+        "club": "Oyonnax Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "25/26",
+                "team": "Georgia",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Georgia",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "5",
+                "tournament": "5 0 0",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 19,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Georgia",
+                "tournament": "Rugby World Cup",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "5",
+                "tournament": "5 0 0",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Georgia",
+                "tournament": "Rugby Europe Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Brive",
+                "tournament": "Challenge Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Georgia",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Aurillac",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Georgia",
+                "tournament": "Rugby Europe Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Georgia U20",
+                "tournament": "U20 Championship",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Alban ROUSSEL",
+        "position": "Lock",
+        "dob": "11/09/1998",
+        "height": "1.96m",
+        "weight": "120kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Oyonnax Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Lyon",
+                "tournament": "Top 14",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Lyon",
+                "tournament": "Top 14",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Perpignan",
+                "tournament": "Pro D2",
+                "matches": 26,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Perpignan",
+                "tournament": "Pro D2",
+                "matches": 14,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "18/19",
+                "team": "Perpignan",
+                "tournament": "Challenge Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Perpignan",
+                "tournament": "Pro D2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Antonin CORSO",
+        "position": "Lock",
+        "dob": "09/04/2004",
+        "height": "1.94m",
+        "weight": "110kg",
+        "contract": "ACADEMY",
+        "nation": "France",
+        "club": "Oyonnax Rugby",
+        "league": "Pro D2",
+        "value": 45000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Oyonnax",
+                "tournament": "Challenge Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "France U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Leone ROTUISOLIA",
+        "position": "Lock",
+        "dob": "21/02/1998",
+        "height": "1.96m",
+        "weight": "123kg",
+        "contract": "PRO",
+        "nation": "Fiji",
+        "club": "Oyonnax Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Fijian Drua",
+                "tournament": "Super Rugby Pacific",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Fiji",
+                "tournament": "Autumn Nations Series",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Fijian Drua",
+                "tournament": "Super Rugby Pacific",
+                "matches": 13,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Fiji",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Fijian Drua",
+                "tournament": "Super Rugby Pacific",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Fiji",
+                "tournament": "Autumn Nations Series",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Fijian Drua",
+                "tournament": "Super Rugby Pacific",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Manuel LEINDEKAR",
+        "position": "Lock",
+        "dob": "23/04/1997",
+        "height": "2.05m",
+        "weight": "117kg",
+        "contract": "PRO",
+        "nation": "Uruguay",
+        "club": "Oyonnax Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "25/26",
+                "team": "Uruguay",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Uruguay",
+                "tournament": "Test Matchs",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Bayonne",
+                "tournament": "Top 14",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Uruguay",
+                "tournament": "Test Matchs",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Bayonne",
+                "tournament": "Top 14",
+                "matches": 19,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "4",
+                "tournament": "0 0 4",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Uruguay",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Uruguay",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Uruguay",
+                "tournament": "Rugby World Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Uruguay",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Oyonnax",
+                "tournament": "Challenge Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Phoenix BATTYE",
+        "position": "Lock",
+        "dob": "28/09/1990",
+        "height": "2.04m",
+        "weight": "124kg",
+        "contract": "PRO",
+        "nation": "Australia",
+        "club": "Oyonnax Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Oyonnax",
+                "tournament": "Top 14",
+                "matches": 19,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 23,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 23,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Oyonnax",
+                "tournament": "Top 14",
+                "matches": 24,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "Béziers",
+                "tournament": "Pro D2",
+                "matches": 27,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "15/16",
+                "team": "Béziers",
+                "tournament": "Pro D2",
+                "matches": 29,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Béziers",
+                "tournament": "Pro D2",
+                "matches": 21,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Western Force",
+                "tournament": "Super Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Victor LEBAS",
+        "position": "Lock",
+        "dob": "09/06/1993",
+        "height": "1.93m",
+        "weight": "110kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Oyonnax Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Oyonnax",
+                "tournament": "Top 14",
+                "matches": 19,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 18,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "6",
+                "tournament": "3 0 3",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 12,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "17/18",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 27,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "16/17",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 27,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "15/16",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "6",
+                "tournament": "3 0 3",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "4",
+                "tournament": "0 0 4",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "7",
+                "tournament": "5 1 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Antoine MIQUEL",
+        "position": "Back row",
+        "dob": "20/06/1994",
+        "height": "1.92m",
+        "weight": "109kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Oyonnax Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 21,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "6",
+                "tournament": "4 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Toulouse",
+                "tournament": "Top 14",
+                "matches": 17,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "Toulouse",
+                "tournament": "Top 14",
+                "matches": 14,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "Toulouse",
+                "tournament": "Top 14",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Agen",
+                "tournament": "Top 14",
+                "matches": 16,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "18/19",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Agen",
+                "tournament": "Top 14",
+                "matches": 20,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "17/18",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Agen",
+                "tournament": "Pro D2",
+                "matches": 27,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "15/16",
+                "team": "Agen",
+                "tournament": "Challenge Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Cyriac GUILLY",
+        "position": "Back row",
+        "dob": "06/04/2003",
+        "height": "1.92m",
+        "weight": "110kg",
+        "contract": "ACADEMY",
+        "nation": "France",
+        "club": "Oyonnax Rugby",
+        "league": "Pro D2",
+        "value": 45000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Clermont",
+                "tournament": "Top 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "France U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Hugo HERMET",
+        "position": "Back row",
+        "dob": "02/08/2001",
+        "height": "1.90m",
+        "weight": "95kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Oyonnax Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 22,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Oyonnax",
+                "tournament": "Challenge Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "5",
+                "tournament": "0 0 5",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Castres",
+                "tournament": "Champions Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Castres",
+                "tournament": "Challenge Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Kévin LEBRETON",
+        "position": "Back row",
+        "dob": "07/01/1995",
+        "height": "1.80m",
+        "weight": "99kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Oyonnax Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 28,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "23/24",
+                "team": "Oyonnax",
+                "tournament": "Top 14",
+                "matches": 24,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 25,
+                "tries": 8,
+                "points": 40
+            },
+            {
+                "season": "21/22",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 24,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "20/21",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 22,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "Aurillac",
+                "tournament": "Pro D2",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Aurillac",
+                "tournament": "Pro D2",
+                "matches": 22,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Aurillac",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Aurillac",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Albi",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Loïc GODENER",
+        "position": "Back row",
+        "dob": "13/08/1995",
+        "height": "1.88m",
+        "weight": "116kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Oyonnax Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 22,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "23/24",
+                "team": "Oyonnax",
+                "tournament": "Top 14",
+                "matches": 21,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Clermont",
+                "tournament": "Top 14",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Paris",
+                "tournament": "Top 14",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Paris",
+                "tournament": "Top 14",
+                "matches": 18,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Paris",
+                "tournament": "Top 14",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Grenoble",
+                "tournament": "Top 14",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "Barbarians FR",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Grenoble",
+                "tournament": "Pro D2",
+                "matches": 22,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "17/18",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Racing 92",
+                "tournament": "Top 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Pierre-Samuel PACHECO",
+        "position": "Back row",
+        "dob": "16/04/2000",
+        "height": "1.92m",
+        "weight": "115kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Oyonnax Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Lyon",
+                "tournament": "Challenge Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Lyon",
+                "tournament": "Top 14",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 21,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Uzair CASSIEM",
+        "position": "Back row",
+        "dob": "17/03/1990",
+        "height": "1.89m",
+        "weight": "112kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Oyonnax Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "24/25",
+                "team": "Bayonne",
+                "tournament": "Top 14",
+                "matches": 18,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Bayonne",
+                "tournament": "Top 14",
+                "matches": 22,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "22/23",
+                "team": "Bayonne",
+                "tournament": "Top 14",
+                "matches": 24,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "21/22",
+                "team": "Bayonne",
+                "tournament": "Pro D2",
+                "matches": 27,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "20/21",
+                "team": "Scarlets",
+                "tournament": "Pro 14",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "3",
+                "tournament": "1 1 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Scarlets",
+                "tournament": "Pro 14",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "6",
+                "tournament": "4 0 2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Scarlets",
+                "tournament": "Pro 14",
+                "matches": 14,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "18/19",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Cheetahs",
+                "tournament": "Pro 14",
+                "matches": 11,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "17/18",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Cheetahs",
+                "tournament": "Super Rugby",
+                "matches": 10,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "16/17",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "5",
+                "tournament": "2 2 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Cheetahs",
+                "tournament": "Super Rugby",
+                "matches": 15,
+                "tries": 6,
+                "points": 30
+            }
+        ]
+    },
+    {
+        "name": "Wandrille PICAULT",
+        "position": "Back row",
+        "dob": "04/10/1994",
+        "height": "1.85m",
+        "weight": "102kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Oyonnax Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 13,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Oyonnax",
+                "tournament": "Top 14",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 18,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 21,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 14,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "16/17",
+                "team": "Perpignan",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Jonathan RURU",
+        "position": "Scrum-half",
+        "dob": "02/02/1993",
+        "height": "1.83m",
+        "weight": "94kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Oyonnax Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 13,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Oyonnax",
+                "tournament": "Top 14",
+                "matches": 19,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Aix",
+                "tournament": "Pro D2",
+                "matches": 11,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Aix",
+                "tournament": "Pro D2",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Blues",
+                "tournament": "Super Rugby Aotearoa",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Auckland",
+                "tournament": "NPC",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Blues",
+                "tournament": "Super Rugby",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Auckland",
+                "tournament": "NPC",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "Blues",
+                "tournament": "Super Rugby",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Blues",
+                "tournament": "Super Rugby",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Jules SOLINAS",
+        "position": "Scrum-half",
+        "dob": "22/02/2003",
+        "height": "1.72m",
+        "weight": "82kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Oyonnax Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Nice",
+                "tournament": "Pro D2",
+                "matches": 25,
+                "tries": 3,
+                "points": 19
+            },
+            {
+                "season": "23/24",
+                "team": "Nice",
+                "tournament": "Nationale",
+                "matches": 25,
+                "tries": 6,
+                "points": 35
+            },
+            {
+                "season": "22/23",
+                "team": "Aix",
+                "tournament": "Pro D2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Aix",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Vasil LOBZHANIDZE",
+        "position": "Scrum-half",
+        "dob": "14/10/1996",
+        "height": "1.75m",
+        "weight": "77kg",
+        "contract": "PRO",
+        "nation": "Georgia",
+        "club": "Oyonnax Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "25/26",
+                "team": "Georgia",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 25,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Georgia",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "4 0 0",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Toulon",
+                "tournament": "Top 14",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Oyonnax",
+                "tournament": "Top 14",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Georgia",
+                "tournament": "Test Matchs",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "0 1 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 12,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Georgia",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "5",
+                "tournament": "5 0 0",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 21,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Georgia",
+                "tournament": "Autumn Nations Series",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "4",
+                "tournament": "2 1 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "4",
+                "tournament": "3 1 0",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Georgia",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "4",
+                "tournament": "0 0 4",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Georgia",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 18,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Georgia",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "4",
+                "tournament": "4 0 0",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Georgia",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "5",
+                "tournament": "5 0 0",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "7",
+                "tournament": "5 0 2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Georgia",
+                "tournament": "Test Matchs",
+                "matches": 6,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "15/16",
+                "team": "Georgia",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Justin BOURAUX",
+        "position": "Fly-half",
+        "dob": "18/06/2002",
+        "height": "1.83m",
+        "weight": "72kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Oyonnax Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 9,
+                "tries": 3,
+                "points": 112
+            },
+            {
+                "season": "24/25",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 13,
+                "tries": 3,
+                "points": 86
+            },
+            {
+                "season": "23/24",
+                "team": "Oyonnax",
+                "tournament": "Top 14",
+                "matches": 26,
+                "tries": 4,
+                "points": 52
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 26,
+                "tries": 2,
+                "points": 152
+            },
+            {
+                "season": "21/22",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 5,
+                "tries": 0,
+                "points": 4
+            }
+        ]
+    },
+    {
+        "name": "Luka MATKAVA",
+        "position": "Fly-half",
+        "dob": "10/05/2001",
+        "height": "1.78m",
+        "weight": "85kg",
+        "contract": "PRO",
+        "nation": "Georgia",
+        "club": "Oyonnax Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 7,
+                "tries": 0,
+                "points": 17
+            },
+            {
+                "season": "25/26",
+                "team": "Georgia",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Black Lion",
+                "tournament": "Challenge Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 39
+            },
+            {
+                "season": "24/25",
+                "team": "Castres",
+                "tournament": "Top 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 6
+            },
+            {
+                "season": "24/25",
+                "team": "Georgia",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 18
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 1,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Black Lion",
+                "tournament": "Challenge Cup",
+                "matches": 4,
+                "tries": 1,
+                "points": 32
+            },
+            {
+                "season": "23/24",
+                "team": "Georgia",
+                "tournament": "Test Matchs",
+                "matches": 5,
+                "tries": 1,
+                "points": 56
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 2,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "0 1 3",
+                "matches": 3,
+                "tries": 3,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "5",
+                "tournament": "5 0 0",
+                "matches": 5,
+                "tries": 4,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Georgia",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "5",
+                "tournament": "5 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Zack HOLMES",
+        "position": "Fly-half",
+        "dob": "30/05/1990",
+        "height": "1.75m",
+        "weight": "90kg",
+        "contract": "PRO",
+        "nation": "Australia",
+        "club": "Oyonnax Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 2,
+                "points": 135
+            },
+            {
+                "season": "23/24",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 11,
+                "tries": 0,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 23,
+                "tries": 0,
+                "points": 77
+            },
+            {
+                "season": "22/23",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 2,
+                "tries": 2,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Toulouse",
+                "tournament": "Top 14",
+                "matches": 18,
+                "tries": 1,
+                "points": 66
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Toulouse",
+                "tournament": "Top 14",
+                "matches": 21,
+                "tries": 2,
+                "points": 103
+            },
+            {
+                "season": "20/21",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Toulouse",
+                "tournament": "Top 14",
+                "matches": 13,
+                "tries": 1,
+                "points": 94
+            },
+            {
+                "season": "19/20",
+                "team": "6",
+                "tournament": "5 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Toulouse",
+                "tournament": "Top 14",
+                "matches": 18,
+                "tries": 3,
+                "points": 92
+            },
+            {
+                "season": "18/19",
+                "team": "7",
+                "tournament": "6 0 1",
+                "matches": 6,
+                "tries": 1,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Toulouse",
+                "tournament": "Top 14",
+                "matches": 23,
+                "tries": 6,
+                "points": 74
+            },
+            {
+                "season": "16/17",
+                "team": "La Rochelle",
+                "tournament": "Top 14",
+                "matches": 16,
+                "tries": 1,
+                "points": 131
+            },
+            {
+                "season": "16/17",
+                "team": "6",
+                "tournament": "5 0 1",
+                "matches": 3,
+                "tries": 1,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "La Rochelle",
+                "tournament": "Top 14",
+                "matches": 25,
+                "tries": 1,
+                "points": 254
+            },
+            {
+                "season": "15/16",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 2,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Western Force",
+                "tournament": "Super Rugby",
+                "matches": 10,
+                "tries": 0,
+                "points": 26
+            },
+            {
+                "season": "13/14",
+                "team": "Western Force",
+                "tournament": "Super Rugby",
+                "matches": 16,
+                "tries": 1,
+                "points": 18
+            }
+        ]
+    },
+    {
+        "name": "Danny TOALA",
+        "position": "Centre",
+        "dob": "26/03/1999",
+        "height": "1.78m",
+        "weight": "95kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Oyonnax Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Moana Pasifika",
+                "tournament": "Super Rugby Pacific",
+                "matches": 11,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "Moana Pasifika",
+                "tournament": "Super Rugby Pacific",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Hawke's Bay",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 3,
+                "points": 27
+            },
+            {
+                "season": "23/24",
+                "team": "Samoa",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Moana Pasifika",
+                "tournament": "Super Rugby Pacific",
+                "matches": 9,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "22/23",
+                "team": "Samoa",
+                "tournament": "Autumn Nations Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 1,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Moana Pasifika",
+                "tournament": "Super Rugby Pacific",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Hawke's Bay",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Samoa",
+                "tournament": "Pacific Nations Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Trans-Tasman",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Hawke's Bay",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Aotearoa",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Hawke's Bay",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "18/19",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Eddie SAWAILAU",
+        "position": "Centre",
+        "dob": "04/04/1996",
+        "height": "1.82m",
+        "weight": "107kg",
+        "contract": "PRO",
+        "nation": "Fiji",
+        "club": "Oyonnax Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 16,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Perpignan",
+                "tournament": "Top 14",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Perpignan",
+                "tournament": "Top 14",
+                "matches": 13,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "22/23",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Perpignan",
+                "tournament": "Challenge Cup",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 18,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "17/18",
+                "team": "Grenoble",
+                "tournament": "Pro D2",
+                "matches": 10,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "16/17",
+                "team": "Grenoble",
+                "tournament": "Top 14",
+                "matches": 18,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "16/17",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Louis MORLAND",
+        "position": "Centre",
+        "dob": "10/06/2004",
+        "height": "1.85m",
+        "weight": "87kg",
+        "contract": "ACADEMY",
+        "nation": "France",
+        "club": "Oyonnax Rugby",
+        "league": "Pro D2",
+        "value": 45000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 5,
+                "tries": 4,
+                "points": 20
+            }
+        ]
+    },
+    {
+        "name": "Lucas MENSA",
+        "position": "Centre",
+        "dob": "24/05/1996",
+        "height": "1.83m",
+        "weight": "94kg",
+        "contract": "PRO",
+        "nation": "Argentina",
+        "club": "Oyonnax Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 24,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "Oyonnax",
+                "tournament": "Top 14",
+                "matches": 18,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 22,
+                "tries": 9,
+                "points": 45
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Argentina XV",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 18,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "19/20",
+                "team": "Argentina",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Maëlan RABUT",
+        "position": "Centre",
+        "dob": "08/09/1996",
+        "height": "1.95m",
+        "weight": "98kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Oyonnax Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 7,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Toulon",
+                "tournament": "Top 14",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Toulon",
+                "tournament": "Top 14",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "4",
+                "tournament": "4 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 23,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 14,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "19/20",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Massy",
+                "tournament": "Pro D2",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "Massy",
+                "tournament": "Pro D2",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Enzo REYBIER",
+        "position": "Winger",
+        "dob": "04/04/2002",
+        "height": "1.75m",
+        "weight": "77kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Oyonnax Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 9,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Oyonnax",
+                "tournament": "Top 14",
+                "matches": 11,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "22/23",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 17,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "21/22",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 7,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "France U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 5,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "20/21",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "France U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 3,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Gavin STARK",
+        "position": "Winger",
+        "dob": "18/12/1995",
+        "height": "1.84m",
+        "weight": "96kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Oyonnax Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 13,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Oyonnax",
+                "tournament": "Top 14",
+                "matches": 16,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 15,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "21/22",
+                "team": "Biarritz",
+                "tournament": "Top 14",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Biarritz",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "20/21",
+                "team": "1",
+                "tournament": "0 1 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Biarritz",
+                "tournament": "Pro D2",
+                "matches": 16,
+                "tries": 6,
+                "points": 30
+            }
+        ]
+    },
+    {
+        "name": "Karim QADIRI",
+        "position": "Winger",
+        "dob": "16/02/1996",
+        "height": "1.89m",
+        "weight": "99kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Oyonnax Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 20,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "23/24",
+                "team": "Grenoble",
+                "tournament": "Pro D2",
+                "matches": 13,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Grenoble",
+                "tournament": "Pro D2",
+                "matches": 25,
+                "tries": 14,
+                "points": 70
+            },
+            {
+                "season": "21/22",
+                "team": "Grenoble",
+                "tournament": "Pro D2",
+                "matches": 21,
+                "tries": 12,
+                "points": 60
+            },
+            {
+                "season": "20/21",
+                "team": "Grenoble",
+                "tournament": "Pro D2",
+                "matches": 22,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "17/18",
+                "team": "Paris",
+                "tournament": "Challenge Cup",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "Paris",
+                "tournament": "Top 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Massy",
+                "tournament": "Pro D2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Maxime SALLES",
+        "position": "Winger",
+        "dob": "21/03/1997",
+        "height": "1.83m",
+        "weight": "95kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Oyonnax Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 23,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "Oyonnax",
+                "tournament": "Top 14",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Montauban",
+                "tournament": "Pro D2",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Montauban",
+                "tournament": "Pro D2",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Montauban",
+                "tournament": "Pro D2",
+                "matches": 21,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "19/20",
+                "team": "Montauban",
+                "tournament": "Pro D2",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Montauban",
+                "tournament": "Pro D2",
+                "matches": 14,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "17/18",
+                "team": "Montauban",
+                "tournament": "Pro D2",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Darren SWEETNAM",
+        "position": "Fullback",
+        "dob": "05/05/1993",
+        "height": "1.85m",
+        "weight": "105kg",
+        "contract": "PRO",
+        "nation": "Ireland",
+        "club": "Oyonnax Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 15,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Oyonnax",
+                "tournament": "Top 14",
+                "matches": 15,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 15,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 21,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "20/21",
+                "team": "Munster",
+                "tournament": "Pro 14",
+                "matches": 9,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "20/21",
+                "team": "La Rochelle",
+                "tournament": "Top 14",
+                "matches": 6,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "Munster",
+                "tournament": "Pro 14",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "Munster",
+                "tournament": "Pro 14",
+                "matches": 16,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "18/19",
+                "team": "4",
+                "tournament": "2 1 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Ireland",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Munster",
+                "tournament": "Pro 14",
+                "matches": 19,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "17/18",
+                "team": "5",
+                "tournament": "4 1 0",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Ireland",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "Munster",
+                "tournament": "Pro 12",
+                "matches": 19,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "16/17",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Munster",
+                "tournament": "Pro 12",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "14/15",
+                "team": "Munster",
+                "tournament": "Pro 12",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Martin BOGADO",
+        "position": "Fullback",
+        "dob": "29/04/1998",
+        "height": "1.92m",
+        "weight": "96kg",
+        "contract": "PRO",
+        "nation": "Argentina",
+        "club": "Oyonnax Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 20,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "23/24",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Argentina XV",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Argentina",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Bayonne",
+                "tournament": "Top 14",
+                "matches": 6,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 4,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Argentina XV",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Paul AURADOU",
+        "position": "Fullback",
+        "dob": "13/09/2001",
+        "height": "1.87m",
+        "weight": "87kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Oyonnax Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Nice",
+                "tournament": "Pro D2",
+                "matches": 22,
+                "tries": 1,
+                "points": 24
+            },
+            {
+                "season": "23/24",
+                "team": "Narbonne",
+                "tournament": "Nationale",
+                "matches": 19,
+                "tries": 7,
+                "points": 38
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Narbonne",
+                "tournament": "Nationale",
+                "matches": 14,
+                "tries": 2,
+                "points": 27
+            },
+            {
+                "season": "21/22",
+                "team": "Pau",
+                "tournament": "Challenge Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Sacha COURTHALIAC",
+        "position": "Fullback",
+        "dob": "16/01/2004",
+        "height": "1.80m",
+        "weight": "75kg",
+        "contract": "ACADEMY",
+        "nation": "France",
+        "club": "Oyonnax Rugby",
+        "league": "Pro D2",
+        "value": 45000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    }
+]

@@ -1,0 +1,5128 @@
+[
+    {
+        "name": "Francisco CORIA MARCHETTI",
+        "position": "Prop",
+        "dob": "07/10/2000",
+        "height": "1.86m",
+        "weight": "125kg",
+        "contract": "PRO",
+        "nation": "Argentina",
+        "club": "CA Brive Corrèze Limousin",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 25,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "24/25",
+                "team": "Argentina",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 25,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Argentina",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Brive",
+                "tournament": "Challenge Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Argentina U20",
+                "tournament": "U20 Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Henzo KITEAU",
+        "position": "Prop",
+        "dob": "11/11/2001",
+        "height": "1.90m",
+        "weight": "125kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "CA Brive Corrèze Limousin",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Clermont",
+                "tournament": "Top 14",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Aurillac",
+                "tournament": "Pro D2",
+                "matches": 21,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "France U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Hugo REILHÈS",
+        "position": "Prop",
+        "dob": "08/01/2001",
+        "height": "1.80m",
+        "weight": "108kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "CA Brive Corrèze Limousin",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Toulouse",
+                "tournament": "Top 14",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Toulouse",
+                "tournament": "Top 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Marcel VAN DER MERWE",
+        "position": "Prop",
+        "dob": "24/10/1990",
+        "height": "1.88m",
+        "weight": "129kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "CA Brive Corrèze Limousin",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 25,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "23/24",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 26,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 24,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "London Irish",
+                "tournament": "Premiership",
+                "matches": 19,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "4",
+                "tournament": "3 1 0",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "La Rochelle",
+                "tournament": "Top 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Toulon",
+                "tournament": "Top 14",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Bulls",
+                "tournament": "Super Rugby Unlocked",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Toulon",
+                "tournament": "Top 14",
+                "matches": 20,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Toulon",
+                "tournament": "Top 14",
+                "matches": 25,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "17/18",
+                "team": "7",
+                "tournament": "4 0 3",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Toulon",
+                "tournament": "Top 14",
+                "matches": 26,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "6",
+                "tournament": "3 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Bulls",
+                "tournament": "Super Rugby",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "15/16",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Bulls",
+                "tournament": "Super Rugby",
+                "matches": 14,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "14/15",
+                "team": "South Africa",
+                "tournament": "Rugby Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Bulls",
+                "tournament": "Super Rugby",
+                "matches": 16,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "13/14",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Nathan FRAISSENON",
+        "position": "Prop",
+        "dob": "20/07/2002",
+        "height": "1.80m",
+        "weight": "130kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "CA Brive Corrèze Limousin",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 25,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 18,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Simon-Pierre CHAUVAC",
+        "position": "Prop",
+        "dob": "23/03/1998",
+        "height": "1.90m",
+        "weight": "119kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "CA Brive Corrèze Limousin",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 25,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 16,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "1",
+                "tournament": "0 1 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 17,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 23,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "Brive",
+                "tournament": "Challenge Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Vakh ABDALADZE",
+        "position": "Prop",
+        "dob": "06/02/1996",
+        "height": "1.88m",
+        "weight": "121kg",
+        "contract": "PRO",
+        "nation": "Georgia",
+        "club": "CA Brive Corrèze Limousin",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 15,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Leinster",
+                "tournament": "United Rugby Championship",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Georgia",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Leinster",
+                "tournament": "United Rugby Championship",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Leinster",
+                "tournament": "Rainbow Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Leinster",
+                "tournament": "Pro 14",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Leinster",
+                "tournament": "Pro 14",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Leinster",
+                "tournament": "Pro 14",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Zaccharie AFFANE",
+        "position": "Prop",
+        "dob": "15/07/2004",
+        "height": "1.91m",
+        "weight": "127kg",
+        "contract": "ACADEMY",
+        "nation": "France",
+        "club": "CA Brive Corrèze Limousin",
+        "league": "Pro D2",
+        "value": 45000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "France U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "France U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "4",
+                "tournament": "4 0 0",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Benjamin BOUDOU",
+        "position": "Hooker",
+        "dob": "07/06/2002",
+        "height": "1.82m",
+        "weight": "110kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "CA Brive Corrèze Limousin",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 9,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "24/25",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 21,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "Clermont",
+                "tournament": "Top 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 13,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Nevers",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Clermont",
+                "tournament": "Top 14",
+                "matches": 12,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Aurillac",
+                "tournament": "Pro D2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Clermont",
+                "tournament": "Top 14",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "France U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Clermont",
+                "tournament": "Top 14",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "France U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Lucas DA SILVA",
+        "position": "Hooker",
+        "dob": "19/12/1997",
+        "height": "1.88m",
+        "weight": "115kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "CA Brive Corrèze Limousin",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 7,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 23,
+                "tries": 15,
+                "points": 75
+            },
+            {
+                "season": "23/24",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 22,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Paris",
+                "tournament": "Top 14",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Paris",
+                "tournament": "Top 14",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Paris",
+                "tournament": "Top 14",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Paris",
+                "tournament": "Top 14",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Paris",
+                "tournament": "Top 14",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Quentin ALGAY",
+        "position": "Hooker",
+        "dob": "/03/2006",
+        "height": "1.81m",
+        "weight": "100kg",
+        "contract": "ACADEMY",
+        "nation": "France",
+        "club": "CA Brive Corrèze Limousin",
+        "league": "Pro D2",
+        "value": 45000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "France U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Yanis CHARCOSSET",
+        "position": "Hooker",
+        "dob": "28/08/2001",
+        "height": "1.84m",
+        "weight": "104kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "CA Brive Corrèze Limousin",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Lyon",
+                "tournament": "Top 14",
+                "matches": 11,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "4 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Lyon",
+                "tournament": "Top 14",
+                "matches": 12,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Lyon",
+                "tournament": "Top 14",
+                "matches": 16,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "22/23",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Lyon",
+                "tournament": "Top 14",
+                "matches": 11,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "7",
+                "tournament": "7 0 0",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Alexandre RICARD",
+        "position": "Lock",
+        "dob": "30/06/1997",
+        "height": "2.00m",
+        "weight": "111kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "CA Brive Corrèze Limousin",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 24,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 25,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Asier USARRAGA",
+        "position": "Lock",
+        "dob": "31/12/1994",
+        "height": "1.88m",
+        "weight": "111kg",
+        "contract": "PRO",
+        "nation": "Spain",
+        "club": "CA Brive Corrèze Limousin",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 26,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Spain",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Spain",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Castres",
+                "tournament": "Top 14",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Bayonne",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Spain",
+                "tournament": "Rugby Europe Championship",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Bayonne",
+                "tournament": "Top 14",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Biarritz",
+                "tournament": "Pro D2",
+                "matches": 21,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "18/19",
+                "team": "Biarritz",
+                "tournament": "Pro D2",
+                "matches": 24,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "Spain",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Spain",
+                "tournament": "Rugby Europe Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Biarritz",
+                "tournament": "Pro D2",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "15/16",
+                "team": "Biarritz",
+                "tournament": "Pro D2",
+                "matches": 27,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Biarritz",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Irné HERBST",
+        "position": "Lock",
+        "dob": "04/05/1993",
+        "height": "2.00m",
+        "weight": "123kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "CA Brive Corrèze Limousin",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Harlequins",
+                "tournament": "Premiership",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Harlequins",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "14",
+                "tournament": "6 0 8",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "7",
+                "tournament": "5 0 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Harlequins",
+                "tournament": "Premiership",
+                "matches": 19,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Benetton",
+                "tournament": "United Rugby Championship",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Benetton",
+                "tournament": "Pro 14",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Benetton",
+                "tournament": "Pro 14",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Benetton",
+                "tournament": "Pro 14",
+                "matches": 18,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Benetton",
+                "tournament": "Pro 14",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Kings",
+                "tournament": "Super Rugby",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Konstantine MIKAUTADZE",
+        "position": "Lock",
+        "dob": "01/07/1991",
+        "height": "2.00m",
+        "weight": "128kg",
+        "contract": "PRO",
+        "nation": "Georgia",
+        "club": "CA Brive Corrèze Limousin",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 26,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Bayonne",
+                "tournament": "Top 14",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "1 1 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Georgia",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "0 1 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Bayonne",
+                "tournament": "Top 14",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Georgia",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "5",
+                "tournament": "5 0 0",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Bayonne",
+                "tournament": "Pro D2",
+                "matches": 20,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Georgia",
+                "tournament": "Autumn Nations Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "1 1 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Bayonne",
+                "tournament": "Top 14",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "1",
+                "tournament": "0 1 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Georgia",
+                "tournament": "Autumn Nations Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Georgia",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Georgia",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Georgia",
+                "tournament": "Test Matchs",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Toulon",
+                "tournament": "Top 14",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "15/16",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Georgia",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Toulon",
+                "tournament": "Top 14",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Georgia",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Toulon",
+                "tournament": "Top 14",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Georgia",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Teun KARST",
+        "position": "Lock",
+        "dob": "/12/2004",
+        "height": "1.98m",
+        "weight": "120kg",
+        "contract": "ACADEMY",
+        "nation": "Netherlands",
+        "club": "CA Brive Corrèze Limousin",
+        "league": "Pro D2",
+        "value": 45000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Anthony COLETTA",
+        "position": "Back row",
+        "dob": "25/04/1989",
+        "height": "1.95m",
+        "weight": "110kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "CA Brive Corrèze Limousin",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 27,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 22,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "22/23",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 22,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "20/21",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 27,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 20,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 24,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Dax",
+                "tournament": "Pro D2",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "15/16",
+                "team": "Dax",
+                "tournament": "Pro D2",
+                "matches": 26,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "14/15",
+                "team": "Dax",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Dax",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Courtney LAWES",
+        "position": "Back row",
+        "dob": "23/02/1989",
+        "height": "2.01m",
+        "weight": "115kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "CA Brive Corrèze Limousin",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 22,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Northampton",
+                "tournament": "Premiership",
+                "matches": 12,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "7",
+                "tournament": "6 0 1",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "England",
+                "tournament": "Summer Nations Series",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Northampton",
+                "tournament": "Premiership",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "England",
+                "tournament": "Six Nations Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Northampton",
+                "tournament": "Premiership",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "England",
+                "tournament": "Autumn Nations Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Northampton",
+                "tournament": "Champions Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "England",
+                "tournament": "Six Nations Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Lions",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Northampton",
+                "tournament": "Champions Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "8",
+                "tournament": "2 0 6",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "England",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "6",
+                "tournament": "5 0 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Northampton",
+                "tournament": "Premiership",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "England",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Northampton",
+                "tournament": "Premiership",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "England",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Northampton",
+                "tournament": "Premiership",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "England",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Lions",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Northampton",
+                "tournament": "Premiership",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "15/16",
+                "team": "5",
+                "tournament": "2 1 2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "England",
+                "tournament": "Test Matchs",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Northampton",
+                "tournament": "Premiership",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "England",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Northampton",
+                "tournament": "Premiership",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "6",
+                "tournament": "4 0 2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "England",
+                "tournament": "Test Matchs",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Geoffrey MALATERRE",
+        "position": "Back row",
+        "dob": "/08/2005",
+        "height": "1.87m",
+        "weight": "95kg",
+        "contract": "ACADEMY",
+        "nation": "France",
+        "club": "CA Brive Corrèze Limousin",
+        "league": "Pro D2",
+        "value": 45000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "France U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Henco VENTER",
+        "position": "Back row",
+        "dob": "27/03/1992",
+        "height": "1.87m",
+        "weight": "108kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "CA Brive Corrèze Limousin",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Glasgow",
+                "tournament": "United Rugby Championship",
+                "matches": 11,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Glasgow",
+                "tournament": "United Rugby Championship",
+                "matches": 18,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 17,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "Sharks",
+                "tournament": "Rainbow Cup SA",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Cheetahs",
+                "tournament": "Pro 14",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Sharks",
+                "tournament": "Super Rugby",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Cheetahs",
+                "tournament": "Pro 14",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "Cheetahs",
+                "tournament": "Pro 14",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "Cheetahs",
+                "tournament": "Super Rugby",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Cheetahs",
+                "tournament": "Super Rugby",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Cheetahs",
+                "tournament": "Super Rugby",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "13/14",
+                "team": "Cheetahs",
+                "tournament": "Super Rugby",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Hendré STASSEN",
+        "position": "Back row",
+        "dob": "29/12/1997",
+        "height": "2.00m",
+        "weight": "120kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "CA Brive Corrèze Limousin",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Stormers",
+                "tournament": "United Rugby Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Paris",
+                "tournament": "Top 14",
+                "matches": 15,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "18/19",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Bulls",
+                "tournament": "Super Rugby",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Bulls",
+                "tournament": "Super Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Retief MARAIS",
+        "position": "Back row",
+        "dob": "20/07/1995",
+        "height": "1.94m",
+        "weight": "109kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "CA Brive Corrèze Limousin",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 26,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 30,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 22,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 23,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Brive",
+                "tournament": "Challenge Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Samuel MAXIMIN",
+        "position": "Back row",
+        "dob": "30/04/2001",
+        "height": "2.00m",
+        "weight": "110kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "CA Brive Corrèze Limousin",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 21,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 26,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "22/23",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Sasha GUÉ",
+        "position": "Back row",
+        "dob": "19/06/2000",
+        "height": "1.93m",
+        "weight": "100kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "CA Brive Corrèze Limousin",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 26,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Brive",
+                "tournament": "Challenge Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Taniela SADRUGU",
+        "position": "Back row",
+        "dob": "25/07/1998",
+        "height": "1.91m",
+        "weight": "113kg",
+        "contract": "PRO",
+        "nation": "Fiji",
+        "club": "CA Brive Corrèze Limousin",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 20,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 23,
+                "tries": 5,
+                "points": 25
+            }
+        ]
+    },
+    {
+        "name": "Yann PEYSSON",
+        "position": "Back row",
+        "dob": "06/07/2000",
+        "height": "1.92m",
+        "weight": "103kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "CA Brive Corrèze Limousin",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Castres",
+                "tournament": "Top 14",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Castres",
+                "tournament": "Top 14",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "France Développement",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 21,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "France U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "John COONEY",
+        "position": "Scrum-half",
+        "dob": "01/05/1990",
+        "height": "1.78m",
+        "weight": "87kg",
+        "contract": "PRO",
+        "nation": "Ireland",
+        "club": "CA Brive Corrèze Limousin",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 3,
+                "points": 33
+            },
+            {
+                "season": "24/25",
+                "team": "Ulster",
+                "tournament": "United Rugby Championship",
+                "matches": 11,
+                "tries": 2,
+                "points": 35
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Ulster",
+                "tournament": "United Rugby Championship",
+                "matches": 15,
+                "tries": 1,
+                "points": 111
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 3,
+                "tries": 2,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Ulster",
+                "tournament": "United Rugby Championship",
+                "matches": 17,
+                "tries": 3,
+                "points": 139
+            },
+            {
+                "season": "22/23",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 1,
+                "tries": 1,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Ulster",
+                "tournament": "United Rugby Championship",
+                "matches": 13,
+                "tries": 1,
+                "points": 62
+            },
+            {
+                "season": "21/22",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 4,
+                "tries": 9,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Ulster",
+                "tournament": "Pro 14",
+                "matches": 13,
+                "tries": 5,
+                "points": 115
+            },
+            {
+                "season": "20/21",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 3,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 3,
+                "tries": 2,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Ulster",
+                "tournament": "Pro 14",
+                "matches": 13,
+                "tries": 4,
+                "points": 105
+            },
+            {
+                "season": "19/20",
+                "team": "7",
+                "tournament": "5 0 2",
+                "matches": 7,
+                "tries": 9,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Ireland",
+                "tournament": "Six Nations Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 2
+            },
+            {
+                "season": "18/19",
+                "team": "Ulster",
+                "tournament": "Pro 14",
+                "matches": 15,
+                "tries": 2,
+                "points": 101
+            },
+            {
+                "season": "18/19",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 4,
+                "tries": 6,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Ireland",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Ulster",
+                "tournament": "Pro 14",
+                "matches": 19,
+                "tries": 4,
+                "points": 175
+            },
+            {
+                "season": "17/18",
+                "team": "6",
+                "tournament": "4 0 2",
+                "matches": 5,
+                "tries": 10,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Ireland",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Connacht",
+                "tournament": "Pro 12",
+                "matches": 11,
+                "tries": 2,
+                "points": 46
+            },
+            {
+                "season": "16/17",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Ireland",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Connacht",
+                "tournament": "Pro 12",
+                "matches": 11,
+                "tries": 1,
+                "points": 11
+            },
+            {
+                "season": "14/15",
+                "team": "Connacht",
+                "tournament": "Pro 12",
+                "matches": 14,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "14/15",
+                "team": "Leinster",
+                "tournament": "Pro 12",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Leinster",
+                "tournament": "Pro 12",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Mathis GALTHIÉ",
+        "position": "Scrum-half",
+        "dob": "18/11/2001",
+        "height": "1.78m",
+        "weight": "81kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "CA Brive Corrèze Limousin",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 11,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Barbarian F.C.",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Maxime SIDOBRE",
+        "position": "Scrum-half",
+        "dob": "25/10/1998",
+        "height": "1.75m",
+        "weight": "87kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "CA Brive Corrèze Limousin",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 7,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 28,
+                "tries": 7,
+                "points": 37
+            },
+            {
+                "season": "22/23",
+                "team": "Bourgoin",
+                "tournament": "Nationale",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Bourgoin",
+                "tournament": "Nationale",
+                "matches": 13,
+                "tries": 2,
+                "points": 38
+            },
+            {
+                "season": "19/20",
+                "team": "Carcassonne",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Carcassonne",
+                "tournament": "Pro D2",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "Carcassonne",
+                "tournament": "Pro D2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Curwin BOSCH",
+        "position": "Fly-half",
+        "dob": "25/06/1997",
+        "height": "1.80m",
+        "weight": "85kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "CA Brive Corrèze Limousin",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 4,
+                "tries": 1,
+                "points": 25
+            },
+            {
+                "season": "24/25",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 25,
+                "tries": 2,
+                "points": 209
+            },
+            {
+                "season": "23/24",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 14,
+                "tries": 1,
+                "points": 52
+            },
+            {
+                "season": "23/24",
+                "team": "7",
+                "tournament": "6 0 1",
+                "matches": 4,
+                "tries": 3,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 11,
+                "tries": 2,
+                "points": 104
+            },
+            {
+                "season": "22/23",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 5,
+                "tries": 9,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 14,
+                "tries": 2,
+                "points": 138
+            },
+            {
+                "season": "20/21",
+                "team": "Sharks",
+                "tournament": "Rainbow Cup SA",
+                "matches": 5,
+                "tries": 0,
+                "points": 43
+            },
+            {
+                "season": "19/20",
+                "team": "Sharks",
+                "tournament": "Super Rugby",
+                "matches": 6,
+                "tries": 1,
+                "points": 86
+            },
+            {
+                "season": "19/20",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 5,
+                "tries": 13,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Sharks",
+                "tournament": "Super Rugby",
+                "matches": 14,
+                "tries": 2,
+                "points": 97
+            },
+            {
+                "season": "17/18",
+                "team": "Sharks",
+                "tournament": "Super Rugby",
+                "matches": 17,
+                "tries": 3,
+                "points": 22
+            },
+            {
+                "season": "17/18",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Sharks",
+                "tournament": "Super Rugby",
+                "matches": 13,
+                "tries": 3,
+                "points": 151
+            },
+            {
+                "season": "16/17",
+                "team": "South Africa",
+                "tournament": "Rugby Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Sharks",
+                "tournament": "Super Rugby",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Hugo VERDU",
+        "position": "Fly-half",
+        "dob": "24/10/1996",
+        "height": "1.76m",
+        "weight": "82kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "CA Brive Corrèze Limousin",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 20,
+                "tries": 0,
+                "points": 39
+            },
+            {
+                "season": "23/24",
+                "team": "Massy",
+                "tournament": "Nationale",
+                "matches": 21,
+                "tries": 1,
+                "points": 225
+            },
+            {
+                "season": "22/23",
+                "team": "Nice",
+                "tournament": "Nationale",
+                "matches": 8,
+                "tries": 0,
+                "points": 66
+            },
+            {
+                "season": "21/22",
+                "team": "Nice",
+                "tournament": "Nationale",
+                "matches": 15,
+                "tries": 3,
+                "points": 140
+            },
+            {
+                "season": "20/21",
+                "team": "Agen",
+                "tournament": "Top 14",
+                "matches": 13,
+                "tries": 0,
+                "points": 33
+            },
+            {
+                "season": "20/21",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 3,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Agen",
+                "tournament": "Top 14",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "5",
+                "tournament": "0 0 5",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Agen",
+                "tournament": "Top 14",
+                "matches": 6,
+                "tries": 0,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 1,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Agen",
+                "tournament": "Top 14",
+                "matches": 13,
+                "tries": 1,
+                "points": 24
+            },
+            {
+                "season": "17/18",
+                "team": "6",
+                "tournament": "1 0 5",
+                "matches": 6,
+                "tries": 6,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Agen",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Stuart OLDING",
+        "position": "Fly-half",
+        "dob": "11/03/1993",
+        "height": "1.80m",
+        "weight": "92kg",
+        "contract": "PRO",
+        "nation": "Ireland",
+        "club": "CA Brive Corrèze Limousin",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 7,
+                "tries": 1,
+                "points": 8
+            },
+            {
+                "season": "24/25",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 17,
+                "tries": 1,
+                "points": 33
+            },
+            {
+                "season": "23/24",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 23,
+                "tries": 4,
+                "points": 110
+            },
+            {
+                "season": "22/23",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 13,
+                "tries": 0,
+                "points": 2
+            },
+            {
+                "season": "22/23",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 16,
+                "tries": 0,
+                "points": 31
+            },
+            {
+                "season": "20/21",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 7,
+                "tries": 0,
+                "points": 2
+            },
+            {
+                "season": "19/20",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 25,
+                "tries": 4,
+                "points": 74
+            },
+            {
+                "season": "18/19",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Ulster",
+                "tournament": "Pro 12",
+                "matches": 12,
+                "tries": 2,
+                "points": 16
+            },
+            {
+                "season": "16/17",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Ulster",
+                "tournament": "Pro 12",
+                "matches": 12,
+                "tries": 2,
+                "points": 14
+            },
+            {
+                "season": "15/16",
+                "team": "Ireland",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Ulster",
+                "tournament": "Pro 12",
+                "matches": 13,
+                "tries": 2,
+                "points": 12
+            },
+            {
+                "season": "14/15",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Ireland",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "13/14",
+                "team": "Ulster",
+                "tournament": "Pro 12",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Ben TAPUAI",
+        "position": "Centre",
+        "dob": "19/01/1989",
+        "height": "1.80m",
+        "weight": "100kg",
+        "contract": "PRO",
+        "nation": "Australia",
+        "club": "CA Brive Corrèze Limousin",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 12,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 19,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "6",
+                "tournament": "4 0 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Harlequins",
+                "tournament": "Premiership",
+                "matches": 12,
+                "tries": 0,
+                "points": 2
+            },
+            {
+                "season": "20/21",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Harlequins",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "6",
+                "tournament": "2 0 4",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Harlequins",
+                "tournament": "Premiership",
+                "matches": 15,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "18/19",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Bath",
+                "tournament": "Premiership",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Bath",
+                "tournament": "Premiership",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "6",
+                "tournament": "4 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Western Force",
+                "tournament": "Super Rugby",
+                "matches": 12,
+                "tries": 3,
+                "points": 22
+            },
+            {
+                "season": "14/15",
+                "team": "Reds",
+                "tournament": "Super Rugby",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Reds",
+                "tournament": "Super Rugby",
+                "matches": 16,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Kévin FABIEN",
+        "position": "Centre",
+        "dob": "01/10/2002",
+        "height": "1.82m",
+        "weight": "98kg",
+        "contract": "PRO",
+        "nation": "Haiti",
+        "club": "CA Brive Corrèze Limousin",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Paul PIMIENTA",
+        "position": "Centre",
+        "dob": "12/09/1995",
+        "height": "1.82m",
+        "weight": "88kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "CA Brive Corrèze Limousin",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 14,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 15,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "18/19",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 20,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Asaeli TUIVUAKA",
+        "position": "Winger",
+        "dob": "22/12/1995",
+        "height": "1.76m",
+        "weight": "104kg",
+        "contract": "PRO",
+        "nation": "Fiji",
+        "club": "CA Brive Corrèze Limousin",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 12,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 20,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "22/23",
+                "team": "Racing 92",
+                "tournament": "Top 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Erwan DRIDI",
+        "position": "Winger",
+        "dob": "04/07/2000",
+        "height": "1.87m",
+        "weight": "92kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "CA Brive Corrèze Limousin",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 7,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "24/25",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 26,
+                "tries": 10,
+                "points": 50
+            },
+            {
+                "season": "23/24",
+                "team": "Grenoble",
+                "tournament": "Pro D2",
+                "matches": 17,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "22/23",
+                "team": "Grenoble",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "21/22",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 16,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "20/21",
+                "team": "Toulon",
+                "tournament": "Top 14",
+                "matches": 12,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "19/20",
+                "team": "Toulon",
+                "tournament": "Challenge Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "France U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "Toulon",
+                "tournament": "Top 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "France U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Eto BAINIVALU",
+        "position": "Winger",
+        "dob": "13/02/2001",
+        "height": "1.92m",
+        "weight": "106kg",
+        "contract": "PRO",
+        "nation": "Fiji",
+        "club": "CA Brive Corrèze Limousin",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Aix",
+                "tournament": "Pro D2",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Aix",
+                "tournament": "Pro D2",
+                "matches": 16,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Toulouse",
+                "tournament": "Top 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Geoffrey CROS",
+        "position": "Winger",
+        "dob": "08/03/1997",
+        "height": "1.85m",
+        "weight": "85kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "CA Brive Corrèze Limousin",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Grenoble",
+                "tournament": "Pro D2",
+                "matches": 14,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "Grenoble",
+                "tournament": "Pro D2",
+                "matches": 23,
+                "tries": 10,
+                "points": 50
+            },
+            {
+                "season": "22/23",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 8,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 6,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "19/20",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 12,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "19/20",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Bordeaux",
+                "tournament": "Challenge Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Tarbes",
+                "tournament": "Pro D2",
+                "matches": 9,
+                "tries": 2,
+                "points": 22
+            }
+        ]
+    },
+    {
+        "name": "Maxence BIASOTTO",
+        "position": "Winger",
+        "dob": "08/07/2004",
+        "height": "1.82m",
+        "weight": "85kg",
+        "contract": "ACADEMY",
+        "nation": "France",
+        "club": "CA Brive Corrèze Limousin",
+        "league": "Pro D2",
+        "value": 45000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "France U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "France U20",
+                "tournament": "U20 Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Jamie SHILLCOCK",
+        "position": "Fullback",
+        "dob": "01/08/1997",
+        "height": "1.83m",
+        "weight": "91kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "CA Brive Corrèze Limousin",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 0,
+                "points": 69
+            },
+            {
+                "season": "24/25",
+                "team": "Leicester",
+                "tournament": "Premiership",
+                "matches": 15,
+                "tries": 0,
+                "points": 23
+            },
+            {
+                "season": "24/25",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "England A",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 6
+            },
+            {
+                "season": "23/24",
+                "team": "Leicester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 6,
+                "tries": 1,
+                "points": 38
+            },
+            {
+                "season": "23/24",
+                "team": "16",
+                "tournament": "8 0 8",
+                "matches": 7,
+                "tries": 9,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 3,
+                "tries": 2,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Worcester",
+                "tournament": "Premiership",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Bath",
+                "tournament": "Premiership",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 12,
+                "tries": 2,
+                "points": 84
+            },
+            {
+                "season": "21/22",
+                "team": "Worcester",
+                "tournament": "Premiership",
+                "matches": 15,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "1 1 1",
+                "matches": 2,
+                "tries": 2,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Worcester",
+                "tournament": "Premiership",
+                "matches": 13,
+                "tries": 3,
+                "points": 59
+            },
+            {
+                "season": "20/21",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 3,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Worcester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 3,
+                "tries": 1,
+                "points": 9
+            },
+            {
+                "season": "19/20",
+                "team": "9",
+                "tournament": "2 0 7",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 4,
+                "tries": 2,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Worcester",
+                "tournament": "Challenge Cup",
+                "matches": 3,
+                "tries": 2,
+                "points": 28
+            },
+            {
+                "season": "18/19",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Worcester",
+                "tournament": "Premiership",
+                "matches": 17,
+                "tries": 4,
+                "points": 40
+            },
+            {
+                "season": "17/18",
+                "team": "5",
+                "tournament": "2 1 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Worcester",
+                "tournament": "Premiership",
+                "matches": 10,
+                "tries": 2,
+                "points": 43
+            },
+            {
+                "season": "16/17",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Julien TISSERON",
+        "position": "Fullback",
+        "dob": "12/08/1995",
+        "height": "1.83m",
+        "weight": "86kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "CA Brive Corrèze Limousin",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 18,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 15,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "22/23",
+                "team": "4",
+                "tournament": "1 1 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 21,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 12,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "20/21",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Bayonne",
+                "tournament": "Top 14",
+                "matches": 11,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "4",
+                "tournament": "0 0 4",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Bayonne",
+                "tournament": "Pro D2",
+                "matches": 26,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "17/18",
+                "team": "Bayonne",
+                "tournament": "Pro D2",
+                "matches": 17,
+                "tries": 8,
+                "points": 40
+            },
+            {
+                "season": "16/17",
+                "team": "Bayonne",
+                "tournament": "Top 14",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "4",
+                "tournament": "0 0 4",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Bayonne",
+                "tournament": "Pro D2",
+                "matches": 7,
+                "tries": 4,
+                "points": 20
+            }
+        ]
+    },
+    {
+        "name": "Nic KRONE",
+        "position": "Fullback",
+        "dob": "22/03/2003",
+        "height": "1.86m",
+        "weight": "98kg",
+        "contract": "ACADEMY",
+        "nation": "South Africa",
+        "club": "CA Brive Corrèze Limousin",
+        "league": "Pro D2",
+        "value": 45000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Brive",
+                "tournament": "Challenge Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Thomas ZÉNON",
+        "position": "Fullback",
+        "dob": "04/03/1999",
+        "height": "1.95m",
+        "weight": "100kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "CA Brive Corrèze Limousin",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Nevers",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Nevers",
+                "tournament": "Pro D2",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Béziers",
+                "tournament": "Pro D2",
+                "matches": 15,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "20/21",
+                "team": "Béziers",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "Béziers",
+                "tournament": "Pro D2",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    }
+]

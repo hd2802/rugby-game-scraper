@@ -1,0 +1,6240 @@
+[
+    {
+        "name": "Cammy DAWSON",
+        "position": "Prop",
+        "dob": "06/01/1999",
+        "height": "1.81m",
+        "weight": "116kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 850000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Cheetahs",
+                "tournament": "Challenge Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Kings",
+                "tournament": "Pro 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Cheetahs",
+                "tournament": "Super Rugby Unlocked",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Cebo DLAMINI",
+        "position": "Prop",
+        "dob": "29/11/2001",
+        "height": "1.76m",
+        "weight": "115kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 75000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Dian HEUNIS",
+        "position": "Prop",
+        "dob": "20/05/2003",
+        "height": "1.85m",
+        "weight": "126kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 850000,
+        "playing_history": [
+            {
+                "season": "22/23",
+                "team": "South Africa U20",
+                "tournament": "U20 Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Eduan SWART",
+        "position": "Prop",
+        "dob": "20/10/2000",
+        "height": "1.86m",
+        "weight": "115kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 100000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Scarlets",
+                "tournament": "Challenge Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Hanro JACOBS",
+        "position": "Prop",
+        "dob": "14/03/2000",
+        "height": "1.85m",
+        "weight": "129kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 100000.0,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "8",
+                "tournament": "7 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Sharks",
+                "tournament": "Champions Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Lee-Marvin MAZIBUKO",
+        "position": "Prop",
+        "dob": "12/10/1997",
+        "height": "1.82m",
+        "weight": "113kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 75000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Racing 92",
+                "tournament": "Top 14",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Stormers",
+                "tournament": "United Rugby Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Stormers",
+                "tournament": "United Rugby Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Stormers",
+                "tournament": "United Rugby Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Mawande MDANDA",
+        "position": "Prop",
+        "dob": "09/03/2003",
+        "height": "1.89m",
+        "weight": "132kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 75000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Sharks",
+                "tournament": "Challenge Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "South Africa U20",
+                "tournament": "U20 Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Ox NCHÉ",
+        "position": "Prop",
+        "dob": "23/07/1995",
+        "height": "1.76m",
+        "weight": "123kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 850000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "25/26",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "South Africa",
+                "tournament": "Autumn Nations Series",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 10,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "8",
+                "tournament": "7 0 1",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "South Africa",
+                "tournament": "Summer Nations Series",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "7",
+                "tournament": "6 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "6",
+                "tournament": "5 0 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "South Africa",
+                "tournament": "Autumn Nations Series",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "South Africa",
+                "tournament": "Autumn Nations Series",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Sharks",
+                "tournament": "Rainbow Cup SA",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Cheetahs",
+                "tournament": "Pro 14",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Sharks",
+                "tournament": "Super Rugby",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Cheetahs",
+                "tournament": "Pro 14",
+                "matches": 16,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "17/18",
+                "team": "Cheetahs",
+                "tournament": "Pro 14",
+                "matches": 22,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "17/18",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Cheetahs",
+                "tournament": "Super Rugby",
+                "matches": 13,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "15/16",
+                "team": "Cheetahs",
+                "tournament": "Super Rugby",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Phatu GANYANE",
+        "position": "Prop",
+        "dob": "17/01/2003",
+        "height": "1.85m",
+        "weight": "123kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 75000.0,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Sharks",
+                "tournament": "Champions Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "South Africa U20",
+                "tournament": "U20 Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Ruan DREYER",
+        "position": "Prop",
+        "dob": "16/09/1990",
+        "height": "1.86m",
+        "weight": "115kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 78000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "3",
+                "tournament": "1 1 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Lions",
+                "tournament": "Rainbow Cup SA",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Gloucester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Lions",
+                "tournament": "Super Rugby Unlocked",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Gloucester",
+                "tournament": "Premiership",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "Lions",
+                "tournament": "Super Rugby",
+                "matches": 18,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "17/18",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Lions",
+                "tournament": "Super Rugby",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "3",
+                "tournament": "0 1 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Lions",
+                "tournament": "Super Rugby",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Lions",
+                "tournament": "Super Rugby",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Lions",
+                "tournament": "Super Rugby",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Simphiwe MATANZIMA",
+        "position": "Prop",
+        "dob": "18/08/1997",
+        "height": "1.83m",
+        "weight": "121kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 105000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Bulls",
+                "tournament": "United Rugby Championship",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Bulls",
+                "tournament": "United Rugby Championship",
+                "matches": 21,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "6",
+                "tournament": "4 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Bulls",
+                "tournament": "United Rugby Championship",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Bulls",
+                "tournament": "United Rugby Championship",
+                "matches": 19,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "Bulls",
+                "tournament": "Super Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Bulls",
+                "tournament": "Super Rugby",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "Bulls",
+                "tournament": "Super Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Simphiwe NGOBESE",
+        "position": "Prop",
+        "dob": "/08/2005",
+        "height": "1.83m",
+        "weight": "119kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 850000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "South Africa U20",
+                "tournament": "Rugby Championship U20",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "4 0 0",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Trevor NYAKANE",
+        "position": "Prop",
+        "dob": "04/05/1989",
+        "height": "1.78m",
+        "weight": "122kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 125000.0,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Racing 92",
+                "tournament": "Top 14",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "5",
+                "tournament": "1 0 4",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Racing 92",
+                "tournament": "Top 14",
+                "matches": 19,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "South Africa",
+                "tournament": "Rugby Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Racing 92",
+                "tournament": "Top 14",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "South Africa",
+                "tournament": "Autumn Nations Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Bulls",
+                "tournament": "Rainbow Cup SA",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Bulls",
+                "tournament": "Super Rugby",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "6",
+                "tournament": "5 0 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Bulls",
+                "tournament": "Super Rugby",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "South Africa",
+                "tournament": "Rugby Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Bulls",
+                "tournament": "Super Rugby",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Bulls",
+                "tournament": "Super Rugby",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Bulls",
+                "tournament": "Super Rugby",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Bulls",
+                "tournament": "Super Rugby",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Cheetahs",
+                "tournament": "Super Rugby",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "13/14",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Vincent KOCH",
+        "position": "Prop",
+        "dob": "13/03/1990",
+        "height": "1.85m",
+        "weight": "118kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 130000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 16,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "South Africa",
+                "tournament": "Autumn Nations Series",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "4 0 0",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Paris",
+                "tournament": "Top 14",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "South Africa",
+                "tournament": "Autumn Nations Series",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Saracens",
+                "tournament": "Premiership",
+                "matches": 20,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "South Africa",
+                "tournament": "Autumn Nations Series",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Saracens",
+                "tournament": "Champions Cup",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "14",
+                "tournament": "8 1 5",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "6",
+                "tournament": "6 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Saracens",
+                "tournament": "Premiership",
+                "matches": 18,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "9",
+                "tournament": "9 0 0",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "2",
+                "tournament": "1 1 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Saracens",
+                "tournament": "Premiership",
+                "matches": 17,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "17/18",
+                "team": "6",
+                "tournament": "3 1 2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "South Africa",
+                "tournament": "Rugby Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Saracens",
+                "tournament": "Premiership",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "5",
+                "tournament": "4 1 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Stormers",
+                "tournament": "Super Rugby",
+                "matches": 16,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "15/16",
+                "team": "South Africa",
+                "tournament": "Rugby Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Stormers",
+                "tournament": "Super Rugby",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "14/15",
+                "team": "South Africa",
+                "tournament": "Rugby Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Bongi MBONAMBI",
+        "position": "Hooker",
+        "dob": "07/01/1991",
+        "height": "1.75m",
+        "weight": "118kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 155000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "25/26",
+                "team": "Barbarian F.C.",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 14,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "South Africa",
+                "tournament": "Autumn Nations Series",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 6,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "4 0 0",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "6",
+                "tournament": "5 0 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "4 0 0",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 7,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "22/23",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "South Africa",
+                "tournament": "Autumn Nations Series",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 14,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "21/22",
+                "team": "South Africa",
+                "tournament": "Autumn Nations Series",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Stormers",
+                "tournament": "Rainbow Cup SA",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Stormers",
+                "tournament": "Super Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "6",
+                "tournament": "5 0 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Stormers",
+                "tournament": "Super Rugby",
+                "matches": 14,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "18/19",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "3",
+                "tournament": "2 1 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Stormers",
+                "tournament": "Super Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "6",
+                "tournament": "3 0 3",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Stormers",
+                "tournament": "Super Rugby",
+                "matches": 16,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Stormers",
+                "tournament": "Super Rugby",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Stormers",
+                "tournament": "Super Rugby",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Bulls",
+                "tournament": "Super Rugby",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Bryce CALVERT",
+        "position": "Hooker",
+        "dob": "09/05/2003",
+        "height": "1.80m",
+        "weight": "107kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 100000.0,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Ethan BESTER",
+        "position": "Hooker",
+        "dob": "31/10/2004",
+        "height": "1.87m",
+        "weight": "112kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 100000.0,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "South Africa U20",
+                "tournament": "Rugby Championship U20",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Fez MBATHA",
+        "position": "Hooker",
+        "dob": "02/08/1999",
+        "height": "1.82m",
+        "weight": "112kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 105000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 14,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "4 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Sharks",
+                "tournament": "Rainbow Cup SA",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "Sharks",
+                "tournament": "Super Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "South Africa U20",
+                "tournament": "U20 Championship",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Willem VAN DEN HEVER",
+        "position": "Hooker",
+        "dob": "25/01/1999",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 850000,
+        "playing_history": []
+    },
+    {
+        "name": "Coetzee LE ROUX",
+        "position": "Lock",
+        "dob": "22/01/2003",
+        "height": "1.93m",
+        "weight": "112kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 100000.0,
+        "playing_history": [
+            {
+                "season": "22/23",
+                "team": "South Africa U20",
+                "tournament": "U20 Championship",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Corné RAHL",
+        "position": "Lock",
+        "dob": "27/05/2002",
+        "height": "2.03m",
+        "weight": "122kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 100000.0,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 16,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "6",
+                "tournament": "5 0 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "South Africa U20",
+                "tournament": "U20 Summer Series",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Deon SLABBERT",
+        "position": "Lock",
+        "dob": "04/05/2000",
+        "height": "2.00m",
+        "weight": "117kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 100000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Bulls",
+                "tournament": "Champions Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Bulls",
+                "tournament": "United Rugby Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Eben ETZEBETH",
+        "position": "Lock",
+        "dob": "29/10/1991",
+        "height": "2.03m",
+        "weight": "126kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 305000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "25/26",
+                "team": "South Africa",
+                "tournament": "Autumn Nations Series",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "South Africa",
+                "tournament": "Autumn Nations Series",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "6",
+                "tournament": "5 0 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "6",
+                "tournament": "5 0 1",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "6",
+                "tournament": "5 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "South Africa",
+                "tournament": "Autumn Nations Series",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Toulon",
+                "tournament": "Top 14",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "South Africa",
+                "tournament": "Autumn Nations Series",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "6",
+                "tournament": "4 0 2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Toulon",
+                "tournament": "Top 14",
+                "matches": 17,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "20/21",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Toulon",
+                "tournament": "Challenge Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "5",
+                "tournament": "2 1 2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "7",
+                "tournament": "6 0 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Stormers",
+                "tournament": "Super Rugby",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "3",
+                "tournament": "2 1 0",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "6",
+                "tournament": "3 0 3",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Stormers",
+                "tournament": "Super Rugby",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "6",
+                "tournament": "2 2 2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Stormers",
+                "tournament": "Super Rugby",
+                "matches": 10,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "15/16",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "7",
+                "tournament": "5 0 2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "6",
+                "tournament": "2 0 4",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Stormers",
+                "tournament": "Super Rugby",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "6",
+                "tournament": "4 0 2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Emile VAN HEERDEN",
+        "position": "Lock",
+        "dob": "08/08/2000",
+        "height": "2.00m",
+        "weight": "110kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 150000.0,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "South Africa U20",
+                "tournament": "U20 Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Jason JENKINS",
+        "position": "Lock",
+        "dob": "02/12/1995",
+        "height": "2.03m",
+        "weight": "127kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 100000.0,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 19,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Leinster",
+                "tournament": "United Rugby Championship",
+                "matches": 13,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "7",
+                "tournament": "6 0 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Leinster",
+                "tournament": "United Rugby Championship",
+                "matches": 14,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "22/23",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Munster",
+                "tournament": "Champions Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "6",
+                "tournament": "3 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Bulls",
+                "tournament": "Super Rugby Unlocked",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Bulls",
+                "tournament": "Super Rugby",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "Bulls",
+                "tournament": "Super Rugby",
+                "matches": 12,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "17/18",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Bulls",
+                "tournament": "Super Rugby",
+                "matches": 15,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "15/16",
+                "team": "Bulls",
+                "tournament": "Super Rugby",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "JJ SCHEEPERS",
+        "position": "Lock",
+        "dob": "-",
+        "height": "1.98m",
+        "weight": "115kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 850000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Marvin ORIE",
+        "position": "Lock",
+        "dob": "15/02/1993",
+        "height": "1.98m",
+        "weight": "118kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 170000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Perpignan",
+                "tournament": "Top 14",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Perpignan",
+                "tournament": "Top 14",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Stormers",
+                "tournament": "United Rugby Championship",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "South Africa",
+                "tournament": "Autumn Nations Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Stormers",
+                "tournament": "United Rugby Championship",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Stormers",
+                "tournament": "Rainbow Cup SA",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Ospreys",
+                "tournament": "Pro 14",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Lions",
+                "tournament": "Super Rugby",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "5",
+                "tournament": "1 0 3",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Lions",
+                "tournament": "Super Rugby",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "South Africa",
+                "tournament": "Rugby Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Lions",
+                "tournament": "Super Rugby",
+                "matches": 18,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "17/18",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Lions",
+                "tournament": "Super Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Bulls",
+                "tournament": "Super Rugby",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Bulls",
+                "tournament": "Super Rugby",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Thomas DYER",
+        "position": "Lock",
+        "dob": "16/11/2004",
+        "height": "1.96m",
+        "weight": "115kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 850000,
+        "playing_history": [
+            {
+                "season": "23/24",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "South Africa U20",
+                "tournament": "Rugby Championship U20",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Batho HLEKANI",
+        "position": "Back row",
+        "dob": "/04/2005",
+        "height": "1.93m",
+        "weight": "115kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 150000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "25/26",
+                "team": "Barbarian F.C.",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Sharks",
+                "tournament": "Challenge Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "South Africa U20",
+                "tournament": "Rugby Championship U20",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "5",
+                "tournament": "5 0 0",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "South Africa U20",
+                "tournament": "Rugby Championship U20",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Jannes POTGIETER",
+        "position": "Back row",
+        "dob": "05/05/2003",
+        "height": "1.93m",
+        "weight": "112kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 150000.0,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "South Africa U20",
+                "tournament": "U20 Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Manu TSHITUKA",
+        "position": "Back row",
+        "dob": "16/06/2000",
+        "height": "1.93m",
+        "weight": "110kg",
+        "contract": "PRO",
+        "nation": "Congo",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 850000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 17,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 17,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "22/23",
+                "team": "5",
+                "tournament": "3 1 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Lions",
+                "tournament": "Rainbow Cup SA",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Matt ROMAO",
+        "position": "Back row",
+        "dob": "/07/2005",
+        "height": "1.90m",
+        "weight": "107kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 850000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "South Africa U20",
+                "tournament": "Rugby Championship U20",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "5",
+                "tournament": "5 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Mèno BARNARD",
+        "position": "Back row",
+        "dob": "14/11/2003",
+        "height": "1.93m",
+        "weight": "104kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 150000.0,
+        "playing_history": []
+    },
+    {
+        "name": "Nick HATTON",
+        "position": "Back row",
+        "dob": "17/01/2003",
+        "height": "1.91m",
+        "weight": "103kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 150000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Phepsi BUTHELEZI",
+        "position": "Back row",
+        "dob": "30/05/1999",
+        "height": "1.88m",
+        "weight": "108kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 328000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 18,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 15,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "8",
+                "tournament": "7 0 1",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 18,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "6",
+                "tournament": "4 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 19,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "20/21",
+                "team": "Sharks",
+                "tournament": "Rainbow Cup SA",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Sharks",
+                "tournament": "Super Rugby",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Sharks",
+                "tournament": "Super Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "South Africa U20",
+                "tournament": "U20 Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Siya KOLISI",
+        "position": "Back row",
+        "dob": "16/06/1991",
+        "height": "1.89m",
+        "weight": "104kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 370000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 2,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "25/26",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "25/26",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 13,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "South Africa",
+                "tournament": "Autumn Nations Series",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Racing 92",
+                "tournament": "Top 14",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "5",
+                "tournament": "1 0 4",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "South Africa",
+                "tournament": "Summer Nations Series",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "6",
+                "tournament": "5 0 1",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "4 0 0",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 6,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "22/23",
+                "team": "6",
+                "tournament": "4 0 2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "South Africa",
+                "tournament": "Autumn Nations Series",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "South Africa",
+                "tournament": "Autumn Nations Series",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "6",
+                "tournament": "4 0 2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Sharks",
+                "tournament": "Rainbow Cup SA",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "6",
+                "tournament": "3 0 3",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Stormers",
+                "tournament": "Super Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "7",
+                "tournament": "6 0 1",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Stormers",
+                "tournament": "Super Rugby",
+                "matches": 11,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "18/19",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Stormers",
+                "tournament": "Super Rugby",
+                "matches": 15,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "17/18",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "6",
+                "tournament": "3 0 3",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Stormers",
+                "tournament": "Super Rugby",
+                "matches": 13,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "16/17",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "6",
+                "tournament": "2 2 2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Stormers",
+                "tournament": "Super Rugby",
+                "matches": 16,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "15/16",
+                "team": "South Africa",
+                "tournament": "Rugby World Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Stormers",
+                "tournament": "Super Rugby",
+                "matches": 16,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "14/15",
+                "team": "South Africa",
+                "tournament": "Rugby Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Stormers",
+                "tournament": "Super Rugby",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "13/14",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Tino MAVESERE",
+        "position": "Back row",
+        "dob": "17/10/1998",
+        "height": "1.89m",
+        "weight": "105kg",
+        "contract": "PRO",
+        "nation": "Zimbabwe",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 150000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Vincent TSHITUKA",
+        "position": "Back row",
+        "dob": "10/09/1998",
+        "height": "1.94m",
+        "weight": "110kg",
+        "contract": "PRO",
+        "nation": "Congo",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 215000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 5,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 16,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "4 0 0",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "6",
+                "tournament": "4 0 2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 14,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "20/21",
+                "team": "Lions",
+                "tournament": "Rainbow Cup SA",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Lions",
+                "tournament": "Super Rugby",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "5",
+                "tournament": "1 0 3",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Lions",
+                "tournament": "Super Rugby",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Bradley DAVIDS",
+        "position": "Scrum-half",
+        "dob": "30/07/2002",
+        "height": "1.76m",
+        "weight": "79kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 100000.0,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Ceano EVERSON",
+        "position": "Scrum-half",
+        "dob": "/09/2005",
+        "height": "1.69m",
+        "weight": "63kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 850000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "South Africa U20",
+                "tournament": "Rugby Championship U20",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "4 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Grant WILLIAMS",
+        "position": "Scrum-half",
+        "dob": "22/07/1996",
+        "height": "1.74m",
+        "weight": "80kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 190000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "25/26",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 8,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "South Africa",
+                "tournament": "Autumn Nations Series",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 8,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "8",
+                "tournament": "7 0 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "South Africa",
+                "tournament": "Summer Nations Series",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "4 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 16,
+                "tries": 10,
+                "points": 50
+            },
+            {
+                "season": "22/23",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "South Africa",
+                "tournament": "Rugby Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 12,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Sharks",
+                "tournament": "Rainbow Cup SA",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Sharks",
+                "tournament": "Super Rugby Unlocked",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Sharks",
+                "tournament": "Super Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Sharks",
+                "tournament": "Super Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Jaden HENDRIKSE",
+        "position": "Scrum-half",
+        "dob": "23/03/2000",
+        "height": "1.84m",
+        "weight": "92kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 400000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 4
+            },
+            {
+                "season": "24/25",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 18,
+                "tries": 2,
+                "points": 22
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "South Africa",
+                "tournament": "Autumn Nations Series",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "6",
+                "tournament": "5 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "South Africa",
+                "tournament": "Summer Nations Series",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 1,
+                "tries": 1,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "South Africa",
+                "tournament": "Autumn Nations Series",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 14,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "6",
+                "tournament": "4 0 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Sharks",
+                "tournament": "Rainbow Cup SA",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "South Africa",
+                "tournament": "Rugby Championship",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "South Africa U20",
+                "tournament": "U20 Championship",
+                "matches": 5,
+                "tries": 2,
+                "points": 38
+            }
+        ]
+    },
+    {
+        "name": "Ross BRAUDE",
+        "position": "Scrum-half",
+        "dob": "18/01/2000",
+        "height": "1.68m",
+        "weight": "83kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 105000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Toronto",
+                "tournament": "Major League Rugby",
+                "matches": 15,
+                "tries": 0,
+                "points": 32
+            },
+            {
+                "season": "22/23",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Toronto",
+                "tournament": "Major League Rugby",
+                "matches": 10,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 8,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "20/21",
+                "team": "Toronto",
+                "tournament": "Major League Rugby",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Tiaan FOURIE",
+        "position": "Scrum-half",
+        "dob": "22/04/2002",
+        "height": "1.73m",
+        "weight": "78kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 850000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Sharks",
+                "tournament": "Challenge Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Jean SMITH",
+        "position": "Fly-half",
+        "dob": "01/04/2003",
+        "height": "1.81m",
+        "weight": "89kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 150000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 16
+            },
+            {
+                "season": "24/25",
+                "team": "Sharks",
+                "tournament": "Challenge Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 4
+            },
+            {
+                "season": "22/23",
+                "team": "South Africa U20",
+                "tournament": "U20 Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 36
+            }
+        ]
+    },
+    {
+        "name": "Jordan HENDRIKSE",
+        "position": "Fly-half",
+        "dob": "28/06/2001",
+        "height": "1.88m",
+        "weight": "93kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 400000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 2
+            },
+            {
+                "season": "24/25",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 18,
+                "tries": 2,
+                "points": 118
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 3,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "South Africa",
+                "tournament": "Autumn Nations Series",
+                "matches": 1,
+                "tries": 1,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 18,
+                "tries": 0,
+                "points": 76
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 3,
+                "tries": 9,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 7
+            },
+            {
+                "season": "22/23",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 12,
+                "tries": 1,
+                "points": 71
+            },
+            {
+                "season": "22/23",
+                "team": "3",
+                "tournament": "2 1 0",
+                "matches": 2,
+                "tries": 8,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 12,
+                "tries": 2,
+                "points": 117
+            },
+            {
+                "season": "20/21",
+                "team": "Lions",
+                "tournament": "Rainbow Cup SA",
+                "matches": 4,
+                "tries": 0,
+                "points": 32
+            }
+        ]
+    },
+    {
+        "name": "Siya MASUKU",
+        "position": "Fly-half",
+        "dob": "01/08/1996",
+        "height": "1.89m",
+        "weight": "95kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 312000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 2
+            },
+            {
+                "season": "24/25",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 16,
+                "tries": 0,
+                "points": 38
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 2,
+                "tries": 1,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 8,
+                "tries": 1,
+                "points": 49
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "4 0 0",
+                "matches": 4,
+                "tries": 15,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Cheetahs",
+                "tournament": "Challenge Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 19
+            },
+            {
+                "season": "19/20",
+                "team": "Kings",
+                "tournament": "Pro 14",
+                "matches": 5,
+                "tries": 0,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Vusi Simphiwe MOYO",
+        "position": "Fly-half",
+        "dob": "/06/2006",
+        "height": "1.82m",
+        "weight": "90kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 850000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "South Africa U20",
+                "tournament": "Rugby Championship U20",
+                "matches": 3,
+                "tries": 0,
+                "points": 17
+            },
+            {
+                "season": "24/25",
+                "team": "5",
+                "tournament": "5 0 0",
+                "matches": 5,
+                "tries": 7,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Albie BESTER",
+        "position": "Centre",
+        "dob": "/04/2005",
+        "height": "1.80m",
+        "weight": "93kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 850000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "South Africa U20",
+                "tournament": "Rugby Championship U20",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "4 0 0",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "André ESTERHUIZEN",
+        "position": "Centre",
+        "dob": "30/03/1994",
+        "height": "1.93m",
+        "weight": "115kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 298000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "25/26",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 16,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "South Africa",
+                "tournament": "Autumn Nations Series",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Harlequins",
+                "tournament": "Premiership",
+                "matches": 13,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "7",
+                "tournament": "5 0 2",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Harlequins",
+                "tournament": "Premiership",
+                "matches": 16,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "South Africa",
+                "tournament": "Autumn Nations Series",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Harlequins",
+                "tournament": "Premiership",
+                "matches": 25,
+                "tries": 8,
+                "points": 48
+            },
+            {
+                "season": "21/22",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Harlequins",
+                "tournament": "Premiership",
+                "matches": 14,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "19/20",
+                "team": "Sharks",
+                "tournament": "Super Rugby",
+                "matches": 7,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "Harlequins",
+                "tournament": "Premiership",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Sharks",
+                "tournament": "Super Rugby",
+                "matches": 16,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "18/19",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Sharks",
+                "tournament": "Super Rugby",
+                "matches": 16,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "17/18",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Sharks",
+                "tournament": "Super Rugby",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "15/16",
+                "team": "Sharks",
+                "tournament": "Super Rugby",
+                "matches": 15,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "14/15",
+                "team": "Sharks",
+                "tournament": "Super Rugby",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Sharks",
+                "tournament": "Super Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Diego APPOLLIS",
+        "position": "Centre",
+        "dob": "27/08/2000",
+        "height": "1.78m",
+        "weight": "94kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 150000.0,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Sharks",
+                "tournament": "Champions Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Sharks",
+                "tournament": "Challenge Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Ethan HOOKER",
+        "position": "Centre",
+        "dob": "20/01/2003",
+        "height": "1.93m",
+        "weight": "100kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 400000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "25/26",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 18,
+                "tries": 8,
+                "points": 40
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Sharks",
+                "tournament": "Challenge Cup",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "7",
+                "tournament": "3 0 4",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "South Africa U20",
+                "tournament": "U20 Championship",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Francois VENTER",
+        "position": "Centre",
+        "dob": "19/04/1991",
+        "height": "1.85m",
+        "weight": "95kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 150000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "8",
+                "tournament": "7 0 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Worcester",
+                "tournament": "Premiership",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Worcester",
+                "tournament": "Premiership",
+                "matches": 16,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "1 1 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Worcester",
+                "tournament": "Premiership",
+                "matches": 16,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "Worcester",
+                "tournament": "Premiership",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Worcester",
+                "tournament": "Premiership",
+                "matches": 19,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Cheetahs",
+                "tournament": "Pro 14",
+                "matches": 16,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "17/18",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "Cheetahs",
+                "tournament": "Super Rugby",
+                "matches": 10,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "16/17",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Cheetahs",
+                "tournament": "Super Rugby",
+                "matches": 13,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "14/15",
+                "team": "Cheetahs",
+                "tournament": "Super Rugby",
+                "matches": 16,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "13/14",
+                "team": "Cheetahs",
+                "tournament": "Super Rugby",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Jurenzo JULIUS",
+        "position": "Centre",
+        "dob": "11/05/2004",
+        "height": "1.78m",
+        "weight": "96kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 165000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 16,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "South Africa U20",
+                "tournament": "Rugby Championship U20",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "South Africa U20",
+                "tournament": "U20 Championship",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Litelihle BESTER",
+        "position": "Centre",
+        "dob": "01/04/2004",
+        "height": "1.87m",
+        "weight": "92kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 150000.0,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Sharks",
+                "tournament": "Challenge Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "South Africa U20",
+                "tournament": "Rugby Championship U20",
+                "matches": 3,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "South Africa U20",
+                "tournament": "U20 Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Christie GROBBELAAR",
+        "position": "Winger",
+        "dob": "25/05/2000",
+        "height": "1.92m",
+        "weight": "95kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 238000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Edwill VAN DER MERWE",
+        "position": "Winger",
+        "dob": "12/04/1996",
+        "height": "1.81m",
+        "weight": "90kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 335000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 17,
+                "tries": 8,
+                "points": 40
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 17,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 17,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "22/23",
+                "team": "6",
+                "tournament": "3 1 2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Stormers",
+                "tournament": "United Rugby Championship",
+                "matches": 3,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 14,
+                "tries": 8,
+                "points": 40
+            },
+            {
+                "season": "20/21",
+                "team": "Stormers",
+                "tournament": "Rainbow Cup SA",
+                "matches": 5,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "19/20",
+                "team": "Stormers",
+                "tournament": "Super Rugby Unlocked",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Stormers",
+                "tournament": "Super Rugby",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Makazole MAPIMPI",
+        "position": "Winger",
+        "dob": "26/07/1990",
+        "height": "1.84m",
+        "weight": "92kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 350000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 13,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "South Africa",
+                "tournament": "Autumn Nations Series",
+                "matches": 1,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 9,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "8",
+                "tournament": "7 0 1",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 8,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "22/23",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "South Africa",
+                "tournament": "Autumn Nations Series",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 14,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "21/22",
+                "team": "South Africa",
+                "tournament": "Autumn Nations Series",
+                "matches": 3,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "6",
+                "tournament": "4 0 2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Sharks",
+                "tournament": "Rainbow Cup SA",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Sharks",
+                "tournament": "Super Rugby",
+                "matches": 6,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "19/20",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "19/20",
+                "team": "6",
+                "tournament": "5 0 1",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Sharks",
+                "tournament": "Super Rugby",
+                "matches": 16,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "18/19",
+                "team": "South Africa",
+                "tournament": "Rugby Championship",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "Cheetahs",
+                "tournament": "Pro 14",
+                "matches": 13,
+                "tries": 10,
+                "points": 50
+            },
+            {
+                "season": "17/18",
+                "team": "Sharks",
+                "tournament": "Super Rugby",
+                "matches": 11,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "17/18",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Kings",
+                "tournament": "Super Rugby",
+                "matches": 14,
+                "tries": 11,
+                "points": 55
+            }
+        ]
+    },
+    {
+        "name": "Marnus POTGIETER",
+        "position": "Winger",
+        "dob": "20/06/1999",
+        "height": "1.88m",
+        "weight": "106kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 200000.0,
+        "playing_history": [
+            {
+                "season": "23/24",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 14,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 2,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "18/19",
+                "team": "South Africa U20",
+                "tournament": "U20 Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Phiko SOBAHLE",
+        "position": "Winger",
+        "dob": "28/07/1996",
+        "height": "1.91m",
+        "weight": "93kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 200000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Yaw PENXE",
+        "position": "Winger",
+        "dob": "03/04/1997",
+        "height": "1.83m",
+        "weight": "93kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 200000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Sharks",
+                "tournament": "Champions Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "12",
+                "tournament": "7 1 4",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Sharks",
+                "tournament": "Rainbow Cup SA",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Kings",
+                "tournament": "Pro 14",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Sharks",
+                "tournament": "Super Rugby Unlocked",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Kings",
+                "tournament": "Pro 14",
+                "matches": 18,
+                "tries": 8,
+                "points": 40
+            },
+            {
+                "season": "17/18",
+                "team": "Kings",
+                "tournament": "Pro 14",
+                "matches": 18,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "16/17",
+                "team": "Kings",
+                "tournament": "Super Rugby",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Aphelele FASSI",
+        "position": "Fullback",
+        "dob": "23/01/1998",
+        "height": "1.90m",
+        "weight": "94kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 612000.0,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 11,
+                "tries": 4,
+                "points": 31
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "South Africa",
+                "tournament": "Autumn Nations Series",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 16,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "23/24",
+                "team": "8",
+                "tournament": "7 0 1",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 11,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 11,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Sharks",
+                "tournament": "Rainbow Cup SA",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Sharks",
+                "tournament": "Super Rugby",
+                "matches": 7,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "18/19",
+                "team": "Sharks",
+                "tournament": "Super Rugby",
+                "matches": 15,
+                "tries": 4,
+                "points": 20
+            }
+        ]
+    },
+    {
+        "name": "Hakeem KUNENE",
+        "position": "Fullback",
+        "dob": "03/02/2003",
+        "height": "1.83m",
+        "weight": "90kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 200000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Sharks",
+                "tournament": "Champions Cup",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "South Africa U20",
+                "tournament": "U20 Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Jaco WILLIAMS",
+        "position": "Fullback",
+        "dob": "/08/2005",
+        "height": "1.75m",
+        "weight": "73kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Sharks",
+        "league": "URC",
+        "value": 150000.0,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "South Africa U20",
+                "tournament": "U20 Championship",
+                "matches": 5,
+                "tries": 4,
+                "points": 20
+            }
+        ]
+    }
+]

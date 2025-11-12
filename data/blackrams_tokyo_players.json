@@ -1,0 +1,2677 @@
+[
+    {
+        "name": "Daigo SASAGAWA",
+        "position": "Prop",
+        "dob": "03/08/1997",
+        "height": "1.86m",
+        "weight": "118kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "BlackRams Tokyo",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Kazuma NISHI",
+        "position": "Prop",
+        "dob": "10/08/1995",
+        "height": "1.80m",
+        "weight": "108kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "BlackRams Tokyo",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Kosei NAKAMURA",
+        "position": "Prop",
+        "dob": "25/01/2001",
+        "height": "1.83m",
+        "weight": "114kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "BlackRams Tokyo",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Norihiro ASO",
+        "position": "Prop",
+        "dob": "26/01/2000",
+        "height": "1.74m",
+        "weight": "108kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "BlackRams Tokyo",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": []
+    },
+    {
+        "name": "Paddy RYAN",
+        "position": "Prop",
+        "dob": "09/08/1988",
+        "height": "1.90m",
+        "weight": "114kg",
+        "contract": "PRO",
+        "nation": "Australia",
+        "club": "BlackRams Tokyo",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Waratahs",
+                "tournament": "Super Rugby Pacific",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Munakata Sanix Blues",
+                "tournament": "Japan Rugby League One - Division 3",
+                "matches": 6,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Waratahs",
+                "tournament": "Super Rugby Pacific",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "Waratahs",
+                "tournament": "Super Rugby",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Waratahs",
+                "tournament": "Super Rugby",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "15/16",
+                "team": "Waratahs",
+                "tournament": "Super Rugby",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Waratahs",
+                "tournament": "Super Rugby",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Waratahs",
+                "tournament": "Super Rugby",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Australia",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Samuel WAQABACA",
+        "position": "Prop",
+        "dob": "19/08/2001",
+        "height": "1.85m",
+        "weight": "117kg",
+        "contract": "PRO",
+        "nation": "Fiji",
+        "club": "BlackRams Tokyo",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Shohei OYAMA",
+        "position": "Prop",
+        "dob": "15/11/1998",
+        "height": "1.86m",
+        "weight": "116kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "BlackRams Tokyo",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 18,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Sione AFEMUI",
+        "position": "Prop",
+        "dob": "30/01/1999",
+        "height": "1.86m",
+        "weight": "114kg",
+        "contract": "PRO",
+        "nation": "Tonga",
+        "club": "BlackRams Tokyo",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "23/24",
+                "team": "Red Hurricanes",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Red Hurricanes",
+                "tournament": "Japan Rugby League One - Division 3",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Taishi TSUMURA",
+        "position": "Prop",
+        "dob": "30/04/2001",
+        "height": "1.74m",
+        "weight": "108kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "BlackRams Tokyo",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Yuichiro TANIGUCHI",
+        "position": "Prop",
+        "dob": "04/06/1998",
+        "height": "1.80m",
+        "weight": "108kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "BlackRams Tokyo",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Japan XV",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Hinata TAKEI",
+        "position": "Hooker",
+        "dob": "17/06/1997",
+        "height": "1.71m",
+        "weight": "100kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "BlackRams Tokyo",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 11,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "22/23",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 7,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Ko SATO",
+        "position": "Hooker",
+        "dob": "10/05/1999",
+        "height": "1.70m",
+        "weight": "98kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "BlackRams Tokyo",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 9,
+                "tries": 3,
+                "points": 15
+            }
+        ]
+    },
+    {
+        "name": "Lulu PAEA",
+        "position": "Hooker",
+        "dob": "03/06/2003",
+        "height": "1.71m",
+        "weight": "103kg",
+        "contract": "PRO",
+        "nation": "Australia",
+        "club": "BlackRams Tokyo",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Masashi ONISHI",
+        "position": "Hooker",
+        "dob": "21/02/1995",
+        "height": "1.80m",
+        "weight": "109kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "BlackRams Tokyo",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Shin OUCHI",
+        "position": "Hooker",
+        "dob": "26/07/1997",
+        "height": "1.83m",
+        "weight": "107kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "BlackRams Tokyo",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Brave Lupus",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Brave Lupus",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 8,
+                "tries": 4,
+                "points": 20
+            }
+        ]
+    },
+    {
+        "name": "Daiki YANAGAWA",
+        "position": "Lock",
+        "dob": "19/02/1989",
+        "height": "1.91m",
+        "weight": "110kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "BlackRams Tokyo",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 8,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Harrison FOX",
+        "position": "Lock",
+        "dob": "01/11/2000",
+        "height": "1.98m",
+        "weight": "117kg",
+        "contract": "PRO",
+        "nation": "Australia",
+        "club": "BlackRams Tokyo",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 14,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Jacob SKEEN",
+        "position": "Lock",
+        "dob": "07/04/1993",
+        "height": "2.01m",
+        "weight": "115kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "BlackRams Tokyo",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "23/24",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Josh GOODHUE",
+        "position": "Lock",
+        "dob": "13/06/1995",
+        "height": "1.99m",
+        "weight": "115kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "BlackRams Tokyo",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Blues",
+                "tournament": "Super Rugby Pacific",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Northland",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Blues",
+                "tournament": "Super Rugby Aotearoa",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "5",
+                "tournament": "5 0 0",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Northland",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Blues",
+                "tournament": "Super Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "6",
+                "tournament": "4 0 2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Northland",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "Blues",
+                "tournament": "Super Rugby",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Blues",
+                "tournament": "Super Rugby",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Blues",
+                "tournament": "Super Rugby",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Mike STOLBERG",
+        "position": "Lock",
+        "dob": "27/03/1992",
+        "height": "2.04m",
+        "weight": "120kg",
+        "contract": "PRO",
+        "nation": "Australia",
+        "club": "BlackRams Tokyo",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 18,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "23/24",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 16,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 11,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Sunwolves",
+                "tournament": "Super Rugby",
+                "matches": 6,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "Rebels",
+                "tournament": "Super Rugby AU",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Pohiva YAMATO LOTOAHEA",
+        "position": "Lock",
+        "dob": "10/08/1988",
+        "height": "1.92m",
+        "weight": "118kg",
+        "contract": "PRO",
+        "nation": "Tonga",
+        "club": "BlackRams Tokyo",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Reijiro YAMAMOTO",
+        "position": "Lock",
+        "dob": "18/03/2002",
+        "height": "1.91m",
+        "weight": "110kg",
+        "contract": "",
+        "nation": "Japan",
+        "club": "BlackRams Tokyo",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 11,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Shu YAMAMOTO",
+        "position": "Lock",
+        "dob": "01/06/1999",
+        "height": "1.90m",
+        "weight": "100kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "BlackRams Tokyo",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Japan XV",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Talau FAKATAVA",
+        "position": "Lock",
+        "dob": "07/12/1994",
+        "height": "1.91m",
+        "weight": "115kg",
+        "contract": "PRO",
+        "nation": "Tonga",
+        "club": "BlackRams Tokyo",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Amato FAKATAVA",
+        "position": "Back row",
+        "dob": "07/12/1994",
+        "height": "1.95m",
+        "weight": "118kg",
+        "contract": "PRO",
+        "nation": "Tonga",
+        "club": "BlackRams Tokyo",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 13,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "24/25",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 13,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "Japan XV",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 16,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Japan",
+                "tournament": "Pacific Nations Cup",
+                "matches": 3,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Brodi MCCURRAN",
+        "position": "Back row",
+        "dob": "24/05/1994",
+        "height": "1.93m",
+        "weight": "108kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "BlackRams Tokyo",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 10,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 16,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 8,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Junpei YUKAWA",
+        "position": "Back row",
+        "dob": "24/04/1996",
+        "height": "1.83m",
+        "weight": "97kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "BlackRams Tokyo",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 8,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Liam GILL",
+        "position": "Back row",
+        "dob": "08/06/1992",
+        "height": "1.84m",
+        "weight": "100kg",
+        "contract": "PRO",
+        "nation": "Australia",
+        "club": "BlackRams Tokyo",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 16,
+                "tries": 8,
+                "points": 40
+            },
+            {
+                "season": "23/24",
+                "team": "Urayasu",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Urayasu",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 9,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Urayasu",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Lyon",
+                "tournament": "Top 14",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "5",
+                "tournament": "1 0 4",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Lyon",
+                "tournament": "Top 14",
+                "matches": 13,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "18/19",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Lyon",
+                "tournament": "Top 14",
+                "matches": 25,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "17/18",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Toulon",
+                "tournament": "Top 14",
+                "matches": 25,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "16/17",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Reds",
+                "tournament": "Super Rugby",
+                "matches": 11,
+                "tries": 4,
+                "points": 23
+            },
+            {
+                "season": "14/15",
+                "team": "Reds",
+                "tournament": "Super Rugby",
+                "matches": 15,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "13/14",
+                "team": "Reds",
+                "tournament": "Super Rugby",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Australia",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Otoya KIHARA",
+        "position": "Back row",
+        "dob": "27/02/2000",
+        "height": "1.85m",
+        "weight": "98kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "BlackRams Tokyo",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Shinichi TANAKA",
+        "position": "Back row",
+        "dob": "08/06/1994",
+        "height": "1.87m",
+        "weight": "98kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "BlackRams Tokyo",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "22/23",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Canon Eagles",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Shuhei MATSUHASHI",
+        "position": "Back row",
+        "dob": "24/11/1993",
+        "height": "1.80m",
+        "weight": "99kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "BlackRams Tokyo",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 16,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 17,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "22/23",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 7,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 6,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "18/19",
+                "team": "Sunwolves",
+                "tournament": "Super Rugby",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "Sunwolves",
+                "tournament": "Super Rugby",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Shota YAMAMOTO",
+        "position": "Scrum-half",
+        "dob": "09/05/1990",
+        "height": "1.66m",
+        "weight": "72kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "BlackRams Tokyo",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 2,
+                "tries": 1,
+                "points": 7
+            },
+            {
+                "season": "23/24",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Takanobu MINAMI",
+        "position": "Scrum-half",
+        "dob": "03/03/1999",
+        "height": "1.67m",
+        "weight": "74kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "BlackRams Tokyo",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 15,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "22/23",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "TJ PERENARA",
+        "position": "Scrum-half",
+        "dob": "23/01/1992",
+        "height": "1.83m",
+        "weight": "94kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "BlackRams Tokyo",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 18,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "24/25",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 13,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "23/24",
+                "team": "Wellington",
+                "tournament": "NPC",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "6",
+                "tournament": "3 0 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "New Zealand",
+                "tournament": "Autumn Nations Series",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 10,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Wellington",
+                "tournament": "NPC",
+                "matches": 13,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "New Zealand",
+                "tournament": "Rugby Championship",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "7",
+                "tournament": "5 0 2",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Wellington",
+                "tournament": "NPC",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby",
+                "matches": 16,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "18/19",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "2",
+                "tournament": "0 1 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby",
+                "matches": 15,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "17/18",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "6",
+                "tournament": "5 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby",
+                "matches": 17,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "16/17",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 7,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "16/17",
+                "team": "5",
+                "tournament": "5 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby",
+                "matches": 18,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "15/16",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "6",
+                "tournament": "6 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby",
+                "matches": 17,
+                "tries": 11,
+                "points": 55
+            },
+            {
+                "season": "14/15",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby",
+                "matches": 16,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "13/14",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Toshiya TAKAHASHI",
+        "position": "Scrum-half",
+        "dob": "22/10/1993",
+        "height": "1.82m",
+        "weight": "84kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "BlackRams Tokyo",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 14,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Ichigo NAKAKUSU",
+        "position": "Fly-half",
+        "dob": "01/06/2000",
+        "height": "1.74m",
+        "weight": "84kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "BlackRams Tokyo",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 15,
+                "tries": 4,
+                "points": 82
+            },
+            {
+                "season": "24/25",
+                "team": "Japan XV",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 1,
+                "points": 11
+            },
+            {
+                "season": "24/25",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 11,
+                "tries": 1,
+                "points": 46
+            }
+        ]
+    },
+    {
+        "name": "Isaac LUCAS",
+        "position": "Fly-half",
+        "dob": "11/02/1999",
+        "height": "1.80m",
+        "weight": "84kg",
+        "contract": "PRO",
+        "nation": "Australia",
+        "club": "BlackRams Tokyo",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 6,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 17,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "22/23",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 16,
+                "tries": 4,
+                "points": 29
+            },
+            {
+                "season": "21/22",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 12,
+                "tries": 7,
+                "points": 54
+            },
+            {
+                "season": "19/20",
+                "team": "Reds",
+                "tournament": "Super Rugby",
+                "matches": 7,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "18/19",
+                "team": "Reds",
+                "tournament": "Super Rugby",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "Australia U20",
+                "tournament": "U20 Championship",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Kotaro ITO",
+        "position": "Fly-half",
+        "dob": "15/11/2001",
+        "height": "1.77m",
+        "weight": "86kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "BlackRams Tokyo",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 18,
+                "tries": 4,
+                "points": 31
+            },
+            {
+                "season": "24/25",
+                "team": "Japan XV",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Daisuke HAMANO",
+        "position": "Centre",
+        "dob": "06/01/1994",
+        "height": "1.72m",
+        "weight": "88kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "BlackRams Tokyo",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "21/22",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Larzlo SWORD",
+        "position": "Centre",
+        "dob": "06/05/2003",
+        "height": "1.93m",
+        "weight": "109kg",
+        "contract": "PRO",
+        "nation": "Australia",
+        "club": "BlackRams Tokyo",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "PJ LATU",
+        "position": "Centre",
+        "dob": "24/10/2000",
+        "height": "1.89m",
+        "weight": "105kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "BlackRams Tokyo",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Ryohei ISODA",
+        "position": "Centre",
+        "dob": "22/07/1996",
+        "height": "1.78m",
+        "weight": "90kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "BlackRams Tokyo",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 7,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Semisi TUPOU",
+        "position": "Centre",
+        "dob": "29/06/1999",
+        "height": "1.89m",
+        "weight": "100kg",
+        "contract": "PRO",
+        "nation": "Australia",
+        "club": "BlackRams Tokyo",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 13,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 9,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "18/19",
+                "team": "Rebels",
+                "tournament": "Super Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Australia U20",
+                "tournament": "U20 Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Rebels",
+                "tournament": "Super Rugby",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "Rebels",
+                "tournament": "Super Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Siope TAVO",
+        "position": "Centre",
+        "dob": "19/06/1997",
+        "height": "1.89m",
+        "weight": "106kg",
+        "contract": "PRO",
+        "nation": "Tonga",
+        "club": "BlackRams Tokyo",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 6,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Chugoku Red Regulions",
+                "tournament": "Japan Rugby League One - Division 3",
+                "matches": 7,
+                "tries": 4,
+                "points": 20
+            }
+        ]
+    },
+    {
+        "name": "Yuki IKEDA",
+        "position": "Centre",
+        "dob": "21/05/1995",
+        "height": "1.87m",
+        "weight": "100kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "BlackRams Tokyo",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 18,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "24/25",
+                "team": "Japan",
+                "tournament": "Pacific Nations Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 11,
+                "tries": 3,
+                "points": 15
+            }
+        ]
+    },
+    {
+        "name": "Amanaki LOTOAHEA",
+        "position": "Winger",
+        "dob": "14/04/1990",
+        "height": "1.91m",
+        "weight": "107kg",
+        "contract": "PRO",
+        "nation": "Tonga",
+        "club": "BlackRams Tokyo",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 9,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 11,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "22/23",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Netani VAKAYALIA",
+        "position": "Winger",
+        "dob": "25/02/1998",
+        "height": "1.81m",
+        "weight": "97kg",
+        "contract": "PRO",
+        "nation": "Fiji",
+        "club": "BlackRams Tokyo",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 10,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 10,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "22/23",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 14,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "21/22",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Tomoya YAMAMURA",
+        "position": "Winger",
+        "dob": "02/12/1997",
+        "height": "1.74m",
+        "weight": "82kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "BlackRams Tokyo",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Tomu TAKAMOTO",
+        "position": "Winger",
+        "dob": "10/10/2001",
+        "height": "1.82m",
+        "weight": "90kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "BlackRams Tokyo",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Japan XV",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Taira MAIN",
+        "position": "Fullback",
+        "dob": "05/09/2000",
+        "height": "1.78m",
+        "weight": "89kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "BlackRams Tokyo",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 13,
+                "tries": 3,
+                "points": 89
+            },
+            {
+                "season": "24/25",
+                "team": "Japan XV",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "BlackRams Tokyo",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 11,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    }
+]

@@ -1,0 +1,4684 @@
+[
+    {
+        "name": "Pasilio TOSI",
+        "position": "Prop",
+        "dob": "18/07/1998",
+        "height": "1.93m",
+        "weight": "145kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Hurricanes",
+        "league": "Super Rugby Pacific",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "New Zealand",
+                "tournament": "Autumn Nations Series",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Bay of Plenty",
+                "tournament": "NPC",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 16,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Bay of Plenty",
+                "tournament": "NPC",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Bay of Plenty",
+                "tournament": "NPC",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Bay of Plenty",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Bay of Plenty",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "Southland",
+                "tournament": "NPC",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Pouri RAKETE-STONES",
+        "position": "Prop",
+        "dob": "17/06/1997",
+        "height": "1.83m",
+        "weight": "124kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Hurricanes",
+        "league": "Super Rugby Pacific",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Hawke's Bay",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Māori All Blacks",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Hawke's Bay",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "All Blacks XV",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Māori All Blacks",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Hawke's Bay",
+                "tournament": "NPC",
+                "matches": 13,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Hawke's Bay",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Aotearoa",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Hawke's Bay",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Hawke's Bay",
+                "tournament": "NPC",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Siale LAUAKI",
+        "position": "Prop",
+        "dob": "30/05/2003",
+        "height": "1.94m",
+        "weight": "125kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Hurricanes",
+        "league": "Super Rugby Pacific",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "All Blacks XV",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Wellington",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Wellington",
+                "tournament": "NPC",
+                "matches": 13,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Wellington",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "New Zealand U20",
+                "tournament": "U20 Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Wellington",
+                "tournament": "NPC",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "New Zealand U20",
+                "tournament": "Oceania Rugby U20 Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Tevita MAFILEO",
+        "position": "Prop",
+        "dob": "04/02/1998",
+        "height": "1.88m",
+        "weight": "125kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Hurricanes",
+        "league": "Super Rugby Pacific",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Bay of Plenty",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "North Harbour",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "North Harbour",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Bay of Plenty",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Aotearoa",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Bay of Plenty",
+                "tournament": "NPC",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Bay of Plenty",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Chiefs",
+                "tournament": "Super Rugby",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Tyrel LOMAX",
+        "position": "Prop",
+        "dob": "01/06/1996",
+        "height": "1.92m",
+        "weight": "129kg",
+        "contract": "PRO",
+        "nation": "Australia",
+        "club": "Hurricanes",
+        "league": "Super Rugby Pacific",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "New Zealand",
+                "tournament": "Autumn Nations Series",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "6",
+                "tournament": "3 0 3",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 13,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "1 1 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 12,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "6",
+                "tournament": "4 0 2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Aotearoa",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "7",
+                "tournament": "4 0 3",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Highlanders",
+                "tournament": "Super Rugby",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Highlanders",
+                "tournament": "Super Rugby",
+                "matches": 15,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "16/17",
+                "team": "Rebels",
+                "tournament": "Super Rugby",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Xavier NUMIA",
+        "position": "Prop",
+        "dob": "29/11/1998",
+        "height": "1.89m",
+        "weight": "116kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Hurricanes",
+        "league": "Super Rugby Pacific",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "All Blacks XV",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Wellington",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "All Blacks XV",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 14,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "23/24",
+                "team": "Wellington",
+                "tournament": "NPC",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "All Blacks XV",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Wellington",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Wellington",
+                "tournament": "NPC",
+                "matches": 13,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Aotearoa",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Wellington",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Wellington",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "18/19",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Asafo AUMUA",
+        "position": "Hooker",
+        "dob": "05/05/1997",
+        "height": "1.77m",
+        "weight": "112kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Hurricanes",
+        "league": "Super Rugby Pacific",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Wellington",
+                "tournament": "NPC",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 11,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "Wellington",
+                "tournament": "NPC",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Barbarian F.C.",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Wellington",
+                "tournament": "NPC",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Wellington",
+                "tournament": "NPC",
+                "matches": 13,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "21/22",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Aotearoa",
+                "matches": 5,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "20/21",
+                "team": "4",
+                "tournament": "4 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Wellington",
+                "tournament": "NPC",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "6",
+                "tournament": "4 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Wellington",
+                "tournament": "NPC",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "New Zealand",
+                "tournament": "Tri Nations",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "All Blacks XV",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Jacob DEVERY",
+        "position": "Hooker",
+        "dob": "21/10/1998",
+        "height": "1.80m",
+        "weight": "105kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Hurricanes",
+        "league": "Super Rugby Pacific",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 10,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "Hawke's Bay",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Māori All Blacks",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Hawke's Bay",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Hawke's Bay",
+                "tournament": "NPC",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Hawke's Bay",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "Hawke's Bay",
+                "tournament": "NPC",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Raymond TUPUTUPU",
+        "position": "Hooker",
+        "dob": "11/04/2003",
+        "height": "1.83m",
+        "weight": "106kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Hurricanes",
+        "league": "Super Rugby Pacific",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Manawatu",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Manawatu",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "22/23",
+                "team": "Manawatu",
+                "tournament": "NPC",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "New Zealand U20",
+                "tournament": "U20 Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "New Zealand U20",
+                "tournament": "Oceania Rugby U20 Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Vernon BASON",
+        "position": "Hooker",
+        "dob": "10/10/2004",
+        "height": "1.80m",
+        "weight": "106kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Hurricanes",
+        "league": "Super Rugby Pacific",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Manawatu",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Manawatu",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "New Zealand U20",
+                "tournament": "Rugby Championship U20",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Manawatu",
+                "tournament": "NPC",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "New Zealand U20",
+                "tournament": "U20 Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Caleb DELANY",
+        "position": "Lock",
+        "dob": "04/02/2000",
+        "height": "1.97m",
+        "weight": "115kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Hurricanes",
+        "league": "Super Rugby Pacific",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "All Blacks XV",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Wellington",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "All Blacks XV",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Māori All Blacks",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Wellington",
+                "tournament": "NPC",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Wellington",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Wellington",
+                "tournament": "NPC",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Wellington",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Wellington",
+                "tournament": "NPC",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Hugo PLUMMER",
+        "position": "Lock",
+        "dob": "25/08/2000",
+        "height": "1.98m",
+        "weight": "119kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Hurricanes",
+        "league": "Super Rugby Pacific",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Wellington",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Wellington",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Wellington",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Wellington",
+                "tournament": "NPC",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Isaia WALKER-LEAWERE",
+        "position": "Lock",
+        "dob": "16/04/1997",
+        "height": "1.97m",
+        "weight": "122kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Hurricanes",
+        "league": "Super Rugby Pacific",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Hawke's Bay",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "All Blacks XV",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Māori All Blacks",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Hawke's Bay",
+                "tournament": "NPC",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Māori All Blacks",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Hawke's Bay",
+                "tournament": "NPC",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Hawke's Bay",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Aotearoa",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Hawke's Bay",
+                "tournament": "NPC",
+                "matches": 12,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "18/19",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Tom ALLEN",
+        "position": "Lock",
+        "dob": "23/07/2004",
+        "height": "1.97m",
+        "weight": "114kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Hurricanes",
+        "league": "Super Rugby Pacific",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Auckland",
+                "tournament": "NPC",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "New Zealand U20",
+                "tournament": "Rugby Championship U20",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Hawke's Bay",
+                "tournament": "NPC",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "New Zealand U20",
+                "tournament": "U20 Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Warner DEARNS",
+        "position": "Lock",
+        "dob": "11/04/2002",
+        "height": "2.03m",
+        "weight": "124kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Hurricanes",
+        "league": "Super Rugby Pacific",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "25/26",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Brave Lupus",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 15,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Brave Lupus",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 17,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "Japan",
+                "tournament": "Rugby World Cup",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Brave Lupus",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Brave Lupus",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 15,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Arese POLIKO",
+        "position": "Back row",
+        "dob": "23/01/2001",
+        "height": "1.90m",
+        "weight": "115kg",
+        "contract": "PRO",
+        "nation": "Samoa",
+        "club": "Hurricanes",
+        "league": "Super Rugby Pacific",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Taranaki",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "Taranaki",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Taranaki",
+                "tournament": "NPC",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Southland",
+                "tournament": "NPC",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Southland",
+                "tournament": "NPC",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Brad SHIELDS",
+        "position": "Back row",
+        "dob": "02/04/1991",
+        "height": "1.94m",
+        "weight": "113kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Hurricanes",
+        "league": "Super Rugby Pacific",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Wellington",
+                "tournament": "NPC",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 9,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Wellington",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Wasps",
+                "tournament": "Premiership",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Perpignan",
+                "tournament": "Top 14",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Wellington",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Wasps",
+                "tournament": "Premiership",
+                "matches": 21,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Wasps",
+                "tournament": "Premiership",
+                "matches": 18,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "20/21",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Wasps",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "16",
+                "tournament": "11 0 5",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Wasps",
+                "tournament": "Premiership",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "4",
+                "tournament": "0 1 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "England",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "3",
+                "tournament": "1 1 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "England",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "15/16",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby",
+                "matches": 16,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "14/15",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby",
+                "matches": 18,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "13/14",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Brayden IOSE",
+        "position": "Back row",
+        "dob": "26/08/1998",
+        "height": "1.88m",
+        "weight": "109kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Hurricanes",
+        "league": "Super Rugby Pacific",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 12,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "Manawatu",
+                "tournament": "NPC",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 14,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "Manawatu",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 14,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "22/23",
+                "team": "Manawatu",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "21/22",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Manawatu",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Aotearoa",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Manawatu",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "Manawatu",
+                "tournament": "NPC",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Devan FLANDERS",
+        "position": "Back row",
+        "dob": "20/07/1999",
+        "height": "1.93m",
+        "weight": "108kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Hurricanes",
+        "league": "Super Rugby Pacific",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "All Blacks XV",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Hawke's Bay",
+                "tournament": "NPC",
+                "matches": 12,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "24/25",
+                "team": "All Blacks XV",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 13,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Hawke's Bay",
+                "tournament": "NPC",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 11,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "22/23",
+                "team": "Hawke's Bay",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Hawke's Bay",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Aotearoa",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Hawke's Bay",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Hawke's Bay",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "18/19",
+                "team": "New Zealand U20",
+                "tournament": "U20 Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Du'Plessis KIRIFI",
+        "position": "Back row",
+        "dob": "03/03/1997",
+        "height": "1.81m",
+        "weight": "103kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Hurricanes",
+        "league": "Super Rugby Pacific",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "New Zealand",
+                "tournament": "Autumn Nations Series",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "All Blacks XV",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 13,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "Wellington",
+                "tournament": "NPC",
+                "matches": 6,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "All Blacks XV",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 13,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Wellington",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Wellington",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Aotearoa",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Wellington",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "19/20",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "8",
+                "tournament": "5 0 3",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Wellington",
+                "tournament": "NPC",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Peter LAKAI",
+        "position": "Back row",
+        "dob": "04/03/2003",
+        "height": "1.86m",
+        "weight": "110kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Hurricanes",
+        "league": "Super Rugby Pacific",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "New Zealand",
+                "tournament": "Autumn Nations Series",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 15,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Wellington",
+                "tournament": "NPC",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 15,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "23/24",
+                "team": "Wellington",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Wellington",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "New Zealand U20",
+                "tournament": "U20 Championship",
+                "matches": 4,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Wellington",
+                "tournament": "NPC",
+                "matches": 13,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "New Zealand U20",
+                "tournament": "Oceania Rugby U20 Championship",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Cam ROIGARD",
+        "position": "Scrum-half",
+        "dob": "16/11/2000",
+        "height": "1.83m",
+        "weight": "88kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Hurricanes",
+        "league": "Super Rugby Pacific",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "New Zealand",
+                "tournament": "Autumn Nations Series",
+                "matches": 2,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 15,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "24/25",
+                "team": "Counties Manukau",
+                "tournament": "NPC",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 5,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "Counties Manukau",
+                "tournament": "NPC",
+                "matches": 2,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 14,
+                "tries": 9,
+                "points": 45
+            },
+            {
+                "season": "22/23",
+                "team": "New Zealand",
+                "tournament": "Rugby Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Counties Manukau",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 3,
+                "points": 17
+            },
+            {
+                "season": "20/21",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Aotearoa",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Counties Manukau",
+                "tournament": "NPC",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Counties Manukau",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Ere ENARI",
+        "position": "Scrum-half",
+        "dob": "30/05/1997",
+        "height": "1.78m",
+        "weight": "84kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Hurricanes",
+        "league": "Super Rugby Pacific",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Hawke's Bay",
+                "tournament": "NPC",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Moana Pasifika",
+                "tournament": "Super Rugby Pacific",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Hawke's Bay",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Samoa",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Moana Pasifika",
+                "tournament": "Super Rugby Pacific",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Samoa",
+                "tournament": "Autumn Nations Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Moana Pasifika",
+                "tournament": "Super Rugby Pacific",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Hawke's Bay",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Samoa",
+                "tournament": "Pacific Nations Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Trans-Tasman",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Hawke's Bay",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Crusaders",
+                "tournament": "Super Rugby",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Canterbury",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Crusaders",
+                "tournament": "Super Rugby",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Crusaders",
+                "tournament": "Super Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Jordi VILJOEN",
+        "position": "Scrum-half",
+        "dob": "14/10/2003",
+        "height": "1.69m",
+        "weight": "76kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Hurricanes",
+        "league": "Super Rugby Pacific",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Manawatu",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Manawatu",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "22/23",
+                "team": "Manawatu",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "New Zealand U20",
+                "tournament": "U20 Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Brett CAMERON",
+        "position": "Fly-half",
+        "dob": "04/10/1996",
+        "height": "1.75m",
+        "weight": "84kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Hurricanes",
+        "league": "Super Rugby Pacific",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Manawatu",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 0,
+                "points": 28
+            },
+            {
+                "season": "23/24",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 13,
+                "tries": 2,
+                "points": 106
+            },
+            {
+                "season": "23/24",
+                "team": "Manawatu",
+                "tournament": "NPC",
+                "matches": 3,
+                "tries": 1,
+                "points": 21
+            },
+            {
+                "season": "23/24",
+                "team": "All Blacks XV",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 2
+            },
+            {
+                "season": "22/23",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 7,
+                "tries": 1,
+                "points": 41
+            },
+            {
+                "season": "22/23",
+                "team": "Manawatu",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 0,
+                "points": 21
+            },
+            {
+                "season": "21/22",
+                "team": "Kamaishi",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 11,
+                "tries": 0,
+                "points": 50
+            },
+            {
+                "season": "21/22",
+                "team": "Manawatu",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 1,
+                "points": 55
+            },
+            {
+                "season": "20/21",
+                "team": "Manawatu",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 2,
+                "points": 107
+            },
+            {
+                "season": "19/20",
+                "team": "Crusaders",
+                "tournament": "Super Rugby",
+                "matches": 6,
+                "tries": 0,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "Canterbury",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 0,
+                "points": 36
+            },
+            {
+                "season": "18/19",
+                "team": "Crusaders",
+                "tournament": "Super Rugby",
+                "matches": 6,
+                "tries": 0,
+                "points": 9
+            },
+            {
+                "season": "18/19",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Crusaders",
+                "tournament": "Super Rugby",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Callum HARKIN",
+        "position": "Fly-half",
+        "dob": "08/04/1999",
+        "height": "1.84m",
+        "weight": "90kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Hurricanes",
+        "league": "Super Rugby Pacific",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 10,
+                "tries": 1,
+                "points": 14
+            },
+            {
+                "season": "24/25",
+                "team": "Wellington",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "Wellington",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 0,
+                "points": 40
+            }
+        ]
+    },
+    {
+        "name": "Harry GODFREY",
+        "position": "Fly-half",
+        "dob": "03/01/2003",
+        "height": "1.76m",
+        "weight": "88kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Hurricanes",
+        "league": "Super Rugby Pacific",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 5,
+                "tries": 2,
+                "points": 55
+            },
+            {
+                "season": "24/25",
+                "team": "Hawke's Bay",
+                "tournament": "NPC",
+                "matches": 6,
+                "tries": 1,
+                "points": 53
+            },
+            {
+                "season": "23/24",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Hawke's Bay",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 3,
+                "points": 37
+            },
+            {
+                "season": "22/23",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Hawke's Bay",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 1,
+                "points": 7
+            },
+            {
+                "season": "22/23",
+                "team": "New Zealand U20",
+                "tournament": "U20 Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 11
+            },
+            {
+                "season": "21/22",
+                "team": "Hawke's Bay",
+                "tournament": "NPC",
+                "matches": 2,
+                "tries": 0,
+                "points": 8
+            },
+            {
+                "season": "21/22",
+                "team": "New Zealand U20",
+                "tournament": "Oceania Rugby U20 Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Lucas CASHMORE",
+        "position": "Fly-half",
+        "dob": "25/08/2002",
+        "height": "1.77m",
+        "weight": "86kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Hurricanes",
+        "league": "Super Rugby Pacific",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Bay of Plenty",
+                "tournament": "NPC",
+                "matches": 12,
+                "tries": 1,
+                "points": 46
+            },
+            {
+                "season": "23/24",
+                "team": "Blues",
+                "tournament": "Super Rugby Pacific",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Bay of Plenty",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 1,
+                "points": 47
+            },
+            {
+                "season": "22/23",
+                "team": "Bay of Plenty",
+                "tournament": "NPC",
+                "matches": 6,
+                "tries": 2,
+                "points": 52
+            },
+            {
+                "season": "21/22",
+                "team": "Bay of Plenty",
+                "tournament": "NPC",
+                "matches": 5,
+                "tries": 0,
+                "points": 12
+            },
+            {
+                "season": "21/22",
+                "team": "New Zealand U20",
+                "tournament": "Oceania Rugby U20 Championship",
+                "matches": 3,
+                "tries": 2,
+                "points": 38
+            },
+            {
+                "season": "20/21",
+                "team": "Bay of Plenty",
+                "tournament": "NPC",
+                "matches": 6,
+                "tries": 2,
+                "points": 33
+            }
+        ]
+    },
+    {
+        "name": "Bailyn SULLIVAN",
+        "position": "Centre",
+        "dob": "03/09/1998",
+        "height": "1.87m",
+        "weight": "103kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Hurricanes",
+        "league": "Super Rugby Pacific",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 15,
+                "tries": 8,
+                "points": 40
+            },
+            {
+                "season": "24/25",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "Māori All Blacks",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "All Blacks XV",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Māori All Blacks",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 12,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "21/22",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "20/21",
+                "team": "Chiefs",
+                "tournament": "Super Rugby Aotearoa",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "19/20",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Chiefs",
+                "tournament": "Super Rugby",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Chiefs",
+                "tournament": "Super Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Billy PROCTOR",
+        "position": "Centre",
+        "dob": "14/05/1999",
+        "height": "1.87m",
+        "weight": "98kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Hurricanes",
+        "league": "Super Rugby Pacific",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "New Zealand",
+                "tournament": "Autumn Nations Series",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 7,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 12,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "Wellington",
+                "tournament": "NPC",
+                "matches": 4,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "All Blacks XV",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 12,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "22/23",
+                "team": "Wellington",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 11,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "21/22",
+                "team": "Wellington",
+                "tournament": "NPC",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Aotearoa",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Wellington",
+                "tournament": "NPC",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "7",
+                "tournament": "4 0 3",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Wellington",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 2,
+                "points": 12
+            },
+            {
+                "season": "18/19",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "New Zealand U20",
+                "tournament": "U20 Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Fehi FINEANGANOFO",
+        "position": "Centre",
+        "dob": "31/08/2002",
+        "height": "1.86m",
+        "weight": "105kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Hurricanes",
+        "league": "Super Rugby Pacific",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 12,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "24/25",
+                "team": "Bay of Plenty",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 9,
+                "points": 45
+            },
+            {
+                "season": "23/24",
+                "team": "Bay of Plenty",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "22/23",
+                "team": "Bay of Plenty",
+                "tournament": "NPC",
+                "matches": 5,
+                "tries": 3,
+                "points": 15
+            }
+        ]
+    },
+    {
+        "name": "Jone ROVA",
+        "position": "Centre",
+        "dob": "07/12/2002",
+        "height": "1.85m",
+        "weight": "96kg",
+        "contract": "PRO",
+        "nation": "Fiji",
+        "club": "Hurricanes",
+        "league": "Super Rugby Pacific",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Canterbury",
+                "tournament": "NPC",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Canterbury",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "22/23",
+                "team": "Canterbury",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Canterbury",
+                "tournament": "NPC",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "New Zealand U20",
+                "tournament": "Oceania Rugby U20 Championship",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Jordie BARRETT",
+        "position": "Centre",
+        "dob": "17/02/1997",
+        "height": "1.96m",
+        "weight": "102kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Hurricanes",
+        "league": "Super Rugby Pacific",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "New Zealand",
+                "tournament": "Autumn Nations Series",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Leinster",
+                "tournament": "Champions Cup",
+                "matches": 7,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "8",
+                "tournament": "7 0 1",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "New Zealand",
+                "tournament": "Autumn Nations Series",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "6",
+                "tournament": "4 0 2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 13,
+                "tries": 5,
+                "points": 41
+            },
+            {
+                "season": "23/24",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 5,
+                "tries": 2,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 13,
+                "tries": 2,
+                "points": 118
+            },
+            {
+                "season": "22/23",
+                "team": "New Zealand",
+                "tournament": "Autumn Nations Series",
+                "matches": 3,
+                "tries": 2,
+                "points": 28
+            },
+            {
+                "season": "22/23",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 12,
+                "tries": 3,
+                "points": 118
+            },
+            {
+                "season": "21/22",
+                "team": "New Zealand",
+                "tournament": "Autumn Nations Series",
+                "matches": 4,
+                "tries": 1,
+                "points": 44
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 1,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "6",
+                "tournament": "4 0 2",
+                "matches": 6,
+                "tries": 1,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Aotearoa",
+                "matches": 8,
+                "tries": 3,
+                "points": 95
+            },
+            {
+                "season": "20/21",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 5,
+                "tries": 2,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "6",
+                "tournament": "5 0 1",
+                "matches": 5,
+                "tries": 10,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 42
+            },
+            {
+                "season": "19/20",
+                "team": "6",
+                "tournament": "5 0 1",
+                "matches": 6,
+                "tries": 8,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Taranaki",
+                "tournament": "NPC",
+                "matches": 2,
+                "tries": 1,
+                "points": 22
+            },
+            {
+                "season": "19/20",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 2,
+                "points": 16
+            },
+            {
+                "season": "19/20",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 4,
+                "tries": 1,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby",
+                "matches": 15,
+                "tries": 5,
+                "points": 72
+            },
+            {
+                "season": "18/19",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 4,
+                "points": 22
+            },
+            {
+                "season": "18/19",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby",
+                "matches": 16,
+                "tries": 3,
+                "points": 56
+            },
+            {
+                "season": "17/18",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "17/18",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby",
+                "matches": 17,
+                "tries": 7,
+                "points": 133
+            },
+            {
+                "season": "16/17",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Josh TIMU",
+        "position": "Centre",
+        "dob": "06/07/1997",
+        "height": "1.83m",
+        "weight": "94kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Hurricanes",
+        "league": "Super Rugby Pacific",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 4,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "19/20",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "18/19",
+                "team": "Sunwolves",
+                "tournament": "Super Rugby",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Riley HIGGINS",
+        "position": "Centre",
+        "dob": "09/10/2002",
+        "height": "1.87m",
+        "weight": "99kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Hurricanes",
+        "league": "Super Rugby Pacific",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "All Blacks XV",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Wellington",
+                "tournament": "NPC",
+                "matches": 12,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "22/23",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Wellington",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Wellington",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "21/22",
+                "team": "New Zealand U20",
+                "tournament": "Oceania Rugby U20 Championship",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Kini NAHOLO",
+        "position": "Winger",
+        "dob": "16/04/1999",
+        "height": "1.78m",
+        "weight": "98kg",
+        "contract": "PRO",
+        "nation": "Fiji",
+        "club": "Hurricanes",
+        "league": "Super Rugby Pacific",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 10,
+                "tries": 8,
+                "points": 40
+            },
+            {
+                "season": "24/25",
+                "team": "All Blacks XV",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 12,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "Taranaki",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "22/23",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 10,
+                "tries": 9,
+                "points": 45
+            },
+            {
+                "season": "22/23",
+                "team": "Taranaki",
+                "tournament": "NPC",
+                "matches": 12,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "21/22",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Taranaki",
+                "tournament": "NPC",
+                "matches": 6,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "20/21",
+                "team": "Taranaki",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "19/20",
+                "team": "Chiefs",
+                "tournament": "Super Rugby Aotearoa",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Ngane PUNIVAI",
+        "position": "Winger",
+        "dob": "30/08/1998",
+        "height": "1.91m",
+        "weight": "105kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Hurricanes",
+        "league": "Super Rugby Pacific",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 13,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "24/25",
+                "team": "Canterbury",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 2,
+                "points": 12
+            },
+            {
+                "season": "23/24",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Canterbury",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "22/23",
+                "team": "Chiefs",
+                "tournament": "Super Rugby Pacific",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Canterbury",
+                "tournament": "NPC",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Canterbury",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "20/21",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Aotearoa",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Canterbury",
+                "tournament": "NPC",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Highlanders",
+                "tournament": "Super Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Canterbury",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "18/19",
+                "team": "Crusaders",
+                "tournament": "Super Rugby",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Joshua MOORBY",
+        "position": "Fullback",
+        "dob": "11/07/1998",
+        "height": "1.88m",
+        "weight": "96kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Hurricanes",
+        "league": "Super Rugby Pacific",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 15,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 14,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "23/24",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Māori All Blacks",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 14,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "22/23",
+                "team": "Northland",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 10,
+                "tries": 9,
+                "points": 45
+            },
+            {
+                "season": "21/22",
+                "team": "Northland",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "20/21",
+                "team": "Southland",
+                "tournament": "NPC",
+                "matches": 4,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "Southland",
+                "tournament": "NPC",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Ruben LOVE",
+        "position": "Fullback",
+        "dob": "28/04/2001",
+        "height": "1.84m",
+        "weight": "92kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Hurricanes",
+        "league": "Super Rugby Pacific",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 12,
+                "tries": 4,
+                "points": 84
+            },
+            {
+                "season": "24/25",
+                "team": "Wellington",
+                "tournament": "NPC",
+                "matches": 3,
+                "tries": 1,
+                "points": 11
+            },
+            {
+                "season": "24/25",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 13,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Wellington",
+                "tournament": "NPC",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "All Blacks XV",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Wellington",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 4,
+                "points": 24
+            },
+            {
+                "season": "21/22",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 9,
+                "tries": 1,
+                "points": 22
+            },
+            {
+                "season": "21/22",
+                "team": "Wellington",
+                "tournament": "NPC",
+                "matches": 13,
+                "tries": 6,
+                "points": 33
+            },
+            {
+                "season": "20/21",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Aotearoa",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Wellington",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 1,
+                "points": 58
+            },
+            {
+                "season": "19/20",
+                "team": "Wellington",
+                "tournament": "NPC",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    }
+]

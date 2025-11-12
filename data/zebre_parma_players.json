@@ -1,0 +1,3876 @@
+[
+    {
+        "name": "Ion NECULAI",
+        "position": "Prop",
+        "dob": "25/01/2001",
+        "height": "1.89m",
+        "weight": "135kg",
+        "contract": "PRO",
+        "nation": "Italy",
+        "club": "Zebre Parma",
+        "league": "URC",
+        "value": 75000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Italy",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Italy U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 5,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "19/20",
+                "team": "Italy U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Juan PITINARI",
+        "position": "Prop",
+        "dob": "18/01/1995",
+        "height": "1.87m",
+        "weight": "118kg",
+        "contract": "PRO",
+        "nation": "Argentina",
+        "club": "Zebre Parma",
+        "league": "URC",
+        "value": 75000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Luca FRANCESCHETTO",
+        "position": "Prop",
+        "dob": "07/06/1999",
+        "height": "1.93m",
+        "weight": "127kg",
+        "contract": "PRO",
+        "nation": "Italy",
+        "club": "Zebre Parma",
+        "league": "URC",
+        "value": 75000.0,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Italy U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Luca RIZZOLI",
+        "position": "Prop",
+        "dob": "03/05/2002",
+        "height": "1.78m",
+        "weight": "109kg",
+        "contract": "PRO",
+        "nation": "Italy",
+        "club": "Zebre Parma",
+        "league": "URC",
+        "value": 75000.0,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "0 0 4",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Italy",
+                "tournament": "Six Nations Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Italy U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Italy U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Marcos GALLORINI",
+        "position": "Prop",
+        "dob": "11/10/2004",
+        "height": "1.90m",
+        "weight": "135kg",
+        "contract": "PRO",
+        "nation": "Italy",
+        "club": "Zebre Parma",
+        "league": "URC",
+        "value": 75000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Benetton",
+                "tournament": "United Rugby Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Italy U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Italy U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 5,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "22/23",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Matteo NOCERA",
+        "position": "Prop",
+        "dob": "16/01/1999",
+        "height": "1.94m",
+        "weight": "130kg",
+        "contract": "PRO",
+        "nation": "Italy",
+        "club": "Zebre Parma",
+        "league": "URC",
+        "value": 78000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Zebre",
+                "tournament": "Pro 14",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Zebre",
+                "tournament": "Pro 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Zebre",
+                "tournament": "Pro 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Italy U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "18/19",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Muhamed HASA",
+        "position": "Prop",
+        "dob": "10/09/2001",
+        "height": "1.83m",
+        "weight": "125kg",
+        "contract": "PRO",
+        "nation": "Italy",
+        "club": "Zebre Parma",
+        "league": "URC",
+        "value": 80000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "0 0 4",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Italy",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 14,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "22/23",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Italy U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Italy U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Paolo BUONFIGLIO",
+        "position": "Prop",
+        "dob": "28/01/1995",
+        "height": "1.83m",
+        "weight": "114kg",
+        "contract": "PRO",
+        "nation": "Italy",
+        "club": "Zebre Parma",
+        "league": "URC",
+        "value": 75000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Zebre",
+                "tournament": "Challenge Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "6",
+                "tournament": "2 1 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Italy",
+                "tournament": "Summer Nations Series",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Zebre",
+                "tournament": "Pro 14",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Zebre",
+                "tournament": "Pro 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Giampietro RIBALDI",
+        "position": "Hooker",
+        "dob": "12/03/1997",
+        "height": "1.86m",
+        "weight": "110kg",
+        "contract": "PRO",
+        "nation": "Italy",
+        "club": "Zebre Parma",
+        "league": "URC",
+        "value": 105000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Zebre",
+                "tournament": "Rainbow Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Giovanni QUATTRINI",
+        "position": "Hooker",
+        "dob": "29/09/2003",
+        "height": "1.79m",
+        "weight": "111kg",
+        "contract": "PRO",
+        "nation": "Italy",
+        "club": "Zebre Parma",
+        "league": "URC",
+        "value": 850000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Italy U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Italy U20",
+                "tournament": "U20 Summer Series",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Shilo KLEIN",
+        "position": "Hooker",
+        "dob": "05/05/1999",
+        "height": "1.81m",
+        "weight": "107kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "Zebre Parma",
+        "league": "URC",
+        "value": 850000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 0,
+                "points": 52
+            },
+            {
+                "season": "24/25",
+                "team": "USA",
+                "tournament": "Test Matchs",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "North Harbour",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 15,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "North Harbour",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Canterbury",
+                "tournament": "NPC",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Canterbury",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "Canterbury",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "New Zealand U20",
+                "tournament": "U20 Championship",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Tommaso DI BARTOLOMEO",
+        "position": "Hooker",
+        "dob": "04/01/2001",
+        "height": "1.80m",
+        "weight": "107kg",
+        "contract": "PRO",
+        "nation": "Italy",
+        "club": "Zebre Parma",
+        "league": "URC",
+        "value": 105000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 4,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "25/26",
+                "team": "Italy",
+                "tournament": "Autumn Nations Series",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 16,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Italy",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Italy U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Alessandro ORTOMBINA",
+        "position": "Lock",
+        "dob": "05/10/2002",
+        "height": "1.96m",
+        "weight": "114kg",
+        "contract": "PRO",
+        "nation": "Italy",
+        "club": "Zebre Parma",
+        "league": "URC",
+        "value": 105000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Perpignan",
+                "tournament": "Challenge Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Italy U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Francesco RUFFOLO",
+        "position": "Lock",
+        "dob": "31/10/2002",
+        "height": "1.98m",
+        "weight": "118kg",
+        "contract": "PRO",
+        "nation": "Italy",
+        "club": "Zebre Parma",
+        "league": "URC",
+        "value": 100000.0,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Italy U20",
+                "tournament": "U20 Summer Series",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Franco CARRERA",
+        "position": "Lock",
+        "dob": "02/06/1999",
+        "height": "1.98m",
+        "weight": "115kg",
+        "contract": "PRO",
+        "nation": "Argentina",
+        "club": "Zebre Parma",
+        "league": "URC",
+        "value": 100000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Leonard KRUMOV",
+        "position": "Lock",
+        "dob": "01/05/1996",
+        "height": "1.98m",
+        "weight": "120kg",
+        "contract": "PRO",
+        "nation": "Italy",
+        "club": "Zebre Parma",
+        "league": "URC",
+        "value": 100000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 18,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "0 0 4",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 15,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Zebre",
+                "tournament": "Pro 14",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "3",
+                "tournament": "1 1 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "5",
+                "tournament": "0 0 5",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Zebre",
+                "tournament": "Pro 14",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Zebre",
+                "tournament": "Pro 14",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Zebre",
+                "tournament": "Pro 14",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "6",
+                "tournament": "1 0 5",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Matteo CANALI",
+        "position": "Lock",
+        "dob": "11/09/1998",
+        "height": "1.98m",
+        "weight": "123kg",
+        "contract": "PRO",
+        "nation": "Italy",
+        "club": "Zebre Parma",
+        "league": "URC",
+        "value": 100000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 18,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Italy",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Italy",
+                "tournament": "Six Nations Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Benetton",
+                "tournament": "Pro 14",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Bautista STAVILE",
+        "position": "Back row",
+        "dob": "22/02/1997",
+        "height": "1.83m",
+        "weight": "100kg",
+        "contract": "PRO",
+        "nation": "Argentina",
+        "club": "Zebre Parma",
+        "league": "URC",
+        "value": 850000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 12,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "0 0 4",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "David ODIASE",
+        "position": "Back row",
+        "dob": "19/01/2003",
+        "height": "1.90m",
+        "weight": "114kg",
+        "contract": "PRO",
+        "nation": "Italy",
+        "club": "Zebre Parma",
+        "league": "URC",
+        "value": 150000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Italy",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Oyonnax",
+                "tournament": "Challenge Cup",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Italy U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Italy U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Davide RUGGERI",
+        "position": "Back row",
+        "dob": "07/05/1999",
+        "height": "1.89m",
+        "weight": "109kg",
+        "contract": "PRO",
+        "nation": "Italy",
+        "club": "Zebre Parma",
+        "league": "URC",
+        "value": 150000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Benetton",
+                "tournament": "Pro 14",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "Zebre",
+                "tournament": "Pro 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Italy U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Giacomo FERRARI",
+        "position": "Back row",
+        "dob": "22/01/2002",
+        "height": "1.90m",
+        "weight": "107kg",
+        "contract": "PRO",
+        "nation": "Italy",
+        "club": "Zebre Parma",
+        "league": "URC",
+        "value": 150000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Italy U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "Italy U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Giacomo MILANO",
+        "position": "Back row",
+        "dob": "/04/2005",
+        "height": "1.92m",
+        "weight": "110kg",
+        "contract": "PRO",
+        "nation": "Italy",
+        "club": "Zebre Parma",
+        "league": "URC",
+        "value": 150000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Italy U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "5",
+                "tournament": "2 1 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Italy U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Giovanni LICATA",
+        "position": "Back row",
+        "dob": "18/02/1997",
+        "height": "1.93m",
+        "weight": "111kg",
+        "contract": "PRO",
+        "nation": "Italy",
+        "club": "Zebre Parma",
+        "league": "URC",
+        "value": 150000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 15,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 13,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Zebre",
+                "tournament": "Challenge Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "4",
+                "tournament": "0 0 4",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Italy",
+                "tournament": "Autumn Nations Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Zebre",
+                "tournament": "Pro 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Zebre",
+                "tournament": "Pro 14",
+                "matches": 11,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "3",
+                "tournament": "1 1 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Italy",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Zebre",
+                "tournament": "Pro 14",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Zebre",
+                "tournament": "Pro 14",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Italy",
+                "tournament": "Test Matchs",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Guido VOLPI",
+        "position": "Back row",
+        "dob": "22/08/1995",
+        "height": "1.93m",
+        "weight": "112kg",
+        "contract": "PRO",
+        "nation": "Argentina",
+        "club": "Zebre Parma",
+        "league": "URC",
+        "value": 125000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Ospreys",
+                "tournament": "Pro 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Ospreys",
+                "tournament": "Pro 14",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Iacopo BIANCHI",
+        "position": "Back row",
+        "dob": "05/05/1998",
+        "height": "1.88m",
+        "weight": "108kg",
+        "contract": "PRO",
+        "nation": "Italy",
+        "club": "Zebre Parma",
+        "league": "URC",
+        "value": 850000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 11,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Zebre",
+                "tournament": "Pro 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "4",
+                "tournament": "0 0 4",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Zebre",
+                "tournament": "Pro 14",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "Zebre",
+                "tournament": "Pro 14",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Samuele LOCATELLI",
+        "position": "Back row",
+        "dob": "30/07/2001",
+        "height": "1.87m",
+        "weight": "109kg",
+        "contract": "PRO",
+        "nation": "Italy",
+        "club": "Zebre Parma",
+        "league": "URC",
+        "value": 150000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Alessandro FUSCO",
+        "position": "Scrum-half",
+        "dob": "28/10/1999",
+        "height": "1.85m",
+        "weight": "91kg",
+        "contract": "PRO",
+        "nation": "Italy",
+        "club": "Zebre Parma",
+        "league": "URC",
+        "value": 110000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 14,
+                "tries": 4,
+                "points": 23
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Italy",
+                "tournament": "Autumn Nations Series",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Italy",
+                "tournament": "Summer Nations Series",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Italy",
+                "tournament": "Six Nations Championship",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Italy",
+                "tournament": "Autumn Nations Series",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Zebre",
+                "tournament": "Pro 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Italy U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Gonzalo GARCIA",
+        "position": "Scrum-half",
+        "dob": "05/03/1999",
+        "height": "1.73m",
+        "weight": "82kg",
+        "contract": "PRO",
+        "nation": "Argentina",
+        "club": "Zebre Parma",
+        "league": "URC",
+        "value": 100000.0,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 14,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Argentina",
+                "tournament": "Autumn Nations Series",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Argentina",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Argentina",
+                "tournament": "Rugby Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Argentina U20",
+                "tournament": "U20 Championship",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Thomas DOMINGUEZ",
+        "position": "Scrum-half",
+        "dob": "18/12/1999",
+        "height": "1.75m",
+        "weight": "79kg",
+        "contract": "PRO",
+        "nation": "Argentina",
+        "club": "Zebre Parma",
+        "league": "URC",
+        "value": 125000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Zebre",
+                "tournament": "Challenge Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 8,
+                "tries": 1,
+                "points": 16
+            }
+        ]
+    },
+    {
+        "name": "Giacomo DA RE",
+        "position": "Fly-half",
+        "dob": "29/03/1999",
+        "height": "1.80m",
+        "weight": "84kg",
+        "contract": "PRO",
+        "nation": "Italy",
+        "club": "Zebre Parma",
+        "league": "URC",
+        "value": 207000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 24
+            },
+            {
+                "season": "24/25",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 15,
+                "tries": 1,
+                "points": 56
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "0 0 4",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Italy",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 21
+            },
+            {
+                "season": "23/24",
+                "team": "Benetton",
+                "tournament": "United Rugby Championship",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Italy",
+                "tournament": "Summer Nations Series",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Benetton",
+                "tournament": "United Rugby Championship",
+                "matches": 6,
+                "tries": 0,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Benetton",
+                "tournament": "United Rugby Championship",
+                "matches": 3,
+                "tries": 1,
+                "points": 12
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 1,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Italy",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 4
+            },
+            {
+                "season": "18/19",
+                "team": "Italy U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 4
+            },
+            {
+                "season": "18/19",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 1,
+                "tries": 2,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Giovanni MONTEMAURI",
+        "position": "Fly-half",
+        "dob": "24/10/2000",
+        "height": "1.89m",
+        "weight": "92kg",
+        "contract": "PRO",
+        "nation": "Italy",
+        "club": "Zebre Parma",
+        "league": "URC",
+        "value": 850000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 15,
+                "tries": 1,
+                "points": 57
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 9,
+                "tries": 1,
+                "points": 45
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 2,
+                "tries": 2,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Martin ROGER FARIAS",
+        "position": "Fly-half",
+        "dob": "22/10/1997",
+        "height": "1.86m",
+        "weight": "94kg",
+        "contract": "PRO",
+        "nation": "Argentina",
+        "club": "Zebre Parma",
+        "league": "URC",
+        "value": 200000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 8
+            }
+        ]
+    },
+    {
+        "name": "Damiano MAZZA",
+        "position": "Centre",
+        "dob": "16/02/1999",
+        "height": "1.83m",
+        "weight": "99kg",
+        "contract": "PRO",
+        "nation": "Italy",
+        "club": "Zebre Parma",
+        "league": "URC",
+        "value": 175000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Calvisano",
+                "tournament": "Challenge Cup",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Italy U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Enrico LUCCHIN",
+        "position": "Centre",
+        "dob": "04/04/1995",
+        "height": "1.88m",
+        "weight": "103kg",
+        "contract": "PRO",
+        "nation": "Italy",
+        "club": "Zebre Parma",
+        "league": "URC",
+        "value": 200000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Italy",
+                "tournament": "Autumn Nations Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Zebre",
+                "tournament": "Pro 14",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "5",
+                "tournament": "0 0 5",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Zebre",
+                "tournament": "Pro 14",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Giulio BERTACCINI",
+        "position": "Centre",
+        "dob": "29/11/2000",
+        "height": "1.84m",
+        "weight": "93kg",
+        "contract": "PRO",
+        "nation": "Italy",
+        "club": "Zebre Parma",
+        "league": "URC",
+        "value": 150000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Italy",
+                "tournament": "Autumn Nations Series",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Italy U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Italy U20",
+                "tournament": "U20 Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Luca MORISI",
+        "position": "Centre",
+        "dob": "22/02/1991",
+        "height": "1.83m",
+        "weight": "102kg",
+        "contract": "PRO",
+        "nation": "Italy",
+        "club": "Zebre Parma",
+        "league": "URC",
+        "value": 150000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Italy",
+                "tournament": "Summer Nations Series",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "London Irish",
+                "tournament": "Premiership",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "4",
+                "tournament": "0 1 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Italy",
+                "tournament": "Autumn Nations Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "5",
+                "tournament": "0 0 5",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Benetton",
+                "tournament": "United Rugby Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Italy",
+                "tournament": "Autumn Nations Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Benetton",
+                "tournament": "Pro 14",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Benetton",
+                "tournament": "Champions Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Italy",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "5",
+                "tournament": "0 0 5",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Benetton",
+                "tournament": "Pro 14",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "6",
+                "tournament": "4 0 2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Italy",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "5",
+                "tournament": "0 0 5",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Benetton",
+                "tournament": "Pro 14",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Benetton",
+                "tournament": "Challenge Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Benetton",
+                "tournament": "Pro 12",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "15/16",
+                "team": "Italy",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Benetton",
+                "tournament": "Pro 12",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "5",
+                "tournament": "1 0 4",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Italy",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "5",
+                "tournament": "1 0 4",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Benetton",
+                "tournament": "Pro 12",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "13/14",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Italy",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Marco ZANON",
+        "position": "Centre",
+        "dob": "03/10/1997",
+        "height": "1.88m",
+        "weight": "104kg",
+        "contract": "PRO",
+        "nation": "Italy",
+        "club": "Zebre Parma",
+        "league": "URC",
+        "value": 238000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Benetton",
+                "tournament": "United Rugby Championship",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Italy",
+                "tournament": "Autumn Nations Series",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Benetton",
+                "tournament": "United Rugby Championship",
+                "matches": 15,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "Italy",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Benetton",
+                "tournament": "United Rugby Championship",
+                "matches": 16,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "22/23",
+                "team": "Italy",
+                "tournament": "Six Nations Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Benetton",
+                "tournament": "United Rugby Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Italy",
+                "tournament": "Autumn Nations Series",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "5",
+                "tournament": "1 0 4",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Benetton",
+                "tournament": "Pro 14",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "5",
+                "tournament": "5 0 0",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Italy",
+                "tournament": "Autumn Nations Cup",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Benetton",
+                "tournament": "Pro 14",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Benetton",
+                "tournament": "Pro 14",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Italy",
+                "tournament": "Six Nations Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Benetton",
+                "tournament": "Pro 14",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Albert BATISTA",
+        "position": "Winger",
+        "dob": "10/06/2000",
+        "height": "1.80m",
+        "weight": "87kg",
+        "contract": "PRO",
+        "nation": "Dominican Republic",
+        "club": "Zebre Parma",
+        "league": "URC",
+        "value": 850000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Jacopo TRULLA",
+        "position": "Winger",
+        "dob": "05/07/2000",
+        "height": "1.83m",
+        "weight": "88kg",
+        "contract": "PRO",
+        "nation": "Italy",
+        "club": "Zebre Parma",
+        "league": "URC",
+        "value": 238000.0,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 13,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Italy",
+                "tournament": "Autumn Nations Series",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 13,
+                "tries": 4,
+                "points": 26
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Italy",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 15,
+                "tries": 5,
+                "points": 28
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 14,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "4",
+                "tournament": "0 0 4",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Italy",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Zebre",
+                "tournament": "Pro 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Italy",
+                "tournament": "Autumn Nations Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "4",
+                "tournament": "0 0 4",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Calvisano",
+                "tournament": "Challenge Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Zebre",
+                "tournament": "Pro 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Italy U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "Italy U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 4,
+                "tries": 3,
+                "points": 17
+            },
+            {
+                "season": "18/19",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Malik FAISSAL",
+        "position": "Winger",
+        "dob": "/04/2006",
+        "height": "1.83m",
+        "weight": "92kg",
+        "contract": "PRO",
+        "nation": "Italy",
+        "club": "Zebre Parma",
+        "league": "URC",
+        "value": 200000.0,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Italy U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Simone GESI",
+        "position": "Winger",
+        "dob": "23/05/2001",
+        "height": "1.83m",
+        "weight": "80kg",
+        "contract": "PRO",
+        "nation": "Italy",
+        "club": "Zebre Parma",
+        "league": "URC",
+        "value": 282000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 13,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Italy",
+                "tournament": "Six Nations Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 16,
+                "tries": 6,
+                "points": 33
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 11,
+                "tries": 10,
+                "points": 50
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Italy",
+                "tournament": "Six Nations Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 6,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Italy U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Lorenzo PANI",
+        "position": "Fullback",
+        "dob": "04/07/2002",
+        "height": "1.93m",
+        "weight": "96kg",
+        "contract": "PRO",
+        "nation": "Italy",
+        "club": "Zebre Parma",
+        "league": "URC",
+        "value": 350000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 11,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Italy",
+                "tournament": "Summer Nations Series",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 11,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "22/23",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Benetton",
+                "tournament": "Challenge Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "0 1 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Italy U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Italy U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Mirko BELLONI",
+        "position": "Fullback",
+        "dob": "04/06/2004",
+        "height": "1.87m",
+        "weight": "99kg",
+        "contract": "PRO",
+        "nation": "Italy",
+        "club": "Zebre Parma",
+        "league": "URC",
+        "value": 200000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Italy",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Italy U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    }
+]

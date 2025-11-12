@@ -1,0 +1,2389 @@
+[
+    {
+        "name": "Ezekiel LINDENMUTH",
+        "position": "Prop",
+        "dob": "14/07/1997",
+        "height": "1.88m",
+        "weight": "127kg",
+        "contract": "PRO",
+        "nation": "Samoa",
+        "club": "Houston Sabercats",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "USA",
+                "tournament": "Autumn Nations Series",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "25/26",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Counties Manukau",
+                "tournament": "NPC",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "USA",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Counties Manukau",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Moana Pasifika",
+                "tournament": "Super Rugby Pacific",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Counties Manukau",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Moana Pasifika",
+                "tournament": "Super Rugby Pacific",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Counties Manukau",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Samoa",
+                "tournament": "Pacific Nations Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Chiefs",
+                "tournament": "Super Rugby Aotearoa",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Counties Manukau",
+                "tournament": "NPC",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Blues",
+                "tournament": "Super Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Counties Manukau",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Blues",
+                "tournament": "Super Rugby",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Jacob MERKLINGER",
+        "position": "Prop",
+        "dob": "10/10/2003",
+        "height": "1.86m",
+        "weight": "120kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "Houston Sabercats",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": []
+    },
+    {
+        "name": "LaRome WHITE",
+        "position": "Prop",
+        "dob": "05/07/1994",
+        "height": "1.89m",
+        "weight": "120kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "Houston Sabercats",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Chicago Hounds",
+                "tournament": "Major League Rugby",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Austin",
+                "tournament": "Major League Rugby",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Austin",
+                "tournament": "Major League Rugby",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Austin",
+                "tournament": "Major League Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Michael SCOTT",
+        "position": "Prop",
+        "dob": "23/09/1997",
+        "height": "1.83m",
+        "weight": "127kg",
+        "contract": "PRO",
+        "nation": "Scotland",
+        "club": "Houston Sabercats",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 18,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Waratahs",
+                "tournament": "Super Rugby Pacific",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Pita ANAE AH-SUE",
+        "position": "Prop",
+        "dob": "16/12/1992",
+        "height": "1.83m",
+        "weight": "111kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Houston Sabercats",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 18,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "24/25",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Samoa",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 13,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Pono DAVIS",
+        "position": "Prop",
+        "dob": "04/08/1997",
+        "height": "1.85m",
+        "weight": "136kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "Houston Sabercats",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "USA",
+                "tournament": "Autumn Nations Series",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "25/26",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "USA",
+                "tournament": "Test Matchs",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "USA",
+                "tournament": "Pacific Nations Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Val LEE-LO",
+        "position": "Prop",
+        "dob": "06/04/1995",
+        "height": "1.85m",
+        "weight": "116kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "Houston Sabercats",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Wilton REBOLO",
+        "position": "Prop",
+        "dob": "02/08/1995",
+        "height": "1.83m",
+        "weight": "128kg",
+        "contract": "PRO",
+        "nation": "Brazil",
+        "club": "Houston Sabercats",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Brazil",
+                "tournament": "Rugby World Cup 2027 Final Qualification Tournament",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "RFC Los Angeles",
+                "tournament": "Major League Rugby",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Brazil",
+                "tournament": "La Vila International Rugby Cup",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Western Force",
+                "tournament": "Super Rugby Pacific",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Northland",
+                "tournament": "NPC",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "New-York",
+                "tournament": "Major League Rugby",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "New-York",
+                "tournament": "Major League Rugby",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Seth SMITH",
+        "position": "Hooker",
+        "dob": "/06/2005",
+        "height": "1.73m",
+        "weight": "117kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "Houston Sabercats",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 14,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "23/24",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 7,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Javon CAMP-VILLALOVOS",
+        "position": "Lock",
+        "dob": "05/02/1999",
+        "height": "1.98m",
+        "weight": "132kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "Houston Sabercats",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Anthem RC",
+                "tournament": "Major League Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Dallas",
+                "tournament": "Major League Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Johan MOMSEN",
+        "position": "Lock",
+        "dob": "21/08/1995",
+        "height": "1.93m",
+        "weight": "114kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Houston Sabercats",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 19,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Manawatu",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "RFC Los Angeles",
+                "tournament": "Major League Rugby",
+                "matches": 15,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Manawatu",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "RFC Los Angeles",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 0,
+                "points": 29
+            },
+            {
+                "season": "20/21",
+                "team": "RFC Los Angeles",
+                "tournament": "Major League Rugby",
+                "matches": 17,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "19/20",
+                "team": "RFC Los Angeles",
+                "tournament": "Major League Rugby",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Griquas",
+                "tournament": "Super Rugby Unlocked",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Justin BASSON",
+        "position": "Lock",
+        "dob": "10/02/1994",
+        "height": "1.95m",
+        "weight": "125kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Houston Sabercats",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 19,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 12,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "RFC Los Angeles",
+                "tournament": "Major League Rugby",
+                "matches": 15,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Stormers",
+                "tournament": "United Rugby Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "RFC Los Angeles",
+                "tournament": "Major League Rugby",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "Cheetahs",
+                "tournament": "Pro 14",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Cheetahs",
+                "tournament": "Pro 14",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Cheetahs",
+                "tournament": "Super Rugby",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Nathan DEN HOEDT",
+        "position": "Lock",
+        "dob": "01/06/1997",
+        "height": "1.99m",
+        "weight": "116kg",
+        "contract": "PRO",
+        "nation": "Australia",
+        "club": "Houston Sabercats",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 18,
+                "tries": 0,
+                "points": 27
+            },
+            {
+                "season": "23/24",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "LA Giltinis",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "LA Giltinis",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Aiden KERR",
+        "position": "Back row",
+        "dob": "25/05/2003",
+        "height": "1.83m",
+        "weight": "107kg",
+        "contract": "PRO",
+        "nation": "Canada",
+        "club": "Houston Sabercats",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": []
+    },
+    {
+        "name": "Dom AKINA",
+        "position": "Back row",
+        "dob": "13/06/1994",
+        "height": "1.88m",
+        "weight": "105kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "Houston Sabercats",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 18,
+                "tries": 0,
+                "points": 27
+            },
+            {
+                "season": "23/24",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 14,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "21/22",
+                "team": "Austin",
+                "tournament": "Major League Rugby",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Austin",
+                "tournament": "Major League Rugby",
+                "matches": 12,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "19/20",
+                "team": "Austin",
+                "tournament": "Major League Rugby",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Emmanuel ALBERT",
+        "position": "Back row",
+        "dob": "11/05/1999",
+        "height": "1.93m",
+        "weight": "114kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "Houston Sabercats",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Keni NASOQEQE",
+        "position": "Back row",
+        "dob": "27/07/1993",
+        "height": "1.93m",
+        "weight": "116kg",
+        "contract": "PRO",
+        "nation": "Fiji",
+        "club": "Houston Sabercats",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 17,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "22/23",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 12,
+                "tries": 1,
+                "points": 7
+            },
+            {
+                "season": "21/22",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 12,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Marno REDELINGHUYS",
+        "position": "Back row",
+        "dob": "06/01/1993",
+        "height": "1.95m",
+        "weight": "120kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Houston Sabercats",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "USA",
+                "tournament": "Autumn Nations Series",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "25/26",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "USA",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "RFC Los Angeles",
+                "tournament": "Major League Rugby",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "RFC Los Angeles",
+                "tournament": "Major League Rugby",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "Stormers",
+                "tournament": "Super Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Ronan MURPHY",
+        "position": "Back row",
+        "dob": "05/05/1998",
+        "height": "1.90m",
+        "weight": "107kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "Houston Sabercats",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 17,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "21/22",
+                "team": "Austin",
+                "tournament": "Major League Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Sam TUIFUA",
+        "position": "Back row",
+        "dob": "23/02/2002",
+        "height": "1.88m",
+        "weight": "117kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Houston Sabercats",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 7,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 11,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "Dallas",
+                "tournament": "Major League Rugby",
+                "matches": 10,
+                "tries": 0,
+                "points": 32
+            },
+            {
+                "season": "22/23",
+                "team": "Counties Manukau",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Counties Manukau",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Tinashe MUCHENA",
+        "position": "Back row",
+        "dob": "26/11/1997",
+        "height": "1.90m",
+        "weight": "112kg",
+        "contract": "PRO",
+        "nation": "Zimbabwe",
+        "club": "Houston Sabercats",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Chicago Hounds",
+                "tournament": "Major League Rugby",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Chicago Hounds",
+                "tournament": "Major League Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "André Riaan WARNER",
+        "position": "Scrum-half",
+        "dob": "02/09/1993",
+        "height": "1.84m",
+        "weight": "93kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Houston Sabercats",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 12,
+                "tries": 0,
+                "points": 22
+            },
+            {
+                "season": "23/24",
+                "team": "Agen",
+                "tournament": "Pro D2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 15,
+                "tries": 0,
+                "points": 42
+            },
+            {
+                "season": "22/23",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "4",
+                "tournament": "2 1 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 15,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "20/21",
+                "team": "Lions",
+                "tournament": "Rainbow Cup SA",
+                "matches": 5,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "19/20",
+                "team": "Lions",
+                "tournament": "Super Rugby",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "Paris",
+                "tournament": "Top 14",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "Bulls",
+                "tournament": "Super Rugby",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Bulls",
+                "tournament": "Super Rugby",
+                "matches": 11,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "16/17",
+                "team": "Bulls",
+                "tournament": "Super Rugby",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Juan-Dee OLIVER",
+        "position": "Scrum-half",
+        "dob": "19/04/2002",
+        "height": "1.75m",
+        "weight": "80kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Houston Sabercats",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 10,
+                "tries": 4,
+                "points": 26
+            },
+            {
+                "season": "23/24",
+                "team": "Dallas",
+                "tournament": "Major League Rugby",
+                "matches": 13,
+                "tries": 0,
+                "points": 55
+            }
+        ]
+    },
+    {
+        "name": "AJ ALATIMU",
+        "position": "Fly-half",
+        "dob": "25/03/1993",
+        "height": "1.73m",
+        "weight": "109kg",
+        "contract": "PRO",
+        "nation": "Samoa",
+        "club": "Houston Sabercats",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 18,
+                "tries": 3,
+                "points": 98
+            },
+            {
+                "season": "24/25",
+                "team": "Counties Manukau",
+                "tournament": "NPC",
+                "matches": 6,
+                "tries": 0,
+                "points": 49
+            },
+            {
+                "season": "24/25",
+                "team": "Samoa",
+                "tournament": "Pacific Nations Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 6
+            },
+            {
+                "season": "23/24",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 11,
+                "tries": 0,
+                "points": 85
+            },
+            {
+                "season": "23/24",
+                "team": "Counties Manukau",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 2,
+                "points": 71
+            },
+            {
+                "season": "22/23",
+                "team": "Seattle",
+                "tournament": "Major League Rugby",
+                "matches": 17,
+                "tries": 0,
+                "points": 100
+            },
+            {
+                "season": "22/23",
+                "team": "Counties Manukau",
+                "tournament": "NPC",
+                "matches": 5,
+                "tries": 0,
+                "points": 12
+            },
+            {
+                "season": "21/22",
+                "team": "Seattle",
+                "tournament": "Major League Rugby",
+                "matches": 18,
+                "tries": 0,
+                "points": 166
+            },
+            {
+                "season": "21/22",
+                "team": "Counties Manukau",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Samoa",
+                "tournament": "Pacific Nations Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 7
+            },
+            {
+                "season": "20/21",
+                "team": "Seattle",
+                "tournament": "Major League Rugby",
+                "matches": 10,
+                "tries": 0,
+                "points": 55
+            },
+            {
+                "season": "19/20",
+                "team": "Samoa",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Samoa",
+                "tournament": "Pacific Nations Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 4
+            },
+            {
+                "season": "17/18",
+                "team": "Samoa",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Davy COETZER",
+        "position": "Fly-half",
+        "dob": "05/02/1999",
+        "height": "1.78m",
+        "weight": "86kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Houston Sabercats",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 9,
+                "tries": 2,
+                "points": 67
+            },
+            {
+                "season": "23/24",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 13,
+                "tries": 5,
+                "points": 77
+            },
+            {
+                "season": "22/23",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 15,
+                "tries": 0,
+                "points": 135
+            },
+            {
+                "season": "21/22",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 15,
+                "tries": 3,
+                "points": 79
+            },
+            {
+                "season": "18/19",
+                "team": "South Africa U20",
+                "tournament": "U20 Championship",
+                "matches": 5,
+                "tries": 1,
+                "points": 8
+            }
+        ]
+    },
+    {
+        "name": "Jay RENTON",
+        "position": "Fly-half",
+        "dob": "16/03/1998",
+        "height": "1.79m",
+        "weight": "85kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Houston Sabercats",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 2,
+                "tries": 1,
+                "points": 7
+            },
+            {
+                "season": "23/24",
+                "team": "Southland",
+                "tournament": "NPC",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Southland",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "Southland",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Max SCHUMACHER",
+        "position": "Fly-half",
+        "dob": "03/06/2001",
+        "height": "1.78m",
+        "weight": "93kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "Houston Sabercats",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 19,
+                "tries": 5,
+                "points": 27
+            },
+            {
+                "season": "23/24",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Jeremy MISAILEGALU",
+        "position": "Centre",
+        "dob": "04/11/1993",
+        "height": "1.80m",
+        "weight": "102kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "Houston Sabercats",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 11,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 13,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "20/21",
+                "team": "RFC Los Angeles",
+                "tournament": "Major League Rugby",
+                "matches": 18,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "19/20",
+                "team": "RFC Los Angeles",
+                "tournament": "Major League Rugby",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Louritz VAN DER SCHYFF",
+        "position": "Centre",
+        "dob": "20/05/1998",
+        "height": "1.90m",
+        "weight": "108kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Houston Sabercats",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 7,
+                "tries": 0,
+                "points": 12
+            },
+            {
+                "season": "22/23",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 13,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "21/22",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 8,
+                "tries": 7,
+                "points": 35
+            }
+        ]
+    },
+    {
+        "name": "Sam HILL",
+        "position": "Centre",
+        "dob": "14/07/1993",
+        "height": "1.84m",
+        "weight": "102kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Houston Sabercats",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Sale",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "8",
+                "tournament": "5 0 3",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Sale",
+                "tournament": "Premiership",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Sale",
+                "tournament": "Champions Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "13",
+                "tournament": "8 0 5",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Exeter",
+                "tournament": "Premiership",
+                "matches": 10,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "5",
+                "tournament": "4 1 0",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Sale",
+                "tournament": "Premiership",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Exeter",
+                "tournament": "Premiership",
+                "matches": 17,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "18/19",
+                "team": "3",
+                "tournament": "1 1 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "2",
+                "tournament": "1 1 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Exeter",
+                "tournament": "Anglo Welsh Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "17",
+                "tournament": "13 0 4",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Exeter",
+                "tournament": "Premiership",
+                "matches": 17,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "16/17",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Exeter",
+                "tournament": "Premiership",
+                "matches": 18,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "15/16",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Exeter",
+                "tournament": "Premiership",
+                "matches": 21,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "14/15",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Exeter",
+                "tournament": "Premiership",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "13/14",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Tautalatasi TASI",
+        "position": "Centre",
+        "dob": "22/11/1994",
+        "height": "1.81m",
+        "weight": "104kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Houston Sabercats",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 14,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "23/24",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 10,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Toronto",
+                "tournament": "Major League Rugby",
+                "matches": 10,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "Sunwolves",
+                "tournament": "Super Rugby",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "Waratahs",
+                "tournament": "Super Rugby",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Drake DAVIS",
+        "position": "Winger",
+        "dob": "14/12/1996",
+        "height": "1.93m",
+        "weight": "113kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "Houston Sabercats",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 10,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Drew WILD",
+        "position": "Winger",
+        "dob": "14/07/2000",
+        "height": "1.81m",
+        "weight": "86kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Houston Sabercats",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 10,
+                "tries": 4,
+                "points": 25
+            },
+            {
+                "season": "24/25",
+                "team": "Manawatu",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 2,
+                "points": 22
+            },
+            {
+                "season": "23/24",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 9,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "Manawatu",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 13,
+                "tries": 2,
+                "points": 13
+            },
+            {
+                "season": "22/23",
+                "team": "Manawatu",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Manawatu",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 3,
+                "points": 17
+            },
+            {
+                "season": "20/21",
+                "team": "Manawatu",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "Manawatu",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 3,
+                "points": 15
+            }
+        ]
+    },
+    {
+        "name": "Gerrie LABUSCHAGNÉ",
+        "position": "Winger",
+        "dob": "05/12/1995",
+        "height": "1.96m",
+        "weight": "105kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Houston Sabercats",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "22/23",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 11,
+                "tries": 3,
+                "points": 18
+            }
+        ]
+    },
+    {
+        "name": "Seimou SMITH",
+        "position": "Winger",
+        "dob": "17/09/1996",
+        "height": "1.86m",
+        "weight": "98kg",
+        "contract": "PRO",
+        "nation": "Guinea",
+        "club": "Houston Sabercats",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 7,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Mat DE VILLIERS",
+        "position": "Fullback",
+        "dob": "03/01/1996",
+        "height": "1.80m",
+        "weight": "83kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Houston Sabercats",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": []
+    },
+    {
+        "name": "Rufus MCLEAN",
+        "position": "Fullback",
+        "dob": "02/03/2000",
+        "height": "1.81m",
+        "weight": "90kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "Houston Sabercats",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "USA",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 15,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "24/25",
+                "team": "USA",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Glasgow",
+                "tournament": "United Rugby Championship",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Glasgow",
+                "tournament": "United Rugby Championship",
+                "matches": 11,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Scotland",
+                "tournament": "Autumn Nations Cup",
+                "matches": 2,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Glasgow",
+                "tournament": "Pro 14",
+                "matches": 6,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "20/21",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Scotland U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 4,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "18/19",
+                "team": "Scotland U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    }
+]

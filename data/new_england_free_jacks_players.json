@@ -1,0 +1,3228 @@
+[
+    {
+        "name": "Cole KEITH",
+        "position": "Prop",
+        "dob": "07/05/1997",
+        "height": "1.83m",
+        "weight": "119kg",
+        "contract": "PRO",
+        "nation": "Canada",
+        "club": "New England Free Jacks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Manawatu",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Toronto",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Toronto",
+                "tournament": "Major League Rugby",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Toronto",
+                "tournament": "Major League Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Canada",
+                "tournament": "Rugby World Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Canada",
+                "tournament": "Pacific Nations Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Ivan PULA",
+        "position": "Prop",
+        "dob": "09/09/1999",
+        "height": "1.85m",
+        "weight": "116kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "New England Free Jacks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "23/24",
+                "team": "Anthem RC",
+                "tournament": "Major League Rugby",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Jone KOROIDUADUA",
+        "position": "Prop",
+        "dob": "23/02/1997",
+        "height": "1.82m",
+        "weight": "118kg",
+        "contract": "PRO",
+        "nation": "Fiji",
+        "club": "New England Free Jacks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Fiji",
+                "tournament": "Autumn Nations Series",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Fijian Drua",
+                "tournament": "Super Rugby Pacific",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Fiji",
+                "tournament": "Summer Nations Series",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Fijian Drua",
+                "tournament": "Super Rugby Pacific",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Fijian Drua",
+                "tournament": "Super Rugby Pacific",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Kaleb GEIGER",
+        "position": "Prop",
+        "dob": "04/05/1996",
+        "height": "1.85m",
+        "weight": "114kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "New England Free Jacks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "USA",
+                "tournament": "Autumn Nations Series",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "25/26",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "USA",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "USA",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "New-York",
+                "tournament": "Major League Rugby",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "New-York",
+                "tournament": "Major League Rugby",
+                "matches": 17,
+                "tries": 5,
+                "points": 25
+            }
+        ]
+    },
+    {
+        "name": "Kyle CIQUERA",
+        "position": "Prop",
+        "dob": "14/06/1997",
+        "height": "1.83m",
+        "weight": "118kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "New England Free Jacks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 7,
+                "tries": 1,
+                "points": 7
+            },
+            {
+                "season": "23/24",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Kyle STEEVES",
+        "position": "Prop",
+        "dob": "12/05/2000",
+        "height": "1.85m",
+        "weight": "120kg",
+        "contract": "PRO",
+        "nation": "Canada",
+        "club": "New England Free Jacks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Dallas",
+                "tournament": "Major League Rugby",
+                "matches": 17,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Dallas",
+                "tournament": "Major League Rugby",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Malakai HALA",
+        "position": "Prop",
+        "dob": "07/01/2003",
+        "height": "1.84m",
+        "weight": "125kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "New England Free Jacks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Manawatu",
+                "tournament": "NPC",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 15,
+                "tries": 0,
+                "points": 17
+            },
+            {
+                "season": "23/24",
+                "team": "Manawatu",
+                "tournament": "NPC",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Manawatu",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "New Zealand U20",
+                "tournament": "U20 Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Tevita SOLE",
+        "position": "Prop",
+        "dob": "30/01/1999",
+        "height": "1.83m",
+        "weight": "120kg",
+        "contract": "PRO",
+        "nation": "Tonga",
+        "club": "New England Free Jacks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Andrew QUATTRIN",
+        "position": "Hooker",
+        "dob": "29/08/1996",
+        "height": "1.83m",
+        "weight": "114kg",
+        "contract": "PRO",
+        "nation": "Canada",
+        "club": "New England Free Jacks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "24/25",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 17,
+                "tries": 0,
+                "points": 42
+            },
+            {
+                "season": "23/24",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 15,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "22/23",
+                "team": "Manawatu",
+                "tournament": "NPC",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Toronto",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 0,
+                "points": 17
+            },
+            {
+                "season": "21/22",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Toronto",
+                "tournament": "Major League Rugby",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Toronto",
+                "tournament": "Major League Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Canada",
+                "tournament": "Pacific Nations Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Connal MCINERNEY",
+        "position": "Hooker",
+        "dob": "02/03/1995",
+        "height": "1.81m",
+        "weight": "106kg",
+        "contract": "PRO",
+        "nation": "Australia",
+        "club": "New England Free Jacks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Brumbies",
+                "tournament": "Super Rugby Pacific",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Brumbies",
+                "tournament": "Super Rugby Pacific",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Brumbies",
+                "tournament": "Super Rugby Pacific",
+                "matches": 4,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Australia",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Brumbies",
+                "tournament": "Super Rugby AU",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Brumbies",
+                "tournament": "Super Rugby",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "9",
+                "tournament": "7 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Brumbies",
+                "tournament": "Super Rugby",
+                "matches": 10,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "17/18",
+                "team": "Brumbies",
+                "tournament": "Super Rugby",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Foster DEWITT",
+        "position": "Hooker",
+        "dob": "26/05/1996",
+        "height": "1.86m",
+        "weight": "113kg",
+        "contract": "PRO",
+        "nation": "Canada",
+        "club": "New England Free Jacks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Lindsey STEVENS",
+        "position": "Hooker",
+        "dob": "27/08/1995",
+        "height": "1.78m",
+        "weight": "98kg",
+        "contract": "PRO",
+        "nation": "Australia",
+        "club": "New England Free Jacks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Chicago Hounds",
+                "tournament": "Major League Rugby",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "LA Giltinis",
+                "tournament": "Major League Rugby",
+                "matches": 10,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "LA Giltinis",
+                "tournament": "Major League Rugby",
+                "matches": 6,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "NOLA",
+                "tournament": "Major League Rugby",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Conor KEYS",
+        "position": "Lock",
+        "dob": "09/07/1996",
+        "height": "1.98m",
+        "weight": "118kg",
+        "contract": "PRO",
+        "nation": "Canada",
+        "club": "New England Free Jacks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "RFC Los Angeles",
+                "tournament": "Major League Rugby",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "RFC Los Angeles",
+                "tournament": "Major League Rugby",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "RFC Los Angeles",
+                "tournament": "Major League Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Canada",
+                "tournament": "Rugby World Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Canada",
+                "tournament": "Pacific Nations Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Jackson THIEBES",
+        "position": "Lock",
+        "dob": "15/02/1994",
+        "height": "1.98m",
+        "weight": "116kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "New England Free Jacks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "23/24",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Josh LARSEN",
+        "position": "Lock",
+        "dob": "04/04/1994",
+        "height": "1.96m",
+        "weight": "118kg",
+        "contract": "PRO",
+        "nation": "Canada",
+        "club": "New England Free Jacks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "Canada",
+                "tournament": "Rugby World Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Kyle BAILLIE",
+        "position": "Lock",
+        "dob": "07/04/1991",
+        "height": "1.97m",
+        "weight": "112kg",
+        "contract": "PRO",
+        "nation": "Canada",
+        "club": "New England Free Jacks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Canada",
+                "tournament": "La Vila International Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Old Glory DC",
+                "tournament": "Major League Rugby",
+                "matches": 9,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Toronto",
+                "tournament": "Major League Rugby",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "NOLA",
+                "tournament": "Major League Rugby",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "NOLA",
+                "tournament": "Major League Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Canada",
+                "tournament": "Pacific Nations Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Ethan FRYER",
+        "position": "Back row",
+        "dob": "27/05/2002",
+        "height": "1.88m",
+        "weight": "100kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "New England Free Jacks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Jed MELVIN",
+        "position": "Back row",
+        "dob": "13/12/2000",
+        "height": "1.83m",
+        "weight": "107kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "New England Free Jacks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 0,
+                "points": 47
+            },
+            {
+                "season": "24/25",
+                "team": "North Harbour",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "23/24",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 8,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "North Harbour",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "North Harbour",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "North Harbour",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Jero GOMEZ VARA",
+        "position": "Back row",
+        "dob": "10/01/2001",
+        "height": "1.89m",
+        "weight": "107kg",
+        "contract": "PRO",
+        "nation": "Argentina",
+        "club": "New England Free Jacks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 11,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Dallas",
+                "tournament": "Major League Rugby",
+                "matches": 14,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "22/23",
+                "team": "Dallas",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 0,
+                "points": 29
+            },
+            {
+                "season": "18/19",
+                "team": "Argentina U20",
+                "tournament": "U20 Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Joe JOHNSTON",
+        "position": "Back row",
+        "dob": "31/01/1998",
+        "height": "1.88m",
+        "weight": "102kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "New England Free Jacks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 19,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Bay of Plenty",
+                "tournament": "NPC",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Bay of Plenty",
+                "tournament": "NPC",
+                "matches": 12,
+                "tries": 8,
+                "points": 40
+            },
+            {
+                "season": "22/23",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 17,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 17,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "20/21",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 14,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "19/20",
+                "team": "Bay of Plenty",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Kaipono KAYOSHI",
+        "position": "Back row",
+        "dob": "19/02/2000",
+        "height": "1.86m",
+        "weight": "100kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "New England Free Jacks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Matt CARRION",
+        "position": "Back row",
+        "dob": "22/04/2001",
+        "height": "1.85m",
+        "weight": "105kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "New England Free Jacks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Piers VON DADELSZEN",
+        "position": "Back row",
+        "dob": "25/03/2000",
+        "height": "1.93m",
+        "weight": "111kg",
+        "contract": "PRO",
+        "nation": "Canada",
+        "club": "New England Free Jacks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 17,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Wian CONRADIE",
+        "position": "Back row",
+        "dob": "14/10/1994",
+        "height": "1.85m",
+        "weight": "106kg",
+        "contract": "PRO",
+        "nation": "Namibia",
+        "club": "New England Free Jacks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Namibia",
+                "tournament": "Rugby World Cup 2027 Final Qualification Tournament",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "23/24",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 7,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Namibia",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "22/23",
+                "team": "Namibia",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Gloucester",
+                "tournament": "Premiership",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 9,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 15,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "19/20",
+                "team": "Namibia",
+                "tournament": "Rugby World Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Namibia",
+                "tournament": "Rugby World Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Cameron NORDLI-KELEMETI",
+        "position": "Scrum-half",
+        "dob": "20/09/1999",
+        "height": "1.77m",
+        "weight": "87kg",
+        "contract": "PRO",
+        "nation": "Fiji",
+        "club": "New England Free Jacks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 15,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "23/24",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 21,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Newcastle",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Emanuel LAI",
+        "position": "Scrum-half",
+        "dob": "05/06/2002",
+        "height": "1.74m",
+        "weight": "78kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "New England Free Jacks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "John POLAND",
+        "position": "Scrum-half",
+        "dob": "21/11/1996",
+        "height": "1.70m",
+        "weight": "79kg",
+        "contract": "PRO",
+        "nation": "Ireland",
+        "club": "New England Free Jacks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 4
+            },
+            {
+                "season": "23/24",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 14,
+                "tries": 0,
+                "points": 37
+            },
+            {
+                "season": "22/23",
+                "team": "Manawatu",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 3,
+                "points": 29
+            },
+            {
+                "season": "20/21",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 4,
+                "points": 32
+            },
+            {
+                "season": "19/20",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 5,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "17/18",
+                "team": "Munster",
+                "tournament": "Pro 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Oscar LENNON",
+        "position": "Scrum-half",
+        "dob": "15/05/2000",
+        "height": "1.75m",
+        "weight": "83kg",
+        "contract": "PRO",
+        "nation": "Wales",
+        "club": "New England Free Jacks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Bristol",
+                "tournament": "Premiership",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "25/26",
+                "team": "Hartpury RFC",
+                "tournament": "Champ Rugby",
+                "matches": 2,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Bristol",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 17,
+                "tries": 2,
+                "points": 28
+            },
+            {
+                "season": "23/24",
+                "team": "Bristol",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Hartpury RFC",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Hartpury RFC",
+                "tournament": "RFU Championship",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Bristol",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Bristol",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Dan HOLLINSHEAD",
+        "position": "Fly-half",
+        "dob": "07/06/1995",
+        "height": "1.85m",
+        "weight": "93kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "New England Free Jacks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 8,
+                "tries": 0,
+                "points": 62
+            },
+            {
+                "season": "24/25",
+                "team": "Southland",
+                "tournament": "NPC",
+                "matches": 6,
+                "tries": 0,
+                "points": 17
+            },
+            {
+                "season": "23/24",
+                "team": "RFC Los Angeles",
+                "tournament": "Major League Rugby",
+                "matches": 9,
+                "tries": 2,
+                "points": 50
+            },
+            {
+                "season": "22/23",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 10,
+                "tries": 0,
+                "points": 6
+            },
+            {
+                "season": "22/23",
+                "team": "Southland",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 0,
+                "points": 33
+            },
+            {
+                "season": "21/22",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 9,
+                "tries": 0,
+                "points": 25
+            },
+            {
+                "season": "20/21",
+                "team": "New-York",
+                "tournament": "Major League Rugby",
+                "matches": 11,
+                "tries": 2,
+                "points": 107
+            },
+            {
+                "season": "19/20",
+                "team": "Bay of Plenty",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 1,
+                "points": 14
+            },
+            {
+                "season": "18/19",
+                "team": "Highlanders",
+                "tournament": "Super Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 4
+            },
+            {
+                "season": "16/17",
+                "team": "Agen",
+                "tournament": "Pro D2",
+                "matches": 13,
+                "tries": 2,
+                "points": 27
+            }
+        ]
+    },
+    {
+        "name": "Harrison BOYLE",
+        "position": "Fly-half",
+        "dob": "19/01/2000",
+        "height": "1.94m",
+        "weight": "95kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "New England Free Jacks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Ben LESAGE",
+        "position": "Centre",
+        "dob": "24/11/1995",
+        "height": "1.82m",
+        "weight": "98kg",
+        "contract": "PRO",
+        "nation": "Canada",
+        "club": "New England Free Jacks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 19,
+                "tries": 0,
+                "points": 22
+            },
+            {
+                "season": "23/24",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "LA Giltinis",
+                "tournament": "Major League Rugby",
+                "matches": 12,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "21/22",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 8,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "Toronto",
+                "tournament": "Major League Rugby",
+                "matches": 13,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "20/21",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Toronto",
+                "tournament": "Major League Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Canada",
+                "tournament": "Pacific Nations Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Faletoi PENI",
+        "position": "Centre",
+        "dob": "06/04/2000",
+        "height": "1.73m",
+        "weight": "106kg",
+        "contract": "PRO",
+        "nation": "Samoa",
+        "club": "New England Free Jacks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Samoa",
+                "tournament": "Rugby World Cup 2027 Final Qualification Tournament",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 6,
+                "tries": 1,
+                "points": 37
+            },
+            {
+                "season": "24/25",
+                "team": "Southland",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Southland",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Jack REEVES",
+        "position": "Centre",
+        "dob": "05/05/2000",
+        "height": "1.80m",
+        "weight": "95kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "New England Free Jacks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Gloucester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 10,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "Gloucester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Hartpury RFC",
+                "tournament": "RFU Championship",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Gloucester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 3,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "22/23",
+                "team": "7",
+                "tournament": "4 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Hartpury RFC",
+                "tournament": "RFU Championship",
+                "matches": 6,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Gloucester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Gloucester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "England U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Le Roux MALAN",
+        "position": "Centre",
+        "dob": "31/03/1999",
+        "height": "1.91m",
+        "weight": "100kg",
+        "contract": "PRO",
+        "nation": "Namibia",
+        "club": "New England Free Jacks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 17,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Hawke's Bay",
+                "tournament": "NPC",
+                "matches": 5,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Hawke's Bay",
+                "tournament": "NPC",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Namibia",
+                "tournament": "Rugby World Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 11,
+                "tries": 0,
+                "points": 47
+            },
+            {
+                "season": "22/23",
+                "team": "Namibia",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 17,
+                "tries": 0,
+                "points": 27
+            }
+        ]
+    },
+    {
+        "name": "Wayne VAN DER BANK",
+        "position": "Centre",
+        "dob": "07/01/1997",
+        "height": "1.84m",
+        "weight": "89kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "New England Free Jacks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 17,
+                "tries": 0,
+                "points": 52
+            },
+            {
+                "season": "22/23",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 10,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 0,
+                "points": 22
+            },
+            {
+                "season": "19/20",
+                "team": "Pumas",
+                "tournament": "Super Rugby Unlocked",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Brock WEBSTER",
+        "position": "Winger",
+        "dob": "21/08/2000",
+        "height": "1.82m",
+        "weight": "82kg",
+        "contract": "PRO",
+        "nation": "Canada",
+        "club": "New England Free Jacks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 2,
+                "points": 20
+            },
+            {
+                "season": "22/23",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Toronto",
+                "tournament": "Major League Rugby",
+                "matches": 5,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Isaac OLSON",
+        "position": "Winger",
+        "dob": "01/07/2000",
+        "height": "1.90m",
+        "weight": "104kg",
+        "contract": "PRO",
+        "nation": "Canada",
+        "club": "New England Free Jacks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Josiah MORRA",
+        "position": "Winger",
+        "dob": "07/02/1998",
+        "height": "1.80m",
+        "weight": "94kg",
+        "contract": "PRO",
+        "nation": "Canada",
+        "club": "New England Free Jacks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 8,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Canada",
+                "tournament": "La Vila International Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Noah BAIN",
+        "position": "Winger",
+        "dob": "13/10/1997",
+        "height": "1.88m",
+        "weight": "89kg",
+        "contract": "PRO",
+        "nation": "Canada",
+        "club": "New England Free Jacks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Paula BALEKANA",
+        "position": "Winger",
+        "dob": "18/05/1993",
+        "height": "1.83m",
+        "weight": "98kg",
+        "contract": "PRO",
+        "nation": "Fiji",
+        "club": "New England Free Jacks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 14,
+                "tries": 15,
+                "points": 75
+            },
+            {
+                "season": "24/25",
+                "team": "Northland",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 15,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "22/23",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 17,
+                "tries": 15,
+                "points": 75
+            },
+            {
+                "season": "22/23",
+                "team": "Hawke's Bay",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 12,
+                "tries": 0,
+                "points": 32
+            },
+            {
+                "season": "20/21",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "19/20",
+                "team": "Zebre",
+                "tournament": "Pro 14",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "3",
+                "tournament": "1 1 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Zebre",
+                "tournament": "Pro 14",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Jayson POTROZ",
+        "position": "Fullback",
+        "dob": "26/11/1991",
+        "height": "1.83m",
+        "weight": "90kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "New England Free Jacks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 4,
+                "tries": 1,
+                "points": 26
+            },
+            {
+                "season": "23/24",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 17,
+                "tries": 6,
+                "points": 181
+            },
+            {
+                "season": "23/24",
+                "team": "Taranaki",
+                "tournament": "NPC",
+                "matches": 6,
+                "tries": 0,
+                "points": 2
+            },
+            {
+                "season": "22/23",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 1,
+                "points": 146
+            },
+            {
+                "season": "22/23",
+                "team": "Taranaki",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 1,
+                "points": 26
+            },
+            {
+                "season": "21/22",
+                "team": "Taranaki",
+                "tournament": "NPC",
+                "matches": 4,
+                "tries": 1,
+                "points": 19
+            },
+            {
+                "season": "20/21",
+                "team": "Taranaki",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Taranaki",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 3,
+                "points": 95
+            }
+        ]
+    },
+    {
+        "name": "Killian COGHLAN",
+        "position": "Fullback",
+        "dob": "04/07/2000",
+        "height": "1.88m",
+        "weight": "98kg",
+        "contract": "PRO",
+        "nation": "Ireland",
+        "club": "New England Free Jacks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Simon-Peter TOLEAFOA",
+        "position": "Fullback",
+        "dob": "26/10/1998",
+        "height": "1.83m",
+        "weight": "90kg",
+        "contract": "PRO",
+        "nation": "Samoa",
+        "club": "New England Free Jacks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 13,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "Counties Manukau",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Counties Manukau",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 4,
+                "points": 20
+            }
+        ]
+    }
+]

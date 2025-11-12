@@ -1,0 +1,5828 @@
+[
+    {
+        "name": "Daniel BIBI BIZIWU",
+        "position": "Prop",
+        "dob": "29/08/2001",
+        "height": "1.83m",
+        "weight": "119kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Section Paloise",
+        "league": "Top 14",
+        "value": 129000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Clermont",
+                "tournament": "Top 14",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Clermont",
+                "tournament": "Top 14",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Barbarians FR",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Clermont",
+                "tournament": "Top 14",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Clermont",
+                "tournament": "Top 14",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "France U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Guram PAPIDZE",
+        "position": "Prop",
+        "dob": "16/06/1997",
+        "height": "1.86m",
+        "weight": "127kg",
+        "contract": "PRO",
+        "nation": "Georgia",
+        "club": "Section Paloise",
+        "league": "Top 14",
+        "value": 144000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 19,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Georgia",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "0 1 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 22,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Georgia",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "4",
+                "tournament": "4 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "La Rochelle",
+                "tournament": "Top 14",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Georgia",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Nevers",
+                "tournament": "Pro D2",
+                "matches": 27,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "19/20",
+                "team": "Nevers",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Nevers",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "Lyon",
+                "tournament": "Challenge Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Hugo PARROU",
+        "position": "Prop",
+        "dob": "28/01/2003",
+        "height": "1.83m",
+        "weight": "110kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Section Paloise",
+        "league": "Top 14",
+        "value": 67000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "France U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Jon ZABALA",
+        "position": "Prop",
+        "dob": "26/11/1996",
+        "height": "1.92m",
+        "weight": "132kg",
+        "contract": "PRO",
+        "nation": "Spain",
+        "club": "Section Paloise",
+        "league": "Top 14",
+        "value": 108000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Spain",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 21,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Spain",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Béziers",
+                "tournament": "Pro D2",
+                "matches": 30,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Spain",
+                "tournament": "La Vila International Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Béziers",
+                "tournament": "Pro D2",
+                "matches": 18,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Spain",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Béziers",
+                "tournament": "Pro D2",
+                "matches": 22,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Spain",
+                "tournament": "Rugby Europe Championship",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Spain",
+                "tournament": "Rugby Europe Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Spain",
+                "tournament": "Rugby Europe Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Bayonne",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Spain",
+                "tournament": "Rugby Europe Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Bayonne",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Bayonne",
+                "tournament": "Challenge Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Lekso KAULASHVILI",
+        "position": "Prop",
+        "dob": "27/08/1992",
+        "height": "1.87m",
+        "weight": "128kg",
+        "contract": "PRO",
+        "nation": "Georgia",
+        "club": "Section Paloise",
+        "league": "Top 14",
+        "value": 124000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 22,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 22,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 19,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Georgia",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 13,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "7",
+                "tournament": "5 1 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "1",
+                "tournament": "0 1 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "La Rochelle",
+                "tournament": "Top 14",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "La Rochelle",
+                "tournament": "Top 14",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "La Rochelle",
+                "tournament": "Top 14",
+                "matches": 11,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "14/15",
+                "team": "La Rochelle",
+                "tournament": "Top 14",
+                "matches": 23,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "14/15",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "La Rochelle",
+                "tournament": "Pro D2",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Rémi SÉNÉCA",
+        "position": "Prop",
+        "dob": "16/01/1995",
+        "height": "1.85m",
+        "weight": "116kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Section Paloise",
+        "league": "Top 14",
+        "value": 65000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 20,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 21,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 26,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Paris",
+                "tournament": "Top 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Siate TOKOLAHI",
+        "position": "Prop",
+        "dob": "16/03/1992",
+        "height": "1.84m",
+        "weight": "116kg",
+        "contract": "PRO",
+        "nation": "Tonga",
+        "club": "Section Paloise",
+        "league": "Top 14",
+        "value": 120000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Pau",
+                "tournament": "Challenge Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "6",
+                "tournament": "4 0 2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 21,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Tonga",
+                "tournament": "Rugby World Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Tonga",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 23,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Tonga",
+                "tournament": "Pacific Nations Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Aotearoa",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "6",
+                "tournament": "5 0 1",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Highlanders",
+                "tournament": "Super Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "8",
+                "tournament": "3 0 5",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Southland",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Highlanders",
+                "tournament": "Super Rugby",
+                "matches": 15,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "17/18",
+                "team": "Highlanders",
+                "tournament": "Super Rugby",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "Highlanders",
+                "tournament": "Super Rugby",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Chiefs",
+                "tournament": "Super Rugby",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Chiefs",
+                "tournament": "Super Rugby",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Thomas LACLAYAT",
+        "position": "Prop",
+        "dob": "02/10/1997",
+        "height": "1.77m",
+        "weight": "125kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Section Paloise",
+        "league": "Top 14",
+        "value": 166000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Racing 92",
+                "tournament": "Top 14",
+                "matches": 19,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Racing 92",
+                "tournament": "Top 14",
+                "matches": 17,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "France",
+                "tournament": "Summer Nations Series",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "France Développement",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 24,
+                "tries": 12,
+                "points": 60
+            },
+            {
+                "season": "21/22",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 30,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "20/21",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 29,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "19/20",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "Oyonnax",
+                "tournament": "Challenge Cup",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Hayam EL BIBOUJI",
+        "position": "Hooker",
+        "dob": "13/12/2001",
+        "height": "1.83m",
+        "weight": "108kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Section Paloise",
+        "league": "Top 14",
+        "value": 71000.0,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Agen",
+                "tournament": "Pro D2",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Suresnes",
+                "tournament": "Nationale",
+                "matches": 21,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "22/23",
+                "team": "Suresnes",
+                "tournament": "Nationale",
+                "matches": 21,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "Suresnes",
+                "tournament": "Nationale",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Julián MONTOYA",
+        "position": "Hooker",
+        "dob": "29/10/1993",
+        "height": "1.83m",
+        "weight": "113kg",
+        "contract": "PRO",
+        "nation": "Argentina",
+        "club": "Section Paloise",
+        "league": "Top 14",
+        "value": 189000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "25/26",
+                "team": "Argentina",
+                "tournament": "Autumn Nations Series",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Leicester",
+                "tournament": "Premiership",
+                "matches": 16,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Argentina",
+                "tournament": "Autumn Nations Series",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "6",
+                "tournament": "2 0 4",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Leicester",
+                "tournament": "Premiership",
+                "matches": 11,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Argentina",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "6",
+                "tournament": "3 0 3",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Leicester",
+                "tournament": "Premiership",
+                "matches": 13,
+                "tries": 9,
+                "points": 45
+            },
+            {
+                "season": "22/23",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Argentina",
+                "tournament": "Autumn Nations Series",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Leicester",
+                "tournament": "Premiership",
+                "matches": 18,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Argentina",
+                "tournament": "Autumn Nations Series",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "6",
+                "tournament": "2 0 4",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Leicester",
+                "tournament": "Premiership",
+                "matches": 6,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "20/21",
+                "team": "Argentina",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "6",
+                "tournament": "0 0 6",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Jaguares",
+                "tournament": "Super Rugby",
+                "matches": 6,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "19/20",
+                "team": "Argentina",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "4",
+                "tournament": "1 2 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Jaguares",
+                "tournament": "Super Rugby",
+                "matches": 19,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "18/19",
+                "team": "Argentina",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Jaguares",
+                "tournament": "Super Rugby",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Argentina",
+                "tournament": "Test Matchs",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "Jaguares",
+                "tournament": "Super Rugby",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Argentina",
+                "tournament": "Test Matchs",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Jaguares",
+                "tournament": "Super Rugby",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Argentina",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "7",
+                "tournament": "4 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Argentina",
+                "tournament": "Rugby Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Argentina",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Lucas REY",
+        "position": "Hooker",
+        "dob": "27/04/1997",
+        "height": "1.75m",
+        "weight": "98kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Section Paloise",
+        "league": "Top 14",
+        "value": 186000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 7,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 7,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 23,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 20,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 24,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 26,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "20/21",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 20,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "18/19",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "8",
+                "tournament": "7 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Pau",
+                "tournament": "Challenge Cup",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Youri DELHOMMEL",
+        "position": "Hooker",
+        "dob": "06/03/1996",
+        "height": "1.81m",
+        "weight": "101kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Section Paloise",
+        "league": "Top 14",
+        "value": 168000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 7,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 23,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 18,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 22,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 17,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 14,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 9,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "19/20",
+                "team": "5",
+                "tournament": "1 0 4",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Massy",
+                "tournament": "Pro D2",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 6,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "17/18",
+                "team": "Massy",
+                "tournament": "Pro D2",
+                "matches": 23,
+                "tries": 8,
+                "points": 40
+            }
+        ]
+    },
+    {
+        "name": "Hugo AURADOU",
+        "position": "Lock",
+        "dob": "20/07/2003",
+        "height": "2.00m",
+        "weight": "105kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Section Paloise",
+        "league": "Top 14",
+        "value": 198000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "25/26",
+                "team": "France",
+                "tournament": "Autumn Nations Series",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 21,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "France",
+                "tournament": "Six Nations Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "France A",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 20,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "France",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Pau",
+                "tournament": "Challenge Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "8",
+                "tournament": "1 1 6",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "France U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "4",
+                "tournament": "4 0 0",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Pau",
+                "tournament": "Challenge Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "France U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Jimi MAXIMIN",
+        "position": "Lock",
+        "dob": "03/04/1999",
+        "height": "2.05m",
+        "weight": "133kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Section Paloise",
+        "league": "Top 14",
+        "value": 162000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 8,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Tarbes",
+                "tournament": "Nationale",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Pau",
+                "tournament": "Challenge Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Barbarians FR",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Tarbes",
+                "tournament": "Nationale",
+                "matches": 21,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Barbarians FR",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Joel KPOKU",
+        "position": "Lock",
+        "dob": "22/06/1999",
+        "height": "1.96m",
+        "weight": "126kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Section Paloise",
+        "league": "Top 14",
+        "value": 114000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Lyon",
+                "tournament": "Top 14",
+                "matches": 20,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Lyon",
+                "tournament": "Top 14",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Lyon",
+                "tournament": "Top 14",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Saracens",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "17",
+                "tournament": "10 1 6",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Saracens",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 5,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "18/19",
+                "team": "England U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Mickaël CAPELLI",
+        "position": "Lock",
+        "dob": "18/03/1997",
+        "height": "1.98m",
+        "weight": "126kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Section Paloise",
+        "league": "Top 14",
+        "value": 122000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Montpellier",
+                "tournament": "Champions Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "9",
+                "tournament": "7 1 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Grenoble",
+                "tournament": "Pro D2",
+                "matches": 18,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "Grenoble",
+                "tournament": "Top 14",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Grenoble",
+                "tournament": "Pro D2",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Grenoble",
+                "tournament": "Top 14",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "6",
+                "tournament": "1 0 5",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Grenoble",
+                "tournament": "Top 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Rémi PICQUETTE",
+        "position": "Lock",
+        "dob": "23/02/1995",
+        "height": "2.00m",
+        "weight": "117kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Section Paloise",
+        "league": "Top 14",
+        "value": 130000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 19,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "La Rochelle",
+                "tournament": "Top 14",
+                "matches": 23,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "La Rochelle",
+                "tournament": "Top 14",
+                "matches": 21,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "La Rochelle",
+                "tournament": "Top 14",
+                "matches": 14,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "5",
+                "tournament": "5 0 0",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 27,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "15/16",
+                "team": "La Rochelle",
+                "tournament": "Top 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Thomas JOLMÈS",
+        "position": "Lock",
+        "dob": "08/10/1995",
+        "height": "2.04m",
+        "weight": "127kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Section Paloise",
+        "league": "Top 14",
+        "value": 65000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 18,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 20,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 21,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "France",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Toulon",
+                "tournament": "Top 14",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "La Rochelle",
+                "tournament": "Top 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "La Rochelle",
+                "tournament": "Top 14",
+                "matches": 20,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Barbarians FR",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "La Rochelle",
+                "tournament": "Top 14",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Grenoble",
+                "tournament": "Top 14",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Grenoble",
+                "tournament": "Top 14",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Beka GORGADZE",
+        "position": "Back row",
+        "dob": "08/02/1996",
+        "height": "1.89m",
+        "weight": "110kg",
+        "contract": "PRO",
+        "nation": "Georgia",
+        "club": "Section Paloise",
+        "league": "Top 14",
+        "value": 262000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "25/26",
+                "team": "Georgia",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 15,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "Georgia",
+                "tournament": "Rugby Europe Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 14,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "Georgia",
+                "tournament": "Rugby World Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 19,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "22/23",
+                "team": "Georgia",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "22/23",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 21,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Georgia",
+                "tournament": "Autumn Nations Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "1 1 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Georgia",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Bordeaux",
+                "tournament": "Challenge Cup",
+                "matches": 4,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Georgia",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "4",
+                "tournament": "4 0 0",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Georgia",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 20,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "15/16",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Carwyn TUIPULOTU",
+        "position": "Back row",
+        "dob": "28/09/2001",
+        "height": "1.88m",
+        "weight": "125kg",
+        "contract": "PRO",
+        "nation": "Wales",
+        "club": "Section Paloise",
+        "league": "Top 14",
+        "value": 126000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Scarlets",
+                "tournament": "United Rugby Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Saracens",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Scarlets",
+                "tournament": "United Rugby Championship",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Scarlets",
+                "tournament": "United Rugby Championship",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Scarlets",
+                "tournament": "Champions Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "7",
+                "tournament": "4 0 3",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Scarlets",
+                "tournament": "Pro 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Wales U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Facundo ISA",
+        "position": "Back row",
+        "dob": "21/09/1993",
+        "height": "1.88m",
+        "weight": "114kg",
+        "contract": "PRO",
+        "nation": "Argentina",
+        "club": "Section Paloise",
+        "league": "Top 14",
+        "value": 258000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 8,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Toulon",
+                "tournament": "Top 14",
+                "matches": 19,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "24/25",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Argentina",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Toulon",
+                "tournament": "Top 14",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Argentina",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Toulon",
+                "tournament": "Top 14",
+                "matches": 20,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "22/23",
+                "team": "4",
+                "tournament": "4 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Argentina",
+                "tournament": "Autumn Nations Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Toulon",
+                "tournament": "Top 14",
+                "matches": 17,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "21/22",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Argentina",
+                "tournament": "Autumn Nations Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Toulon",
+                "tournament": "Top 14",
+                "matches": 11,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "20/21",
+                "team": "Argentina",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Toulon",
+                "tournament": "Top 14",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "4",
+                "tournament": "4 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Argentina",
+                "tournament": "Tri Nations",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Toulon",
+                "tournament": "Top 14",
+                "matches": 15,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "18/19",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Argentina",
+                "tournament": "Rugby Championship",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "Toulon",
+                "tournament": "Top 14",
+                "matches": 20,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "17/18",
+                "team": "6",
+                "tournament": "3 0 3",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Lyon",
+                "tournament": "Top 14",
+                "matches": 7,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "16/17",
+                "team": "Argentina",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "15/16",
+                "team": "Jaguares",
+                "tournament": "Super Rugby",
+                "matches": 13,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "15/16",
+                "team": "Argentina",
+                "tournament": "Rugby World Cup",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "15/16",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "5",
+                "tournament": "1 0 4",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Argentina",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Toulon",
+                "tournament": "Top 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Loïc CRÉDOZ",
+        "position": "Back row",
+        "dob": "17/05/1999",
+        "height": "1.88m",
+        "weight": "107kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Section Paloise",
+        "league": "Top 14",
+        "value": 65000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 25,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Oyonnax",
+                "tournament": "Top 14",
+                "matches": 20,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 26,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 27,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 28,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "19/20",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 13,
+                "tries": 4,
+                "points": 20
+            }
+        ]
+    },
+    {
+        "name": "Luke WHITELOCK",
+        "position": "Back row",
+        "dob": "29/01/1991",
+        "height": "1.93m",
+        "weight": "116kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Section Paloise",
+        "league": "Top 14",
+        "value": 159000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Pau",
+                "tournament": "Challenge Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "11",
+                "tournament": "7 0 4",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 21,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "22/23",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 22,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Pau",
+                "tournament": "Challenge Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "5",
+                "tournament": "1 0 4",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Highlanders",
+                "tournament": "Super Rugby",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Highlanders",
+                "tournament": "Super Rugby",
+                "matches": 15,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "17/18",
+                "team": "All Blacks XV",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Highlanders",
+                "tournament": "Super Rugby",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "15/16",
+                "team": "Highlanders",
+                "tournament": "Super Rugby",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Crusaders",
+                "tournament": "Super Rugby",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Crusaders",
+                "tournament": "Super Rugby",
+                "matches": 14,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "13/14",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Reece HEWAT",
+        "position": "Back row",
+        "dob": "25/09/1997",
+        "height": "1.94m",
+        "weight": "110kg",
+        "contract": "PRO",
+        "nation": "Australia",
+        "club": "Section Paloise",
+        "league": "Top 14",
+        "value": 194000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 7,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 11,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 23,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 19,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 17,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Aurillac",
+                "tournament": "Pro D2",
+                "matches": 11,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "Aurillac",
+                "tournament": "Pro D2",
+                "matches": 14,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "18/19",
+                "team": "Aurillac",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Reds",
+                "tournament": "Super Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Sacha ZEGUEUR",
+        "position": "Back row",
+        "dob": "21/06/1999",
+        "height": "1.92m",
+        "weight": "108kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Section Paloise",
+        "league": "Top 14",
+        "value": 147000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 19,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 19,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 18,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Barbarians FR",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 20,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "France U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Dan ROBSON",
+        "position": "Scrum-half",
+        "dob": "14/03/1992",
+        "height": "1.73m",
+        "weight": "82kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Section Paloise",
+        "league": "Top 14",
+        "value": 130000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 20,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 25,
+                "tries": 2,
+                "points": 13
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Wasps",
+                "tournament": "Premiership",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 16,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Wasps",
+                "tournament": "Premiership",
+                "matches": 17,
+                "tries": 2,
+                "points": 13
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Wasps",
+                "tournament": "Champions Cup",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "11",
+                "tournament": "6 0 5",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "England",
+                "tournament": "Autumn Nations Cup",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Wasps",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "22",
+                "tournament": "13 0 9",
+                "matches": 22,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "England",
+                "tournament": "Six Nations Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Wasps",
+                "tournament": "Premiership",
+                "matches": 10,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "18/19",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "England",
+                "tournament": "Six Nations Championship",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "Wasps",
+                "tournament": "Premiership",
+                "matches": 20,
+                "tries": 9,
+                "points": 45
+            },
+            {
+                "season": "17/18",
+                "team": "6",
+                "tournament": "3 0 3",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Wasps",
+                "tournament": "Premiership",
+                "matches": 22,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "16/17",
+                "team": "7",
+                "tournament": "4 1 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Wasps",
+                "tournament": "Premiership",
+                "matches": 21,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "15/16",
+                "team": "8",
+                "tournament": "5 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Gloucester",
+                "tournament": "Premiership",
+                "matches": 20,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "14/15",
+                "team": "8",
+                "tournament": "8 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Gloucester",
+                "tournament": "Premiership",
+                "matches": 19,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "6",
+                "tournament": "3 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Thibault DAUBAGNA",
+        "position": "Scrum-half",
+        "dob": "20/05/1994",
+        "height": "1.77m",
+        "weight": "83kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Section Paloise",
+        "league": "Top 14",
+        "value": 140000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 26,
+                "tries": 5,
+                "points": 56
+            },
+            {
+                "season": "24/25",
+                "team": "France",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 26,
+                "tries": 3,
+                "points": 38
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 25,
+                "tries": 2,
+                "points": 51
+            },
+            {
+                "season": "21/22",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 20,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 22,
+                "tries": 3,
+                "points": 37
+            },
+            {
+                "season": "19/20",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 26,
+                "tries": 6,
+                "points": 55
+            },
+            {
+                "season": "18/19",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Barbarians FR",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 25,
+                "tries": 2,
+                "points": 15
+            },
+            {
+                "season": "17/18",
+                "team": "6",
+                "tournament": "5 0 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 25,
+                "tries": 3,
+                "points": 23
+            },
+            {
+                "season": "16/17",
+                "team": "5",
+                "tournament": "0 0 5",
+                "matches": 3,
+                "tries": 2,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 19,
+                "tries": 0,
+                "points": 40
+            },
+            {
+                "season": "15/16",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 2,
+                "tries": 2,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Pau",
+                "tournament": "Pro D2",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "13/14",
+                "team": "Pau",
+                "tournament": "Pro D2",
+                "matches": 27,
+                "tries": 3,
+                "points": 15
+            }
+        ]
+    },
+    {
+        "name": "Thomas SOUVERBIE",
+        "position": "Scrum-half",
+        "dob": "28/06/2004",
+        "height": "1.75m",
+        "weight": "80kg",
+        "contract": "ACADEMY",
+        "nation": "France",
+        "club": "Section Paloise",
+        "league": "Top 14",
+        "value": 39750.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Pau",
+                "tournament": "Challenge Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "France U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 4,
+                "tries": 1,
+                "points": 9
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Axel DESPÉRÈS",
+        "position": "Fly-half",
+        "dob": "16/01/2004",
+        "height": "1.83m",
+        "weight": "78kg",
+        "contract": "ACADEMY",
+        "nation": "France",
+        "club": "Section Paloise",
+        "league": "Top 14",
+        "value": 35000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 9,
+                "tries": 1,
+                "points": 39
+            },
+            {
+                "season": "24/25",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 21,
+                "tries": 1,
+                "points": 45
+            },
+            {
+                "season": "24/25",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 5,
+                "tries": 10,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 22,
+                "tries": 3,
+                "points": 21
+            },
+            {
+                "season": "23/24",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 3,
+                "tries": 5,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "France U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 9
+            },
+            {
+                "season": "23/24",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 1,
+                "tries": 1,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Pau",
+                "tournament": "Challenge Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 3
+            },
+            {
+                "season": "22/23",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 3,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "France U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Clément MONDINAT",
+        "position": "Fly-half",
+        "dob": "29/10/2003",
+        "height": "1.78m",
+        "weight": "80kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Section Paloise",
+        "league": "Top 14",
+        "value": 76000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Pau",
+                "tournament": "Challenge Cup",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 6,
+                "tries": 0,
+                "points": 2
+            },
+            {
+                "season": "22/23",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 3,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "France U20",
+                "tournament": "U20 Championship",
+                "matches": 4,
+                "tries": 1,
+                "points": 26
+            },
+            {
+                "season": "21/22",
+                "team": "Pau",
+                "tournament": "Challenge Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Joe SIMMONDS",
+        "position": "Fly-half",
+        "dob": "19/12/1996",
+        "height": "1.83m",
+        "weight": "91kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Section Paloise",
+        "league": "Top 14",
+        "value": 194000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 6,
+                "tries": 1,
+                "points": 75
+            },
+            {
+                "season": "24/25",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 22,
+                "tries": 3,
+                "points": 255
+            },
+            {
+                "season": "23/24",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 22,
+                "tries": 1,
+                "points": 246
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 5,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Exeter",
+                "tournament": "Premiership",
+                "matches": 20,
+                "tries": 3,
+                "points": 102
+            },
+            {
+                "season": "22/23",
+                "team": "7",
+                "tournament": "4 1 2",
+                "matches": 6,
+                "tries": 3,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Exeter",
+                "tournament": "Premiership",
+                "matches": 24,
+                "tries": 3,
+                "points": 131
+            },
+            {
+                "season": "21/22",
+                "team": "6",
+                "tournament": "3 0 3",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Exeter",
+                "tournament": "Premiership",
+                "matches": 23,
+                "tries": 3,
+                "points": 184
+            },
+            {
+                "season": "20/21",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 3,
+                "tries": 1,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Exeter",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 24
+            },
+            {
+                "season": "19/20",
+                "team": "16",
+                "tournament": "13 0 3",
+                "matches": 14,
+                "tries": 19,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "9",
+                "tournament": "8 1 0",
+                "matches": 9,
+                "tries": 7,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Exeter",
+                "tournament": "Premiership",
+                "matches": 24,
+                "tries": 1,
+                "points": 90
+            },
+            {
+                "season": "18/19",
+                "team": "6",
+                "tournament": "2 1 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 1,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Exeter",
+                "tournament": "Anglo Welsh Cup",
+                "matches": 6,
+                "tries": 1,
+                "points": 54
+            },
+            {
+                "season": "17/18",
+                "team": "15",
+                "tournament": "11 0 4",
+                "matches": 7,
+                "tries": 15,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Exeter",
+                "tournament": "Premiership",
+                "matches": 9,
+                "tries": 0,
+                "points": 15
+            }
+        ]
+    },
+    {
+        "name": "Émilien GAILLETON",
+        "position": "Centre",
+        "dob": "13/07/2003",
+        "height": "1.85m",
+        "weight": "89kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Section Paloise",
+        "league": "Top 14",
+        "value": 65000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 7,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "24/25",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 17,
+                "tries": 11,
+                "points": 55
+            },
+            {
+                "season": "24/25",
+                "team": "France",
+                "tournament": "Autumn Nations Series",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "France A",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 24,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "France",
+                "tournament": "Summer Nations Series",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 24,
+                "tries": 14,
+                "points": 70
+            },
+            {
+                "season": "22/23",
+                "team": "France U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 3,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Agen",
+                "tournament": "Pro D2",
+                "matches": 15,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "France U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "France U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Fabien BRAU-BOIRIE",
+        "position": "Centre",
+        "dob": "/12/2005",
+        "height": "1.90m",
+        "weight": "98kg",
+        "contract": "ACADEMY",
+        "nation": "France",
+        "club": "Section Paloise",
+        "league": "Top 14",
+        "value": 93000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 12,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "France U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "France U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Nathan DECRON",
+        "position": "Centre",
+        "dob": "17/02/1998",
+        "height": "1.84m",
+        "weight": "96kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Section Paloise",
+        "league": "Top 14",
+        "value": 111000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 17,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Pau",
+                "tournament": "Challenge Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "7",
+                "tournament": "4 0 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Agen",
+                "tournament": "Top 14",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Agen",
+                "tournament": "Top 14",
+                "matches": 17,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "19/20",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Agen",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 0,
+                "points": 4
+            }
+        ]
+    },
+    {
+        "name": "Olivier KLEMENCZAK",
+        "position": "Centre",
+        "dob": "01/06/1996",
+        "height": "1.81m",
+        "weight": "90kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Section Paloise",
+        "league": "Top 14",
+        "value": 78000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Racing 92",
+                "tournament": "Top 14",
+                "matches": 14,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Racing 92",
+                "tournament": "Top 14",
+                "matches": 13,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "22/23",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Racing 92",
+                "tournament": "Top 14",
+                "matches": 17,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "20/21",
+                "team": "Racing 92",
+                "tournament": "Top 14",
+                "matches": 15,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Racing 92",
+                "tournament": "Top 14",
+                "matches": 14,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "7",
+                "tournament": "5 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Racing 92",
+                "tournament": "Top 14",
+                "matches": 23,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "18/19",
+                "team": "6",
+                "tournament": "5 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Dax",
+                "tournament": "Pro D2",
+                "matches": 21,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "16/17",
+                "team": "Dax",
+                "tournament": "Pro D2",
+                "matches": 20,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "15/16",
+                "team": "Dax",
+                "tournament": "Pro D2",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Dax",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Tumua MANU",
+        "position": "Centre",
+        "dob": "18/04/1993",
+        "height": "1.83m",
+        "weight": "97kg",
+        "contract": "PRO",
+        "nation": "Samoa",
+        "club": "Section Paloise",
+        "league": "Top 14",
+        "value": 141000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "25/26",
+                "team": "Samoa",
+                "tournament": "Rugby World Cup 2027 Final Qualification Tournament",
+                "matches": 2,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 18,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Samoa",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Samoa",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 1,
+                "points": 7
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 23,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "21/22",
+                "team": "Samoa",
+                "tournament": "Pacific Nations Cup",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 15,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "19/20",
+                "team": "Chiefs",
+                "tournament": "Super Rugby",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Auckland",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "18/19",
+                "team": "Chiefs",
+                "tournament": "Super Rugby",
+                "matches": 16,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "17/18",
+                "team": "Blues",
+                "tournament": "Super Rugby",
+                "matches": 4,
+                "tries": 3,
+                "points": 15
+            }
+        ]
+    },
+    {
+        "name": "Aaron GRANDIDIER",
+        "position": "Winger",
+        "dob": "18/05/2000",
+        "height": "1.87m",
+        "weight": "94kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Section Paloise",
+        "league": "Top 14",
+        "value": 168000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 7,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 13,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Brive",
+                "tournament": "Challenge Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Théo ATTISSOGBE",
+        "position": "Winger",
+        "dob": "/11/2004",
+        "height": "1.82m",
+        "weight": "84kg",
+        "contract": "ACADEMY",
+        "nation": "France",
+        "club": "Section Paloise",
+        "league": "Top 14",
+        "value": 102750.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 19,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "France",
+                "tournament": "Autumn Nations Series",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "France A",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 24,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "France U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "France",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Pau",
+                "tournament": "Challenge Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "France U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "5",
+                "tournament": "5 0 0",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Thomas CAROL",
+        "position": "Winger",
+        "dob": "17/01/2001",
+        "height": "1.79m",
+        "weight": "85kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Section Paloise",
+        "league": "Top 14",
+        "value": 78000.0,
+        "playing_history": [
+            {
+                "season": "23/24",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Aymeric LUC",
+        "position": "Fullback",
+        "dob": "14/10/1997",
+        "height": "1.80m",
+        "weight": "81kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Section Paloise",
+        "league": "Top 14",
+        "value": 94000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 14,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Toulon",
+                "tournament": "Top 14",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Toulon",
+                "tournament": "Top 14",
+                "matches": 19,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "5",
+                "tournament": "5 0 0",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Toulon",
+                "tournament": "Top 14",
+                "matches": 25,
+                "tries": 8,
+                "points": 40
+            },
+            {
+                "season": "21/22",
+                "team": "6",
+                "tournament": "5 0 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Bayonne",
+                "tournament": "Top 14",
+                "matches": 24,
+                "tries": 10,
+                "points": 50
+            },
+            {
+                "season": "19/20",
+                "team": "Bayonne",
+                "tournament": "Top 14",
+                "matches": 9,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "19/20",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Bayonne",
+                "tournament": "Pro D2",
+                "matches": 11,
+                "tries": 3,
+                "points": 15
+            }
+        ]
+    },
+    {
+        "name": "Clément LAPORTE",
+        "position": "Fullback",
+        "dob": "07/01/1998",
+        "height": "1.81m",
+        "weight": "87kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Section Paloise",
+        "league": "Top 14",
+        "value": 122000.0,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 20,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "22/23",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Lyon",
+                "tournament": "Top 14",
+                "matches": 13,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "5",
+                "tournament": "5 0 0",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Barbarians FR",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Lyon",
+                "tournament": "Top 14",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Lyon",
+                "tournament": "Top 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Agen",
+                "tournament": "Top 14",
+                "matches": 25,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "18/19",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Barbarians FR",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "Agen",
+                "tournament": "Top 14",
+                "matches": 16,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "17/18",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Grégoire ARFEUIL",
+        "position": "Fullback",
+        "dob": "/12/2004",
+        "height": "1.94m",
+        "weight": "89kg",
+        "contract": "ACADEMY",
+        "nation": "France",
+        "club": "Section Paloise",
+        "league": "Top 14",
+        "value": 45750.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 6,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "Pau",
+                "tournament": "Challenge Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Pau",
+                "tournament": "Challenge Cup",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "France U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Pau",
+                "tournament": "Challenge Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Jack MADDOCKS",
+        "position": "Fullback",
+        "dob": "05/02/1997",
+        "height": "1.94m",
+        "weight": "96kg",
+        "contract": "PRO",
+        "nation": "Australia",
+        "club": "Section Paloise",
+        "league": "Top 14",
+        "value": 206000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 7,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 16,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "23/24",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 18,
+                "tries": 9,
+                "points": 45
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 20,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "21/22",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Waratahs",
+                "tournament": "Super Rugby AU",
+                "matches": 8,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "20/21",
+                "team": "4",
+                "tournament": "0 0 4",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Waratahs",
+                "tournament": "Super Rugby",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "8",
+                "tournament": "4 0 4",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Rebels",
+                "tournament": "Super Rugby",
+                "matches": 14,
+                "tries": 10,
+                "points": 50
+            },
+            {
+                "season": "18/19",
+                "team": "Australia",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Rebels",
+                "tournament": "Super Rugby",
+                "matches": 15,
+                "tries": 9,
+                "points": 45
+            },
+            {
+                "season": "17/18",
+                "team": "Australia",
+                "tournament": "Rugby Championship",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "Rebels",
+                "tournament": "Super Rugby",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Rebels",
+                "tournament": "Super Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    }
+]

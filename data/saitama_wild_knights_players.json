@@ -1,0 +1,4374 @@
+[
+    {
+        "name": "Asaeli AI VALU",
+        "position": "Prop",
+        "dob": "07/05/1989",
+        "height": "1.87m",
+        "weight": "118kg",
+        "contract": "PRO",
+        "nation": "Tonga",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 18,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 17,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "Japan",
+                "tournament": "Summer Nations Series",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 11,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Japan",
+                "tournament": "Pacific Nations Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 16,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Sunwolves",
+                "tournament": "Super Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Sunwolves",
+                "tournament": "Super Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Craig MILLAR",
+        "position": "Prop",
+        "dob": "29/10/1990",
+        "height": "1.86m",
+        "weight": "116kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 20,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 16,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Japan XV",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Barbarian F.C.",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Sunwolves",
+                "tournament": "Super Rugby",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Sunwolves",
+                "tournament": "Super Rugby",
+                "matches": 16,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "Highlanders",
+                "tournament": "Super Rugby",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Highlanders",
+                "tournament": "Super Rugby",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Highlanders",
+                "tournament": "Super Rugby",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Daniel PEREZ",
+        "position": "Prop",
+        "dob": "22/04/1997",
+        "height": "1.85m",
+        "weight": "112kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 13,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Keita INAGAKI",
+        "position": "Prop",
+        "dob": "02/06/1990",
+        "height": "1.86m",
+        "weight": "116kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Sunwolves",
+                "tournament": "Super Rugby",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Sunwolves",
+                "tournament": "Super Rugby",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Sunwolves",
+                "tournament": "Super Rugby",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Japan",
+                "tournament": "Rugby World Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Rebels",
+                "tournament": "Super Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Lisala FINAU",
+        "position": "Prop",
+        "dob": "20/06/2002",
+        "height": "1.89m",
+        "weight": "125kg",
+        "contract": "PRO",
+        "nation": "Tonga",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Makito ISHIKAWA",
+        "position": "Prop",
+        "dob": "06/10/2002",
+        "height": "1.84m",
+        "weight": "115kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": []
+    },
+    {
+        "name": "Sho FURUHATA",
+        "position": "Prop",
+        "dob": "10/12/1996",
+        "height": "1.85m",
+        "weight": "118kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Japan XV",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Shohei HIRANO",
+        "position": "Prop",
+        "dob": "03/08/1993",
+        "height": "1.78m",
+        "weight": "120kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Taichi NIIDUMA",
+        "position": "Prop",
+        "dob": "18/01/1998",
+        "height": "1.87m",
+        "weight": "120kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": []
+    },
+    {
+        "name": "Taichi NIIZUMA",
+        "position": "Prop",
+        "dob": "18/01/1998",
+        "height": "1.87m",
+        "weight": "125kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": []
+    },
+    {
+        "name": "Taiki FUJII",
+        "position": "Prop",
+        "dob": "04/01/1998",
+        "height": "1.83m",
+        "weight": "114kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Taniela VEA",
+        "position": "Prop",
+        "dob": "24/04/2000",
+        "height": "1.84m",
+        "weight": "125kg",
+        "contract": "PRO",
+        "nation": "Tonga",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Yusaku KIHARA",
+        "position": "Prop",
+        "dob": "11/12/2000",
+        "height": "1.76m",
+        "weight": "106kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Atsushi SAKATE",
+        "position": "Hooker",
+        "dob": "21/06/1993",
+        "height": "1.80m",
+        "weight": "104kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 18,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "24/25",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 16,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 18,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "22/23",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 15,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "21/22",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Sunwolves",
+                "tournament": "Super Rugby",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Sunwolves",
+                "tournament": "Super Rugby",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Sunwolves",
+                "tournament": "Super Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Hyuga SHIMADA",
+        "position": "Hooker",
+        "dob": "16/06/2000",
+        "height": "1.76m",
+        "weight": "108kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": []
+    },
+    {
+        "name": "Kazuma SHIMANE",
+        "position": "Hooker",
+        "dob": "30/11/1996",
+        "height": "1.75m",
+        "weight": "103kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Kenji SATO",
+        "position": "Hooker",
+        "dob": "01/04/2003",
+        "height": "1.77m",
+        "weight": "108kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "25/26",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 14,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "Japan XV",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Japan",
+                "tournament": "Pacific Nations Cup",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Japan XV",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Yuji SHIMOGAMA",
+        "position": "Hooker",
+        "dob": "25/01/1992",
+        "height": "1.78m",
+        "weight": "102kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Goro HASHIMOTO",
+        "position": "Lock",
+        "dob": "23/07/1999",
+        "height": "1.91m",
+        "weight": "103kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": []
+    },
+    {
+        "name": "Jack CORNELSEN",
+        "position": "Lock",
+        "dob": "13/10/1994",
+        "height": "1.95m",
+        "weight": "110kg",
+        "contract": "PRO",
+        "nation": "Australia",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 20,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "24/25",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 17,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "Japan XV",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Barbarian F.C.",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 16,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "22/23",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 15,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "21/22",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Kantaro TAJIMA",
+        "position": "Lock",
+        "dob": "26/02/2003",
+        "height": "1.95m",
+        "weight": "105kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "22/23",
+                "team": "Japan U20",
+                "tournament": "U20 Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Liam MITCHELL",
+        "position": "Lock",
+        "dob": "10/10/1995",
+        "height": "2.00m",
+        "weight": "116kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 17,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 13,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Barbarian F.C.",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Zebre",
+                "tournament": "Challenge Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "9",
+                "tournament": "0 0 9",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Aotearoa",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Manawatu",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Manawatu",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "18/19",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Lood DE JAGER",
+        "position": "Lock",
+        "dob": "17/12/1992",
+        "height": "2.06m",
+        "weight": "125kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "25/26",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 14,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "24/25",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 12,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "22/23",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 14,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "South Africa",
+                "tournament": "Autumn Nations Series",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Sale",
+                "tournament": "Premiership",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "6",
+                "tournament": "3 0 3",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "South Africa",
+                "tournament": "Autumn Nations Series",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "6",
+                "tournament": "4 0 2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Sale",
+                "tournament": "Premiership",
+                "matches": 5,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "20/21",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Sale",
+                "tournament": "Premiership",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "5",
+                "tournament": "5 0 0",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Bulls",
+                "tournament": "Super Rugby",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Bulls",
+                "tournament": "Super Rugby",
+                "matches": 10,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "17/18",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Bulls",
+                "tournament": "Super Rugby",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "3",
+                "tournament": "0 1 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Cheetahs",
+                "tournament": "Super Rugby",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "South Africa",
+                "tournament": "Rugby World Cup",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "15/16",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Cheetahs",
+                "tournament": "Super Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Cheetahs",
+                "tournament": "Super Rugby",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "13/14",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "13/14",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Ockie BARNARD",
+        "position": "Lock",
+        "dob": "20/04/2001",
+        "height": "2.00m",
+        "weight": "113kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Ryota HASEGAWA",
+        "position": "Lock",
+        "dob": "12/05/1993",
+        "height": "1.88m",
+        "weight": "100kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 8,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Sunwolves",
+                "tournament": "Super Rugby",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Takumi YOSHIZAWA",
+        "position": "Lock",
+        "dob": "05/09/2000",
+        "height": "1.94m",
+        "weight": "101kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": []
+    },
+    {
+        "name": "Tomohito MIYAKAWA",
+        "position": "Lock",
+        "dob": "06/09/1994",
+        "height": "1.91m",
+        "weight": "106kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "22/23",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Ben GUNTER",
+        "position": "Back row",
+        "dob": "24/10/1997",
+        "height": "1.95m",
+        "weight": "120kg",
+        "contract": "PRO",
+        "nation": "Australia",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "25/26",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 17,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "24/25",
+                "team": "Japan",
+                "tournament": "Autumn Nations Series",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 8,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Japan",
+                "tournament": "Summer Nations Series",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Japan",
+                "tournament": "Pacific Nations Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Sunwolves",
+                "tournament": "Super Rugby",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Esei HA'ANGANA",
+        "position": "Back row",
+        "dob": "21/04/1999",
+        "height": "1.98m",
+        "weight": "120kg",
+        "contract": "PRO",
+        "nation": "Australia",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 20,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 11,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "22/23",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "Rebels",
+                "tournament": "Super Rugby AU",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Rebels",
+                "tournament": "Super Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Australia U20",
+                "tournament": "U20 Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Rebels",
+                "tournament": "Super Rugby",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Hayata TANIYAMA",
+        "position": "Back row",
+        "dob": "10/12/2001",
+        "height": "1.84m",
+        "weight": "95kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Itsuki ONISHI",
+        "position": "Back row",
+        "dob": "09/12/1995",
+        "height": "1.85m",
+        "weight": "102kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 16,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 16,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "22/23",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 8,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 8,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Juan WILSON",
+        "position": "Back row",
+        "dob": "18/04/2001",
+        "height": "1.90m",
+        "weight": "108kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Lachlan BOSHIER",
+        "position": "Back row",
+        "dob": "16/11/1994",
+        "height": "1.91m",
+        "weight": "104kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 15,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "Barbarian F.C.",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 14,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "Barbarian F.C.",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 17,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "21/22",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Chiefs",
+                "tournament": "Super Rugby Aotearoa",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Taranaki",
+                "tournament": "NPC",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Chiefs",
+                "tournament": "Super Rugby",
+                "matches": 5,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "19/20",
+                "team": "7",
+                "tournament": "0 0 7",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Taranaki",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "Chiefs",
+                "tournament": "Super Rugby",
+                "matches": 14,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "17/18",
+                "team": "Chiefs",
+                "tournament": "Super Rugby",
+                "matches": 11,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "16/17",
+                "team": "Chiefs",
+                "tournament": "Super Rugby",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "15/16",
+                "team": "Chiefs",
+                "tournament": "Super Rugby",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Orion SCHMOK",
+        "position": "Back row",
+        "dob": "01/08/2001",
+        "height": "1.81m",
+        "weight": "100kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": []
+    },
+    {
+        "name": "Shota FUKUI",
+        "position": "Back row",
+        "dob": "28/09/1999",
+        "height": "1.86m",
+        "weight": "101kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 10,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Japan XV",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 18,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Japan",
+                "tournament": "Pacific Nations Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Shunsuke NUNOMAKI",
+        "position": "Back row",
+        "dob": "13/07/1992",
+        "height": "1.78m",
+        "weight": "98kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "23/24",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Sunwolves",
+                "tournament": "Super Rugby",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Sunwolves",
+                "tournament": "Super Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Sunwolves",
+                "tournament": "Super Rugby",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Shuto NOBUHARA",
+        "position": "Back row",
+        "dob": "06/12/2001",
+        "height": "1.82m",
+        "weight": "94kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": []
+    },
+    {
+        "name": "Viliami AFU KAIPOULI",
+        "position": "Back row",
+        "dob": "28/09/1997",
+        "height": "1.89m",
+        "weight": "115kg",
+        "contract": "PRO",
+        "nation": "Tonga",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "23/24",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 4,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 10,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Xavier STOWERS",
+        "position": "Back row",
+        "dob": "28/07/2003",
+        "height": "1.96m",
+        "weight": "114kg",
+        "contract": "PRO",
+        "nation": "Australia",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Atora HONDO",
+        "position": "Scrum-half",
+        "dob": "09/11/1998",
+        "height": "1.73m",
+        "weight": "82kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "22/23",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Kumsu LEE",
+        "position": "Scrum-half",
+        "dob": "05/09/2002",
+        "height": "1.75m",
+        "weight": "82kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": []
+    },
+    {
+        "name": "Shu HAGIHARA",
+        "position": "Scrum-half",
+        "dob": "13/07/2001",
+        "height": "1.73m",
+        "weight": "77kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Taiki KOYAMA",
+        "position": "Scrum-half",
+        "dob": "31/10/1994",
+        "height": "1.71m",
+        "weight": "74kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 17,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "23/24",
+                "team": "Japan XV",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 18,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 16,
+                "tries": 4,
+                "points": 20
+            }
+        ]
+    },
+    {
+        "name": "Yuta TAKAGI",
+        "position": "Scrum-half",
+        "dob": "21/10/1993",
+        "height": "1.62m",
+        "weight": "64kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 20,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Eiji KANEDA",
+        "position": "Fly-half",
+        "dob": "14/05/1993",
+        "height": "1.74m",
+        "weight": "84kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": []
+    },
+    {
+        "name": "Kyohei YAMASAWA",
+        "position": "Fly-half",
+        "dob": "17/08/1998",
+        "height": "1.76m",
+        "weight": "85kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 18,
+                "tries": 6,
+                "points": 230
+            },
+            {
+                "season": "23/24",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 12,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "22/23",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Takuya YAMASAWA",
+        "position": "Fly-half",
+        "dob": "21/09/1994",
+        "height": "1.76m",
+        "weight": "84kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 6,
+                "tries": 1,
+                "points": 7
+            },
+            {
+                "season": "23/24",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 11,
+                "tries": 6,
+                "points": 46
+            },
+            {
+                "season": "23/24",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Japan XV",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 8
+            },
+            {
+                "season": "22/23",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 17,
+                "tries": 7,
+                "points": 111
+            },
+            {
+                "season": "22/23",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 1,
+                "points": 12
+            },
+            {
+                "season": "22/23",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 2,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 10,
+                "tries": 3,
+                "points": 56
+            },
+            {
+                "season": "21/22",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 9
+            },
+            {
+                "season": "18/19",
+                "team": "Sunwolves",
+                "tournament": "Super Rugby",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Damian DE ALLENDE",
+        "position": "Centre",
+        "dob": "25/11/1991",
+        "height": "1.89m",
+        "weight": "106kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "25/26",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 18,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "24/25",
+                "team": "South Africa",
+                "tournament": "Autumn Nations Series",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 16,
+                "tries": 3,
+                "points": 24
+            },
+            {
+                "season": "23/24",
+                "team": "South Africa",
+                "tournament": "Summer Nations Series",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "4 0 0",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 13,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "South Africa",
+                "tournament": "Autumn Nations Series",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Munster",
+                "tournament": "United Rugby Championship",
+                "matches": 8,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "5",
+                "tournament": "3 1 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "South Africa",
+                "tournament": "Autumn Nations Series",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "6",
+                "tournament": "4 0 2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Munster",
+                "tournament": "Pro 14",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Munster",
+                "tournament": "Pro 14",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "7",
+                "tournament": "6 0 1",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Stormers",
+                "tournament": "Super Rugby",
+                "matches": 14,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "18/19",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "2",
+                "tournament": "1 1 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Stormers",
+                "tournament": "Super Rugby",
+                "matches": 16,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "17/18",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Stormers",
+                "tournament": "Super Rugby",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "15/16",
+                "team": "Stormers",
+                "tournament": "Super Rugby",
+                "matches": 11,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "15/16",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "15/16",
+                "team": "6",
+                "tournament": "5 0 1",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Stormers",
+                "tournament": "Super Rugby",
+                "matches": 16,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "14/15",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Stormers",
+                "tournament": "Super Rugby",
+                "matches": 14,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "13/14",
+                "team": "South Africa",
+                "tournament": "Rugby Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Dylan RILEY",
+        "position": "Centre",
+        "dob": "02/05/1997",
+        "height": "1.87m",
+        "weight": "102kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "25/26",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 13,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 17,
+                "tries": 14,
+                "points": 70
+            },
+            {
+                "season": "23/24",
+                "team": "Japan XV",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 15,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "22/23",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 15,
+                "tries": 12,
+                "points": 60
+            },
+            {
+                "season": "21/22",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Takaya SAITO",
+        "position": "Centre",
+        "dob": "02/01/2001",
+        "height": "1.81m",
+        "weight": "93kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 16
+            }
+        ]
+    },
+    {
+        "name": "Tomoki OSADA",
+        "position": "Centre",
+        "dob": "25/11/1999",
+        "height": "1.79m",
+        "weight": "90kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "25/26",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 17,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "24/25",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 18,
+                "tries": 8,
+                "points": 40
+            },
+            {
+                "season": "23/24",
+                "team": "Japan XV",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 14,
+                "tries": 9,
+                "points": 45
+            },
+            {
+                "season": "22/23",
+                "team": "Japan",
+                "tournament": "Pacific Nations Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Tsubasa ARAI",
+        "position": "Centre",
+        "dob": "14/07/1997",
+        "height": "1.75m",
+        "weight": "88kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": []
+    },
+    {
+        "name": "Iori KAJI",
+        "position": "Winger",
+        "dob": "30/01/1992",
+        "height": "1.70m",
+        "weight": "75kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": []
+    },
+    {
+        "name": "Joshua NOHRA",
+        "position": "Winger",
+        "dob": "11/06/1996",
+        "height": "1.80m",
+        "weight": "88kg",
+        "contract": "PRO",
+        "nation": "Australia",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 2
+            },
+            {
+                "season": "23/24",
+                "team": "Kintetsu Liners",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 13,
+                "tries": 4,
+                "points": 29
+            },
+            {
+                "season": "22/23",
+                "team": "Kintetsu Liners",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 13,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "21/22",
+                "team": "Kintetsu Liners",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 9,
+                "tries": 4,
+                "points": 24
+            }
+        ]
+    },
+    {
+        "name": "Koki TAKEYAMA",
+        "position": "Winger",
+        "dob": "25/09/1996",
+        "height": "1.76m",
+        "weight": "87kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 18,
+                "tries": 15,
+                "points": 101
+            },
+            {
+                "season": "23/24",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 11,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "22/23",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 10,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "21/22",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 15,
+                "tries": 11,
+                "points": 55
+            },
+            {
+                "season": "21/22",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Marika KOROIBETE",
+        "position": "Winger",
+        "dob": "26/07/1992",
+        "height": "1.82m",
+        "weight": "96kg",
+        "contract": "PRO",
+        "nation": "Fiji",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 7,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 17,
+                "tries": 8,
+                "points": 40
+            },
+            {
+                "season": "23/24",
+                "team": "Australia",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 15,
+                "tries": 8,
+                "points": 40
+            },
+            {
+                "season": "22/23",
+                "team": "Australia",
+                "tournament": "Rugby Championship",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 15,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "21/22",
+                "team": "Australia",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "6",
+                "tournament": "2 0 4",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Rebels",
+                "tournament": "Super Rugby AU",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "5",
+                "tournament": "0 0 5",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Australia",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Rebels",
+                "tournament": "Super Rugby",
+                "matches": 6,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "9",
+                "tournament": "4 1 4",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Australia",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "19/20",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "4",
+                "tournament": "1 2 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Rebels",
+                "tournament": "Super Rugby",
+                "matches": 15,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "18/19",
+                "team": "Australia",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "18/19",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Rebels",
+                "tournament": "Super Rugby",
+                "matches": 13,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "17/18",
+                "team": "Australia",
+                "tournament": "Test Matchs",
+                "matches": 8,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "17/18",
+                "team": "6",
+                "tournament": "2 0 4",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Rebels",
+                "tournament": "Super Rugby",
+                "matches": 13,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "16/17",
+                "team": "Australia",
+                "tournament": "Rugby Championship",
+                "matches": 3,
+                "tries": 3,
+                "points": 15
+            }
+        ]
+    },
+    {
+        "name": "Maurice MARKS",
+        "position": "Winger",
+        "dob": "24/04/2001",
+        "height": "1.80m",
+        "weight": "90kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": []
+    },
+    {
+        "name": "Seijun KAWASAKI",
+        "position": "Winger",
+        "dob": "17/06/1999",
+        "height": "1.91m",
+        "weight": "103kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Tatsuhiro TANJI",
+        "position": "Winger",
+        "dob": "19/11/1996",
+        "height": "1.84m",
+        "weight": "91kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Vince ASO",
+        "position": "Winger",
+        "dob": "05/01/1995",
+        "height": "1.85m",
+        "weight": "103kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 16,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "23/24",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 12,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "22/23",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 15,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Trans-Tasman",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Wellington",
+                "tournament": "NPC",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "6",
+                "tournament": "3 0 3",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Wellington",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "18/19",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby",
+                "matches": 9,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "16/17",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby",
+                "matches": 15,
+                "tries": 14,
+                "points": 70
+            },
+            {
+                "season": "15/16",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby",
+                "matches": 16,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Ryuji NOGUCHI",
+        "position": "Fullback",
+        "dob": "15/07/1995",
+        "height": "1.77m",
+        "weight": "83kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 20,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 10,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "22/23",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 18,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "21/22",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 11,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Sunwolves",
+                "tournament": "Super Rugby",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 3
+            },
+            {
+                "season": "16/17",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Tom PARTON",
+        "position": "Fullback",
+        "dob": "02/02/1998",
+        "height": "1.78m",
+        "weight": "90kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Saracens",
+                "tournament": "Premiership",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Saracens",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "15",
+                "tournament": "9 0 6",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "London Irish",
+                "tournament": "Premiership",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "London Irish",
+                "tournament": "Premiership",
+                "matches": 16,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "London Irish",
+                "tournament": "Premiership",
+                "matches": 17,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "20/21",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "London Irish",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "9",
+                "tournament": "2 1 6",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "London Irish",
+                "tournament": "Challenge Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Yoshiaki TANIGUCHI",
+        "position": "Fullback",
+        "dob": "20/11/2001",
+        "height": "1.73m",
+        "weight": "80kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Saitama Wild Knights",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": []
+    }
+]

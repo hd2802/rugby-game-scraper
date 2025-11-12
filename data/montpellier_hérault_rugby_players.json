@@ -1,0 +1,6120 @@
+[
+    {
+        "name": "Baptiste ERDOCIO",
+        "position": "Prop",
+        "dob": "13/03/2000",
+        "height": "1.75m",
+        "weight": "115kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Montpellier Hérault Rugby",
+        "league": "Top 14",
+        "value": 171000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "25/26",
+                "team": "France",
+                "tournament": "Autumn Nations Series",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 20,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "France A",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "France",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 26,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Biarritz",
+                "tournament": "Pro D2",
+                "matches": 30,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "Biarritz",
+                "tournament": "Top 14",
+                "matches": 18,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Biarritz",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Enzo FORLETTA",
+        "position": "Prop",
+        "dob": "15/06/1994",
+        "height": "1.75m",
+        "weight": "118kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Montpellier Hérault Rugby",
+        "league": "Top 14",
+        "value": 129000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 21,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 20,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 23,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "5",
+                "tournament": "1 2 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 21,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 19,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "4",
+                "tournament": "4 0 0",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "France",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Perpignan",
+                "tournament": "Pro D2",
+                "matches": 21,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Perpignan",
+                "tournament": "Top 14",
+                "matches": 23,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "18/19",
+                "team": "1",
+                "tournament": "0 1 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Perpignan",
+                "tournament": "Pro D2",
+                "matches": 29,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "16/17",
+                "team": "Perpignan",
+                "tournament": "Pro D2",
+                "matches": 30,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Perpignan",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Perpignan",
+                "tournament": "Pro D2",
+                "matches": 22,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Luka JAPARIDZE",
+        "position": "Prop",
+        "dob": "06/09/1998",
+        "height": "1.81m",
+        "weight": "126kg",
+        "contract": "PRO",
+        "nation": "Georgia",
+        "club": "Montpellier Hérault Rugby",
+        "league": "Top 14",
+        "value": 120000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "25/26",
+                "team": "Georgia",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Georgia",
+                "tournament": "Autumn Nations Series",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "4 0 0",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Georgia",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 20,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Georgia",
+                "tournament": "Autumn Nations Series",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "1 1 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "1 1 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Georgia",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Brive",
+                "tournament": "Challenge Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "1",
+                "tournament": "0 1 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Mohamed HAOUAS",
+        "position": "Prop",
+        "dob": "09/03/1994",
+        "height": "1.85m",
+        "weight": "127kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Montpellier Hérault Rugby",
+        "league": "Top 14",
+        "value": 111000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Biarritz",
+                "tournament": "Pro D2",
+                "matches": 26,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "4",
+                "tournament": "1 2 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "France",
+                "tournament": "Six Nations Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 20,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "France",
+                "tournament": "Autumn Nations Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 13,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "France",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "France",
+                "tournament": "Six Nations Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 20,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Nika ABULADZE",
+        "position": "Prop",
+        "dob": "20/08/1995",
+        "height": "1.87m",
+        "weight": "126kg",
+        "contract": "PRO",
+        "nation": "Georgia",
+        "club": "Montpellier Hérault Rugby",
+        "league": "Top 14",
+        "value": 99000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Georgia",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "4 0 0",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Exeter",
+                "tournament": "Premiership",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Georgia",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Exeter",
+                "tournament": "Champions Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Georgia",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "5",
+                "tournament": "5 0 0",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Georgia",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Georgia",
+                "tournament": "Rugby Europe Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Wilfrid HOUNKPATIN",
+        "position": "Prop",
+        "dob": "29/07/1991",
+        "height": "1.92m",
+        "weight": "132kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Montpellier Hérault Rugby",
+        "league": "Top 14",
+        "value": 178000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 6,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 23,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "Castres",
+                "tournament": "Top 14",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Castres",
+                "tournament": "Top 14",
+                "matches": 24,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Castres",
+                "tournament": "Top 14",
+                "matches": 26,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Castres",
+                "tournament": "Top 14",
+                "matches": 24,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "France",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Castres",
+                "tournament": "Top 14",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "4",
+                "tournament": "4 0 0",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Castres",
+                "tournament": "Champions Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "9",
+                "tournament": "4 0 5",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Narbonne",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Christopher TOLOFUA",
+        "position": "Hooker",
+        "dob": "31/12/1993",
+        "height": "1.82m",
+        "weight": "125kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Montpellier Hérault Rugby",
+        "league": "Top 14",
+        "value": 142000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 25,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Toulon",
+                "tournament": "Top 14",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 13,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Toulon",
+                "tournament": "Top 14",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Toulon",
+                "tournament": "Top 14",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Barbarian F.C.",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Toulon",
+                "tournament": "Top 14",
+                "matches": 19,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "Toulon",
+                "tournament": "Top 14",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Saracens",
+                "tournament": "Premiership",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Saracens",
+                "tournament": "Premiership",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "France A",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Toulouse",
+                "tournament": "Top 14",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "6",
+                "tournament": "3 1 2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "France",
+                "tournament": "Six Nations Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Toulouse",
+                "tournament": "Top 14",
+                "matches": 22,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "5",
+                "tournament": "1 0 4",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Toulouse",
+                "tournament": "Top 14",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Toulouse",
+                "tournament": "Top 14",
+                "matches": 27,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "13/14",
+                "team": "7",
+                "tournament": "5 0 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "France",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Jordan UELESE",
+        "position": "Hooker",
+        "dob": "24/01/1997",
+        "height": "1.89m",
+        "weight": "122kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Montpellier Hérault Rugby",
+        "league": "Top 14",
+        "value": 188000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 7,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 19,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Rebels",
+                "tournament": "Super Rugby Pacific",
+                "matches": 15,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Australia",
+                "tournament": "Rugby World Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Rebels",
+                "tournament": "Super Rugby Pacific",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Australia",
+                "tournament": "Rugby Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Rebels",
+                "tournament": "Super Rugby Pacific",
+                "matches": 9,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "20/21",
+                "team": "Rebels",
+                "tournament": "Super Rugby AU",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "5",
+                "tournament": "0 0 5",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Australia",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Rebels",
+                "tournament": "Super Rugby",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "9",
+                "tournament": "4 1 4",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Australia",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Rebels",
+                "tournament": "Super Rugby",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "Australia",
+                "tournament": "Rugby Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Rebels",
+                "tournament": "Super Rugby",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Rebels",
+                "tournament": "Super Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Australia",
+                "tournament": "Rugby Championship",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Lyam AKRAB",
+        "position": "Hooker",
+        "dob": "/09/2005",
+        "height": "1.78m",
+        "weight": "103kg",
+        "contract": "ACADEMY",
+        "nation": "France",
+        "club": "Montpellier Hérault Rugby",
+        "league": "Top 14",
+        "value": 35000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Montpellier",
+                "tournament": "Challenge Cup",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "France U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 5,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "24/25",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "France U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Ricky RICCITELLI",
+        "position": "Hooker",
+        "dob": "03/02/1995",
+        "height": "1.82m",
+        "weight": "110kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Montpellier Hérault Rugby",
+        "league": "Top 14",
+        "value": 165000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Blues",
+                "tournament": "Super Rugby Pacific",
+                "matches": 13,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "24/25",
+                "team": "Barbarian F.C.",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Blues",
+                "tournament": "Super Rugby Pacific",
+                "matches": 14,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "23/24",
+                "team": "Taranaki",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 8,
+                "points": 40
+            },
+            {
+                "season": "23/24",
+                "team": "All Blacks XV",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Blues",
+                "tournament": "Super Rugby Pacific",
+                "matches": 15,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "22/23",
+                "team": "Taranaki",
+                "tournament": "NPC",
+                "matches": 13,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "21/22",
+                "team": "Blues",
+                "tournament": "Super Rugby Pacific",
+                "matches": 10,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Taranaki",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Aotearoa",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "Taranaki",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Taranaki",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "18/19",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby",
+                "matches": 18,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "16/17",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "15/16",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Adam BEARD",
+        "position": "Lock",
+        "dob": "07/01/1996",
+        "height": "2.03m",
+        "weight": "121kg",
+        "contract": "PRO",
+        "nation": "Wales",
+        "club": "Montpellier Hérault Rugby",
+        "league": "Top 14",
+        "value": 141000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "25/26",
+                "team": "Wales",
+                "tournament": "Autumn Nations Series",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Ospreys",
+                "tournament": "United Rugby Championship",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Wales",
+                "tournament": "Autumn Nations Series",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Ospreys",
+                "tournament": "United Rugby Championship",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "6",
+                "tournament": "4 0 2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Wales",
+                "tournament": "Summer Nations Series",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "5",
+                "tournament": "0 0 5",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Ospreys",
+                "tournament": "United Rugby Championship",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Wales",
+                "tournament": "Autumn Nations Series",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "5",
+                "tournament": "1 0 4",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Ospreys",
+                "tournament": "United Rugby Championship",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Wales",
+                "tournament": "Autumn Nations Series",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "5",
+                "tournament": "1 0 4",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Ospreys",
+                "tournament": "Pro 14",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Wales",
+                "tournament": "Six Nations Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Lions",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Ospreys",
+                "tournament": "Champions Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "7",
+                "tournament": "1 1 5",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Wales",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Ospreys",
+                "tournament": "Pro 14",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Wales",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "5",
+                "tournament": "5 0 0",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Ospreys",
+                "tournament": "Pro 14",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "5",
+                "tournament": "2 1 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Wales",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Ospreys",
+                "tournament": "Challenge Cup",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Wales",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Ospreys",
+                "tournament": "Pro 12",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Bastien CHALUREAU",
+        "position": "Lock",
+        "dob": "13/02/1992",
+        "height": "2.02m",
+        "weight": "118kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Montpellier Hérault Rugby",
+        "league": "Top 14",
+        "value": 116000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 19,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "France",
+                "tournament": "Summer Nations Series",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "4",
+                "tournament": "1 1 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "France",
+                "tournament": "Autumn Nations Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 20,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 18,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Toulouse",
+                "tournament": "Top 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Nevers",
+                "tournament": "Pro D2",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Nevers",
+                "tournament": "Pro D2",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Perpignan",
+                "tournament": "Pro D2",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Perpignan",
+                "tournament": "Pro D2",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Florian VERHAEGHE",
+        "position": "Lock",
+        "dob": "27/04/1997",
+        "height": "2.03m",
+        "weight": "110kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Montpellier Hérault Rugby",
+        "league": "Top 14",
+        "value": 102000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 16,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "France",
+                "tournament": "Summer Nations Series",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "France",
+                "tournament": "Autumn Nations Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 23,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Toulouse",
+                "tournament": "Top 14",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Toulouse",
+                "tournament": "Top 14",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Toulouse",
+                "tournament": "Top 14",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "6",
+                "tournament": "2 1 3",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Toulouse",
+                "tournament": "Top 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Matthieu UHILA",
+        "position": "Lock",
+        "dob": "30/04/2002",
+        "height": "2.00m",
+        "weight": "113kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Montpellier Hérault Rugby",
+        "league": "Top 14",
+        "value": 65000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Vannes",
+                "tournament": "Challenge Cup",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "0 1 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "France U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Tyler DUGUID",
+        "position": "Lock",
+        "dob": "17/10/2000",
+        "height": "2.01m",
+        "weight": "124kg",
+        "contract": "PRO",
+        "nation": "Canada",
+        "club": "Montpellier Hérault Rugby",
+        "league": "Top 14",
+        "value": 154000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 24,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "France A",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "France",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 25,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 19,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "1",
+                "tournament": "0 1 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Montpellier",
+                "tournament": "Challenge Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "6",
+                "tournament": "3 0 3",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Alex MASIBAKA",
+        "position": "Back row",
+        "dob": "09/08/2001",
+        "height": "1.86m",
+        "weight": "115kg",
+        "contract": "PRO",
+        "nation": "Australia",
+        "club": "Montpellier Hérault Rugby",
+        "league": "Top 14",
+        "value": 194000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 26,
+                "tries": 10,
+                "points": 50
+            },
+            {
+                "season": "24/25",
+                "team": "Scotland",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 15,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "21/22",
+                "team": "Western Force",
+                "tournament": "Super Rugby Pacific",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Alexandre BÉCOGNÉE",
+        "position": "Back row",
+        "dob": "03/09/1996",
+        "height": "1.88m",
+        "weight": "108kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Montpellier Hérault Rugby",
+        "league": "Top 14",
+        "value": 65000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 23,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 21,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 20,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "22/23",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 24,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 18,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "20/21",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "France",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 26,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "17/18",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Billy VUNIPOLA",
+        "position": "Back row",
+        "dob": "03/11/1992",
+        "height": "1.91m",
+        "weight": "134kg",
+        "contract": "PRO",
+        "nation": "Australia",
+        "club": "Montpellier Hérault Rugby",
+        "league": "Top 14",
+        "value": 238000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 25,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Saracens",
+                "tournament": "Premiership",
+                "matches": 15,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "England",
+                "tournament": "Summer Nations Series",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Saracens",
+                "tournament": "Premiership",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "6",
+                "tournament": "4 0 2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "England",
+                "tournament": "Autumn Nations Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Saracens",
+                "tournament": "Premiership",
+                "matches": 23,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "21/22",
+                "team": "6",
+                "tournament": "4 0 2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "England",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "England",
+                "tournament": "Autumn Nations Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Saracens",
+                "tournament": "Premiership",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "England",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "6",
+                "tournament": "5 0 1",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Saracens",
+                "tournament": "Premiership",
+                "matches": 10,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "18/19",
+                "team": "6",
+                "tournament": "6 0 0",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "England",
+                "tournament": "Six Nations Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Saracens",
+                "tournament": "Premiership",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "1",
+                "tournament": "0 1 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "England",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Saracens",
+                "tournament": "Premiership",
+                "matches": 13,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "16/17",
+                "team": "5",
+                "tournament": "5 0 0",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "England",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Saracens",
+                "tournament": "Premiership",
+                "matches": 10,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "15/16",
+                "team": "8",
+                "tournament": "8 0 0",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "England",
+                "tournament": "Test Matchs",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "15/16",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "5",
+                "tournament": "5 0 0",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Saracens",
+                "tournament": "Premiership",
+                "matches": 16,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "14/15",
+                "team": "8",
+                "tournament": "5 0 3",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "England",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Saracens",
+                "tournament": "Premiership",
+                "matches": 12,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "13/14",
+                "team": "9",
+                "tournament": "6 0 3",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "England",
+                "tournament": "Test Matchs",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Langi GLEESON",
+        "position": "Back row",
+        "dob": "21/07/2001",
+        "height": "1.88m",
+        "weight": "110kg",
+        "contract": "PRO",
+        "nation": "Australia",
+        "club": "Montpellier Hérault Rugby",
+        "league": "Top 14",
+        "value": 154000.0,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Waratahs",
+                "tournament": "Super Rugby Pacific",
+                "matches": 14,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "24/25",
+                "team": "Australia",
+                "tournament": "Autumn Nations Series",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Waratahs",
+                "tournament": "Super Rugby Pacific",
+                "matches": 12,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Australia",
+                "tournament": "Summer Nations Series",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Waratahs",
+                "tournament": "Super Rugby Pacific",
+                "matches": 11,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "22/23",
+                "team": "Australia",
+                "tournament": "Autumn Nations Series",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Waratahs",
+                "tournament": "Super Rugby Pacific",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Australia A",
+                "tournament": "Pacific Nations Cup",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Lenni NOUCHI",
+        "position": "Back row",
+        "dob": "24/11/2003",
+        "height": "1.94m",
+        "weight": "108kg",
+        "contract": "ACADEMY",
+        "nation": "France",
+        "club": "Montpellier Hérault Rugby",
+        "league": "Top 14",
+        "value": 120000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 7,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "24/25",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 22,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 19,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "France",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "France U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 5,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "22/23",
+                "team": "5",
+                "tournament": "5 0 0",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Marco TAULEIGNE",
+        "position": "Back row",
+        "dob": "30/08/1993",
+        "height": "1.91m",
+        "weight": "118kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Montpellier Hérault Rugby",
+        "league": "Top 14",
+        "value": 126000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 13,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "7",
+                "tournament": "5 1 1",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "France A",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "France",
+                "tournament": "Six Nations Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 22,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "6",
+                "tournament": "3 0 3",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "15/16",
+                "team": "6",
+                "tournament": "3 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Bordeaux",
+                "tournament": "Challenge Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Yacouba CAMARA",
+        "position": "Back row",
+        "dob": "02/06/1994",
+        "height": "1.95m",
+        "weight": "112kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Montpellier Hérault Rugby",
+        "league": "Top 14",
+        "value": 168000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 23,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 19,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 16,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "3",
+                "tournament": "1 1 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 19,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "4",
+                "tournament": "4 0 0",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "France",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "France",
+                "tournament": "Six Nations Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "4",
+                "tournament": "0 0 4",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "France",
+                "tournament": "Six Nations Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Toulouse",
+                "tournament": "Top 14",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "France",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Toulouse",
+                "tournament": "Top 14",
+                "matches": 19,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "15/16",
+                "team": "4",
+                "tournament": "0 0 4",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "France",
+                "tournament": "Six Nations Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Toulouse",
+                "tournament": "Top 14",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Toulouse",
+                "tournament": "Top 14",
+                "matches": 20,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "13/14",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Alexis BERNADET",
+        "position": "Scrum-half",
+        "dob": "02/06/2001",
+        "height": "1.80m",
+        "weight": "79kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Montpellier Hérault Rugby",
+        "league": "Top 14",
+        "value": 100000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 7,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 9,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Montauban",
+                "tournament": "Pro D2",
+                "matches": 27,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "22/23",
+                "team": "Montauban",
+                "tournament": "Pro D2",
+                "matches": 20,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Montauban",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Ali PRICE",
+        "position": "Scrum-half",
+        "dob": "12/05/1993",
+        "height": "1.77m",
+        "weight": "88kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Montpellier Hérault Rugby",
+        "league": "Top 14",
+        "value": 168000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Edinburgh",
+                "tournament": "United Rugby Championship",
+                "matches": 18,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "6",
+                "tournament": "5 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Scotland",
+                "tournament": "Autumn Nations Series",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Edinburgh",
+                "tournament": "United Rugby Championship",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Scotland",
+                "tournament": "Summer Nations Series",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Glasgow",
+                "tournament": "United Rugby Championship",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "5",
+                "tournament": "3 1 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Scotland",
+                "tournament": "Autumn Nations Series",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Glasgow",
+                "tournament": "United Rugby Championship",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Scotland",
+                "tournament": "Autumn Nations Series",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Glasgow",
+                "tournament": "Pro 14",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Scotland",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Lions",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Glasgow",
+                "tournament": "Champions Cup",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Scotland",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Glasgow",
+                "tournament": "Pro 14",
+                "matches": 13,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "18/19",
+                "team": "7",
+                "tournament": "4 0 3",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Scotland",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "5",
+                "tournament": "1 1 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Glasgow",
+                "tournament": "Pro 14",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "6",
+                "tournament": "1 0 5",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Scotland",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Glasgow",
+                "tournament": "Pro 12",
+                "matches": 15,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "16/17",
+                "team": "7",
+                "tournament": "4 0 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Scotland",
+                "tournament": "Test Matchs",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Glasgow",
+                "tournament": "Pro 12",
+                "matches": 11,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "15/16",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Glasgow",
+                "tournament": "Pro 12",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Léo COLY",
+        "position": "Scrum-half",
+        "dob": "09/09/1999",
+        "height": "1.75m",
+        "weight": "79kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Montpellier Hérault Rugby",
+        "league": "Top 14",
+        "value": 148000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 19,
+                "tries": 3,
+                "points": 99
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 19,
+                "tries": 0,
+                "points": 21
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 16,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "22/23",
+                "team": "5",
+                "tournament": "1 2 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 26,
+                "tries": 11,
+                "points": 308
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 3,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Barbarians FR",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 1,
+                "points": 26
+            },
+            {
+                "season": "19/20",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 0,
+                "points": 67
+            },
+            {
+                "season": "18/19",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "France U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "4",
+                "tournament": "4 0 0",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Domingo MIOTTI",
+        "position": "Fly-half",
+        "dob": "22/05/1996",
+        "height": "1.88m",
+        "weight": "93kg",
+        "contract": "PRO",
+        "nation": "Argentina",
+        "club": "Montpellier Hérault Rugby",
+        "league": "Top 14",
+        "value": 164000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 7,
+                "tries": 1,
+                "points": 67
+            },
+            {
+                "season": "24/25",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 4,
+                "tries": 0,
+                "points": 24
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Oyonnax",
+                "tournament": "Top 14",
+                "matches": 20,
+                "tries": 0,
+                "points": 164
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Glasgow",
+                "tournament": "United Rugby Championship",
+                "matches": 11,
+                "tries": 2,
+                "points": 36
+            },
+            {
+                "season": "22/23",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Glasgow",
+                "tournament": "United Rugby Championship",
+                "matches": 6,
+                "tries": 0,
+                "points": 3
+            },
+            {
+                "season": "21/22",
+                "team": "Argentina",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Western Force",
+                "tournament": "Super Rugby AU",
+                "matches": 5,
+                "tries": 0,
+                "points": 46
+            },
+            {
+                "season": "20/21",
+                "team": "5",
+                "tournament": "0 0 5",
+                "matches": 2,
+                "tries": 3,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Argentina",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 2
+            },
+            {
+                "season": "20/21",
+                "team": "5",
+                "tournament": "0 0 5",
+                "matches": 1,
+                "tries": 1,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Jaguares",
+                "tournament": "Super Rugby",
+                "matches": 6,
+                "tries": 1,
+                "points": 46
+            },
+            {
+                "season": "19/20",
+                "team": "Argentina",
+                "tournament": "Tri Nations",
+                "matches": 1,
+                "tries": 0,
+                "points": 8
+            },
+            {
+                "season": "18/19",
+                "team": "Jaguares",
+                "tournament": "Super Rugby",
+                "matches": 12,
+                "tries": 2,
+                "points": 63
+            }
+        ]
+    },
+    {
+        "name": "Hugo REUS",
+        "position": "Fly-half",
+        "dob": "21/02/2004",
+        "height": "1.84m",
+        "weight": "85kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Montpellier Hérault Rugby",
+        "league": "Top 14",
+        "value": 142000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 5,
+                "tries": 0,
+                "points": 11
+            },
+            {
+                "season": "24/25",
+                "team": "La Rochelle",
+                "tournament": "Top 14",
+                "matches": 6,
+                "tries": 0,
+                "points": 12
+            },
+            {
+                "season": "24/25",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 7,
+                "tries": 0,
+                "points": 25
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 1,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "La Rochelle",
+                "tournament": "Top 14",
+                "matches": 15,
+                "tries": 0,
+                "points": 103
+            },
+            {
+                "season": "23/24",
+                "team": "France U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 11
+            },
+            {
+                "season": "23/24",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 5,
+                "tries": 7,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "La Rochelle",
+                "tournament": "Top 14",
+                "matches": 6,
+                "tries": 0,
+                "points": 35
+            },
+            {
+                "season": "22/23",
+                "team": "France U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 31
+            },
+            {
+                "season": "22/23",
+                "team": "5",
+                "tournament": "5 0 0",
+                "matches": 4,
+                "tries": 2,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Thomas VINCENT",
+        "position": "Fly-half",
+        "dob": "21/07/1999",
+        "height": "1.85m",
+        "weight": "85kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Montpellier Hérault Rugby",
+        "league": "Top 14",
+        "value": 114000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 5,
+                "tries": 0,
+                "points": 14
+            },
+            {
+                "season": "24/25",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 11,
+                "tries": 0,
+                "points": 37
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Agen",
+                "tournament": "Pro D2",
+                "matches": 22,
+                "tries": 4,
+                "points": 209
+            },
+            {
+                "season": "22/23",
+                "team": "Agen",
+                "tournament": "Pro D2",
+                "matches": 23,
+                "tries": 1,
+                "points": 166
+            },
+            {
+                "season": "21/22",
+                "team": "Agen",
+                "tournament": "Pro D2",
+                "matches": 16,
+                "tries": 0,
+                "points": 104
+            },
+            {
+                "season": "20/21",
+                "team": "Aurillac",
+                "tournament": "Pro D2",
+                "matches": 23,
+                "tries": 4,
+                "points": 158
+            },
+            {
+                "season": "19/20",
+                "team": "Agen",
+                "tournament": "Top 14",
+                "matches": 3,
+                "tries": 0,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 2,
+                "tries": 2,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Agen",
+                "tournament": "Top 14",
+                "matches": 4,
+                "tries": 0,
+                "points": 2
+            },
+            {
+                "season": "18/19",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "France U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Agen",
+                "tournament": "Top 14",
+                "matches": 9,
+                "tries": 0,
+                "points": 18
+            }
+        ]
+    },
+    {
+        "name": "Arthur VINCENT",
+        "position": "Centre",
+        "dob": "30/09/1999",
+        "height": "1.83m",
+        "weight": "92kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Montpellier Hérault Rugby",
+        "league": "Top 14",
+        "value": 136000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 23,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 19,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "France",
+                "tournament": "Summer Nations Series",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "France Développement",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 7,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "20/21",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 15,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "France",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "France",
+                "tournament": "Six Nations Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "France U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Auguste CADOT",
+        "position": "Centre",
+        "dob": "28/07/2001",
+        "height": "1.81m",
+        "weight": "92kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Montpellier Hérault Rugby",
+        "league": "Top 14",
+        "value": 129000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 20,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 11,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Biarritz",
+                "tournament": "Pro D2",
+                "matches": 24,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "21/22",
+                "team": "Biarritz",
+                "tournament": "Top 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Justo PICCARDO",
+        "position": "Centre",
+        "dob": "25/03/2002",
+        "height": "1.83m",
+        "weight": "112kg",
+        "contract": "PRO",
+        "nation": "Argentina",
+        "club": "Montpellier Hérault Rugby",
+        "league": "Top 14",
+        "value": 134000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "25/26",
+                "team": "Argentina",
+                "tournament": "Autumn Nations Series",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Argentina",
+                "tournament": "Autumn Nations Series",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Argentina U20",
+                "tournament": "Oceania Rugby U20 Championship",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Karl MARTIN",
+        "position": "Centre",
+        "dob": "16/02/2002",
+        "height": "1.89m",
+        "weight": "100kg",
+        "contract": "PRO",
+        "nation": "Ireland",
+        "club": "Montpellier Hérault Rugby",
+        "league": "Top 14",
+        "value": 75000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Aurillac",
+                "tournament": "Pro D2",
+                "matches": 26,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "22/23",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Montpellier",
+                "tournament": "Champions Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Lennox ANYANWU",
+        "position": "Centre",
+        "dob": "29/11/2000",
+        "height": "1.82m",
+        "weight": "102kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Montpellier Hérault Rugby",
+        "league": "Top 14",
+        "value": 177000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Harlequins",
+                "tournament": "Premiership",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Harlequins",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "6",
+                "tournament": "6 0 0",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Harlequins",
+                "tournament": "Premiership",
+                "matches": 8,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "London Scottish",
+                "tournament": "RFU Championship",
+                "matches": 7,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "Harlequins",
+                "tournament": "Premiership",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Harlequins",
+                "tournament": "Premiership",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Thomas DARMON",
+        "position": "Centre",
+        "dob": "12/05/1998",
+        "height": "1.81m",
+        "weight": "90kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Montpellier Hérault Rugby",
+        "league": "Top 14",
+        "value": 98000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 15,
+                "tries": 2,
+                "points": 17
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 23,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "22/23",
+                "team": "5",
+                "tournament": "1 2 2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 17,
+                "tries": 0,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 2,
+                "tries": 1,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Donovan TAOFIFENUA",
+        "position": "Winger",
+        "dob": "30/03/1999",
+        "height": "1.79m",
+        "weight": "84kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Montpellier Hérault Rugby",
+        "league": "Top 14",
+        "value": 123000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Racing 92",
+                "tournament": "Top 14",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Racing 92",
+                "tournament": "Top 14",
+                "matches": 11,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "22/23",
+                "team": "Racing 92",
+                "tournament": "Top 14",
+                "matches": 16,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Racing 92",
+                "tournament": "Top 14",
+                "matches": 20,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "20/21",
+                "team": "Racing 92",
+                "tournament": "Top 14",
+                "matches": 21,
+                "tries": 10,
+                "points": 50
+            },
+            {
+                "season": "20/21",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Clermont",
+                "tournament": "Top 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "France U20",
+                "tournament": "U20 Championship",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Gabriel N'GANDEBE",
+        "position": "Winger",
+        "dob": "30/03/1997",
+        "height": "1.74m",
+        "weight": "77kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Montpellier Hérault Rugby",
+        "league": "Top 14",
+        "value": 65000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 7,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "24/25",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 14,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 14,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 13,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "22/23",
+                "team": "1",
+                "tournament": "0 1 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 18,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 17,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 13,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "19/20",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 14,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "18/19",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 11,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "17/18",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Madosh TAMBWE",
+        "position": "Winger",
+        "dob": "12/05/1997",
+        "height": "1.86m",
+        "weight": "94kg",
+        "contract": "PRO",
+        "nation": "Congo",
+        "club": "Montpellier Hérault Rugby",
+        "league": "Top 14",
+        "value": 148000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 12,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 14,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 16,
+                "tries": 9,
+                "points": 45
+            },
+            {
+                "season": "22/23",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Bulls",
+                "tournament": "United Rugby Championship",
+                "matches": 20,
+                "tries": 8,
+                "points": 40
+            },
+            {
+                "season": "20/21",
+                "team": "Bulls",
+                "tournament": "Rainbow Cup SA",
+                "matches": 6,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "20/21",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Sharks",
+                "tournament": "Super Rugby",
+                "matches": 6,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "19/20",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Lions",
+                "tournament": "Super Rugby",
+                "matches": 7,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "16/17",
+                "team": "Lions",
+                "tournament": "Super Rugby",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Maël MOUSTIN",
+        "position": "Winger",
+        "dob": "22/04/2003",
+        "height": "1.87m",
+        "weight": "103kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Montpellier Hérault Rugby",
+        "league": "Top 14",
+        "value": 186000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 15,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "France A",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "France U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Melvyn RATES",
+        "position": "Winger",
+        "dob": "/03/2006",
+        "height": "1.80m",
+        "weight": "84kg",
+        "contract": "ACADEMY",
+        "nation": "France",
+        "club": "Montpellier Hérault Rugby",
+        "league": "Top 14",
+        "value": 35000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "France U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Stuart HOGG",
+        "position": "Fullback",
+        "dob": "24/06/1992",
+        "height": "1.83m",
+        "weight": "93kg",
+        "contract": "PRO",
+        "nation": "Scotland",
+        "club": "Montpellier Hérault Rugby",
+        "league": "Top 14",
+        "value": 154000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 15,
+                "tries": 2,
+                "points": 106
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Exeter",
+                "tournament": "Premiership",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Scotland",
+                "tournament": "Autumn Nations Cup",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Exeter",
+                "tournament": "Premiership",
+                "matches": 15,
+                "tries": 4,
+                "points": 26
+            },
+            {
+                "season": "21/22",
+                "team": "6",
+                "tournament": "3 0 3",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Scotland",
+                "tournament": "Autumn Nations Cup",
+                "matches": 3,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Exeter",
+                "tournament": "Champions Cup",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "13",
+                "tournament": "11 0 2",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Scotland",
+                "tournament": "Autumn Nations Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Lions",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Exeter",
+                "tournament": "Premiership",
+                "matches": 13,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "19/20",
+                "team": "9",
+                "tournament": "8 1 0",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Scotland",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 5,
+                "tries": 1,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Glasgow",
+                "tournament": "Pro 14",
+                "matches": 9,
+                "tries": 1,
+                "points": 17
+            },
+            {
+                "season": "18/19",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Scotland",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Glasgow",
+                "tournament": "Champions Cup",
+                "matches": 2,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "17/18",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Scotland",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Glasgow",
+                "tournament": "Pro 12",
+                "matches": 11,
+                "tries": 5,
+                "points": 35
+            },
+            {
+                "season": "16/17",
+                "team": "7",
+                "tournament": "4 0 3",
+                "matches": 7,
+                "tries": 2,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Scotland",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "16/17",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 5,
+                "tries": 1,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Glasgow",
+                "tournament": "Pro 12",
+                "matches": 9,
+                "tries": 2,
+                "points": 13
+            },
+            {
+                "season": "15/16",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 5,
+                "tries": 1,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Scotland",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 5,
+                "tries": 1,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 5,
+                "tries": 1,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Glasgow",
+                "tournament": "Pro 12",
+                "matches": 12,
+                "tries": 5,
+                "points": 34
+            },
+            {
+                "season": "14/15",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Scotland",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "14/15",
+                "team": "5",
+                "tournament": "0 0 5",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Glasgow",
+                "tournament": "Pro 12",
+                "matches": 7,
+                "tries": 3,
+                "points": 28
+            },
+            {
+                "season": "13/14",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 4,
+                "tries": 1,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Scotland",
+                "tournament": "Six Nations Championship",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "13/14",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 4,
+                "tries": 1,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Tom BANKS",
+        "position": "Fullback",
+        "dob": "18/06/1994",
+        "height": "1.86m",
+        "weight": "93kg",
+        "contract": "PRO",
+        "nation": "Australia",
+        "club": "Montpellier Hérault Rugby",
+        "league": "Top 14",
+        "value": 168000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 9,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 13,
+                "tries": 8,
+                "points": 40
+            },
+            {
+                "season": "23/24",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 13,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "22/23",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 11,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Australia",
+                "tournament": "Autumn Nations Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Brumbies",
+                "tournament": "Super Rugby Pacific",
+                "matches": 13,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "21/22",
+                "team": "Australia",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Brumbies",
+                "tournament": "Super Rugby AU",
+                "matches": 10,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "20/21",
+                "team": "5",
+                "tournament": "1 0 4",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Australia",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Brumbies",
+                "tournament": "Super Rugby",
+                "matches": 6,
+                "tries": 4,
+                "points": 22
+            },
+            {
+                "season": "19/20",
+                "team": "8",
+                "tournament": "6 0 2",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Australia",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "3",
+                "tournament": "1 2 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Brumbies",
+                "tournament": "Super Rugby",
+                "matches": 18,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "18/19",
+                "team": "Australia",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Brumbies",
+                "tournament": "Super Rugby",
+                "matches": 16,
+                "tries": 9,
+                "points": 45
+            },
+            {
+                "season": "17/18",
+                "team": "Australia",
+                "tournament": "Rugby Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Brumbies",
+                "tournament": "Super Rugby",
+                "matches": 10,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "15/16",
+                "team": "Reds",
+                "tournament": "Super Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Reds",
+                "tournament": "Super Rugby",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    }
+]

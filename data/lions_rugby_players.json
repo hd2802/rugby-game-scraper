@@ -1,0 +1,2842 @@
+[
+    {
+        "name": "Asenathi NTLABAKANYE",
+        "position": "Prop",
+        "dob": "15/04/1999",
+        "height": "1.82m",
+        "weight": "153kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Lions Rugby",
+        "league": "URC",
+        "value": 150000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "25/26",
+                "team": "Barbarian F.C.",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "6",
+                "tournament": "3 1 2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Lions",
+                "tournament": "Rainbow Cup SA",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "South Africa U20",
+                "tournament": "U20 Championship",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Conraad VAN VUUREN",
+        "position": "Prop",
+        "dob": "04/09/1995",
+        "height": "1.83m",
+        "weight": "115kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Lions Rugby",
+        "league": "URC",
+        "value": 100000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 3,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Lions",
+                "tournament": "Challenge Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Sunwolves",
+                "tournament": "Super Rugby",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Bulls",
+                "tournament": "Super Rugby",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Bulls",
+                "tournament": "Super Rugby",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "Bulls",
+                "tournament": "Super Rugby",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Heiko POHLMANN",
+        "position": "Prop",
+        "dob": "16/01/2002",
+        "height": "1.85m",
+        "weight": "128kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Lions Rugby",
+        "league": "URC",
+        "value": 75000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Juan SCHOEMAN",
+        "position": "Prop",
+        "dob": "18/09/1991",
+        "height": "1.86m",
+        "weight": "120kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Lions Rugby",
+        "league": "URC",
+        "value": 100000.0,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Bath",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "16",
+                "tournament": "9 0 7",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Bath",
+                "tournament": "Premiership",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "1",
+                "tournament": "0 1 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Bath",
+                "tournament": "Premiership",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Bath",
+                "tournament": "Premiership",
+                "matches": 18,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Kings",
+                "tournament": "Pro 14",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Sharks",
+                "tournament": "Super Rugby",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Bath",
+                "tournament": "Premiership",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Sharks",
+                "tournament": "Super Rugby",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "Sharks",
+                "tournament": "Super Rugby",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Sharks",
+                "tournament": "Super Rugby",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Sharks",
+                "tournament": "Super Rugby",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "RF SCHOEMAN",
+        "position": "Prop",
+        "dob": "14/08/2003",
+        "height": "1.88m",
+        "weight": "122kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Lions Rugby",
+        "league": "URC",
+        "value": 125000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Seb LOMBARD",
+        "position": "Prop",
+        "dob": "07/10/2002",
+        "height": "1.90m",
+        "weight": "126kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Lions Rugby",
+        "league": "URC",
+        "value": 75000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Bulls",
+                "tournament": "Champions Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Bulls",
+                "tournament": "Champions Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "South Africa U20",
+                "tournament": "U20 Summer Series",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Franco MARAIS",
+        "position": "Hooker",
+        "dob": "23/09/1992",
+        "height": "1.85m",
+        "weight": "108kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Lions Rugby",
+        "league": "URC",
+        "value": 105000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 9,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Urayasu",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 6,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Urayasu",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 7,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "22/23",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Red Hurricanes",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Gloucester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "17",
+                "tournament": "6 0 11",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Gloucester",
+                "tournament": "Premiership",
+                "matches": 16,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Sharks",
+                "tournament": "Super Rugby",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Sharks",
+                "tournament": "Super Rugby",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Sharks",
+                "tournament": "Super Rugby",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Sharks",
+                "tournament": "Super Rugby",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Sharks",
+                "tournament": "Super Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Morné BRANDON",
+        "position": "Hooker",
+        "dob": "25/11/2000",
+        "height": "1.84m",
+        "weight": "106kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Lions Rugby",
+        "league": "URC",
+        "value": 100000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 5,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "24/25",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Lions",
+                "tournament": "Challenge Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Lions",
+                "tournament": "Rainbow Cup SA",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "PJ BOTHA",
+        "position": "Hooker",
+        "dob": "20/01/1998",
+        "height": "1.81m",
+        "weight": "105kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Lions Rugby",
+        "league": "URC",
+        "value": 850000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 16,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 17,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 18,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "5",
+                "tournament": "2 1 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 18,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Lions",
+                "tournament": "Rainbow Cup SA",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "Lions",
+                "tournament": "Super Rugby Unlocked",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "SJ KOTZE",
+        "position": "Hooker",
+        "dob": "02/01/2003",
+        "height": "1.86m",
+        "weight": "110kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Lions Rugby",
+        "league": "URC",
+        "value": 75000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Lions",
+                "tournament": "Challenge Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "South Africa U20",
+                "tournament": "U20 Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Darrien LANDSBERG",
+        "position": "Lock",
+        "dob": "26/07/1998",
+        "height": "1.96m",
+        "weight": "111kg",
+        "contract": "PRO",
+        "nation": "Zimbabwe",
+        "club": "Lions Rugby",
+        "league": "URC",
+        "value": 125000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "4",
+                "tournament": "2 1 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Pumas",
+                "tournament": "Super Rugby Unlocked",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Dylan SJOBLOM",
+        "position": "Lock",
+        "dob": "08/08/2000",
+        "height": "2.00m",
+        "weight": "115kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Lions Rugby",
+        "league": "URC",
+        "value": 100000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Stormers",
+                "tournament": "Champions Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Etienne OOSTHUIZEN",
+        "position": "Lock",
+        "dob": "22/12/1992",
+        "height": "1.98m",
+        "weight": "128kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Lions Rugby",
+        "league": "URC",
+        "value": 100000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Lions",
+                "tournament": "Challenge Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Lions",
+                "tournament": "Challenge Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Lyon",
+                "tournament": "Top 14",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "4",
+                "tournament": "0 0 4",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Lyon",
+                "tournament": "Top 14",
+                "matches": 16,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "18/19",
+                "team": "4",
+                "tournament": "0 0 4",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Lyon",
+                "tournament": "Top 14",
+                "matches": 24,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Sharks",
+                "tournament": "Super Rugby",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "15/16",
+                "team": "Sharks",
+                "tournament": "Super Rugby",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Sharks",
+                "tournament": "Super Rugby",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Sharks",
+                "tournament": "Super Rugby",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Reinhard NOTHNAGEL",
+        "position": "Lock",
+        "dob": "25/09/1997",
+        "height": "2.02m",
+        "weight": "117kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Lions Rugby",
+        "league": "URC",
+        "value": 100000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "3",
+                "tournament": "2 1 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Lions",
+                "tournament": "Rainbow Cup SA",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Lions",
+                "tournament": "Super Rugby Unlocked",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "Lions",
+                "tournament": "Super Rugby",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Ruan VENTER",
+        "position": "Lock",
+        "dob": "29/11/2002",
+        "height": "1.98m",
+        "weight": "120kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Lions Rugby",
+        "league": "URC",
+        "value": 245000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 12,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "4",
+                "tournament": "2 1 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "South Africa U20",
+                "tournament": "U20 Summer Series",
+                "matches": 4,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Siba QOMA",
+        "position": "Lock",
+        "dob": "17/02/1997",
+        "height": "1.90m",
+        "weight": "108kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Lions Rugby",
+        "league": "URC",
+        "value": 150000.0,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Cheetahs",
+                "tournament": "Challenge Cup",
+                "matches": 4,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Cheetahs",
+                "tournament": "Challenge Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Francke HORN",
+        "position": "Back row",
+        "dob": "24/05/1999",
+        "height": "1.90m",
+        "weight": "106kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Lions Rugby",
+        "league": "URC",
+        "value": 470000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 15,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 18,
+                "tries": 8,
+                "points": 40
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 12,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 16,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "20/21",
+                "team": "Lions",
+                "tournament": "Rainbow Cup SA",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "South Africa U20",
+                "tournament": "U20 Championship",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Jarod CAIRNS",
+        "position": "Back row",
+        "dob": "18/05/2001",
+        "height": "1.88m",
+        "weight": "100kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Lions Rugby",
+        "league": "URC",
+        "value": 150000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 16,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "JC PRETORIUS",
+        "position": "Back row",
+        "dob": "29/01/1998",
+        "height": "1.86m",
+        "weight": "92kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Lions Rugby",
+        "league": "URC",
+        "value": 850000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 15,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 16,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Lions",
+                "tournament": "Challenge Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Renzo DU PLESSIS",
+        "position": "Back row",
+        "dob": "12/07/2002",
+        "height": "1.88m",
+        "weight": "108kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Lions Rugby",
+        "league": "URC",
+        "value": 155000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Ruan DELPORT",
+        "position": "Back row",
+        "dob": "03/07/2002",
+        "height": "2.00m",
+        "weight": "109kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Lions Rugby",
+        "league": "URC",
+        "value": 150000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "WJ STEENKAMP",
+        "position": "Back row",
+        "dob": "28/09/2000",
+        "height": "1.90m",
+        "weight": "107kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Lions Rugby",
+        "league": "URC",
+        "value": 105000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Bulls",
+                "tournament": "United Rugby Championship",
+                "matches": 8,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Bulls",
+                "tournament": "United Rugby Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Hassiem PEAD",
+        "position": "Scrum-half",
+        "dob": "/07/2005",
+        "height": "1.75m",
+        "weight": "77kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Lions Rugby",
+        "league": "URC",
+        "value": 100000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "South Africa U20",
+                "tournament": "Rugby Championship U20",
+                "matches": 2,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "5",
+                "tournament": "5 0 0",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "South Africa U20",
+                "tournament": "Rugby Championship U20",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Layton HORN",
+        "position": "Scrum-half",
+        "dob": "21/05/2003",
+        "height": "1.83m",
+        "weight": "82kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Lions Rugby",
+        "league": "URC",
+        "value": 100000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Morné VAN DEN BERG",
+        "position": "Scrum-half",
+        "dob": "24/10/1997",
+        "height": "1.75m",
+        "weight": "82kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Lions Rugby",
+        "league": "URC",
+        "value": 207000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 13,
+                "tries": 1,
+                "points": 7
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 18,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 18,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "20/21",
+                "team": "Lions",
+                "tournament": "Rainbow Cup SA",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Lions",
+                "tournament": "Super Rugby",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "5",
+                "tournament": "1 0 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Nico STEYN",
+        "position": "Scrum-half",
+        "dob": "12/04/2002",
+        "height": "1.77m",
+        "weight": "78kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Lions Rugby",
+        "league": "URC",
+        "value": 110000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 14,
+                "tries": 1,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Lions",
+                "tournament": "Challenge Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "South Africa U20",
+                "tournament": "U20 Summer Series",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Chris SMITH",
+        "position": "Fly-half",
+        "dob": "09/09/1994",
+        "height": "1.81m",
+        "weight": "90kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Lions Rugby",
+        "league": "URC",
+        "value": 328000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 25
+            },
+            {
+                "season": "24/25",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 25,
+                "tries": 1,
+                "points": 135
+            },
+            {
+                "season": "23/24",
+                "team": "Bulls",
+                "tournament": "United Rugby Championship",
+                "matches": 15,
+                "tries": 1,
+                "points": 68
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 2,
+                "tries": 4,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Bulls",
+                "tournament": "United Rugby Championship",
+                "matches": 18,
+                "tries": 1,
+                "points": 129
+            },
+            {
+                "season": "22/23",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 2,
+                "tries": 4,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Bulls",
+                "tournament": "United Rugby Championship",
+                "matches": 21,
+                "tries": 1,
+                "points": 153
+            },
+            {
+                "season": "20/21",
+                "team": "Bulls",
+                "tournament": "Rainbow Cup SA",
+                "matches": 5,
+                "tries": 3,
+                "points": 35
+            },
+            {
+                "season": "20/21",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 1,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Bulls",
+                "tournament": "Super Rugby Unlocked",
+                "matches": 6,
+                "tries": 1,
+                "points": 14
+            }
+        ]
+    },
+    {
+        "name": "Gianni LOMBARD",
+        "position": "Fly-half",
+        "dob": "22/01/1998",
+        "height": "1.78m",
+        "weight": "82kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Lions Rugby",
+        "league": "URC",
+        "value": 200000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 6
+            },
+            {
+                "season": "24/25",
+                "team": "Lions",
+                "tournament": "Challenge Cup",
+                "matches": 2,
+                "tries": 1,
+                "points": 9
+            },
+            {
+                "season": "24/25",
+                "team": "7",
+                "tournament": "2 0 5",
+                "matches": 6,
+                "tries": 5,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Lions",
+                "tournament": "Challenge Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 17,
+                "tries": 1,
+                "points": 56
+            },
+            {
+                "season": "22/23",
+                "team": "4",
+                "tournament": "1 1 2",
+                "matches": 4,
+                "tries": 1,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Red Hurricanes",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 8
+            },
+            {
+                "season": "19/20",
+                "team": "Lions",
+                "tournament": "Super Rugby Unlocked",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Lions",
+                "tournament": "Super Rugby",
+                "matches": 6,
+                "tries": 0,
+                "points": 3
+            }
+        ]
+    },
+    {
+        "name": "Lubabalo DOBELA",
+        "position": "Fly-half",
+        "dob": "02/05/1998",
+        "height": "1.75m",
+        "weight": "80kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Lions Rugby",
+        "league": "URC",
+        "value": 207000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 12
+            },
+            {
+                "season": "24/25",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 4,
+                "tries": 1,
+                "points": 13
+            }
+        ]
+    },
+    {
+        "name": "Sam FRANCIS",
+        "position": "Fly-half",
+        "dob": "14/03/2003",
+        "height": "1.90m",
+        "weight": "100kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Lions Rugby",
+        "league": "URC",
+        "value": 850000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Lions",
+                "tournament": "Challenge Cup",
+                "matches": 4,
+                "tries": 1,
+                "points": 18
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 4,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "South Africa U20",
+                "tournament": "U20 Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Bronson MILLS",
+        "position": "Centre",
+        "dob": "08/08/2003",
+        "height": "1.85m",
+        "weight": "95kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Lions Rugby",
+        "league": "URC",
+        "value": 150000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Henco VAN WYK",
+        "position": "Centre",
+        "dob": "07/05/2001",
+        "height": "1.80m",
+        "weight": "92kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Lions Rugby",
+        "league": "URC",
+        "value": 290000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 12,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 12,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 9,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "22/23",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Kelly MPEKU",
+        "position": "Centre",
+        "dob": "28/11/2003",
+        "height": "1.88m",
+        "weight": "88kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Lions Rugby",
+        "league": "URC",
+        "value": 150000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Lions",
+                "tournament": "Challenge Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Manuel RASS",
+        "position": "Centre",
+        "dob": "19/04/1998",
+        "height": "1.74m",
+        "weight": "88kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Lions Rugby",
+        "league": "URC",
+        "value": 150000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Lions",
+                "tournament": "Challenge Cup",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "8",
+                "tournament": "2 0 6",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Lions",
+                "tournament": "Rainbow Cup SA",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Lions",
+                "tournament": "Super Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Rynhardt JONKER",
+        "position": "Centre",
+        "dob": "18/04/2000",
+        "height": "1.80m",
+        "weight": "90kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Lions Rugby",
+        "league": "URC",
+        "value": 150000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Lions",
+                "tournament": "Challenge Cup",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "7",
+                "tournament": "4 0 3",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Angelo DAVIDS",
+        "position": "Winger",
+        "dob": "01/06/1999",
+        "height": "1.78m",
+        "weight": "94kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Lions Rugby",
+        "league": "URC",
+        "value": 207000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Stormers",
+                "tournament": "United Rugby Championship",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Stormers",
+                "tournament": "United Rugby Championship",
+                "matches": 7,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Stormers",
+                "tournament": "United Rugby Championship",
+                "matches": 14,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "22/23",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Stormers",
+                "tournament": "United Rugby Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Stormers",
+                "tournament": "Super Rugby Unlocked",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "South Africa U20",
+                "tournament": "U20 Championship",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Eduan KEYTER",
+        "position": "Winger",
+        "dob": "13/06/1996",
+        "height": "1.84m",
+        "weight": "101kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Lions Rugby",
+        "league": "URC",
+        "value": 215000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 3,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Sharks",
+                "tournament": "Challenge Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "5",
+                "tournament": "1 0 4",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Griquas",
+                "tournament": "Super Rugby Unlocked",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Quan HORN",
+        "position": "Fullback",
+        "dob": "27/06/2001",
+        "height": "1.81m",
+        "weight": "84kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Lions Rugby",
+        "league": "URC",
+        "value": 370000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 15,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 17,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 18,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "22/23",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Richard KRIEL",
+        "position": "Fullback",
+        "dob": "07/07/2000",
+        "height": "1.94m",
+        "weight": "95kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Lions Rugby",
+        "league": "URC",
+        "value": 238000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 13,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 16,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 11,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Bulls",
+                "tournament": "United Rugby Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Tapiwa MAFURA",
+        "position": "Fullback",
+        "dob": "11/04/1996",
+        "height": "1.75m",
+        "weight": "80kg",
+        "contract": "PRO",
+        "nation": "Zimbabwe",
+        "club": "Lions Rugby",
+        "league": "URC",
+        "value": 200000.0,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Lions",
+                "tournament": "United Rugby Championship",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Cheetahs",
+                "tournament": "Challenge Cup",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Cheetahs",
+                "tournament": "Challenge Cup",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Pumas",
+                "tournament": "Super Rugby Unlocked",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    }
+]

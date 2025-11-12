@@ -1,0 +1,2766 @@
+[
+    {
+        "name": "Alexis DECAUX",
+        "position": "Prop",
+        "dob": "19/10/2000",
+        "height": "1.87m",
+        "weight": "114kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Du Rouen Normandie Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Blagnac",
+                "tournament": "Nationale",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Blagnac",
+                "tournament": "Nationale",
+                "matches": 22,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "Castres",
+                "tournament": "Challenge Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Castres",
+                "tournament": "Top 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Diego ARBELO",
+        "position": "Prop",
+        "dob": "19/08/1994",
+        "height": "1.88m",
+        "weight": "122kg",
+        "contract": "PRO",
+        "nation": "Uruguay",
+        "club": "Du Rouen Normandie Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Uruguay",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Uruguay",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Uruguay",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Uruguay",
+                "tournament": "Rugby World Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Ewan CLÉMENT",
+        "position": "Prop",
+        "dob": "29/07/2001",
+        "height": "1.80m",
+        "weight": "115kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Du Rouen Normandie Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Nicolas LEMAIRE",
+        "position": "Prop",
+        "dob": "26/08/1995",
+        "height": "1.90m",
+        "weight": "130kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Du Rouen Normandie Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Nice",
+                "tournament": "Nationale",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Nice",
+                "tournament": "Nationale",
+                "matches": 22,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "20/21",
+                "team": "Béziers",
+                "tournament": "Pro D2",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Perpignan",
+                "tournament": "Pro D2",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "Perpignan",
+                "tournament": "Top 14",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Perpignan",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Soso BEKOSHVILI",
+        "position": "Prop",
+        "dob": "03/11/1993",
+        "height": "1.82m",
+        "weight": "122kg",
+        "contract": "PRO",
+        "nation": "Georgia",
+        "club": "Du Rouen Normandie Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 28,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Carcassonne",
+                "tournament": "Pro D2",
+                "matches": 21,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Georgia",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "6",
+                "tournament": "4 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Georgia",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Soulemane CAMARA",
+        "position": "Prop",
+        "dob": "04/04/1999",
+        "height": "1.86m",
+        "weight": "126kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Du Rouen Normandie Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 23,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Chambéry",
+                "tournament": "Nationale",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Paris",
+                "tournament": "Challenge Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Paris",
+                "tournament": "Challenge Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Germán KESSLER",
+        "position": "Hooker",
+        "dob": "01/07/1994",
+        "height": "1.83m",
+        "weight": "113kg",
+        "contract": "PRO",
+        "nation": "Uruguay",
+        "club": "Du Rouen Normandie Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "25/26",
+                "team": "Uruguay",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Uruguay",
+                "tournament": "Test Matchs",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Montauban",
+                "tournament": "Pro D2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Uruguay",
+                "tournament": "Test Matchs",
+                "matches": 5,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Aix",
+                "tournament": "Pro D2",
+                "matches": 22,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "22/23",
+                "team": "Uruguay",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Aix",
+                "tournament": "Pro D2",
+                "matches": 21,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "Uruguay",
+                "tournament": "Autumn Nations Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 23,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "19/20",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Uruguay",
+                "tournament": "Rugby World Cup",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "15/16",
+                "team": "Uruguay",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Lucas POISSON",
+        "position": "Hooker",
+        "dob": "06/05/2002",
+        "height": "1.80m",
+        "weight": "109kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Du Rouen Normandie Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 7,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Mathieu BONNOT",
+        "position": "Hooker",
+        "dob": "27/07/1994",
+        "height": "1.76m",
+        "weight": "98kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Du Rouen Normandie Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 24,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 25,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 20,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "19/20",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Massy",
+                "tournament": "Pro D2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Corentin VERNET",
+        "position": "Lock",
+        "dob": "27/09/1996",
+        "height": "2.00m",
+        "weight": "127kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Du Rouen Normandie Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Agen",
+                "tournament": "Pro D2",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Agen",
+                "tournament": "Pro D2",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Agen",
+                "tournament": "Pro D2",
+                "matches": 21,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Agen",
+                "tournament": "Top 14",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Toulon",
+                "tournament": "Top 14",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Toulon",
+                "tournament": "Top 14",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Toulon",
+                "tournament": "Top 14",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "JC ASTLE",
+        "position": "Lock",
+        "dob": "30/08/1990",
+        "height": "2.00m",
+        "weight": "115kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Du Rouen Normandie Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 20,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 18,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 18,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Kings",
+                "tournament": "Pro 14",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Kings",
+                "tournament": "Pro 14",
+                "matches": 21,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 18,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "15/16",
+                "team": "Kings",
+                "tournament": "Super Rugby",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Jean LELEU",
+        "position": "Lock",
+        "dob": "05/08/1999",
+        "height": "2.00m",
+        "weight": "113kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Du Rouen Normandie Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 22,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 26,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 23,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Octave LELEU",
+        "position": "Lock",
+        "dob": "06/03/2003",
+        "height": "2.00m",
+        "weight": "115kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Du Rouen Normandie Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Pierce PHILLIPS",
+        "position": "Lock",
+        "dob": "06/10/1992",
+        "height": "2.03m",
+        "weight": "120kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Du Rouen Normandie Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Grenoble",
+                "tournament": "Pro D2",
+                "matches": 23,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Grenoble",
+                "tournament": "Pro D2",
+                "matches": 29,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Edinburgh",
+                "tournament": "United Rugby Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Edinburgh",
+                "tournament": "United Rugby Championship",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Agen",
+                "tournament": "Top 14",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Agen",
+                "tournament": "Top 14",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "6",
+                "tournament": "0 0 6",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Worcester",
+                "tournament": "Premiership",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Worcester",
+                "tournament": "Premiership",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "6",
+                "tournament": "2 1 3",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Will WITTY",
+        "position": "Lock",
+        "dob": "24/02/1995",
+        "height": "2.00m",
+        "weight": "120kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Du Rouen Normandie Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 25,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Perpignan",
+                "tournament": "Top 14",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Exeter",
+                "tournament": "Premiership",
+                "matches": 12,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Exeter",
+                "tournament": "Premiership",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Exeter",
+                "tournament": "Champions Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "6",
+                "tournament": "3 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 21,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "6",
+                "tournament": "5 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Newcastle",
+                "tournament": "Challenge Cup",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "15/16",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Newcastle",
+                "tournament": "Challenge Cup",
+                "matches": 3,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Abdelkarim FOFANA",
+        "position": "Back row",
+        "dob": "16/02/1996",
+        "height": "1.86m",
+        "weight": "118kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Du Rouen Normandie Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 20,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 14,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 24,
+                "tries": 3,
+                "points": 15
+            }
+        ]
+    },
+    {
+        "name": "Julien RUAUD",
+        "position": "Back row",
+        "dob": "07/12/1997",
+        "height": "1.97m",
+        "weight": "120kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Du Rouen Normandie Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 20,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Grenoble",
+                "tournament": "Pro D2",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Grenoble",
+                "tournament": "Pro D2",
+                "matches": 14,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "Clermont",
+                "tournament": "Top 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Clermont",
+                "tournament": "Challenge Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Clermont",
+                "tournament": "Top 14",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Clermont",
+                "tournament": "Top 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Lucas COSTA",
+        "position": "Back row",
+        "dob": "09/10/2001",
+        "height": "1.87m",
+        "weight": "102kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Du Rouen Normandie Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 7,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "24/25",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 13,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 22,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "22/23",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 21,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Tienie BURGER",
+        "position": "Back row",
+        "dob": "01/11/1993",
+        "height": "1.93m",
+        "weight": "111kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Du Rouen Normandie Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 12,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 18,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 16,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Kings",
+                "tournament": "Pro 14",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "Kings",
+                "tournament": "Pro 14",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "Kings",
+                "tournament": "Pro 14",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "14/15",
+                "team": "Cheetahs",
+                "tournament": "Super Rugby",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Willy N'DIAYE",
+        "position": "Back row",
+        "dob": "10/09/1997",
+        "height": "1.83m",
+        "weight": "108kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Du Rouen Normandie Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 24,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 24,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 25,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "20/21",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Florent CAMPEGGIA",
+        "position": "Scrum-half",
+        "dob": "24/04/1995",
+        "height": "1.71m",
+        "weight": "74kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Du Rouen Normandie Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 9,
+                "tries": 0,
+                "points": 2
+            },
+            {
+                "season": "24/25",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 21,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "23/24",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 26,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 25,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Pro D2",
+                "matches": 22,
+                "tries": 3,
+                "points": 30
+            },
+            {
+                "season": "19/20",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 18,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "Bourgoin",
+                "tournament": "Pro D2",
+                "matches": 23,
+                "tries": 0,
+                "points": 38
+            }
+        ]
+    },
+    {
+        "name": "Ilan EL KHATTABI",
+        "position": "Scrum-half",
+        "dob": "10/06/1999",
+        "height": "1.78m",
+        "weight": "84kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Du Rouen Normandie Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Oyonnax",
+                "tournament": "Top 14",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 20,
+                "tries": 3,
+                "points": 26
+            },
+            {
+                "season": "21/22",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 10,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "20/21",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Benjamin PÉHAU",
+        "position": "Fly-half",
+        "dob": "25/06/1997",
+        "height": "1.85m",
+        "weight": "97kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Du Rouen Normandie Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 9,
+                "tries": 0,
+                "points": 30
+            },
+            {
+                "season": "24/25",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 20,
+                "tries": 4,
+                "points": 112
+            },
+            {
+                "season": "23/24",
+                "team": "Albi",
+                "tournament": "Nationale",
+                "matches": 19,
+                "tries": 5,
+                "points": 73
+            },
+            {
+                "season": "22/23",
+                "team": "Albi",
+                "tournament": "Nationale",
+                "matches": 24,
+                "tries": 2,
+                "points": 79
+            },
+            {
+                "season": "21/22",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Nationale",
+                "matches": 23,
+                "tries": 0,
+                "points": 17
+            },
+            {
+                "season": "20/21",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 14,
+                "tries": 0,
+                "points": 7
+            },
+            {
+                "season": "19/20",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 11,
+                "tries": 0,
+                "points": 2
+            },
+            {
+                "season": "18/19",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Maxime JAVAUX",
+        "position": "Fly-half",
+        "dob": "04/11/1993",
+        "height": "1.82m",
+        "weight": "86kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Du Rouen Normandie Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 8,
+                "tries": 0,
+                "points": 58
+            },
+            {
+                "season": "24/25",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 22,
+                "tries": 0,
+                "points": 220
+            },
+            {
+                "season": "23/24",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 16,
+                "tries": 1,
+                "points": 42
+            },
+            {
+                "season": "22/23",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 17,
+                "tries": 1,
+                "points": 74
+            },
+            {
+                "season": "21/22",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 20,
+                "tries": 0,
+                "points": 33
+            },
+            {
+                "season": "20/21",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 21,
+                "tries": 2,
+                "points": 237
+            },
+            {
+                "season": "19/20",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 21,
+                "tries": 0,
+                "points": 164
+            },
+            {
+                "season": "16/17",
+                "team": "Castres",
+                "tournament": "Champions Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Racing 92",
+                "tournament": "Top 14",
+                "matches": 5,
+                "tries": 0,
+                "points": 13
+            }
+        ]
+    },
+    {
+        "name": "Apisalome VOTA",
+        "position": "Centre",
+        "dob": "06/10/1996",
+        "height": "1.82m",
+        "weight": "105kg",
+        "contract": "PRO",
+        "nation": "Fiji",
+        "club": "Du Rouen Normandie Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Fiji",
+                "tournament": "Autumn Nations Series",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Fijian Drua",
+                "tournament": "Super Rugby Pacific",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Fiji",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Fijian Drua",
+                "tournament": "Super Rugby Pacific",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Fijian Drua",
+                "tournament": "Super Rugby Pacific",
+                "matches": 12,
+                "tries": 5,
+                "points": 25
+            }
+        ]
+    },
+    {
+        "name": "Jack METCALF",
+        "position": "Centre",
+        "dob": "20/04/2001",
+        "height": "1.90m",
+        "weight": "94kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Du Rouen Normandie Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Doncaster",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "14",
+                "tournament": "9 0 5",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Ealing Trailfinders",
+                "tournament": "RFU Championship",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Doncaster",
+                "tournament": "RFU Championship",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Sale",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 4,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "4",
+                "tournament": "2 1 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Nicolas NIETO",
+        "position": "Centre",
+        "dob": "17/03/1995",
+        "height": "1.78m",
+        "weight": "90kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Du Rouen Normandie Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 18,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Spain",
+                "tournament": "Rugby Europe Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Spain",
+                "tournament": "Rugby Europe Championship",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Théo DACHARY",
+        "position": "Centre",
+        "dob": "26/03/1997",
+        "height": "1.84m",
+        "weight": "97kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Du Rouen Normandie Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Dax",
+                "tournament": "Pro D2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Paris",
+                "tournament": "Challenge Cup",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Toulon",
+                "tournament": "Top 14",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Toulon",
+                "tournament": "Top 14",
+                "matches": 10,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "19/20",
+                "team": "Toulon",
+                "tournament": "Top 14",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Biarritz",
+                "tournament": "Pro D2",
+                "matches": 17,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "17/18",
+                "team": "Biarritz",
+                "tournament": "Pro D2",
+                "matches": 27,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "16/17",
+                "team": "Biarritz",
+                "tournament": "Pro D2",
+                "matches": 16,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "15/16",
+                "team": "Biarritz",
+                "tournament": "Pro D2",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Benito MASILEVU",
+        "position": "Winger",
+        "dob": "07/10/1989",
+        "height": "1.78m",
+        "weight": "85kg",
+        "contract": "PRO",
+        "nation": "Fiji",
+        "club": "Du Rouen Normandie Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "21/22",
+                "team": "Grenoble",
+                "tournament": "Pro D2",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Grenoble",
+                "tournament": "Pro D2",
+                "matches": 23,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "19/20",
+                "team": "Agen",
+                "tournament": "Top 14",
+                "matches": 8,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "4",
+                "tournament": "0 0 4",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Agen",
+                "tournament": "Top 14",
+                "matches": 8,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "18/19",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 17,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "17/18",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Fiji",
+                "tournament": "Pacific Nations Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 19,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Fiji",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 19,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "15/16",
+                "team": "6",
+                "tournament": "3 0 3",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Fiji",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 23,
+                "tries": 8,
+                "points": 40
+            }
+        ]
+    },
+    {
+        "name": "Benjamin DESCAMPS",
+        "position": "Winger",
+        "dob": "07/03/2002",
+        "height": "1.80m",
+        "weight": "85kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Du Rouen Normandie Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 19,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Kévin BLY",
+        "position": "Winger",
+        "dob": "28/02/1996",
+        "height": "1.86m",
+        "weight": "91kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Du Rouen Normandie Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 20,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "22/23",
+                "team": "Aix",
+                "tournament": "Pro D2",
+                "matches": 18,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "21/22",
+                "team": "Aix",
+                "tournament": "Pro D2",
+                "matches": 23,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "20/21",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 12,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "19/20",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 11,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "18/19",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 15,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "17/18",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 7,
+                "points": 35
+            }
+        ]
+    },
+    {
+        "name": "Théo BASTARDIE",
+        "position": "Winger",
+        "dob": "26/02/2000",
+        "height": "1.80m",
+        "weight": "91kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Du Rouen Normandie Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 6,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "25/26",
+                "team": "Brazil",
+                "tournament": "Rugby World Cup 2027 Final Qualification Tournament",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Vannes",
+                "tournament": "Top 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 15,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 12,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Aloïs CHAYLA",
+        "position": "Fullback",
+        "dob": "22/01/2002",
+        "height": "1.92m",
+        "weight": "97kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Du Rouen Normandie Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 8,
+                "tries": 0,
+                "points": 12
+            },
+            {
+                "season": "24/25",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 14,
+                "tries": 3,
+                "points": 27
+            }
+        ]
+    },
+    {
+        "name": "Benjamin DEBETZ",
+        "position": "Fullback",
+        "dob": "05/04/2001",
+        "height": "1.88m",
+        "weight": "90kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Du Rouen Normandie Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Aix",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    }
+]

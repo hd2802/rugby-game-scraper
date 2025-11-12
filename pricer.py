@@ -23,14 +23,17 @@ def prem_urc_price(name, contract_type):
     lookup = f"{last_name}, {first_name[0]}"
 
 
-    with open('backend/src/data/player_data.txt') as file:
+    with open('player_data.txt') as file:
         lines = file.read().splitlines()
         try:
             line = lines[lines.index(lookup)+1]
             val = float((line.split('£')[1] if '£' in line else line.split('$')[1]).split('m')[0])
             return val
         except:
-            return 0
+            if contract_type == "PRO":
+                return 100000
+            else:
+                return 25000
 
 def top14_price(name, contract):
     formatted = format_name(name).strip()
@@ -42,7 +45,7 @@ def top14_price(name, contract):
     last_name = " ".join(parts[1:])
     lookup = f"{first_name[0]}. {last_name}"
 
-    with open('backend/src/data/french_data.txt') as file:
+    with open('french_data.txt') as file:
         lines = file.read().splitlines()
 
     try:

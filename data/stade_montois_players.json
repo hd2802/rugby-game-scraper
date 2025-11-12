@@ -1,0 +1,3768 @@
+[
+    {
+        "name": "Anthony ALVÈS",
+        "position": "Prop",
+        "dob": "23/06/1989",
+        "height": "1.85m",
+        "weight": "121kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Stade Montois",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "25/26",
+                "team": "Portugal",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 23,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Portugal",
+                "tournament": "Rugby Europe Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Portugal",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "1 1 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Portugal",
+                "tournament": "Rugby Europe Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Portugal",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Grenoble",
+                "tournament": "Pro D2",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Portugal",
+                "tournament": "Rugby Europe Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Grenoble",
+                "tournament": "Pro D2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Portugal",
+                "tournament": "Rugby Europe Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Aurillac",
+                "tournament": "Pro D2",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Aurillac",
+                "tournament": "Pro D2",
+                "matches": 24,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Aurillac",
+                "tournament": "Pro D2",
+                "matches": 20,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Aurillac",
+                "tournament": "Pro D2",
+                "matches": 31,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Gheorghe GAJION",
+        "position": "Prop",
+        "dob": "13/11/1992",
+        "height": "1.90m",
+        "weight": "122kg",
+        "contract": "PRO",
+        "nation": "Moldova",
+        "club": "Stade Montois",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "25/26",
+                "team": "Romania",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Romania",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Romania",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 25,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Romania",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Aurillac",
+                "tournament": "Pro D2",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Romania",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Aurillac",
+                "tournament": "Pro D2",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Ospreys",
+                "tournament": "Pro 14",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Ospreys",
+                "tournament": "Challenge Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Rovigo",
+                "tournament": "Challenge Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "IG PRINSLOO",
+        "position": "Prop",
+        "dob": "04/04/1997",
+        "height": "1.91m",
+        "weight": "139kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Stade Montois",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Kings",
+                "tournament": "Pro 14",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Pumas",
+                "tournament": "Super Rugby Unlocked",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Jean-Luc INNOCENTE",
+        "position": "Prop",
+        "dob": "20/12/1993",
+        "height": "1.90m",
+        "weight": "113kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Stade Montois",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 20,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 20,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 22,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 18,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Narbonne",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Narbonne",
+                "tournament": "Pro D2",
+                "matches": 23,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Luka GOGINAVA",
+        "position": "Prop",
+        "dob": "04/10/1996",
+        "height": "1.84m",
+        "weight": "115kg",
+        "contract": "PRO",
+        "nation": "Georgia",
+        "club": "Stade Montois",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 21,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Georgia",
+                "tournament": "Rugby Europe Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Grenoble",
+                "tournament": "Pro D2",
+                "matches": 25,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Georgia",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Grenoble",
+                "tournament": "Pro D2",
+                "matches": 18,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Grenoble",
+                "tournament": "Pro D2",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 28,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 20,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Mathys BATS",
+        "position": "Prop",
+        "dob": "18/03/2003",
+        "height": "1.83m",
+        "weight": "124kg",
+        "contract": "ACADEMY",
+        "nation": "France",
+        "club": "Stade Montois",
+        "league": "Pro D2",
+        "value": 45000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Thibault BERTHAUD",
+        "position": "Prop",
+        "dob": "12/04/1997",
+        "height": "1.79m",
+        "weight": "126kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Stade Montois",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Oyonnax",
+                "tournament": "Top 14",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 23,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 24,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Pro D2",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Thomas BULTEL",
+        "position": "Prop",
+        "dob": "01/02/1996",
+        "height": "1.80m",
+        "weight": "110kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Stade Montois",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 20,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 18,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Alessio CAÏOLO",
+        "position": "Hooker",
+        "dob": "/05/2005",
+        "height": "1.80m",
+        "weight": "100kg",
+        "contract": "ACADEMY",
+        "nation": "France",
+        "club": "Stade Montois",
+        "league": "Pro D2",
+        "value": 45000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Chambéry",
+                "tournament": "Nationale",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Italy U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "1 1 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Florian DUFOUR",
+        "position": "Hooker",
+        "dob": "29/10/1997",
+        "height": "1.83m",
+        "weight": "117kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Stade Montois",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 21,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "23/24",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "Agen",
+                "tournament": "Pro D2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Agen",
+                "tournament": "Challenge Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Luka BEGIC",
+        "position": "Hooker",
+        "dob": "19/01/2001",
+        "height": "1.85m",
+        "weight": "117kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Stade Montois",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "25/26",
+                "team": "Portugal",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 17,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Portugal",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Chambéry",
+                "tournament": "Nationale",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Portugal",
+                "tournament": "Rugby Europe Championship",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Chambéry",
+                "tournament": "Nationale",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Samuel LAGRANGE",
+        "position": "Hooker",
+        "dob": "23/01/1997",
+        "height": "1.82m",
+        "weight": "100kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Stade Montois",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 22,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 14,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "La Rochelle",
+                "tournament": "Top 14",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "La Rochelle",
+                "tournament": "Top 14",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "La Rochelle",
+                "tournament": "Top 14",
+                "matches": 19,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "18/19",
+                "team": "La Rochelle",
+                "tournament": "Top 14",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "La Rochelle",
+                "tournament": "Top 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Torsten VAN JAARSVELD",
+        "position": "Hooker",
+        "dob": "30/06/1987",
+        "height": "1.78m",
+        "weight": "106kg",
+        "contract": "PRO",
+        "nation": "Namibia",
+        "club": "Stade Montois",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "25/26",
+                "team": "Namibia",
+                "tournament": "Rugby World Cup 2027 Final Qualification Tournament",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Bayonne",
+                "tournament": "Challenge Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 14,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "Namibia",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Bayonne",
+                "tournament": "Top 14",
+                "matches": 16,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Bayonne",
+                "tournament": "Pro D2",
+                "matches": 26,
+                "tries": 12,
+                "points": 60
+            },
+            {
+                "season": "20/21",
+                "team": "Bayonne",
+                "tournament": "Top 14",
+                "matches": 17,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "Bayonne",
+                "tournament": "Top 14",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Namibia",
+                "tournament": "Rugby World Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Bayonne",
+                "tournament": "Pro D2",
+                "matches": 28,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "17/18",
+                "team": "Cheetahs",
+                "tournament": "Pro 14",
+                "matches": 21,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "16/17",
+                "team": "Cheetahs",
+                "tournament": "Super Rugby",
+                "matches": 12,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "15/16",
+                "team": "Cheetahs",
+                "tournament": "Super Rugby",
+                "matches": 15,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "15/16",
+                "team": "Namibia",
+                "tournament": "Rugby World Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Cheetahs",
+                "tournament": "Super Rugby",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Namibia",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "13/14",
+                "team": "Cheetahs",
+                "tournament": "Super Rugby",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Brent LIUFAU",
+        "position": "Lock",
+        "dob": "21/03/2004",
+        "height": "1.96m",
+        "weight": "128kg",
+        "contract": "ACADEMY",
+        "nation": "France",
+        "club": "Stade Montois",
+        "league": "Pro D2",
+        "value": 45000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Pau",
+                "tournament": "Challenge Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "France U20",
+                "tournament": "U20 Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Pau",
+                "tournament": "Challenge Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "France U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "5",
+                "tournament": "5 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "France U20",
+                "tournament": "U20 Summer Series",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Jay TUIVAITI",
+        "position": "Lock",
+        "dob": "30/12/1996",
+        "height": "1.93m",
+        "weight": "120kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Stade Montois",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "NOLA",
+                "tournament": "Major League Rugby",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 9,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Jules DUSSUTOUR",
+        "position": "Lock",
+        "dob": "18/03/2003",
+        "height": "1.96m",
+        "weight": "116kg",
+        "contract": "ACADEMY",
+        "nation": "France",
+        "club": "Stade Montois",
+        "league": "Pro D2",
+        "value": 45000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Lado CHACHANIDZE",
+        "position": "Lock",
+        "dob": "14/05/2000",
+        "height": "2.00m",
+        "weight": "122kg",
+        "contract": "PRO",
+        "nation": "Georgia",
+        "club": "Stade Montois",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "25/26",
+                "team": "Georgia",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Black Lion",
+                "tournament": "Challenge Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Georgia",
+                "tournament": "Autumn Nations Series",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "4 0 0",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Nevers",
+                "tournament": "Pro D2",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Georgia",
+                "tournament": "Test Matchs",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "0 1 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Nevers",
+                "tournament": "Pro D2",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Georgia",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "5",
+                "tournament": "5 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Bayonne",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Georgia",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Louis FINCH",
+        "position": "Lock",
+        "dob": "19/02/2004",
+        "height": "1.98m",
+        "weight": "120kg",
+        "contract": "ACADEMY",
+        "nation": "France",
+        "club": "Stade Montois",
+        "league": "Pro D2",
+        "value": 45000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Morgan EAMES",
+        "position": "Lock",
+        "dob": "22/08/1994",
+        "height": "2.01m",
+        "weight": "126kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Stade Montois",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Bourgoin",
+                "tournament": "Nationale",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "25/26",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Bourgoin",
+                "tournament": "Nationale",
+                "matches": 19,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Bourgoin",
+                "tournament": "Nationale",
+                "matches": 16,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Bristol",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Béziers",
+                "tournament": "Pro D2",
+                "matches": 17,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "Béziers",
+                "tournament": "Pro D2",
+                "matches": 16,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Romain DURAND",
+        "position": "Lock",
+        "dob": "07/03/1997",
+        "height": "1.96m",
+        "weight": "117kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Stade Montois",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 23,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 23,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 27,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Narbonne",
+                "tournament": "Pro D2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Youssouf SOUCOUNA",
+        "position": "Lock",
+        "dob": "09/04/2004",
+        "height": "2.04m",
+        "weight": "110kg",
+        "contract": "ACADEMY",
+        "nation": "France",
+        "club": "Stade Montois",
+        "league": "Pro D2",
+        "value": 45000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Montpellier",
+                "tournament": "Challenge Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Aurélien LAFFORGUE",
+        "position": "Back row",
+        "dob": "12/05/1999",
+        "height": "1.88m",
+        "weight": "102kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Stade Montois",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 20,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 18,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "22/23",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 18,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Ewan BERTHEAU",
+        "position": "Back row",
+        "dob": "05/07/2001",
+        "height": "1.93m",
+        "weight": "105kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Stade Montois",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Perpignan",
+                "tournament": "Top 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Perpignan",
+                "tournament": "Top 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Biarritz",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Perpignan",
+                "tournament": "Challenge Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Ioane IASHAGASHVILI",
+        "position": "Back row",
+        "dob": "23/04/2000",
+        "height": "1.92m",
+        "weight": "117kg",
+        "contract": "PRO",
+        "nation": "Georgia",
+        "club": "Stade Montois",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 26,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 26,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "23/24",
+                "team": "Georgia",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Valence Romans",
+                "tournament": "Nationale",
+                "matches": 24,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "21/22",
+                "team": "Carcassonne",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Bayonne",
+                "tournament": "Challenge Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Georgia U20",
+                "tournament": "U20 Championship",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Louis PAILLAS",
+        "position": "Back row",
+        "dob": "/08/2005",
+        "height": "-",
+        "weight": "-",
+        "contract": "ACADEMY",
+        "nation": "France",
+        "club": "Stade Montois",
+        "league": "Pro D2",
+        "value": 45000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Nicolas GARRAULT",
+        "position": "Back row",
+        "dob": "15/06/1991",
+        "height": "1.95m",
+        "weight": "114kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Stade Montois",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 16,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 26,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 27,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 23,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 21,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 25,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 20,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Tarbes",
+                "tournament": "Pro D2",
+                "matches": 27,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "14/15",
+                "team": "Paris",
+                "tournament": "Top 14",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Paris",
+                "tournament": "Top 14",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "6",
+                "tournament": "5 0 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Raphaël ROBIC",
+        "position": "Back row",
+        "dob": "15/05/2001",
+        "height": "1.88m",
+        "weight": "100kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Stade Montois",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 21,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "23/24",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 13,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "22/23",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Sam TUIFUA",
+        "position": "Back row",
+        "dob": "23/02/2002",
+        "height": "1.88m",
+        "weight": "117kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Stade Montois",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 7,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 11,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "Dallas",
+                "tournament": "Major League Rugby",
+                "matches": 10,
+                "tries": 0,
+                "points": 32
+            },
+            {
+                "season": "22/23",
+                "team": "Counties Manukau",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Counties Manukau",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Tom DARGELOS",
+        "position": "Back row",
+        "dob": "-",
+        "height": "-",
+        "weight": "-",
+        "contract": "ACADEMY",
+        "nation": "France",
+        "club": "Stade Montois",
+        "league": "Pro D2",
+        "value": 45000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Waël PONPON",
+        "position": "Back row",
+        "dob": "24/09/1997",
+        "height": "1.92m",
+        "weight": "102kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Stade Montois",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 22,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 18,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "21/22",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 17,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "20/21",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 18,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Baptiste CANUT",
+        "position": "Scrum-half",
+        "dob": "14/03/2002",
+        "height": "1.75m",
+        "weight": "77kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Stade Montois",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 10,
+                "tries": 2,
+                "points": 28
+            },
+            {
+                "season": "22/23",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Christophe LOUSTALOT",
+        "position": "Scrum-half",
+        "dob": "07/04/1992",
+        "height": "1.69m",
+        "weight": "79kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Stade Montois",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 2,
+                "points": 38
+            },
+            {
+                "season": "24/25",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 21,
+                "tries": 0,
+                "points": 136
+            },
+            {
+                "season": "23/24",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 1,
+                "points": 45
+            },
+            {
+                "season": "22/23",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 29,
+                "tries": 3,
+                "points": 102
+            },
+            {
+                "season": "21/22",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 16,
+                "tries": 0,
+                "points": 28
+            },
+            {
+                "season": "20/21",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 20,
+                "tries": 1,
+                "points": 73
+            },
+            {
+                "season": "19/20",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 18,
+                "tries": 0,
+                "points": 46
+            },
+            {
+                "season": "18/19",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 24,
+                "tries": 2,
+                "points": 46
+            },
+            {
+                "season": "17/18",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 27,
+                "tries": 4,
+                "points": 43
+            },
+            {
+                "season": "16/17",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 20,
+                "tries": 3,
+                "points": 76
+            },
+            {
+                "season": "15/16",
+                "team": "Grenoble",
+                "tournament": "Top 14",
+                "matches": 12,
+                "tries": 0,
+                "points": 5
+            },
+            {
+                "season": "15/16",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Bayonne",
+                "tournament": "Top 14",
+                "matches": 25,
+                "tries": 1,
+                "points": 48
+            },
+            {
+                "season": "14/15",
+                "team": "5",
+                "tournament": "1 0 4",
+                "matches": 3,
+                "tries": 5,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Bayonne",
+                "tournament": "Top 14",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Lisati MILO-HARRIS",
+        "position": "Scrum-half",
+        "dob": "10/05/1996",
+        "height": "1.82m",
+        "weight": "90kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Stade Montois",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "Northland",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 1,
+                "points": 7
+            },
+            {
+                "season": "22/23",
+                "team": "Northland",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Blues",
+                "tournament": "Super Rugby Pacific",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Northland",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "Southland",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Chiefs",
+                "tournament": "Super Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Taranaki",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Nicolas DARQUIER",
+        "position": "Scrum-half",
+        "dob": "04/05/2004",
+        "height": "1.82m",
+        "weight": "84kg",
+        "contract": "ACADEMY",
+        "nation": "France",
+        "club": "Stade Montois",
+        "league": "Pro D2",
+        "value": 45000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 25,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 1,
+                "points": 26
+            }
+        ]
+    },
+    {
+        "name": "Iban LACLAU",
+        "position": "Fly-half",
+        "dob": "10/08/2004",
+        "height": "1.90m",
+        "weight": "89kg",
+        "contract": "ACADEMY",
+        "nation": "France",
+        "club": "Stade Montois",
+        "league": "Pro D2",
+        "value": 45000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 9,
+                "tries": 0,
+                "points": 31
+            }
+        ]
+    },
+    {
+        "name": "Willie DU PLESSIS",
+        "position": "Fly-half",
+        "dob": "05/06/1990",
+        "height": "1.85m",
+        "weight": "93kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Stade Montois",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 0,
+                "points": 38
+            },
+            {
+                "season": "24/25",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 25,
+                "tries": 3,
+                "points": 208
+            },
+            {
+                "season": "24/25",
+                "team": "Netherlands",
+                "tournament": "Rugby Europe Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 25,
+                "tries": 2,
+                "points": 54
+            },
+            {
+                "season": "23/24",
+                "team": "Netherlands",
+                "tournament": "Rugby Europe Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 2
+            },
+            {
+                "season": "22/23",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 28,
+                "tries": 3,
+                "points": 59
+            },
+            {
+                "season": "22/23",
+                "team": "Netherlands",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 21,
+                "tries": 4,
+                "points": 38
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Biarritz",
+                "tournament": "Pro D2",
+                "matches": 7,
+                "tries": 0,
+                "points": 15
+            },
+            {
+                "season": "19/20",
+                "team": "Biarritz",
+                "tournament": "Pro D2",
+                "matches": 11,
+                "tries": 1,
+                "points": 104
+            },
+            {
+                "season": "18/19",
+                "team": "Bayonne",
+                "tournament": "Pro D2",
+                "matches": 10,
+                "tries": 3,
+                "points": 34
+            },
+            {
+                "season": "17/18",
+                "team": "Bayonne",
+                "tournament": "Pro D2",
+                "matches": 22,
+                "tries": 5,
+                "points": 133
+            },
+            {
+                "season": "16/17",
+                "team": "Bayonne",
+                "tournament": "Top 14",
+                "matches": 15,
+                "tries": 0,
+                "points": 69
+            },
+            {
+                "season": "16/17",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 10,
+                "tries": 4,
+                "points": 110
+            },
+            {
+                "season": "15/16",
+                "team": "Toulon",
+                "tournament": "Top 14",
+                "matches": 7,
+                "tries": 0,
+                "points": 23
+            },
+            {
+                "season": "15/16",
+                "team": "Bayonne",
+                "tournament": "Pro D2",
+                "matches": 20,
+                "tries": 1,
+                "points": 140
+            },
+            {
+                "season": "14/15",
+                "team": "Cheetahs",
+                "tournament": "Super Rugby",
+                "matches": 10,
+                "tries": 0,
+                "points": 7
+            }
+        ]
+    },
+    {
+        "name": "Bautista EZCURRA",
+        "position": "Centre",
+        "dob": "21/04/1995",
+        "height": "1.81m",
+        "weight": "91kg",
+        "contract": "PRO",
+        "nation": "Argentina",
+        "club": "Stade Montois",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Grenoble",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Grenoble",
+                "tournament": "Pro D2",
+                "matches": 22,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Grenoble",
+                "tournament": "Pro D2",
+                "matches": 16,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Grenoble",
+                "tournament": "Pro D2",
+                "matches": 16,
+                "tries": 1,
+                "points": 7
+            },
+            {
+                "season": "20/21",
+                "team": "RFC Los Angeles",
+                "tournament": "Major League Rugby",
+                "matches": 17,
+                "tries": 4,
+                "points": 36
+            },
+            {
+                "season": "18/19",
+                "team": "Jaguares",
+                "tournament": "Super Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Jaguares",
+                "tournament": "Super Rugby",
+                "matches": 10,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "17/18",
+                "team": "Argentina",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Jaguares",
+                "tournament": "Super Rugby",
+                "matches": 9,
+                "tries": 1,
+                "points": 7
+            }
+        ]
+    },
+    {
+        "name": "Gaspard ROBBE",
+        "position": "Centre",
+        "dob": "/02/2005",
+        "height": "1.83m",
+        "weight": "81kg",
+        "contract": "ACADEMY",
+        "nation": "France",
+        "club": "Stade Montois",
+        "league": "Pro D2",
+        "value": 45000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Gatien MASSÉ",
+        "position": "Centre",
+        "dob": "02/05/2002",
+        "height": "1.82m",
+        "weight": "94kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Stade Montois",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "24/25",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 27,
+                "tries": 9,
+                "points": 45
+            },
+            {
+                "season": "23/24",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 24,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "France U20",
+                "tournament": "U20 Summer Series",
+                "matches": 4,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Joris DUPONT",
+        "position": "Centre",
+        "dob": "08/02/2001",
+        "height": "1.80m",
+        "weight": "90kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Stade Montois",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Castres",
+                "tournament": "Top 14",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Castres",
+                "tournament": "Challenge Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Carcassonne",
+                "tournament": "Pro D2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Castres",
+                "tournament": "Challenge Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Nacani WAKAYA",
+        "position": "Centre",
+        "dob": "25/06/1991",
+        "height": "1.87m",
+        "weight": "115kg",
+        "contract": "PRO",
+        "nation": "Fiji",
+        "club": "Stade Montois",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 25,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 24,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "22/23",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 16,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 23,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 26,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "19/20",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 18,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "18/19",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 28,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "17/18",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 15,
+                "tries": 8,
+                "points": 40
+            },
+            {
+                "season": "16/17",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 28,
+                "tries": 7,
+                "points": 35
+            }
+        ]
+    },
+    {
+        "name": "Stefan DARRICAU",
+        "position": "Centre",
+        "dob": "/02/2006",
+        "height": "-",
+        "weight": "-",
+        "contract": "ACADEMY",
+        "nation": "France",
+        "club": "Stade Montois",
+        "league": "Pro D2",
+        "value": 45000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Mosese DAWAI",
+        "position": "Winger",
+        "dob": "29/06/1998",
+        "height": "1.90m",
+        "weight": "101kg",
+        "contract": "PRO",
+        "nation": "Fiji",
+        "club": "Stade Montois",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "22/23",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 4,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 9,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 5,
+                "points": 25
+            }
+        ]
+    },
+    {
+        "name": "Pierre SAYERSE",
+        "position": "Winger",
+        "dob": "05/06/1995",
+        "height": "1.74m",
+        "weight": "80kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Stade Montois",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 2,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "23/24",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 15,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "23/24",
+                "team": "Portugal",
+                "tournament": "Rugby Europe Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 16,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "20/21",
+                "team": "Montauban",
+                "tournament": "Pro D2",
+                "matches": 15,
+                "tries": 6,
+                "points": 32
+            },
+            {
+                "season": "19/20",
+                "team": "Montauban",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "18/19",
+                "team": "Montauban",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "17/18",
+                "team": "Montauban",
+                "tournament": "Pro D2",
+                "matches": 10,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "16/17",
+                "team": "Montauban",
+                "tournament": "Pro D2",
+                "matches": 21,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "15/16",
+                "team": "Bayonne",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Bayonne",
+                "tournament": "Challenge Cup",
+                "matches": 5,
+                "tries": 3,
+                "points": 15
+            }
+        ]
+    },
+    {
+        "name": "Tomasi SERU",
+        "position": "Winger",
+        "dob": "09/06/2004",
+        "height": "1.81m",
+        "weight": "85kg",
+        "contract": "ACADEMY",
+        "nation": "Fiji",
+        "club": "Stade Montois",
+        "league": "Pro D2",
+        "value": 45000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "La Rochelle",
+                "tournament": "Top 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Yannick LODJRO",
+        "position": "Winger",
+        "dob": "/09/2005",
+        "height": "1.87m",
+        "weight": "85kg",
+        "contract": "ACADEMY",
+        "nation": "France",
+        "club": "Stade Montois",
+        "league": "Pro D2",
+        "value": 45000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Alexandre DE NARDI",
+        "position": "Fullback",
+        "dob": "17/01/1999",
+        "height": "1.84m",
+        "weight": "84kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Stade Montois",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 23,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 27,
+                "tries": 8,
+                "points": 40
+            },
+            {
+                "season": "21/22",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 25,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 17,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "18/19",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 12,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "18/19",
+                "team": "France U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Simão BENTO",
+        "position": "Fullback",
+        "dob": "21/06/2001",
+        "height": "1.78m",
+        "weight": "81kg",
+        "contract": "PRO",
+        "nation": "Portugal",
+        "club": "Stade Montois",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "25/26",
+                "team": "Portugal",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 13,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "24/25",
+                "team": "Portugal",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 17,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "Portugal",
+                "tournament": "Rugby Europe Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Portugal",
+                "tournament": "Rugby World Cup 2023 Final Qualification Tournament",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 2,
+                "tries": 2,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Portugal",
+                "tournament": "Rugby Europe Championship",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Théo CORTES",
+        "position": "Fullback",
+        "dob": "20/04/2004",
+        "height": "1.85m",
+        "weight": "84kg",
+        "contract": "ACADEMY",
+        "nation": "France",
+        "club": "Stade Montois",
+        "league": "Pro D2",
+        "value": 45000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 18,
+                "tries": 0,
+                "points": 9
+            },
+            {
+                "season": "23/24",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 12,
+                "tries": 3,
+                "points": 19
+            }
+        ]
+    }
+]

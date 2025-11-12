@@ -1,0 +1,1598 @@
+[
+    {
+        "name": "Alex GIBSON",
+        "position": "Prop",
+        "dob": "20/10/1995",
+        "height": "1.82m",
+        "weight": "115kg",
+        "contract": "",
+        "nation": "England",
+        "club": "Hartpury RFC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Hartpury RFC",
+                "tournament": "Champ Rugby",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Hartpury RFC",
+                "tournament": "RFU Championship",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "0 1 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Hartpury RFC",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Hartpury RFC",
+                "tournament": "RFU Championship",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "George ALEXANDER",
+        "position": "Prop",
+        "dob": "/09/2005",
+        "height": "1.87m",
+        "weight": "117kg",
+        "contract": "",
+        "nation": "England",
+        "club": "Hartpury RFC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Gloucester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "25/26",
+                "team": "Hartpury RFC",
+                "tournament": "Champ Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Louie TREVETT",
+        "position": "Prop",
+        "dob": "/06/2005",
+        "height": "1.78m",
+        "weight": "124kg",
+        "contract": "",
+        "nation": "Wales",
+        "club": "Hartpury RFC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Bristol",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "25/26",
+                "team": "Hartpury RFC",
+                "tournament": "Champ Rugby",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Bristol",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Scarlets",
+                "tournament": "United Rugby Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Wales U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Ollie MINNIS",
+        "position": "Prop",
+        "dob": "18/03/2003",
+        "height": "1.85m",
+        "weight": "110kg",
+        "contract": "PRO",
+        "nation": "Scotland",
+        "club": "Hartpury RFC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Hartpury RFC",
+                "tournament": "Champ Rugby",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "25/26",
+                "team": "Gloucester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Hartpury RFC",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Rhys DAVIES",
+        "position": "Prop",
+        "dob": "15/02/1999",
+        "height": "1.85m",
+        "weight": "115kg",
+        "contract": "PRO",
+        "nation": "Wales",
+        "club": "Hartpury RFC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Gloucester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "25/26",
+                "team": "Hartpury RFC",
+                "tournament": "Champ Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Hartpury RFC",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Wales U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Ethan HUNT",
+        "position": "Hooker",
+        "dob": "15/07/2001",
+        "height": "1.85m",
+        "weight": "103kg",
+        "contract": "",
+        "nation": "England",
+        "club": "Hartpury RFC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Hartpury RFC",
+                "tournament": "Champ Rugby",
+                "matches": 6,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Hartpury RFC",
+                "tournament": "RFU Championship",
+                "matches": 21,
+                "tries": 12,
+                "points": 60
+            },
+            {
+                "season": "24/25",
+                "team": "6",
+                "tournament": "1 1 4",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Gloucester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Hartpury RFC",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "12",
+                "tournament": "8 0 4",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Hartpury RFC",
+                "tournament": "RFU Championship",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Gloucester",
+                "tournament": "Premiership",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Gloucester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Will CRANE",
+        "position": "Hooker",
+        "dob": "16/02/1994",
+        "height": "1.82m",
+        "weight": "104kg",
+        "contract": "",
+        "nation": "England",
+        "club": "Hartpury RFC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Hartpury RFC",
+                "tournament": "Champ Rugby",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Hartpury RFC",
+                "tournament": "RFU Championship",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "5",
+                "tournament": "1 1 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Hartpury RFC",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "20",
+                "tournament": "11 0 9",
+                "matches": 19,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Gloucester",
+                "tournament": "Premiership",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Cornish Pirates",
+                "tournament": "RFU Championship",
+                "matches": 20,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "19/20",
+                "team": "Gloucester",
+                "tournament": "Premiership",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Peter PARAMORE",
+        "position": "Lock",
+        "dob": "-",
+        "height": "-",
+        "weight": "-",
+        "contract": "",
+        "nation": "England",
+        "club": "Hartpury RFC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Gloucester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "25/26",
+                "team": "Hartpury RFC",
+                "tournament": "Champ Rugby",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Bristol",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Hartpury RFC",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "5",
+                "tournament": "1 0 4",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Cameron COBBETT",
+        "position": "Back row",
+        "dob": "-",
+        "height": "-",
+        "weight": "-",
+        "contract": "",
+        "nation": "Scotland",
+        "club": "Hartpury RFC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Hartpury RFC",
+                "tournament": "Champ Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Hartpury RFC",
+                "tournament": "RFU Championship",
+                "matches": 18,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "6",
+                "tournament": "1 1 4",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Hartpury RFC",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Deian GWYNNE",
+        "position": "Back row",
+        "dob": "/02/2006",
+        "height": "1.90m",
+        "weight": "106kg",
+        "contract": "",
+        "nation": "Wales",
+        "club": "Hartpury RFC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Gloucester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "25/26",
+                "team": "Hartpury RFC",
+                "tournament": "Champ Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Gloucester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Hartpury RFC",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Wales U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Ellis HART",
+        "position": "Back row",
+        "dob": "-",
+        "height": "1.83m",
+        "weight": "96kg",
+        "contract": "",
+        "nation": "Wales",
+        "club": "Hartpury RFC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Hartpury RFC",
+                "tournament": "Champ Rugby",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Hartpury RFC",
+                "tournament": "RFU Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Hartpury RFC",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Harry SHORT",
+        "position": "Back row",
+        "dob": "22/07/1999",
+        "height": "1.86m",
+        "weight": "100kg",
+        "contract": "",
+        "nation": "England",
+        "club": "Hartpury RFC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Hartpury RFC",
+                "tournament": "Champ Rugby",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Hartpury RFC",
+                "tournament": "RFU Championship",
+                "matches": 20,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "24/25",
+                "team": "6",
+                "tournament": "1 1 4",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Hartpury RFC",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 3,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "16",
+                "tournament": "9 0 7",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Hartpury RFC",
+                "tournament": "RFU Championship",
+                "matches": 17,
+                "tries": 5,
+                "points": 25
+            }
+        ]
+    },
+    {
+        "name": "Jack DAVIES",
+        "position": "Back row",
+        "dob": "17/12/1995",
+        "height": "1.95m",
+        "weight": "116kg",
+        "contract": "",
+        "nation": "Wales",
+        "club": "Hartpury RFC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Hartpury RFC",
+                "tournament": "Champ Rugby",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Hartpury RFC",
+                "tournament": "RFU Championship",
+                "matches": 21,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "6",
+                "tournament": "1 1 4",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Hartpury RFC",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "20",
+                "tournament": "11 0 9",
+                "matches": 20,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Hartpury RFC",
+                "tournament": "RFU Championship",
+                "matches": 22,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Bath",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Bath",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Jarrard HAYLER",
+        "position": "Back row",
+        "dob": "09/03/1995",
+        "height": "1.86m",
+        "weight": "94kg",
+        "contract": "",
+        "nation": "England",
+        "club": "Hartpury RFC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Hartpury RFC",
+                "tournament": "Champ Rugby",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Hartpury RFC",
+                "tournament": "RFU Championship",
+                "matches": 13,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Hartpury RFC",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "16",
+                "tournament": "8 0 8",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Cornish Pirates",
+                "tournament": "RFU Championship",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "Saracens",
+                "tournament": "Anglo Welsh Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Josh GRAY",
+        "position": "Back row",
+        "dob": "07/07/2001",
+        "height": "1.88m",
+        "weight": "106kg",
+        "contract": "",
+        "nation": "England",
+        "club": "Hartpury RFC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Hartpury RFC",
+                "tournament": "Champ Rugby",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Hartpury RFC",
+                "tournament": "RFU Championship",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Gloucester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Hartpury RFC",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "20",
+                "tournament": "11 0 9",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Jersey Reds",
+                "tournament": "RFU Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Counties Manukau",
+                "tournament": "NPC",
+                "matches": 4,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "22/23",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Gloucester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Gloucester",
+                "tournament": "Champions Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "England U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Gloucester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "England U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Cai GEALY",
+        "position": "Scrum-half",
+        "dob": "/08/2007",
+        "height": "-",
+        "weight": "-",
+        "contract": "",
+        "nation": "Wales",
+        "club": "Hartpury RFC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Hartpury RFC",
+                "tournament": "Champ Rugby",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Bristol",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Rhys PRICE",
+        "position": "Scrum-half",
+        "dob": "20/03/2004",
+        "height": "1.87m",
+        "weight": "84kg",
+        "contract": "",
+        "nation": "England",
+        "club": "Hartpury RFC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Gloucester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "25/26",
+                "team": "Hartpury RFC",
+                "tournament": "Champ Rugby",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Hartpury RFC",
+                "tournament": "RFU Championship",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Hartpury RFC",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Hartpury RFC",
+                "tournament": "RFU Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Harry BAZALGETTE",
+        "position": "Fly-half",
+        "dob": "27/01/1999",
+        "height": "1.80m",
+        "weight": "90kg",
+        "contract": "",
+        "nation": "England",
+        "club": "Hartpury RFC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Hartpury RFC",
+                "tournament": "Champ Rugby",
+                "matches": 6,
+                "tries": 0,
+                "points": 55
+            },
+            {
+                "season": "24/25",
+                "team": "Hartpury RFC",
+                "tournament": "RFU Championship",
+                "matches": 21,
+                "tries": 1,
+                "points": 193
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 3,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Bristol",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 4
+            },
+            {
+                "season": "23/24",
+                "team": "Hartpury RFC",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 22
+            },
+            {
+                "season": "23/24",
+                "team": "19",
+                "tournament": "10 0 9",
+                "matches": 19,
+                "tries": 20,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Cornish Pirates",
+                "tournament": "RFU Championship",
+                "matches": 13,
+                "tries": 0,
+                "points": 59
+            }
+        ]
+    },
+    {
+        "name": "Max KNIGHT",
+        "position": "Centre",
+        "dob": "12/02/2004",
+        "height": "1.87m",
+        "weight": "85kg",
+        "contract": "",
+        "nation": "England",
+        "club": "Hartpury RFC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Gloucester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "25/26",
+                "team": "Hartpury RFC",
+                "tournament": "Champ Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Hartpury RFC",
+                "tournament": "RFU Championship",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Gloucester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Ollie ALLSOPP",
+        "position": "Centre",
+        "dob": "13/06/1998",
+        "height": "1.80m",
+        "weight": "91kg",
+        "contract": "",
+        "nation": "England",
+        "club": "Hartpury RFC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Hartpury RFC",
+                "tournament": "Champ Rugby",
+                "matches": 6,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Ollie HOLLIDAY",
+        "position": "Centre",
+        "dob": "-",
+        "height": "-",
+        "weight": "-",
+        "contract": "",
+        "nation": "England",
+        "club": "Hartpury RFC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Hartpury RFC",
+                "tournament": "Champ Rugby",
+                "matches": 6,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Hartpury RFC",
+                "tournament": "RFU Championship",
+                "matches": 18,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "5",
+                "tournament": "1 1 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Hartpury RFC",
+                "tournament": "RFU Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Hartpury RFC",
+                "tournament": "RFU Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Robbie SMITH",
+        "position": "Centre",
+        "dob": "-",
+        "height": "1.80m",
+        "weight": "95kg",
+        "contract": "",
+        "nation": "England",
+        "club": "Hartpury RFC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Hartpury RFC",
+                "tournament": "Champ Rugby",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Hartpury RFC",
+                "tournament": "RFU Championship",
+                "matches": 21,
+                "tries": 8,
+                "points": 40
+            },
+            {
+                "season": "24/25",
+                "team": "6",
+                "tournament": "1 1 4",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Hartpury RFC",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "19",
+                "tournament": "11 0 8",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Doncaster",
+                "tournament": "RFU Championship",
+                "matches": 16,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "21/22",
+                "team": "Worcester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Alex MORGAN",
+        "position": "Winger",
+        "dob": "26/11/1999",
+        "height": "1.88m",
+        "weight": "90kg",
+        "contract": "",
+        "nation": "Wales",
+        "club": "Hartpury RFC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Hartpury RFC",
+                "tournament": "Champ Rugby",
+                "matches": 6,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "24/25",
+                "team": "Hartpury RFC",
+                "tournament": "RFU Championship",
+                "matches": 16,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "1 1 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Hartpury RFC",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "11",
+                "tournament": "7 0 4",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Gloucester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Hartpury RFC",
+                "tournament": "RFU Championship",
+                "matches": 5,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "21/22",
+                "team": "Gloucester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 5,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Gloucester",
+                "tournament": "Champions Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Gloucester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Gloucester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Wales U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Bradley DENTY",
+        "position": "Winger",
+        "dob": "-",
+        "height": "-",
+        "weight": "-",
+        "contract": "",
+        "nation": "England",
+        "club": "Hartpury RFC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Hartpury RFC",
+                "tournament": "Champ Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Hartpury RFC",
+                "tournament": "RFU Championship",
+                "matches": 21,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "5",
+                "tournament": "1 1 3",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Hartpury RFC",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "11",
+                "tournament": "7 0 4",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Hartpury RFC",
+                "tournament": "RFU Championship",
+                "matches": 18,
+                "tries": 6,
+                "points": 30
+            }
+        ]
+    },
+    {
+        "name": "Jack COTGREAVE",
+        "position": "Winger",
+        "dob": "/04/2006",
+        "height": "1.93m",
+        "weight": "90kg",
+        "contract": "",
+        "nation": "England",
+        "club": "Hartpury RFC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Gloucester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "25/26",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "25/26",
+                "team": "Hartpury RFC",
+                "tournament": "Champ Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Gloucester",
+                "tournament": "Challenge Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "2 1 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Keir CLARK",
+        "position": "Winger",
+        "dob": "-",
+        "height": "-",
+        "weight": "-",
+        "contract": "",
+        "nation": "England",
+        "club": "Hartpury RFC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Hartpury RFC",
+                "tournament": "Champ Rugby",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Hartpury RFC",
+                "tournament": "RFU Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    }
+]

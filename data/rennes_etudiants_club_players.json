@@ -1,0 +1,1227 @@
+[
+    {
+        "name": "Baptiste LE JALLÉ",
+        "position": "Prop",
+        "dob": "30/04/1993",
+        "height": "1.85m",
+        "weight": "107kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Rennes Etudiants Club",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Rennes",
+                "tournament": "Nationale",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Rennes",
+                "tournament": "Nationale",
+                "matches": 25,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Cohen KIEWIT",
+        "position": "Prop",
+        "dob": "04/08/1998",
+        "height": "1.91m",
+        "weight": "128kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Rennes Etudiants Club",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Rennes",
+                "tournament": "Nationale",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Kévin YAMÉOGO",
+        "position": "Prop",
+        "dob": "19/05/1997",
+        "height": "1.93m",
+        "weight": "128kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Rennes Etudiants Club",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Rennes",
+                "tournament": "Nationale",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Nice",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Nice",
+                "tournament": "Nationale",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Montauban",
+                "tournament": "Pro D2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Barbarians FR",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Agen",
+                "tournament": "Top 14",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Lyon",
+                "tournament": "Top 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Lyon",
+                "tournament": "Champions Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Thibault DE SOUSA NARDI",
+        "position": "Prop",
+        "dob": "01/08/1997",
+        "height": "1.82m",
+        "weight": "131kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Rennes Etudiants Club",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Rennes",
+                "tournament": "Nationale",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Aubenas",
+                "tournament": "Nationale",
+                "matches": 21,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Portugal",
+                "tournament": "Rugby Europe Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Yannick FOIGNE",
+        "position": "Prop",
+        "dob": "24/08/2000",
+        "height": "1.87m",
+        "weight": "115kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Rennes Etudiants Club",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Rennes",
+                "tournament": "Nationale",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Alexandre FAU",
+        "position": "Hooker",
+        "dob": "11/07/1995",
+        "height": "1.85m",
+        "weight": "100kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Rennes Etudiants Club",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Rennes",
+                "tournament": "Nationale",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Rennes",
+                "tournament": "Nationale",
+                "matches": 20,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Baptiste BEAUJOUAN",
+        "position": "Hooker",
+        "dob": "03/09/2001",
+        "height": "1.84m",
+        "weight": "102kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Rennes Etudiants Club",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Rennes",
+                "tournament": "Nationale",
+                "matches": 6,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "22/23",
+                "team": "Rennes",
+                "tournament": "Nationale",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Tilike TUUGAHALA",
+        "position": "Hooker",
+        "dob": "01/12/1997",
+        "height": "1.81m",
+        "weight": "107kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Rennes Etudiants Club",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Rennes",
+                "tournament": "Nationale",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Rennes",
+                "tournament": "Nationale",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "Racing 92",
+                "tournament": "Top 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Toma TAHIVIKI",
+        "position": "Hooker",
+        "dob": "07/05/2001",
+        "height": "1.85m",
+        "weight": "127kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Rennes Etudiants Club",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Rennes",
+                "tournament": "Nationale",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "22/23",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Caleb APERAHAMA",
+        "position": "Lock",
+        "dob": "11/07/1996",
+        "height": "1.98m",
+        "weight": "133kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Rennes Etudiants Club",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Rennes",
+                "tournament": "Nationale",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Southland",
+                "tournament": "NPC",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Southland",
+                "tournament": "NPC",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Canterbury",
+                "tournament": "NPC",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Davit ARVELADZE",
+        "position": "Lock",
+        "dob": "15/11/2002",
+        "height": "1.98m",
+        "weight": "123kg",
+        "contract": "PRO",
+        "nation": "Georgia",
+        "club": "Rennes Etudiants Club",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Rennes",
+                "tournament": "Nationale",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Pierre ALGANS",
+        "position": "Lock",
+        "dob": "27/05/1997",
+        "height": "1.96m",
+        "weight": "120kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Rennes Etudiants Club",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Rennes",
+                "tournament": "Nationale",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Rennes",
+                "tournament": "Nationale",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Aurillac",
+                "tournament": "Pro D2",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Narbonne",
+                "tournament": "Pro D2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Narbonne",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Gabriel QUESMEL",
+        "position": "Back row",
+        "dob": "04/07/1995",
+        "height": "1.94m",
+        "weight": "108kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Rennes Etudiants Club",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Rennes",
+                "tournament": "Nationale",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Rennes",
+                "tournament": "Nationale",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Béziers",
+                "tournament": "Pro D2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Paris",
+                "tournament": "Top 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Guillaume CAZETTE",
+        "position": "Back row",
+        "dob": "31/12/1998",
+        "height": "1.93m",
+        "weight": "114kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Rennes Etudiants Club",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Rennes",
+                "tournament": "Nationale",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Rennes",
+                "tournament": "Nationale",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Johann GRUNDLINGH",
+        "position": "Back row",
+        "dob": "27/09/1995",
+        "height": "1.94m",
+        "weight": "120kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Rennes Etudiants Club",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Rennes",
+                "tournament": "Nationale",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Hyères",
+                "tournament": "Nationale",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Nice",
+                "tournament": "Nationale",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Lucas DUFOURCQ",
+        "position": "Back row",
+        "dob": "03/08/2002",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Rennes Etudiants Club",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Rennes",
+                "tournament": "Nationale",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Martin BERTRAND",
+        "position": "Back row",
+        "dob": "25/12/1996",
+        "height": "1.89m",
+        "weight": "98kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Rennes Etudiants Club",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Rennes",
+                "tournament": "Nationale",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Chambéry",
+                "tournament": "Nationale",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Chambéry",
+                "tournament": "Nationale",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Mathéo LHUILLIER",
+        "position": "Back row",
+        "dob": "23/03/2002",
+        "height": "1.93m",
+        "weight": "95kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Rennes Etudiants Club",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": []
+    },
+    {
+        "name": "Côme BERROD",
+        "position": "Scrum-half",
+        "dob": "12/11/1997",
+        "height": "1.70m",
+        "weight": "80kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Rennes Etudiants Club",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Rennes",
+                "tournament": "Nationale",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Lucas OLLION",
+        "position": "Scrum-half",
+        "dob": "04/04/1999",
+        "height": "1.80m",
+        "weight": "82kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Rennes Etudiants Club",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Rennes",
+                "tournament": "Nationale",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Rennes",
+                "tournament": "Nationale",
+                "matches": 24,
+                "tries": 0,
+                "points": 9
+            },
+            {
+                "season": "17/18",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Quentin DAUVERGNE",
+        "position": "Scrum-half",
+        "dob": "26/08/1995",
+        "height": "1.67m",
+        "weight": "69kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Rennes Etudiants Club",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Rennes",
+                "tournament": "Nationale",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Suresnes",
+                "tournament": "Nationale",
+                "matches": 19,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Suresnes",
+                "tournament": "Nationale",
+                "matches": 24,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "18/19",
+                "team": "Massy",
+                "tournament": "Pro D2",
+                "matches": 20,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Massy",
+                "tournament": "Pro D2",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Benjamin NOBLE",
+        "position": "Fly-half",
+        "dob": "30/04/1997",
+        "height": "1.82m",
+        "weight": "92kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Rennes Etudiants Club",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Rennes",
+                "tournament": "Nationale",
+                "matches": 8,
+                "tries": 0,
+                "points": 63
+            },
+            {
+                "season": "22/23",
+                "team": "Bourgoin",
+                "tournament": "Nationale",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Bourgoin",
+                "tournament": "Nationale",
+                "matches": 7,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 13,
+                "tries": 0,
+                "points": 34
+            },
+            {
+                "season": "19/20",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 2
+            },
+            {
+                "season": "17/18",
+                "team": "La Rochelle",
+                "tournament": "Champions Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 2
+            },
+            {
+                "season": "17/18",
+                "team": "7",
+                "tournament": "2 0 5",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "La Rochelle",
+                "tournament": "Top 14",
+                "matches": 8,
+                "tries": 1,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Quentin LALARME",
+        "position": "Fly-half",
+        "dob": "06/02/1997",
+        "height": "1.78m",
+        "weight": "85kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Rennes Etudiants Club",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Rennes",
+                "tournament": "Nationale",
+                "matches": 4,
+                "tries": 0,
+                "points": 17
+            },
+            {
+                "season": "21/22",
+                "team": "Union Cognac-Saint-Jean",
+                "tournament": "Nationale",
+                "matches": 26,
+                "tries": 1,
+                "points": 194
+            },
+            {
+                "season": "18/19",
+                "team": "Carcassonne",
+                "tournament": "Pro D2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Alexis FRANÇOIS",
+        "position": "Centre",
+        "dob": "01/03/1995",
+        "height": "1.84m",
+        "weight": "92kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Rennes Etudiants Club",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Rennes",
+                "tournament": "Nationale",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Rennes",
+                "tournament": "Nationale",
+                "matches": 21,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "17/18",
+                "team": "Narbonne",
+                "tournament": "Pro D2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Narbonne",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Clément LEPRESLE",
+        "position": "Centre",
+        "dob": "15/02/1998",
+        "height": "1.78m",
+        "weight": "92kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Rennes Etudiants Club",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Rennes",
+                "tournament": "Nationale",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Rennes",
+                "tournament": "Nationale",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Hypolite CORNU",
+        "position": "Centre",
+        "dob": "12/03/2001",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Rennes Etudiants Club",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Rennes",
+                "tournament": "Nationale",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Rennes",
+                "tournament": "Nationale",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Ryan DUBOIS",
+        "position": "Centre",
+        "dob": "17/09/1996",
+        "height": "1.82m",
+        "weight": "94kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Rennes Etudiants Club",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Rennes",
+                "tournament": "Nationale",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Rennes",
+                "tournament": "Nationale",
+                "matches": 21,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "17/18",
+                "team": "Agen",
+                "tournament": "Challenge Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "La Rochelle",
+                "tournament": "Top 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Clément CAVALIÈRE",
+        "position": "Winger",
+        "dob": "24/03/1999",
+        "height": "1.85m",
+        "weight": "90kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Rennes Etudiants Club",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Rennes",
+                "tournament": "Nationale",
+                "matches": 9,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "23/24",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Edwin VÉRITÉ",
+        "position": "Winger",
+        "dob": "02/07/2002",
+        "height": "1.83m",
+        "weight": "84kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Rennes Etudiants Club",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Rennes",
+                "tournament": "Nationale",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Eneri LOTAWA",
+        "position": "Winger",
+        "dob": "12/03/1997",
+        "height": "1.92m",
+        "weight": "105kg",
+        "contract": "PRO",
+        "nation": "Fiji",
+        "club": "Rennes Etudiants Club",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Rennes",
+                "tournament": "Nationale",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Union Cognac-Saint-Jean",
+                "tournament": "Nationale",
+                "matches": 21,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Union Cognac-Saint-Jean",
+                "tournament": "Nationale",
+                "matches": 24,
+                "tries": 3,
+                "points": 15
+            }
+        ]
+    },
+    {
+        "name": "Louis HILLMAN-COOPER",
+        "position": "Winger",
+        "dob": "22/12/2001",
+        "height": "1.90m",
+        "weight": "103kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Rennes Etudiants Club",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Rennes",
+                "tournament": "Nationale",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Gloucester",
+                "tournament": "Premiership",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "5",
+                "tournament": "3 1 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Gloucester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "7",
+                "tournament": "1 0 6",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Hartpury RFC",
+                "tournament": "RFU Championship",
+                "matches": 8,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "Gloucester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "England U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    }
+]

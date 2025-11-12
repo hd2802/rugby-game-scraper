@@ -1,0 +1,1846 @@
+[
+    {
+        "name": "Bruno VLIEGEN",
+        "position": "Prop",
+        "dob": "03/07/2001",
+        "height": "1.78m",
+        "weight": "116kg",
+        "contract": "PRO",
+        "nation": "Belgium",
+        "club": "Olympique Marcquois Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "25/26",
+                "team": "Belgium",
+                "tournament": "Rugby World Cup 2027 Final Qualification Tournament",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Belgium",
+                "tournament": "Rugby Europe Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Belgium",
+                "tournament": "Rugby Europe Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Belgium",
+                "tournament": "Rugby Europe Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Belgium",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Belgium",
+                "tournament": "Rugby Europe Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Charles-Edouard EKWAH ELIMBY",
+        "position": "Prop",
+        "dob": "26/07/1997",
+        "height": "1.82m",
+        "weight": "121kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Olympique Marcquois Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Éli SERRA",
+        "position": "Prop",
+        "dob": "28/11/1995",
+        "height": "1.75m",
+        "weight": "109kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Olympique Marcquois Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Hyères",
+                "tournament": "Nationale",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Hyères",
+                "tournament": "Nationale",
+                "matches": 18,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Lewys JONES",
+        "position": "Prop",
+        "dob": "28/10/2001",
+        "height": "1.83m",
+        "weight": "122kg",
+        "contract": "PRO",
+        "nation": "Wales",
+        "club": "Olympique Marcquois Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 19,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Nevers",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Wales U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Marius POLLET",
+        "position": "Prop",
+        "dob": "01/11/2001",
+        "height": "1.92m",
+        "weight": "129kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Olympique Marcquois Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Sive MAZOSIWE",
+        "position": "Prop",
+        "dob": "24/03/1997",
+        "height": "1.81m",
+        "weight": "120kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Olympique Marcquois Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Rouen",
+                "tournament": "Nationale",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Victor-Fy BALAS BUREL",
+        "position": "Prop",
+        "dob": "21/07/1999",
+        "height": "1.79m",
+        "weight": "125kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Olympique Marcquois Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Aubenas",
+                "tournament": "Nationale",
+                "matches": 26,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Joseph REYNAUD",
+        "position": "Hooker",
+        "dob": "21/10/2000",
+        "height": "1.84m",
+        "weight": "103kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Olympique Marcquois Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 6,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 19,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "23/24",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Aubenas",
+                "tournament": "Nationale",
+                "matches": 21,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Matéo SAINT-GERMAIN",
+        "position": "Hooker",
+        "dob": "12/02/2002",
+        "height": "1.81m",
+        "weight": "113kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Olympique Marcquois Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Santiago IGLESIAS VALDEZ",
+        "position": "Hooker",
+        "dob": "22/05/1993",
+        "height": "1.78m",
+        "weight": "100kg",
+        "contract": "PRO",
+        "nation": "Argentina",
+        "club": "Olympique Marcquois Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 15,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Béziers",
+                "tournament": "Pro D2",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Béziers",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Argentina",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Argentina",
+                "tournament": "Test Matchs",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Antoine DELAPORTE",
+        "position": "Lock",
+        "dob": "05/07/1995",
+        "height": "1.98m",
+        "weight": "110kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Olympique Marcquois Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 19,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Goran DE CLERCQ",
+        "position": "Lock",
+        "dob": "06/11/2003",
+        "height": "2.02m",
+        "weight": "120kg",
+        "contract": "PRO",
+        "nation": "Belgium",
+        "club": "Olympique Marcquois Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Belgium",
+                "tournament": "Rugby Europe Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Jean-Baptiste RENDÉ",
+        "position": "Lock",
+        "dob": "18/11/2002",
+        "height": "1.93m",
+        "weight": "130kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Olympique Marcquois Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 18,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Lucio ANCONETANI",
+        "position": "Lock",
+        "dob": "27/03/2001",
+        "height": "1.95m",
+        "weight": "113kg",
+        "contract": "PRO",
+        "nation": "Argentina",
+        "club": "Olympique Marcquois Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 19,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Maselino PAULINO",
+        "position": "Lock",
+        "dob": "21/06/1988",
+        "height": "2.04m",
+        "weight": "135kg",
+        "contract": "PRO",
+        "nation": "Samoa",
+        "club": "Olympique Marcquois Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Montauban",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Montauban",
+                "tournament": "Pro D2",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 9,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "18/19",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 24,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "Narbonne",
+                "tournament": "Pro D2",
+                "matches": 16,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "16/17",
+                "team": "Lyon",
+                "tournament": "Top 14",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Scarlets",
+                "tournament": "Pro 12",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "6",
+                "tournament": "0 0 6",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Samoa",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Arthur BRUGES",
+        "position": "Back row",
+        "dob": "04/05/2001",
+        "height": "1.97m",
+        "weight": "107kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Olympique Marcquois Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 18,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Brive",
+                "tournament": "Challenge Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Aurélien CARVALHO",
+        "position": "Back row",
+        "dob": "05/06/1999",
+        "height": "1.82m",
+        "weight": "95kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Olympique Marcquois Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Brandon DAYORO",
+        "position": "Back row",
+        "dob": "15/03/2003",
+        "height": "1.87m",
+        "weight": "100kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Olympique Marcquois Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Suresnes",
+                "tournament": "Nationale",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Suresnes",
+                "tournament": "Nationale",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Cédric YONKEU",
+        "position": "Back row",
+        "dob": "22/05/1995",
+        "height": "1.88m",
+        "weight": "98kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Olympique Marcquois Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 19,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Joachim BEAUMONT",
+        "position": "Back row",
+        "dob": "09/02/1990",
+        "height": "1.90m",
+        "weight": "109kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Olympique Marcquois Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 20,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Hyères",
+                "tournament": "Nationale",
+                "matches": 24,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Hyères",
+                "tournament": "Nationale",
+                "matches": 21,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Marius RUYFFELAERE",
+        "position": "Back row",
+        "dob": "07/07/2002",
+        "height": "1.93m",
+        "weight": "103kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Olympique Marcquois Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Massy",
+                "tournament": "Nationale",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Maxime DANTON",
+        "position": "Back row",
+        "dob": "06/01/1996",
+        "height": "1.86m",
+        "weight": "109kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Olympique Marcquois Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Massy",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Massy",
+                "tournament": "Nationale",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Massy",
+                "tournament": "Pro D2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Otilo KAFOTAMAKI",
+        "position": "Back row",
+        "dob": "11/02/1991",
+        "height": "1.93m",
+        "weight": "104kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Olympique Marcquois Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Dijon",
+                "tournament": "Nationale",
+                "matches": 20,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Narbonne",
+                "tournament": "Pro D2",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Narbonne",
+                "tournament": "Pro D2",
+                "matches": 20,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Thomas SIMONET",
+        "position": "Back row",
+        "dob": "16/09/1999",
+        "height": "1.91m",
+        "weight": "104kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Olympique Marcquois Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Dylan NOCÈTE",
+        "position": "Scrum-half",
+        "dob": "15/07/1999",
+        "height": "1.73m",
+        "weight": "77kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Olympique Marcquois Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 24,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Chambéry",
+                "tournament": "Nationale",
+                "matches": 20,
+                "tries": 1,
+                "points": 21
+            },
+            {
+                "season": "21/22",
+                "team": "Chambéry",
+                "tournament": "Nationale",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Geoffrey CAZANAVE",
+        "position": "Scrum-half",
+        "dob": "04/08/1995",
+        "height": "1.73m",
+        "weight": "82kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Olympique Marcquois Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 16,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Paul DECAVEL",
+        "position": "Fly-half",
+        "dob": "06/04/2000",
+        "height": "1.82m",
+        "weight": "92kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Olympique Marcquois Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 7,
+                "tries": 0,
+                "points": 3
+            },
+            {
+                "season": "24/25",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 19,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Montauban",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Serafin BORDOLI",
+        "position": "Fly-half",
+        "dob": "15/03/1995",
+        "height": "1.90m",
+        "weight": "95kg",
+        "contract": "PRO",
+        "nation": "Argentina",
+        "club": "Olympique Marcquois Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 13,
+                "tries": 0,
+                "points": 12
+            },
+            {
+                "season": "22/23",
+                "team": "Union Cognac-Saint-Jean",
+                "tournament": "Nationale",
+                "matches": 21,
+                "tries": 1,
+                "points": 96
+            },
+            {
+                "season": "17/18",
+                "team": "Zebre",
+                "tournament": "Pro 14",
+                "matches": 16,
+                "tries": 0,
+                "points": 2
+            },
+            {
+                "season": "17/18",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Zebre",
+                "tournament": "Champions Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "9",
+                "tournament": "1 0 8",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Hugo DETRÉ",
+        "position": "Centre",
+        "dob": "20/12/1997",
+        "height": "1.79m",
+        "weight": "102kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Olympique Marcquois Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Suresnes",
+                "tournament": "Nationale",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Suresnes",
+                "tournament": "Nationale",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Louis DECAVEL",
+        "position": "Centre",
+        "dob": "30/05/1998",
+        "height": "1.89m",
+        "weight": "93kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Olympique Marcquois Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Montauban",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Montauban",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Mark ERASMUS",
+        "position": "Centre",
+        "dob": "11/06/1995",
+        "height": "1.89m",
+        "weight": "102kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Olympique Marcquois Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 19,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "Nevers",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Thibault MOLÉANA",
+        "position": "Centre",
+        "dob": "20/08/2000",
+        "height": "1.87m",
+        "weight": "98kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Olympique Marcquois Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Blagnac",
+                "tournament": "Nationale",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Blagnac",
+                "tournament": "Nationale",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Blagnac",
+                "tournament": "Nationale",
+                "matches": 13,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Clément UNIQUE",
+        "position": "Winger",
+        "dob": "19/01/2002",
+        "height": "1.82m",
+        "weight": "78kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Olympique Marcquois Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Dany ANTUNÈS",
+        "position": "Winger",
+        "dob": "15/09/1997",
+        "height": "1.75m",
+        "weight": "87kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Olympique Marcquois Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 9,
+                "tries": 3,
+                "points": 73
+            },
+            {
+                "season": "24/25",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 21,
+                "tries": 17,
+                "points": 258
+            },
+            {
+                "season": "23/24",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 1,
+                "tries": 1,
+                "points": 19
+            },
+            {
+                "season": "22/23",
+                "team": "Union Cognac-Saint-Jean",
+                "tournament": "Nationale",
+                "matches": 25,
+                "tries": 6,
+                "points": 129
+            },
+            {
+                "season": "21/22",
+                "team": "Massy",
+                "tournament": "Nationale",
+                "matches": 13,
+                "tries": 5,
+                "points": 40
+            },
+            {
+                "season": "21/22",
+                "team": "Portugal",
+                "tournament": "Rugby Europe Championship",
+                "matches": 1,
+                "tries": 1,
+                "points": 19
+            },
+            {
+                "season": "20/21",
+                "team": "Portugal",
+                "tournament": "Rugby Europe Championship",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Portugal",
+                "tournament": "Rugby Europe Championship",
+                "matches": 5,
+                "tries": 3,
+                "points": 58
+            }
+        ]
+    },
+    {
+        "name": "Ervin MURIC",
+        "position": "Winger",
+        "dob": "03/01/1997",
+        "height": "1.80m",
+        "weight": "96kg",
+        "contract": "PRO",
+        "nation": "Belgium",
+        "club": "Olympique Marcquois Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "25/26",
+                "team": "Belgium",
+                "tournament": "Rugby World Cup 2027 Final Qualification Tournament",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 10,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "Belgium",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Suresnes",
+                "tournament": "Nationale",
+                "matches": 14,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Suresnes",
+                "tournament": "Nationale",
+                "matches": 20,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "21/22",
+                "team": "Suresnes",
+                "tournament": "Nationale",
+                "matches": 19,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "19/20",
+                "team": "Belgium",
+                "tournament": "Rugby Europe Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Belgium",
+                "tournament": "Rugby Europe Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Belgium",
+                "tournament": "Rugby Europe Championship",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Hugues CRESPO",
+        "position": "Winger",
+        "dob": "01/01/2002",
+        "height": "1.80m",
+        "weight": "99kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Olympique Marcquois Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 16,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Mathias ORTIZ",
+        "position": "Winger",
+        "dob": "26/04/2003",
+        "height": "1.90m",
+        "weight": "94kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Olympique Marcquois Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 7,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Paddy FLEMING",
+        "position": "Fullback",
+        "dob": "02/04/1998",
+        "height": "1.79m",
+        "weight": "90kg",
+        "contract": "PRO",
+        "nation": "Scotland",
+        "club": "Olympique Marcquois Rugby",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 10,
+                "tries": 4,
+                "points": 43
+            },
+            {
+                "season": "24/25",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 14,
+                "tries": 4,
+                "points": 58
+            },
+            {
+                "season": "23/24",
+                "team": "Marcq-en-Baroeul",
+                "tournament": "Nationale",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    }
+]

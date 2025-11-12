@@ -1,0 +1,3066 @@
+[
+    {
+        "name": "Kershawl SYKES-MARTIN",
+        "position": "Prop",
+        "dob": "26/04/1999",
+        "height": "1.87m",
+        "weight": "111kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Tasman Mako",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Māori All Blacks",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Quinn HARRISON-JONES",
+        "position": "Prop",
+        "dob": "05/10/1998",
+        "height": "1.81m",
+        "weight": "123kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Tasman Mako",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Southland",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Southland",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Ryan COXON",
+        "position": "Prop",
+        "dob": "30/09/1997",
+        "height": "1.83m",
+        "weight": "118kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Tasman Mako",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Western Force",
+                "tournament": "Super Rugby Pacific",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Western Force",
+                "tournament": "Super Rugby Pacific",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "22/23",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Chiefs",
+                "tournament": "Super Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Chiefs",
+                "tournament": "Super Rugby",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Sam MATENGA",
+        "position": "Prop",
+        "dob": "08/05/1998",
+        "height": "1.86m",
+        "weight": "120kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Tasman Mako",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Seattle",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Seattle",
+                "tournament": "Major League Rugby",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Seattle",
+                "tournament": "Major League Rugby",
+                "matches": 12,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "21/22",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Sione MAFI",
+        "position": "Prop",
+        "dob": "/05/2005",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Tasman Mako",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Tom HEYWOOD",
+        "position": "Prop",
+        "dob": "02/08/1997",
+        "height": "1.88m",
+        "weight": "117kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Tasman Mako",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Canterbury",
+                "tournament": "NPC",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Canterbury",
+                "tournament": "NPC",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Eli OUDENRYN",
+        "position": "Hooker",
+        "dob": "/11/2005",
+        "height": "1.83m",
+        "weight": "108kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Tasman Mako",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "New Zealand U20",
+                "tournament": "Rugby Championship U20",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Joshua TE HIRA",
+        "position": "Hooker",
+        "dob": "-",
+        "height": "1.81m",
+        "weight": "117kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Tasman Mako",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Monu MOLI",
+        "position": "Hooker",
+        "dob": "19/08/2002",
+        "height": "1.82m",
+        "weight": "105kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Tasman Mako",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Moana Pasifika",
+                "tournament": "Super Rugby Pacific",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "New Zealand U20",
+                "tournament": "Oceania Rugby U20 Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Sam MOLI",
+        "position": "Hooker",
+        "dob": "24/12/1998",
+        "height": "1.85m",
+        "weight": "114kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Tasman Mako",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Moana Pasifika",
+                "tournament": "Super Rugby Pacific",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Tonga",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Moana Pasifika",
+                "tournament": "Super Rugby Pacific",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Tonga",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Moana Pasifika",
+                "tournament": "Super Rugby Pacific",
+                "matches": 13,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "22/23",
+                "team": "Tonga",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Moana Pasifika",
+                "tournament": "Super Rugby Pacific",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Tonga",
+                "tournament": "Pacific Nations Cup",
+                "matches": 3,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Tonga",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Tomasi MAKA",
+        "position": "Hooker",
+        "dob": "21/10/2002",
+        "height": "1.86m",
+        "weight": "123kg",
+        "contract": "PRO",
+        "nation": "Australia",
+        "club": "Tasman Mako",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Moana Pasifika",
+                "tournament": "Super Rugby Pacific",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 9,
+                "points": 45
+            },
+            {
+                "season": "23/24",
+                "team": "Moana Pasifika",
+                "tournament": "Super Rugby Pacific",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Australia U20",
+                "tournament": "Oceania Rugby U20 Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Antonio SHALFOON",
+        "position": "Lock",
+        "dob": "10/08/1997",
+        "height": "1.97m",
+        "weight": "114kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Tasman Mako",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 14,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Māori All Blacks",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Hunter LEPPIEN",
+        "position": "Lock",
+        "dob": "20/10/2003",
+        "height": "1.95m",
+        "weight": "109kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Tasman Mako",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Joseph DOMONI",
+        "position": "Lock",
+        "dob": "04/10/2003",
+        "height": "1.96m",
+        "weight": "113kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Tasman Mako",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Lopeti FAIFUA",
+        "position": "Lock",
+        "dob": "22/01/2002",
+        "height": "1.98m",
+        "weight": "115kg",
+        "contract": "PRO",
+        "nation": "Australia",
+        "club": "Tasman Mako",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Western Force",
+                "tournament": "Super Rugby Pacific",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Western Force",
+                "tournament": "Super Rugby Pacific",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Reds",
+                "tournament": "Super Rugby Pacific",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Reds",
+                "tournament": "Super Rugby Pacific",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Australia U20",
+                "tournament": "Oceania Rugby U20 Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Quinten STRANGE",
+        "position": "Lock",
+        "dob": "21/08/1996",
+        "height": "2.00m",
+        "weight": "116kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Tasman Mako",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "All Blacks XV",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Aotearoa",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Aotearoa",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "Crusaders",
+                "tournament": "Super Rugby",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Crusaders",
+                "tournament": "Super Rugby",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "Crusaders",
+                "tournament": "Super Rugby",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Tayne HEMOPO",
+        "position": "Lock",
+        "dob": "/12/2004",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Tasman Mako",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Ethan BLACKADDER",
+        "position": "Back row",
+        "dob": "22/03/1995",
+        "height": "1.90m",
+        "weight": "111kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Tasman Mako",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 11,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "New Zealand",
+                "tournament": "Rugby World Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 12,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "21/22",
+                "team": "New Zealand",
+                "tournament": "Autumn Nations Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Aotearoa",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Aotearoa",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Crusaders",
+                "tournament": "Super Rugby",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Crusaders",
+                "tournament": "Super Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Fletcher ANDERSON",
+        "position": "Back row",
+        "dob": "27/12/2002",
+        "height": "1.87m",
+        "weight": "109kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Tasman Mako",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Johnny LEE",
+        "position": "Back row",
+        "dob": "04/03/2004",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Tasman Mako",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "New Zealand U20",
+                "tournament": "Rugby Championship U20",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Sione HAVILI",
+        "position": "Back row",
+        "dob": "25/01/1998",
+        "height": "1.87m",
+        "weight": "108kg",
+        "contract": "PRO",
+        "nation": "Tonga",
+        "club": "Tasman Mako",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Moana Pasifika",
+                "tournament": "Super Rugby Pacific",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Tonga",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Moana Pasifika",
+                "tournament": "Super Rugby Pacific",
+                "matches": 11,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Tonga",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 12,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Tonga",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Tonga",
+                "tournament": "Pacific Nations Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Aotearoa",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "4",
+                "tournament": "4 0 0",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Crusaders",
+                "tournament": "Super Rugby",
+                "matches": 4,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "17/18",
+                "team": "Blues",
+                "tournament": "Super Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Tone NG SHIU",
+        "position": "Back row",
+        "dob": "26/05/1994",
+        "height": "1.89m",
+        "weight": "98kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Tasman Mako",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Mason LUND",
+        "position": "Scrum-half",
+        "dob": "14/01/2002",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Tasman Mako",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Mitchell DRUMMOND",
+        "position": "Scrum-half",
+        "dob": "15/02/1994",
+        "height": "1.80m",
+        "weight": "88kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Tasman Mako",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Canterbury",
+                "tournament": "NPC",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Canterbury",
+                "tournament": "NPC",
+                "matches": 12,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Canterbury",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Aotearoa",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "4",
+                "tournament": "4 0 0",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Canterbury",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Crusaders",
+                "tournament": "Super Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 2
+            },
+            {
+                "season": "19/20",
+                "team": "7",
+                "tournament": "6 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Canterbury",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "18/19",
+                "team": "Crusaders",
+                "tournament": "Super Rugby",
+                "matches": 15,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "18/19",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Crusaders",
+                "tournament": "Super Rugby",
+                "matches": 19,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "All Blacks XV",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Crusaders",
+                "tournament": "Super Rugby",
+                "matches": 17,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "15/16",
+                "team": "Crusaders",
+                "tournament": "Super Rugby",
+                "matches": 14,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "14/15",
+                "team": "Crusaders",
+                "tournament": "Super Rugby",
+                "matches": 15,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "13/14",
+                "team": "Crusaders",
+                "tournament": "Super Rugby",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Wil THORNALLEY",
+        "position": "Scrum-half",
+        "dob": "-",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Tasman Mako",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Cooper GRANT",
+        "position": "Fly-half",
+        "dob": "02/01/2004",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Tasman Mako",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 0,
+                "points": 6
+            },
+            {
+                "season": "23/24",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 1,
+                "tries": 0,
+                "points": 6
+            },
+            {
+                "season": "23/24",
+                "team": "New Zealand U20",
+                "tournament": "Rugby Championship U20",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Jay RENTON",
+        "position": "Fly-half",
+        "dob": "16/03/1998",
+        "height": "1.79m",
+        "weight": "85kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Tasman Mako",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 2,
+                "tries": 1,
+                "points": 7
+            },
+            {
+                "season": "23/24",
+                "team": "Southland",
+                "tournament": "NPC",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Southland",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "Southland",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Taine ROBINSON",
+        "position": "Fly-half",
+        "dob": "15/06/1999",
+        "height": "1.80m",
+        "weight": "89kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Tasman Mako",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 10,
+                "tries": 1,
+                "points": 29
+            },
+            {
+                "season": "24/25",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 3,
+                "points": 65
+            },
+            {
+                "season": "21/22",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 1,
+                "points": 27
+            },
+            {
+                "season": "20/21",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Cooper ROBERTS",
+        "position": "Centre",
+        "dob": "/01/2005",
+        "height": "1.88m",
+        "weight": "97kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Tasman Mako",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "New Zealand U20",
+                "tournament": "Rugby Championship U20",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "David HAVILI",
+        "position": "Centre",
+        "dob": "23/12/1994",
+        "height": "1.84m",
+        "weight": "95kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Tasman Mako",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "All Blacks XV",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "24/25",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 9,
+                "tries": 0,
+                "points": 2
+            },
+            {
+                "season": "23/24",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 4,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "New Zealand",
+                "tournament": "Rugby World Cup",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 9,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "22/23",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "3",
+                "tournament": "2 1 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "New Zealand",
+                "tournament": "Autumn Nations Series",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Aotearoa",
+                "matches": 8,
+                "tries": 1,
+                "points": 8
+            },
+            {
+                "season": "20/21",
+                "team": "4",
+                "tournament": "4 0 0",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "20/21",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Crusaders",
+                "tournament": "Super Rugby",
+                "matches": 4,
+                "tries": 0,
+                "points": 30
+            },
+            {
+                "season": "19/20",
+                "team": "4",
+                "tournament": "4 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 6,
+                "points": 38
+            },
+            {
+                "season": "18/19",
+                "team": "Crusaders",
+                "tournament": "Super Rugby",
+                "matches": 17,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "17/18",
+                "team": "Crusaders",
+                "tournament": "Super Rugby",
+                "matches": 16,
+                "tries": 4,
+                "points": 22
+            },
+            {
+                "season": "17/18",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "All Blacks XV",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Crusaders",
+                "tournament": "Super Rugby",
+                "matches": 17,
+                "tries": 8,
+                "points": 40
+            },
+            {
+                "season": "16/17",
+                "team": "New Zealand",
+                "tournament": "Rugby Championship",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "15/16",
+                "team": "Crusaders",
+                "tournament": "Super Rugby",
+                "matches": 14,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "14/15",
+                "team": "Crusaders",
+                "tournament": "Super Rugby",
+                "matches": 11,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Levi AUMUA",
+        "position": "Centre",
+        "dob": "09/10/1994",
+        "height": "1.83m",
+        "weight": "111kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Tasman Mako",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "22/23",
+                "team": "Moana Pasifika",
+                "tournament": "Super Rugby Pacific",
+                "matches": 13,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "22/23",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "Moana Pasifika",
+                "tournament": "Super Rugby Pacific",
+                "matches": 9,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "20/21",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "18/19",
+                "team": "Blues",
+                "tournament": "Super Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Chiefs",
+                "tournament": "Super Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Bordeaux",
+                "tournament": "Challenge Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Maloni KUNAWAVE",
+        "position": "Centre",
+        "dob": "/02/2005",
+        "height": "1.86m",
+        "weight": "85kg",
+        "contract": "PRO",
+        "nation": "Fiji",
+        "club": "Tasman Mako",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "New Zealand U20",
+                "tournament": "Rugby Championship U20",
+                "matches": 3,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Timoci TAVATAVANAWAI",
+        "position": "Centre",
+        "dob": "14/02/1998",
+        "height": "1.87m",
+        "weight": "111kg",
+        "contract": "PRO",
+        "nation": "Fiji",
+        "club": "Tasman Mako",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 14,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 15,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "23/24",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "22/23",
+                "team": "Moana Pasifika",
+                "tournament": "Super Rugby Pacific",
+                "matches": 12,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "22/23",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "21/22",
+                "team": "Moana Pasifika",
+                "tournament": "Super Rugby Pacific",
+                "matches": 8,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 4,
+                "points": 20
+            }
+        ]
+    },
+    {
+        "name": "Brodie ROBINSON",
+        "position": "Winger",
+        "dob": "09/01/2004",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Tasman Mako",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Kyren TAUMOEFOLAU",
+        "position": "Winger",
+        "dob": "08/05/2003",
+        "height": "1.87m",
+        "weight": "95kg",
+        "contract": "PRO",
+        "nation": "Tonga",
+        "club": "Tasman Mako",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Moana Pasifika",
+                "tournament": "Super Rugby Pacific",
+                "matches": 12,
+                "tries": 9,
+                "points": 45
+            },
+            {
+                "season": "24/25",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "23/24",
+                "team": "Moana Pasifika",
+                "tournament": "Super Rugby Pacific",
+                "matches": 9,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Tonga",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Tonga",
+                "tournament": "Pacific Nations Cup",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Leicester FAINGA'ANUKU",
+        "position": "Winger",
+        "dob": "11/10/1999",
+        "height": "1.89m",
+        "weight": "109kg",
+        "contract": "PRO",
+        "nation": "Tonga",
+        "club": "Tasman Mako",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "New Zealand",
+                "tournament": "Autumn Nations Series",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Toulon",
+                "tournament": "Top 14",
+                "matches": 20,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 5,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "Barbarian F.C.",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "New Zealand",
+                "tournament": "Rugby Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Toulon",
+                "tournament": "Champions Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "14",
+                "tournament": "7 0 7",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Barbarian F.C.",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 13,
+                "tries": 13,
+                "points": 65
+            },
+            {
+                "season": "21/22",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 16,
+                "tries": 10,
+                "points": 50
+            },
+            {
+                "season": "21/22",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Aotearoa",
+                "matches": 9,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "5",
+                "tournament": "5 0 0",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 8,
+                "points": 40
+            },
+            {
+                "season": "19/20",
+                "team": "Crusaders",
+                "tournament": "Super Rugby",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "6",
+                "tournament": "5 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 12,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "18/19",
+                "team": "Crusaders",
+                "tournament": "Super Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "New Zealand U20",
+                "tournament": "U20 Championship",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Macca SPRINGER",
+        "position": "Winger",
+        "dob": "29/03/2003",
+        "height": "1.90m",
+        "weight": "100kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Tasman Mako",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 8,
+                "tries": 8,
+                "points": 40
+            },
+            {
+                "season": "24/25",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 8,
+                "points": 40
+            },
+            {
+                "season": "23/24",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 9,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 9,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "22/23",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "22/23",
+                "team": "New Zealand U20",
+                "tournament": "U20 Championship",
+                "matches": 5,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "21/22",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 8,
+                "points": 40
+            },
+            {
+                "season": "21/22",
+                "team": "New Zealand U20",
+                "tournament": "Oceania Rugby U20 Championship",
+                "matches": 3,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "20/21",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Jack GRAY",
+        "position": "Fullback",
+        "dob": "07/03/2000",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Tasman Mako",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "22/23",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Nic SAUIRA",
+        "position": "Fullback",
+        "dob": "01/02/2003",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Tasman Mako",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Willy HAVILI",
+        "position": "Fullback",
+        "dob": "09/09/1998",
+        "height": "1.87m",
+        "weight": "84kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Tasman Mako",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Moana Pasifika",
+                "tournament": "Super Rugby Pacific",
+                "matches": 11,
+                "tries": 5,
+                "points": 50
+            },
+            {
+                "season": "24/25",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 1,
+                "points": 75
+            },
+            {
+                "season": "24/25",
+                "team": "Tonga",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Moana Pasifika",
+                "tournament": "Super Rugby Pacific",
+                "matches": 13,
+                "tries": 2,
+                "points": 78
+            },
+            {
+                "season": "23/24",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 0,
+                "points": 104
+            },
+            {
+                "season": "23/24",
+                "team": "Tonga",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 4
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 4,
+                "tries": 5,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Moana Pasifika",
+                "tournament": "Super Rugby Pacific",
+                "matches": 14,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Tonga",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 1,
+                "points": 34
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 3,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Moana Pasifika",
+                "tournament": "Super Rugby Pacific",
+                "matches": 11,
+                "tries": 1,
+                "points": 7
+            },
+            {
+                "season": "21/22",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 2,
+                "points": 54
+            },
+            {
+                "season": "21/22",
+                "team": "Tonga",
+                "tournament": "Pacific Nations Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 7
+            },
+            {
+                "season": "20/21",
+                "team": "Tasman",
+                "tournament": "NPC",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    }
+]

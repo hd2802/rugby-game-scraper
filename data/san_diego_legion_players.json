@@ -1,0 +1,2835 @@
+[
+    {
+        "name": "Brook TO'OMALATAI",
+        "position": "Prop",
+        "dob": "29/03/1993",
+        "height": "1.83m",
+        "weight": "116kg",
+        "contract": "PRO",
+        "nation": "Samoa",
+        "club": "San Diego Legion",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Samoa",
+                "tournament": "Pacific Nations Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Canterbury",
+                "tournament": "NPC",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Darcy BREEN",
+        "position": "Prop",
+        "dob": "28/04/1999",
+        "height": "1.87m",
+        "weight": "127kg",
+        "contract": "PRO",
+        "nation": "Australia",
+        "club": "San Diego Legion",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Canterbury",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Waratahs",
+                "tournament": "Super Rugby AU",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "4",
+                "tournament": "0 0 4",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Australia U20",
+                "tournament": "U20 Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Djustice SEARS-DURU",
+        "position": "Prop",
+        "dob": "24/05/1994",
+        "height": "1.85m",
+        "weight": "122kg",
+        "contract": "PRO",
+        "nation": "Canada",
+        "club": "San Diego Legion",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "LA Giltinis",
+                "tournament": "Major League Rugby",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Seattle",
+                "tournament": "Major League Rugby",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Seattle",
+                "tournament": "Major League Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Canada",
+                "tournament": "Pacific Nations Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "Glasgow",
+                "tournament": "Pro 12",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Nathan SYLVIA",
+        "position": "Prop",
+        "dob": "17/03/1994",
+        "height": "1.83m",
+        "weight": "118kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "San Diego Legion",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "USA",
+                "tournament": "La Vila International Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 17,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "USA",
+                "tournament": "Rugby World Cup 2023 Final Qualification Tournament",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Oliver KANE",
+        "position": "Prop",
+        "dob": "25/04/1997",
+        "height": "1.93m",
+        "weight": "127kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "San Diego Legion",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Payton TELEA-ILALIO",
+        "position": "Prop",
+        "dob": "17/08/1998",
+        "height": "1.80m",
+        "weight": "116kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "San Diego Legion",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "USA",
+                "tournament": "Autumn Nations Series",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "USA",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "USA",
+                "tournament": "Pacific Nations Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Austin",
+                "tournament": "Major League Rugby",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Cyrille CAMA",
+        "position": "Hooker",
+        "dob": "23/04/2001",
+        "height": "1.80m",
+        "weight": "102kg",
+        "contract": "PRO",
+        "nation": "Fiji",
+        "club": "San Diego Legion",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "23/24",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 0,
+                "points": 17
+            },
+            {
+                "season": "21/22",
+                "team": "LA Giltinis",
+                "tournament": "Major League Rugby",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "LA Giltinis",
+                "tournament": "Major League Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Hugh ROACH",
+        "position": "Hooker",
+        "dob": "11/09/1992",
+        "height": "1.78m",
+        "weight": "108kg",
+        "contract": "PRO",
+        "nation": "Australia",
+        "club": "San Diego Legion",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 12,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "23/24",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 12,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "22/23",
+                "team": "Chicago Hounds",
+                "tournament": "Major League Rugby",
+                "matches": 6,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "Perpignan",
+                "tournament": "Top 14",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Austin",
+                "tournament": "Major League Rugby",
+                "matches": 12,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "20/21",
+                "team": "Austin",
+                "tournament": "Major League Rugby",
+                "matches": 11,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "19/20",
+                "team": "Crusaders",
+                "tournament": "Super Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Rebels",
+                "tournament": "Super Rugby",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Waratahs",
+                "tournament": "Super Rugby",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Waratahs",
+                "tournament": "Super Rugby",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "15/16",
+                "team": "Waratahs",
+                "tournament": "Super Rugby",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Waratahs",
+                "tournament": "Super Rugby",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Waratahs",
+                "tournament": "Super Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Liki CHAN-TUNG",
+        "position": "Hooker",
+        "dob": "16/03/2001",
+        "height": "1.75m",
+        "weight": "106kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "San Diego Legion",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Lolenisi VEIMAU",
+        "position": "Hooker",
+        "dob": "09/09/1997",
+        "height": "1.76m",
+        "weight": "105kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "San Diego Legion",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "23/24",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Shilo KLEIN",
+        "position": "Hooker",
+        "dob": "05/05/1999",
+        "height": "1.81m",
+        "weight": "107kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "San Diego Legion",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 0,
+                "points": 52
+            },
+            {
+                "season": "24/25",
+                "team": "USA",
+                "tournament": "Test Matchs",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "North Harbour",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 15,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "North Harbour",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Canterbury",
+                "tournament": "NPC",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Canterbury",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "Canterbury",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "New Zealand U20",
+                "tournament": "U20 Championship",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Brandon HARVEY",
+        "position": "Lock",
+        "dob": "13/06/2002",
+        "height": "1.99m",
+        "weight": "117kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "San Diego Legion",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "USA",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Charlie HEWITT",
+        "position": "Lock",
+        "dob": "06/02/1995",
+        "height": "2.01m",
+        "weight": "125kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "San Diego Legion",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "New-York",
+                "tournament": "Major League Rugby",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "New-York",
+                "tournament": "Major League Rugby",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "New-York",
+                "tournament": "Major League Rugby",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "New-York",
+                "tournament": "Major League Rugby",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Worcester",
+                "tournament": "Challenge Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Worcester",
+                "tournament": "Premiership",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Chris TURORI",
+        "position": "Lock",
+        "dob": "27/11/1993",
+        "height": "1.93m",
+        "weight": "112kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "San Diego Legion",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 11,
+                "tries": 1,
+                "points": 7
+            },
+            {
+                "season": "20/21",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "James RIVERS",
+        "position": "Lock",
+        "dob": "19/07/2000",
+        "height": "1.98m",
+        "weight": "115kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "San Diego Legion",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Hong Kong",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Anthem RC",
+                "tournament": "Major League Rugby",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Jed HOLLOWAY",
+        "position": "Lock",
+        "dob": "02/11/1992",
+        "height": "1.95m",
+        "weight": "118kg",
+        "contract": "PRO",
+        "nation": "Australia",
+        "club": "San Diego Legion",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Leicester",
+                "tournament": "Premiership",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 15,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "23/24",
+                "team": "Waratahs",
+                "tournament": "Super Rugby Pacific",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Waratahs",
+                "tournament": "Super Rugby Pacific",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Australia",
+                "tournament": "Autumn Nations Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Waratahs",
+                "tournament": "Super Rugby Pacific",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Australia",
+                "tournament": "Rugby Championship",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Munster",
+                "tournament": "Pro 14",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Waratahs",
+                "tournament": "Super Rugby",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Waratahs",
+                "tournament": "Super Rugby",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "Waratahs",
+                "tournament": "Super Rugby",
+                "matches": 18,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "Waratahs",
+                "tournament": "Super Rugby",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Waratahs",
+                "tournament": "Super Rugby",
+                "matches": 9,
+                "tries": 4,
+                "points": 20
+            }
+        ]
+    },
+    {
+        "name": "Zak FARRANCE",
+        "position": "Lock",
+        "dob": "18/05/1996",
+        "height": "1.97m",
+        "weight": "119kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "San Diego Legion",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Nevers",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Agen",
+                "tournament": "Pro D2",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Agen",
+                "tournament": "Pro D2",
+                "matches": 21,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "Agen",
+                "tournament": "Pro D2",
+                "matches": 16,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Aminae AMIATU-TANOI",
+        "position": "Back row",
+        "dob": "/11/2004",
+        "height": "1.90m",
+        "weight": "108kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "San Diego Legion",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Brad WILKIN",
+        "position": "Back row",
+        "dob": "08/12/1995",
+        "height": "1.89m",
+        "weight": "104kg",
+        "contract": "PRO",
+        "nation": "Australia",
+        "club": "San Diego Legion",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 14,
+                "tries": 11,
+                "points": 55
+            },
+            {
+                "season": "23/24",
+                "team": "Rebels",
+                "tournament": "Super Rugby Pacific",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Australia A",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Rebels",
+                "tournament": "Super Rugby Pacific",
+                "matches": 14,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "21/22",
+                "team": "Rebels",
+                "tournament": "Super Rugby Pacific",
+                "matches": 14,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "Rebels",
+                "tournament": "Super Rugby AU",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Rebels",
+                "tournament": "Super Rugby AU",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "Rebels",
+                "tournament": "Super Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Waratahs",
+                "tournament": "Super Rugby",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Christian POIDEVIN",
+        "position": "Back row",
+        "dob": "09/09/1998",
+        "height": "1.88m",
+        "weight": "104kg",
+        "contract": "PRO",
+        "nation": "Australia",
+        "club": "San Diego Legion",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "USA",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 14,
+                "tries": 0,
+                "points": 42
+            },
+            {
+                "season": "24/25",
+                "team": "USA",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 12,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "21/22",
+                "team": "LA Giltinis",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "LA Giltinis",
+                "tournament": "Major League Rugby",
+                "matches": 12,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Jimmy HOKAFONU",
+        "position": "Back row",
+        "dob": "27/11/2000",
+        "height": "1.89m",
+        "weight": "125kg",
+        "contract": "PRO",
+        "nation": "Australia",
+        "club": "San Diego Legion",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Paddy RYAN",
+        "position": "Back row",
+        "dob": "13/10/1998",
+        "height": "1.83m",
+        "weight": "102kg",
+        "contract": "PRO",
+        "nation": "Ireland",
+        "club": "San Diego Legion",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "USA",
+                "tournament": "Autumn Nations Series",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "25/26",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "USA",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Coventry",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "16",
+                "tournament": "10 0 6",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "USA",
+                "tournament": "Test Matchs",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Ampthill",
+                "tournament": "RFU Championship",
+                "matches": 17,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "18/19",
+                "team": "Northampton",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Tevita TAMEILAU",
+        "position": "Back row",
+        "dob": "22/01/1990",
+        "height": "1.96m",
+        "weight": "123kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "San Diego Legion",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 13,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "21/22",
+                "team": "USA",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Glasgow",
+                "tournament": "Pro 14",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "USA",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Narbonne",
+                "tournament": "Pro D2",
+                "matches": 18,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Narbonne",
+                "tournament": "Pro D2",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "USA",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Vili HELU",
+        "position": "Back row",
+        "dob": "20/03/1996",
+        "height": "1.93m",
+        "weight": "107kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "San Diego Legion",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "USA",
+                "tournament": "Autumn Nations Series",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 15,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "USA",
+                "tournament": "Test Matchs",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 17,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "USA",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "RFC Los Angeles",
+                "tournament": "Major League Rugby",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "USA",
+                "tournament": "Rugby World Cup 2023 Final Qualification Tournament",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "RFC Los Angeles",
+                "tournament": "Major League Rugby",
+                "matches": 11,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "RFC Los Angeles",
+                "tournament": "Major League Rugby",
+                "matches": 18,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "RFC Los Angeles",
+                "tournament": "Major League Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Aidan KONJA",
+        "position": "Scrum-half",
+        "dob": "-",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "San Diego Legion",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": []
+    },
+    {
+        "name": "Connor TUPAI",
+        "position": "Scrum-half",
+        "dob": "08/12/1999",
+        "height": "1.87m",
+        "weight": "89kg",
+        "contract": "PRO",
+        "nation": "Samoa",
+        "club": "San Diego Legion",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Samoa",
+                "tournament": "Rugby World Cup 2027 Final Qualification Tournament",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 14,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Samoa",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 15,
+                "tries": 0,
+                "points": 27
+            },
+            {
+                "season": "21/22",
+                "team": "Northampton",
+                "tournament": "Premiership",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Northampton",
+                "tournament": "Premiership",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Northampton",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Northampton",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Harris RUTHERFORD",
+        "position": "Fly-half",
+        "dob": "14/05/2003",
+        "height": "1.90m",
+        "weight": "96kg",
+        "contract": "PRO",
+        "nation": "Scotland",
+        "club": "San Diego Legion",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 2,
+                "tries": 0,
+                "points": 6
+            },
+            {
+                "season": "23/24",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 14
+            }
+        ]
+    },
+    {
+        "name": "Inoke WAQAVESI",
+        "position": "Fly-half",
+        "dob": "08/05/2000",
+        "height": "1.73m",
+        "weight": "85kg",
+        "contract": "PRO",
+        "nation": "Fiji",
+        "club": "San Diego Legion",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Lincoln MCCLUTCHIE",
+        "position": "Fly-half",
+        "dob": "12/04/1999",
+        "height": "1.74m",
+        "weight": "85kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "San Diego Legion",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 13,
+                "tries": 1,
+                "points": 69
+            },
+            {
+                "season": "24/25",
+                "team": "Hawke's Bay",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 3,
+                "points": 58
+            },
+            {
+                "season": "23/24",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 12,
+                "tries": 2,
+                "points": 81
+            },
+            {
+                "season": "23/24",
+                "team": "Hawke's Bay",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 2,
+                "points": 47
+            },
+            {
+                "season": "22/23",
+                "team": "Moana Pasifika",
+                "tournament": "Super Rugby Pacific",
+                "matches": 8,
+                "tries": 0,
+                "points": 40
+            },
+            {
+                "season": "22/23",
+                "team": "Hawke's Bay",
+                "tournament": "NPC",
+                "matches": 13,
+                "tries": 3,
+                "points": 125
+            },
+            {
+                "season": "21/22",
+                "team": "Moana Pasifika",
+                "tournament": "Super Rugby Pacific",
+                "matches": 13,
+                "tries": 0,
+                "points": 18
+            },
+            {
+                "season": "21/22",
+                "team": "Hawke's Bay",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 3,
+                "points": 97
+            },
+            {
+                "season": "20/21",
+                "team": "Hawke's Bay",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 2,
+                "points": 74
+            },
+            {
+                "season": "19/20",
+                "team": "Hawke's Bay",
+                "tournament": "NPC",
+                "matches": 12,
+                "tries": 0,
+                "points": 57
+            }
+        ]
+    },
+    {
+        "name": "Alesana POHLA",
+        "position": "Centre",
+        "dob": "30/12/1997",
+        "height": "1.75m",
+        "weight": "95kg",
+        "contract": "PRO",
+        "nation": "Samoa",
+        "club": "San Diego Legion",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Cassh MALUIA",
+        "position": "Centre",
+        "dob": "03/10/1998",
+        "height": "1.83m",
+        "weight": "115kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "San Diego Legion",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Chicago Hounds",
+                "tournament": "Major League Rugby",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Darius LAW",
+        "position": "Centre",
+        "dob": "28/02/2002",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "San Diego Legion",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Junior TIME-TAUTUA",
+        "position": "Centre",
+        "dob": "-",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "San Diego Legion",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Marcel BRACHE",
+        "position": "Centre",
+        "dob": "15/10/1987",
+        "height": "1.93m",
+        "weight": "94kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "San Diego Legion",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 13,
+                "tries": 0,
+                "points": 2
+            },
+            {
+                "season": "23/24",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 14,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "22/23",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 14,
+                "tries": 2,
+                "points": 14
+            },
+            {
+                "season": "22/23",
+                "team": "USA",
+                "tournament": "Rugby World Cup 2023 Final Qualification Tournament",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Austin",
+                "tournament": "Major League Rugby",
+                "matches": 13,
+                "tries": 1,
+                "points": 7
+            },
+            {
+                "season": "21/22",
+                "team": "USA",
+                "tournament": "Test Matchs",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Western Force",
+                "tournament": "Super Rugby AU",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "USA",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Western Force",
+                "tournament": "Super Rugby AU",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "USA",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "4",
+                "tournament": "0 0 4",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "USA",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "USA",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "16/17",
+                "team": "Western Force",
+                "tournament": "Super Rugby",
+                "matches": 9,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "16/17",
+                "team": "USA",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Western Force",
+                "tournament": "Super Rugby",
+                "matches": 13,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "14/15",
+                "team": "Western Force",
+                "tournament": "Super Rugby",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Western Force",
+                "tournament": "Super Rugby",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Nick JOOSTE",
+        "position": "Centre",
+        "dob": "07/07/1997",
+        "height": "1.94m",
+        "weight": "98kg",
+        "contract": "PRO",
+        "nation": "Australia",
+        "club": "San Diego Legion",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "23/24",
+                "team": "Rebels",
+                "tournament": "Super Rugby Pacific",
+                "matches": 13,
+                "tries": 0,
+                "points": 11
+            },
+            {
+                "season": "22/23",
+                "team": "Rebels",
+                "tournament": "Super Rugby Pacific",
+                "matches": 10,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Rebels",
+                "tournament": "Super Rugby Pacific",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Western Force",
+                "tournament": "Super Rugby AU",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Tavite LOPETI",
+        "position": "Centre",
+        "dob": "20/11/1998",
+        "height": "1.78m",
+        "weight": "96kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "San Diego Legion",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "USA",
+                "tournament": "Autumn Nations Series",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "25/26",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 15,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "USA",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Seattle",
+                "tournament": "Major League Rugby",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "USA",
+                "tournament": "Test Matchs",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Seattle",
+                "tournament": "Major League Rugby",
+                "matches": 15,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "USA",
+                "tournament": "Rugby World Cup 2023 Final Qualification Tournament",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Seattle",
+                "tournament": "Major League Rugby",
+                "matches": 17,
+                "tries": 0,
+                "points": 29
+            },
+            {
+                "season": "21/22",
+                "team": "USA",
+                "tournament": "Test Matchs",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Tiaan LOOTS",
+        "position": "Centre",
+        "dob": "01/02/1992",
+        "height": "1.83m",
+        "weight": "97kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "San Diego Legion",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 10,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "22/23",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 5,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "21/22",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 8,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "19/20",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "James VAIFALE",
+        "position": "Winger",
+        "dob": "15/12/1994",
+        "height": "1.83m",
+        "weight": "95kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "San Diego Legion",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 4,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Dallas",
+                "tournament": "Major League Rugby",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 12,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Ryan JAMES",
+        "position": "Winger",
+        "dob": "19/09/1999",
+        "height": "1.88m",
+        "weight": "88kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "San Diego Legion",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 15,
+                "tries": 0,
+                "points": 27
+            },
+            {
+                "season": "23/24",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "LA Giltinis",
+                "tournament": "Major League Rugby",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "USA",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "LA Giltinis",
+                "tournament": "Major League Rugby",
+                "matches": 15,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "19/20",
+                "team": "American Raptors",
+                "tournament": "Major League Rugby",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Steffan CRIMP",
+        "position": "Winger",
+        "dob": "21/07/2003",
+        "height": "1.83m",
+        "weight": "86kg",
+        "contract": "PRO",
+        "nation": "Wales",
+        "club": "San Diego Legion",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 7,
+                "tries": 2,
+                "points": 26
+            },
+            {
+                "season": "23/24",
+                "team": "Anthem RC",
+                "tournament": "Major League Rugby",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Tomas AOAKE",
+        "position": "Winger",
+        "dob": "06/09/1995",
+        "height": "1.82m",
+        "weight": "94kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "San Diego Legion",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 15,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "23/24",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 12,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "Auckland",
+                "tournament": "NPC",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 15,
+                "tries": 11,
+                "points": 55
+            },
+            {
+                "season": "21/22",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 10,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "21/22",
+                "team": "Auckland",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "North Harbour",
+                "tournament": "NPC",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "North Harbour",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 4,
+                "points": 20
+            }
+        ]
+    },
+    {
+        "name": "Ethan GRAYSON",
+        "position": "Fullback",
+        "dob": "15/04/2002",
+        "height": "1.92m",
+        "weight": "100kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "San Diego Legion",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 6,
+                "tries": 0,
+                "points": 23
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 14,
+                "tries": 1,
+                "points": 29
+            },
+            {
+                "season": "23/24",
+                "team": "Bedford",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 10,
+                "tries": 0,
+                "points": 12
+            },
+            {
+                "season": "22/23",
+                "team": "Bedford",
+                "tournament": "RFU Championship",
+                "matches": 15,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "22/23",
+                "team": "Northampton",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Northampton",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "England U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Rhian STOWERS",
+        "position": "Fullback",
+        "dob": "14/02/2000",
+        "height": "1.75m",
+        "weight": "78kg",
+        "contract": "PRO",
+        "nation": "Australia",
+        "club": "San Diego Legion",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 10,
+                "tries": 3,
+                "points": 15
+            }
+        ]
+    }
+]

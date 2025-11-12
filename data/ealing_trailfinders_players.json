@@ -1,0 +1,4599 @@
+[
+    {
+        "name": "Adam NICOL",
+        "position": "Prop",
+        "dob": "02/07/1997",
+        "height": "1.86m",
+        "weight": "110kg",
+        "contract": "PRO",
+        "nation": "Scotland",
+        "club": "Ealing Trailfinders",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Ealing Trailfinders",
+                "tournament": "Champ Rugby",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Ealing Trailfinders",
+                "tournament": "RFU Championship",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Jersey Reds",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Coventry",
+                "tournament": "RFU Championship",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Jersey Reds",
+                "tournament": "RFU Championship",
+                "matches": 16,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "Glasgow",
+                "tournament": "Pro 14",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Glasgow",
+                "tournament": "Pro 14",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Glasgow",
+                "tournament": "Pro 14",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Glasgow",
+                "tournament": "Pro 12",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Biyi ALO",
+        "position": "Prop",
+        "dob": "16/03/1994",
+        "height": "1.88m",
+        "weight": "145kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Ealing Trailfinders",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Ealing Trailfinders",
+                "tournament": "RFU Championship",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Ealing Trailfinders",
+                "tournament": "RFU Championship",
+                "matches": 18,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Wasps",
+                "tournament": "Premiership",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Racing 92",
+                "tournament": "Top 14",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Wasps",
+                "tournament": "Premiership",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Wasps",
+                "tournament": "Champions Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Wasps",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "10",
+                "tournament": "8 0 2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Wasps",
+                "tournament": "Premiership",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Worcester",
+                "tournament": "Premiership",
+                "matches": 7,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "16/17",
+                "team": "Worcester",
+                "tournament": "Challenge Cup",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "10",
+                "tournament": "4 0 6",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Saracens",
+                "tournament": "Premiership",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Elliot CHILVERS",
+        "position": "Prop",
+        "dob": "17/10/2000",
+        "height": "1.86m",
+        "weight": "125kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Ealing Trailfinders",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Ealing Trailfinders",
+                "tournament": "Champ Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Ealing Trailfinders",
+                "tournament": "RFU Championship",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Chinnor",
+                "tournament": "RFU Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Coventry",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "13",
+                "tournament": "9 0 4",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Ealing Trailfinders",
+                "tournament": "RFU Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "London Scottish",
+                "tournament": "RFU Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "George DAVIS",
+        "position": "Prop",
+        "dob": "31/07/1995",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Ealing Trailfinders",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Ealing Trailfinders",
+                "tournament": "Champ Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Ealing Trailfinders",
+                "tournament": "RFU Championship",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "7",
+                "tournament": "4 0 3",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Ealing Trailfinders",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "7",
+                "tournament": "5 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Ealing Trailfinders",
+                "tournament": "RFU Championship",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "James KENNY",
+        "position": "Prop",
+        "dob": "26/05/1999",
+        "height": "1.86m",
+        "weight": "117kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Ealing Trailfinders",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Ealing Trailfinders",
+                "tournament": "Champ Rugby",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Ealing Trailfinders",
+                "tournament": "RFU Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Exeter",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Ealing Trailfinders",
+                "tournament": "RFU Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Exeter",
+                "tournament": "Premiership",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "4",
+                "tournament": "4 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Coventry",
+                "tournament": "RFU Championship",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Exeter",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "8",
+                "tournament": "4 0 4",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Exeter",
+                "tournament": "Premiership",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Exeter",
+                "tournament": "Premiership",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Exeter",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "England U20",
+                "tournament": "U20 Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Exeter",
+                "tournament": "Anglo Welsh Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Kabous BEZUIDENHOUT",
+        "position": "Prop",
+        "dob": "07/09/2001",
+        "height": "1.88m",
+        "weight": "130kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Ealing Trailfinders",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Ealing Trailfinders",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "6",
+                "tournament": "6 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Kyle WHYTE",
+        "position": "Prop",
+        "dob": "03/01/1995",
+        "height": "1.91m",
+        "weight": "125kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Ealing Trailfinders",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Ealing Trailfinders",
+                "tournament": "Champ Rugby",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Ealing Trailfinders",
+                "tournament": "RFU Championship",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "6",
+                "tournament": "3 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Ealing Trailfinders",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "19",
+                "tournament": "15 0 4",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Ealing Trailfinders",
+                "tournament": "RFU Championship",
+                "matches": 15,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "18/19",
+                "team": "Bayonne",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Edinburgh",
+                "tournament": "Pro 12",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Lefty ZIGIRIADIS",
+        "position": "Prop",
+        "dob": "10/09/2001",
+        "height": "1.82m",
+        "weight": "116kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Ealing Trailfinders",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Ealing Trailfinders",
+                "tournament": "Champ Rugby",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Ealing Trailfinders",
+                "tournament": "RFU Championship",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "7",
+                "tournament": "4 0 3",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Cornish Pirates",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "17",
+                "tournament": "14 1 2",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Ealing Trailfinders",
+                "tournament": "RFU Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Harry THOMPSON",
+        "position": "Hooker",
+        "dob": "16/12/2003",
+        "height": "1.80m",
+        "weight": "100kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Ealing Trailfinders",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Sale",
+                "tournament": "Premiership",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Sale",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Sale",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Loïc KEASEY",
+        "position": "Hooker",
+        "dob": "-",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Ealing Trailfinders",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Ealing Trailfinders",
+                "tournament": "Champ Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Matt CORNISH",
+        "position": "Hooker",
+        "dob": "13/03/1997",
+        "height": "1.78m",
+        "weight": "104kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Ealing Trailfinders",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Ealing Trailfinders",
+                "tournament": "Champ Rugby",
+                "matches": 5,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "24/25",
+                "team": "Ealing Trailfinders",
+                "tournament": "RFU Championship",
+                "matches": 12,
+                "tries": 12,
+                "points": 60
+            },
+            {
+                "season": "24/25",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Ealing Trailfinders",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 5,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "17",
+                "tournament": "14 0 3",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "London Irish",
+                "tournament": "Premiership",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "London Irish",
+                "tournament": "Premiership",
+                "matches": 15,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "4",
+                "tournament": "3 1 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "London Irish",
+                "tournament": "Challenge Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "9",
+                "tournament": "3 1 5",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "London Irish",
+                "tournament": "Premiership",
+                "matches": 8,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Mike WILLEMSE",
+        "position": "Hooker",
+        "dob": "14/02/1993",
+        "height": "1.85m",
+        "weight": "104kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Ealing Trailfinders",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Ealing Trailfinders",
+                "tournament": "RFU Championship",
+                "matches": 15,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "24/25",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Ealing Trailfinders",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "16",
+                "tournament": "12 0 4",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "London Irish",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "14",
+                "tournament": "8 0 6",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "4",
+                "tournament": "0 1 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "London Irish",
+                "tournament": "Premiership",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "6",
+                "tournament": "4 1 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Edinburgh",
+                "tournament": "Pro 14",
+                "matches": 13,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "4",
+                "tournament": "1 1 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Edinburgh",
+                "tournament": "Pro 14",
+                "matches": 16,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "19/20",
+                "team": "7",
+                "tournament": "4 1 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Kings",
+                "tournament": "Pro 14",
+                "matches": 17,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "17/18",
+                "team": "Kings",
+                "tournament": "Pro 14",
+                "matches": 13,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "16/17",
+                "team": "Kings",
+                "tournament": "Super Rugby",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "15/16",
+                "team": "Stormers",
+                "tournament": "Super Rugby",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Stormers",
+                "tournament": "Super Rugby",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Stormers",
+                "tournament": "Super Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Scott BUCKLEY",
+        "position": "Hooker",
+        "dob": "13/06/2000",
+        "height": "1.80m",
+        "weight": "104kg",
+        "contract": "PRO",
+        "nation": "Ireland",
+        "club": "Ealing Trailfinders",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Ealing Trailfinders",
+                "tournament": "Champ Rugby",
+                "matches": 6,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "24/25",
+                "team": "Ealing Trailfinders",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Munster",
+                "tournament": "United Rugby Championship",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "0 1 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Munster",
+                "tournament": "United Rugby Championship",
+                "matches": 9,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Munster",
+                "tournament": "Champions Cup",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Bobby DE WEE",
+        "position": "Lock",
+        "dob": "04/02/1994",
+        "height": "1.96m",
+        "weight": "114kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Ealing Trailfinders",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Ealing Trailfinders",
+                "tournament": "Champ Rugby",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Ealing Trailfinders",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "8",
+                "tournament": "7 0 1",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Ealing Trailfinders",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "19",
+                "tournament": "15 0 4",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Ealing Trailfinders",
+                "tournament": "RFU Championship",
+                "matches": 13,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "19/20",
+                "team": "Kings",
+                "tournament": "Pro 14",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "Kings",
+                "tournament": "Pro 14",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Kings",
+                "tournament": "Pro 14",
+                "matches": 20,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Danny CUTMORE",
+        "position": "Lock",
+        "dob": "31/12/1997",
+        "height": "2.01m",
+        "weight": "109kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Ealing Trailfinders",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Ealing Trailfinders",
+                "tournament": "Champ Rugby",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Ealing Trailfinders",
+                "tournament": "RFU Championship",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Ealing Trailfinders",
+                "tournament": "RFU Championship",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Ealing Trailfinders",
+                "tournament": "RFU Championship",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Saracens",
+                "tournament": "Anglo Welsh Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "David DOUGLAS BRIDGE",
+        "position": "Lock",
+        "dob": "11/08/2000",
+        "height": "1.92m",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Ealing Trailfinders",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Ealing Trailfinders",
+                "tournament": "Champ Rugby",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Ealing Trailfinders",
+                "tournament": "RFU Championship",
+                "matches": 18,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "24/25",
+                "team": "6",
+                "tournament": "3 0 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Ealing Trailfinders",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Cornish Pirates",
+                "tournament": "RFU Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "London Scottish",
+                "tournament": "RFU Championship",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Ealing Trailfinders",
+                "tournament": "RFU Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Leicester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "George SHAW",
+        "position": "Lock",
+        "dob": "17/06/2003",
+        "height": "1.96m",
+        "weight": "111kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Ealing Trailfinders",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Ealing Trailfinders",
+                "tournament": "Champ Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Chinnor",
+                "tournament": "RFU Championship",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Ealing Trailfinders",
+                "tournament": "RFU Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Ireland U20",
+                "tournament": "U20 Summer Series",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Josh CAULFIELD",
+        "position": "Lock",
+        "dob": "09/06/1997",
+        "height": "1.93m",
+        "weight": "116kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Ealing Trailfinders",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Bristol",
+                "tournament": "Premiership",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Bristol",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 4,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "16",
+                "tournament": "9 0 7",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "London Irish",
+                "tournament": "Premiership",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Wasps",
+                "tournament": "Premiership",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Exeter",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Exeter",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Josh TAYLOR",
+        "position": "Lock",
+        "dob": "28/06/2002",
+        "height": "1.96m",
+        "weight": "111kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Ealing Trailfinders",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Ealing Trailfinders",
+                "tournament": "Champ Rugby",
+                "matches": 4,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Ealing Trailfinders",
+                "tournament": "RFU Championship",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Ealing Trailfinders",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "7",
+                "tournament": "7 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Scotland U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "4",
+                "tournament": "0 0 4",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Matas JUREVICIUS",
+        "position": "Lock",
+        "dob": "07/04/2000",
+        "height": "1.93m",
+        "weight": "115kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Ealing Trailfinders",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Ealing Trailfinders",
+                "tournament": "Champ Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Ealing Trailfinders",
+                "tournament": "RFU Championship",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Harlequins",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "London Scottish",
+                "tournament": "RFU Championship",
+                "matches": 5,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "22/23",
+                "team": "London Scottish",
+                "tournament": "RFU Championship",
+                "matches": 15,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "22/23",
+                "team": "Harlequins",
+                "tournament": "Premiership",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Harlequins",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 3,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "7",
+                "tournament": "4 0 3",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Harlequins",
+                "tournament": "Challenge Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Sean LONSDALE",
+        "position": "Lock",
+        "dob": "07/06/1997",
+        "height": "1.96m",
+        "weight": "112kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Ealing Trailfinders",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Ealing Trailfinders",
+                "tournament": "Champ Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Ealing Trailfinders",
+                "tournament": "RFU Championship",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "6",
+                "tournament": "3 0 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Dragons",
+                "tournament": "United Rugby Championship",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Dragons",
+                "tournament": "United Rugby Championship",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "5",
+                "tournament": "1 1 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Exeter",
+                "tournament": "Premiership",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Exeter",
+                "tournament": "Premiership",
+                "matches": 18,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Exeter",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "9",
+                "tournament": "7 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "1",
+                "tournament": "0 1 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Exeter",
+                "tournament": "Premiership",
+                "matches": 15,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "18/19",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "2",
+                "tournament": "1 1 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Exeter",
+                "tournament": "Anglo Welsh Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Cameron TERRY",
+        "position": "Back row",
+        "dob": "04/10/1999",
+        "height": "1.80m",
+        "weight": "105kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Ealing Trailfinders",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Ealing Trailfinders",
+                "tournament": "RFU Championship",
+                "matches": 9,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "Doncaster",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Ealing Trailfinders",
+                "tournament": "RFU Championship",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "London Scottish",
+                "tournament": "RFU Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Ealing Trailfinders",
+                "tournament": "RFU Championship",
+                "matches": 11,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "18/19",
+                "team": "Gloucester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Conor OLIVER",
+        "position": "Back row",
+        "dob": "21/09/1995",
+        "height": "1.83m",
+        "weight": "102kg",
+        "contract": "PRO",
+        "nation": "Ireland",
+        "club": "Ealing Trailfinders",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Ealing Trailfinders",
+                "tournament": "Champ Rugby",
+                "matches": 3,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Connacht",
+                "tournament": "United Rugby Championship",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Connacht",
+                "tournament": "United Rugby Championship",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Connacht",
+                "tournament": "United Rugby Championship",
+                "matches": 19,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "22/23",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Connacht",
+                "tournament": "United Rugby Championship",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "6",
+                "tournament": "1 0 5",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Connacht",
+                "tournament": "Pro 14",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Munster",
+                "tournament": "Pro 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Connacht",
+                "tournament": "Pro 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Munster",
+                "tournament": "Pro 14",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Munster",
+                "tournament": "Pro 14",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Munster",
+                "tournament": "Pro 12",
+                "matches": 14,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "15/16",
+                "team": "Munster",
+                "tournament": "Pro 12",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Darren LOW",
+        "position": "Back row",
+        "dob": "/04/2005",
+        "height": "1.89m",
+        "weight": "104kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Ealing Trailfinders",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": []
+    },
+    {
+        "name": "Gabriel MANN",
+        "position": "Back row",
+        "dob": "-",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Ealing Trailfinders",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Chinnor",
+                "tournament": "Champ Rugby",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Geordie IRVINE",
+        "position": "Back row",
+        "dob": "05/08/2003",
+        "height": "2.00m",
+        "weight": "104kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Ealing Trailfinders",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Chinnor",
+                "tournament": "Champ Rugby",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Chinnor",
+                "tournament": "RFU Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Ealing Trailfinders",
+                "tournament": "RFU Championship",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Northampton",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Bedford",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Cambridge",
+                "tournament": "RFU Championship",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Bedford",
+                "tournament": "RFU Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Northampton",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Ampthill",
+                "tournament": "RFU Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Northampton",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Jamie CARR",
+        "position": "Back row",
+        "dob": "-",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Ealing Trailfinders",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Chinnor",
+                "tournament": "Champ Rugby",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Ealing Trailfinders",
+                "tournament": "RFU Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Jordy REID",
+        "position": "Back row",
+        "dob": "03/10/1991",
+        "height": "1.83m",
+        "weight": "107kg",
+        "contract": "PRO",
+        "nation": "Australia",
+        "club": "Ealing Trailfinders",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Ealing Trailfinders",
+                "tournament": "Champ Rugby",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Ealing Trailfinders",
+                "tournament": "RFU Championship",
+                "matches": 18,
+                "tries": 9,
+                "points": 45
+            },
+            {
+                "season": "24/25",
+                "team": "7",
+                "tournament": "5 0 2",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Ealing Trailfinders",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "7",
+                "tournament": "6 0 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Gloucester",
+                "tournament": "Premiership",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Gloucester",
+                "tournament": "Premiership",
+                "matches": 16,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Gloucester",
+                "tournament": "Premiership",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Gloucester",
+                "tournament": "Premiership",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Rebels",
+                "tournament": "Super Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Rebels",
+                "tournament": "Super Rugby",
+                "matches": 15,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "14/15",
+                "team": "Rebels",
+                "tournament": "Super Rugby",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Rebels",
+                "tournament": "Super Rugby",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Kyle HATHERELL",
+        "position": "Back row",
+        "dob": "03/04/1995",
+        "height": "1.93m",
+        "weight": "114kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Ealing Trailfinders",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Ealing Trailfinders",
+                "tournament": "Champ Rugby",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Leicester",
+                "tournament": "Premiership",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "6",
+                "tournament": "4 0 2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Leicester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "9",
+                "tournament": "4 0 5",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "La Rochelle",
+                "tournament": "Top 14",
+                "matches": 16,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Worcester",
+                "tournament": "Premiership",
+                "matches": 18,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "1 1 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Worcester",
+                "tournament": "Premiership",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Ollie NEWMAN",
+        "position": "Back row",
+        "dob": "01/12/2000",
+        "height": "1.93m",
+        "weight": "94kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Ealing Trailfinders",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Ealing Trailfinders",
+                "tournament": "RFU Championship",
+                "matches": 4,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "Ealing Trailfinders",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "11",
+                "tournament": "8 0 3",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Bedford",
+                "tournament": "RFU Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Ealing Trailfinders",
+                "tournament": "RFU Championship",
+                "matches": 6,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Northampton",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Northampton",
+                "tournament": "Premiership",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Rob FARRAR",
+        "position": "Back row",
+        "dob": "16/03/2000",
+        "height": "1.90m",
+        "weight": "103kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Ealing Trailfinders",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Ealing Trailfinders",
+                "tournament": "Champ Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Ealing Trailfinders",
+                "tournament": "RFU Championship",
+                "matches": 15,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "24/25",
+                "team": "7",
+                "tournament": "4 0 3",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Ealing Trailfinders",
+                "tournament": "RFU Championship",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Ealing Trailfinders",
+                "tournament": "RFU Championship",
+                "matches": 19,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Newcastle",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "6",
+                "tournament": "1 0 5",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "England U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Newcastle",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Siya NINGIZA",
+        "position": "Back row",
+        "dob": "06/04/2002",
+        "height": "1.85m",
+        "weight": "106kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Ealing Trailfinders",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Ealing Trailfinders",
+                "tournament": "Champ Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Ealing Trailfinders",
+                "tournament": "RFU Championship",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "South Africa U20",
+                "tournament": "U20 Summer Series",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Will MONTGOMERY",
+        "position": "Back row",
+        "dob": "02/02/2000",
+        "height": "1.95m",
+        "weight": "105kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Ealing Trailfinders",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Ealing Trailfinders",
+                "tournament": "Champ Rugby",
+                "matches": 6,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "Ealing Trailfinders",
+                "tournament": "RFU Championship",
+                "matches": 9,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "24/25",
+                "team": "6",
+                "tournament": "4 0 2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Ealing Trailfinders",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "17",
+                "tournament": "13 0 4",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Ealing Trailfinders",
+                "tournament": "RFU Championship",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Newcastle",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Craig HAMPSON",
+        "position": "Scrum-half",
+        "dob": "25/09/1990",
+        "height": "1.78m",
+        "weight": "83kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Ealing Trailfinders",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Ealing Trailfinders",
+                "tournament": "Champ Rugby",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Ealing Trailfinders",
+                "tournament": "RFU Championship",
+                "matches": 22,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "24/25",
+                "team": "8",
+                "tournament": "5 0 3",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Ealing Trailfinders",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "15",
+                "tournament": "12 0 3",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Ealing Trailfinders",
+                "tournament": "RFU Championship",
+                "matches": 18,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "18/19",
+                "team": "Wasps",
+                "tournament": "Premiership",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "6",
+                "tournament": "0 1 5",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Wasps",
+                "tournament": "Premiership",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Wasps",
+                "tournament": "Premiership",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Wasps",
+                "tournament": "Premiership",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Michael STRONGE",
+        "position": "Scrum-half",
+        "dob": "04/08/1998",
+        "height": "-",
+        "weight": "84kg",
+        "contract": "PRO",
+        "nation": "Ireland",
+        "club": "Ealing Trailfinders",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Ealing Trailfinders",
+                "tournament": "Champ Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Ealing Trailfinders",
+                "tournament": "RFU Championship",
+                "matches": 12,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Nottingham",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 4,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "20",
+                "tournament": "8 0 12",
+                "matches": 19,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Nottingham",
+                "tournament": "RFU Championship",
+                "matches": 16,
+                "tries": 3,
+                "points": 15
+            }
+        ]
+    },
+    {
+        "name": "Sam EDWARDS",
+        "position": "Scrum-half",
+        "dob": "14/06/2002",
+        "height": "1.82m",
+        "weight": "85kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Ealing Trailfinders",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Ealing Trailfinders",
+                "tournament": "Champ Rugby",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Bristol",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Cambridge",
+                "tournament": "RFU Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Leicester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Cambridge",
+                "tournament": "RFU Championship",
+                "matches": 8,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Leicester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Nottingham",
+                "tournament": "RFU Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Leicester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "England U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Dan JONES",
+        "position": "Fly-half",
+        "dob": "07/01/1996",
+        "height": "1.83m",
+        "weight": "89kg",
+        "contract": "PRO",
+        "nation": "Wales",
+        "club": "Ealing Trailfinders",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Ealing Trailfinders",
+                "tournament": "Champ Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 47
+            },
+            {
+                "season": "24/25",
+                "team": "Ealing Trailfinders",
+                "tournament": "RFU Championship",
+                "matches": 17,
+                "tries": 0,
+                "points": 132
+            },
+            {
+                "season": "24/25",
+                "team": "6",
+                "tournament": "4 0 2",
+                "matches": 6,
+                "tries": 6,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Scarlets",
+                "tournament": "United Rugby Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Scarlets",
+                "tournament": "United Rugby Championship",
+                "matches": 14,
+                "tries": 0,
+                "points": 19
+            },
+            {
+                "season": "21/22",
+                "team": "Scarlets",
+                "tournament": "United Rugby Championship",
+                "matches": 10,
+                "tries": 0,
+                "points": 33
+            },
+            {
+                "season": "20/21",
+                "team": "Scarlets",
+                "tournament": "Pro 14",
+                "matches": 13,
+                "tries": 0,
+                "points": 57
+            },
+            {
+                "season": "20/21",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "2",
+                "tournament": "0 1 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Scarlets",
+                "tournament": "Pro 14",
+                "matches": 13,
+                "tries": 0,
+                "points": 74
+            },
+            {
+                "season": "19/20",
+                "team": "7",
+                "tournament": "4 0 3",
+                "matches": 4,
+                "tries": 3,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Scarlets",
+                "tournament": "Pro 14",
+                "matches": 18,
+                "tries": 0,
+                "points": 58
+            },
+            {
+                "season": "18/19",
+                "team": "6",
+                "tournament": "1 0 5",
+                "matches": 3,
+                "tries": 4,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Scarlets",
+                "tournament": "Pro 14",
+                "matches": 17,
+                "tries": 4,
+                "points": 95
+            },
+            {
+                "season": "17/18",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 4,
+                "tries": 5,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Scarlets",
+                "tournament": "Pro 12",
+                "matches": 16,
+                "tries": 0,
+                "points": 72
+            },
+            {
+                "season": "16/17",
+                "team": "4",
+                "tournament": "1 1 2",
+                "matches": 2,
+                "tries": 8,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Scarlets",
+                "tournament": "Pro 12",
+                "matches": 12,
+                "tries": 0,
+                "points": 59
+            },
+            {
+                "season": "15/16",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Scarlets",
+                "tournament": "Pro 12",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "George WORBOYS",
+        "position": "Fly-half",
+        "dob": "21/03/2001",
+        "height": "1.78m",
+        "weight": "88kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Ealing Trailfinders",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Ealing Trailfinders",
+                "tournament": "Champ Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "25/26",
+                "team": "Chinnor",
+                "tournament": "Champ Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 13
+            },
+            {
+                "season": "24/25",
+                "team": "Ealing Trailfinders",
+                "tournament": "RFU Championship",
+                "matches": 7,
+                "tries": 0,
+                "points": 16
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 1,
+                "tries": 1,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Chinnor",
+                "tournament": "RFU Championship",
+                "matches": 4,
+                "tries": 2,
+                "points": 31
+            },
+            {
+                "season": "23/24",
+                "team": "Bath",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 1,
+                "points": 14
+            },
+            {
+                "season": "22/23",
+                "team": "Bath",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 2,
+                "tries": 2,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Coventry",
+                "tournament": "RFU Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Bath",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 3,
+                "tries": 1,
+                "points": 12
+            },
+            {
+                "season": "19/20",
+                "team": "Bath",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Richie SIMPSON",
+        "position": "Fly-half",
+        "dob": "14/01/2003",
+        "height": "1.83m",
+        "weight": "83kg",
+        "contract": "PRO",
+        "nation": "Scotland",
+        "club": "Ealing Trailfinders",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "22/23",
+                "team": "Scotland U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 30
+            }
+        ]
+    },
+    {
+        "name": "Francis MOORE",
+        "position": "Centre",
+        "dob": "12/11/2002",
+        "height": "1.89m",
+        "weight": "92kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Ealing Trailfinders",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Ealing Trailfinders",
+                "tournament": "Champ Rugby",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Ealing Trailfinders",
+                "tournament": "RFU Championship",
+                "matches": 21,
+                "tries": 9,
+                "points": 45
+            },
+            {
+                "season": "24/25",
+                "team": "7",
+                "tournament": "4 0 3",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Saracens",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Ampthill",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "8",
+                "tournament": "5 0 3",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Saracens",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 4,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "Saracens",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "England U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Geordie GWYNN",
+        "position": "Centre",
+        "dob": "22/01/2004",
+        "height": "1.87m",
+        "weight": "94kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Ealing Trailfinders",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Ealing Trailfinders",
+                "tournament": "Champ Rugby",
+                "matches": 4,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Ealing Trailfinders",
+                "tournament": "RFU Championship",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Scotland U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Scotland U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Jordan HOLGATE",
+        "position": "Centre",
+        "dob": "02/06/1997",
+        "height": "1.90m",
+        "weight": "108kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Ealing Trailfinders",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Ealing Trailfinders",
+                "tournament": "Champ Rugby",
+                "matches": 4,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "Ealing Trailfinders",
+                "tournament": "RFU Championship",
+                "matches": 16,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Jersey Reds",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Ealing Trailfinders",
+                "tournament": "RFU Championship",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Jersey Reds",
+                "tournament": "RFU Championship",
+                "matches": 20,
+                "tries": 10,
+                "points": 50
+            }
+        ]
+    },
+    {
+        "name": "Reuben BIRD-TULLOCH",
+        "position": "Centre",
+        "dob": "28/11/1998",
+        "height": "1.78m",
+        "weight": "94kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Ealing Trailfinders",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Ealing Trailfinders",
+                "tournament": "Champ Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Ealing Trailfinders",
+                "tournament": "RFU Championship",
+                "matches": 18,
+                "tries": 9,
+                "points": 45
+            },
+            {
+                "season": "24/25",
+                "team": "7",
+                "tournament": "4 0 3",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Ealing Trailfinders",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "17",
+                "tournament": "14 0 3",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Ealing Trailfinders",
+                "tournament": "RFU Championship",
+                "matches": 16,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "19/20",
+                "team": "Northampton",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Saracens",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Saracens",
+                "tournament": "Anglo Welsh Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Rory SCANNELL",
+        "position": "Centre",
+        "dob": "22/12/1993",
+        "height": "1.79m",
+        "weight": "96kg",
+        "contract": "PRO",
+        "nation": "Ireland",
+        "club": "Ealing Trailfinders",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Ealing Trailfinders",
+                "tournament": "Champ Rugby",
+                "matches": 6,
+                "tries": 0,
+                "points": 27
+            },
+            {
+                "season": "24/25",
+                "team": "Munster",
+                "tournament": "United Rugby Championship",
+                "matches": 9,
+                "tries": 0,
+                "points": 2
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Munster",
+                "tournament": "United Rugby Championship",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "0 1 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Munster",
+                "tournament": "United Rugby Championship",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Munster",
+                "tournament": "United Rugby Championship",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Munster",
+                "tournament": "Pro 14",
+                "matches": 15,
+                "tries": 0,
+                "points": 2
+            },
+            {
+                "season": "20/21",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Munster",
+                "tournament": "Pro 14",
+                "matches": 15,
+                "tries": 2,
+                "points": 12
+            },
+            {
+                "season": "19/20",
+                "team": "6",
+                "tournament": "3 1 2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Munster",
+                "tournament": "Pro 14",
+                "matches": 17,
+                "tries": 3,
+                "points": 34
+            },
+            {
+                "season": "18/19",
+                "team": "8",
+                "tournament": "5 1 2",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Munster",
+                "tournament": "Pro 14",
+                "matches": 19,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "17/18",
+                "team": "8",
+                "tournament": "5 1 2",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Munster",
+                "tournament": "Pro 12",
+                "matches": 17,
+                "tries": 2,
+                "points": 35
+            },
+            {
+                "season": "16/17",
+                "team": "8",
+                "tournament": "6 0 2",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Ireland",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 6
+            },
+            {
+                "season": "15/16",
+                "team": "Munster",
+                "tournament": "Pro 12",
+                "matches": 22,
+                "tries": 4,
+                "points": 28
+            },
+            {
+                "season": "15/16",
+                "team": "6",
+                "tournament": "3 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Munster",
+                "tournament": "Pro 12",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Will PARRY",
+        "position": "Centre",
+        "dob": "03/09/2003",
+        "height": "1.83m",
+        "weight": "100kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Ealing Trailfinders",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Doncaster",
+                "tournament": "RFU Championship",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Bath",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Bath",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Bath",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Angus KERNOHAN",
+        "position": "Winger",
+        "dob": "03/02/1999",
+        "height": "1.80m",
+        "weight": "93kg",
+        "contract": "PRO",
+        "nation": "Ireland",
+        "club": "Ealing Trailfinders",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Ealing Trailfinders",
+                "tournament": "Champ Rugby",
+                "matches": 4,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Ealing Trailfinders",
+                "tournament": "RFU Championship",
+                "matches": 18,
+                "tries": 9,
+                "points": 45
+            },
+            {
+                "season": "24/25",
+                "team": "7",
+                "tournament": "5 0 2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Ealing Trailfinders",
+                "tournament": "RFU Championship",
+                "matches": 8,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "19/20",
+                "team": "Ulster",
+                "tournament": "Pro 14",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "Ulster",
+                "tournament": "Pro 14",
+                "matches": 18,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "18/19",
+                "team": "Ireland U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Deago BAILEY",
+        "position": "Winger",
+        "dob": "01/05/2002",
+        "height": "1.83m",
+        "weight": "99kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Ealing Trailfinders",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Ealing Trailfinders",
+                "tournament": "Champ Rugby",
+                "matches": 3,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "Bristol",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 4,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Bristol",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Bristol",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "0 1 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Bristol",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "England U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "England U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Michael DYKES",
+        "position": "Winger",
+        "dob": "03/01/2002",
+        "height": "1.82m",
+        "weight": "90kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Ealing Trailfinders",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Ealing Trailfinders",
+                "tournament": "Champ Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Ealing Trailfinders",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "11",
+                "tournament": "10 0 1",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Ealing Trailfinders",
+                "tournament": "RFU Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "London Irish",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 6,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "0 1 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "London Irish",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Toby COUSINS",
+        "position": "Winger",
+        "dob": "26/09/2004",
+        "height": "1.88m",
+        "weight": "103kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Ealing Trailfinders",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Chinnor",
+                "tournament": "Champ Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Bedford",
+                "tournament": "RFU Championship",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Northampton",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "England U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "England U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Tom COLLINS",
+        "position": "Winger",
+        "dob": "03/07/1994",
+        "height": "1.83m",
+        "weight": "96kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Ealing Trailfinders",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Ealing Trailfinders",
+                "tournament": "Champ Rugby",
+                "matches": 4,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "24/25",
+                "team": "Ealing Trailfinders",
+                "tournament": "RFU Championship",
+                "matches": 13,
+                "tries": 12,
+                "points": 60
+            },
+            {
+                "season": "24/25",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Ealing Trailfinders",
+                "tournament": "RFU Championship",
+                "matches": 14,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "22/23",
+                "team": "Northampton",
+                "tournament": "Premiership",
+                "matches": 17,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "22/23",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Northampton",
+                "tournament": "Premiership",
+                "matches": 13,
+                "tries": 8,
+                "points": 40
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Northampton",
+                "tournament": "Premiership",
+                "matches": 11,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Northampton",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "17",
+                "tournament": "8 0 9",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Northampton",
+                "tournament": "Premiership",
+                "matches": 17,
+                "tries": 8,
+                "points": 40
+            },
+            {
+                "season": "18/19",
+                "team": "6",
+                "tournament": "3 0 3",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Northampton",
+                "tournament": "Premiership",
+                "matches": 13,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "17/18",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Northampton",
+                "tournament": "Premiership",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Northampton",
+                "tournament": "Premiership",
+                "matches": 9,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "15/16",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Northampton",
+                "tournament": "Premiership",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Northampton",
+                "tournament": "Premiership",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "13/14",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Patrick CAMPBELL",
+        "position": "Fullback",
+        "dob": "22/07/2002",
+        "height": "1.78m",
+        "weight": "88kg",
+        "contract": "PRO",
+        "nation": "Ireland",
+        "club": "Ealing Trailfinders",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Ealing Trailfinders",
+                "tournament": "Champ Rugby",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Munster",
+                "tournament": "United Rugby Championship",
+                "matches": 9,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "Munster",
+                "tournament": "Champions Cup",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Ireland U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Tobi WILSON",
+        "position": "Fullback",
+        "dob": "22/06/2003",
+        "height": "1.85m",
+        "weight": "89kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Ealing Trailfinders",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Ealing Trailfinders",
+                "tournament": "Champ Rugby",
+                "matches": 4,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "24/25",
+                "team": "Ealing Trailfinders",
+                "tournament": "RFU Championship",
+                "matches": 18,
+                "tries": 13,
+                "points": 69
+            },
+            {
+                "season": "24/25",
+                "team": "7",
+                "tournament": "4 0 3",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Coventry",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "18",
+                "tournament": "13 0 5",
+                "matches": 16,
+                "tries": 1,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Worcester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Coventry",
+                "tournament": "RFU Championship",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Worcester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "England U20",
+                "tournament": "U20 Summer Series",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Will FEENEY",
+        "position": "Fullback",
+        "dob": "-",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "Australia",
+        "club": "Ealing Trailfinders",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Chinnor",
+                "tournament": "RFU Championship",
+                "matches": 11,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    }
+]

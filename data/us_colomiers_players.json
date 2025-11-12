@@ -1,0 +1,3148 @@
+[
+    {
+        "name": "Atonio ULUTUIPALELEI",
+        "position": "Prop",
+        "dob": "14/05/1997",
+        "height": "1.86m",
+        "weight": "135kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "US Colomiers",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 19,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Chambéry",
+                "tournament": "Nationale",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 20,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Rennes",
+                "tournament": "Nationale",
+                "matches": 22,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Eliès EL ANSARI",
+        "position": "Prop",
+        "dob": "22/01/1997",
+        "height": "1.88m",
+        "weight": "124kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "US Colomiers",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 21,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 23,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Nationale",
+                "matches": 22,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Paris",
+                "tournament": "Top 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Paris",
+                "tournament": "Challenge Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "4",
+                "tournament": "0 0 4",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Guillaume TARTAS",
+        "position": "Prop",
+        "dob": "20/11/1996",
+        "height": "1.77m",
+        "weight": "107kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "US Colomiers",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 23,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 21,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 17,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Michaël SIMUTOGA",
+        "position": "Prop",
+        "dob": "29/09/1996",
+        "height": "1.84m",
+        "weight": "125kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "US Colomiers",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 18,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Bourgoin",
+                "tournament": "Nationale",
+                "matches": 20,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Bourgoin",
+                "tournament": "Nationale",
+                "matches": 20,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Grenoble",
+                "tournament": "Pro D2",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Grenoble",
+                "tournament": "Pro D2",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Clermont",
+                "tournament": "Top 14",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "6",
+                "tournament": "6 0 0",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Clermont",
+                "tournament": "Top 14",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "Clermont",
+                "tournament": "Top 14",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Clermont",
+                "tournament": "Top 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Clermont",
+                "tournament": "Top 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Phil KITÉ",
+        "position": "Prop",
+        "dob": "24/04/1993",
+        "height": "1.85m",
+        "weight": "140kg",
+        "contract": "PRO",
+        "nation": "Tonga",
+        "club": "US Colomiers",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Vannes",
+                "tournament": "Top 14",
+                "matches": 9,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 21,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Tonga",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 20,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 22,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "18/19",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 28,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "17/18",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Reds",
+                "tournament": "Super Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Tonga",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Pierre-Emmanuel PACHECO",
+        "position": "Prop",
+        "dob": "04/11/2002",
+        "height": "1.83m",
+        "weight": "123kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "US Colomiers",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 18,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "France U20",
+                "tournament": "U20 Summer Series",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Robin BELLEMAND",
+        "position": "Prop",
+        "dob": "22/03/2002",
+        "height": "1.92m",
+        "weight": "127kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "US Colomiers",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 20,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "France U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Pablo DIMCHEFF",
+        "position": "Hooker",
+        "dob": "01/07/1999",
+        "height": "1.82m",
+        "weight": "104kg",
+        "contract": "PRO",
+        "nation": "Argentina",
+        "club": "US Colomiers",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 24,
+                "tries": 10,
+                "points": 50
+            },
+            {
+                "season": "24/25",
+                "team": "Italy",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 7,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "20/21",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "Argentina U20",
+                "tournament": "U20 Championship",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Théo LACHAUD",
+        "position": "Hooker",
+        "dob": "31/08/2000",
+        "height": "1.84m",
+        "weight": "108kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "US Colomiers",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 7,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 21,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "Hyères",
+                "tournament": "Nationale",
+                "matches": 20,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "22/23",
+                "team": "Aurillac",
+                "tournament": "Pro D2",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Aurillac",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "France U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "France U20",
+                "tournament": "U20 Championship",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Thomas LARRIEU",
+        "position": "Hooker",
+        "dob": "11/05/1991",
+        "height": "1.87m",
+        "weight": "110kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "US Colomiers",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 20,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "22/23",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 16,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 25,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "20/21",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 23,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 18,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "13/14",
+                "team": "Dax",
+                "tournament": "Pro D2",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Federico LAVANINI",
+        "position": "Lock",
+        "dob": "24/02/1998",
+        "height": "2.00m",
+        "weight": "126kg",
+        "contract": "PRO",
+        "nation": "Argentina",
+        "club": "US Colomiers",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Argentina XV",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Jean THOMAS",
+        "position": "Lock",
+        "dob": "10/03/1994",
+        "height": "1.93m",
+        "weight": "112kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "US Colomiers",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 26,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 25,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 27,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 22,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 18,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 20,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Maxime GRANOUILLET",
+        "position": "Lock",
+        "dob": "28/06/1992",
+        "height": "1.97m",
+        "weight": "115kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "US Colomiers",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 25,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 21,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 20,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Aurillac",
+                "tournament": "Pro D2",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Aurillac",
+                "tournament": "Pro D2",
+                "matches": 22,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "15/16",
+                "team": "Aurillac",
+                "tournament": "Pro D2",
+                "matches": 13,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "14/15",
+                "team": "Aurillac",
+                "tournament": "Pro D2",
+                "matches": 22,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Clermont",
+                "tournament": "Top 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Myles EDWARDS",
+        "position": "Lock",
+        "dob": "19/05/1997",
+        "height": "1.99m",
+        "weight": "125kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "US Colomiers",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 23,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "22/23",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 21,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "19/20",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Aurillac",
+                "tournament": "Pro D2",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Thomas ADÉLAÏDE",
+        "position": "Lock",
+        "dob": "07/10/2002",
+        "height": "2.01m",
+        "weight": "124kg",
+        "contract": "ACADEMY",
+        "nation": "France",
+        "club": "US Colomiers",
+        "league": "Pro D2",
+        "value": 45000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Bourgoin",
+                "tournament": "Nationale",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Alexis CAUMEL",
+        "position": "Back row",
+        "dob": "20/07/2004",
+        "height": "1.88m",
+        "weight": "101kg",
+        "contract": "ACADEMY",
+        "nation": "France",
+        "club": "US Colomiers",
+        "league": "Pro D2",
+        "value": 45000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "France U20",
+                "tournament": "U20 Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Caleb TIMU",
+        "position": "Back row",
+        "dob": "22/02/1994",
+        "height": "1.90m",
+        "weight": "121kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "US Colomiers",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 23,
+                "tries": 12,
+                "points": 60
+            },
+            {
+                "season": "23/24",
+                "team": "Clermont",
+                "tournament": "Top 14",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "4",
+                "tournament": "0 0 4",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 21,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 10,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Reds",
+                "tournament": "Super Rugby",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Reds",
+                "tournament": "Super Rugby",
+                "matches": 14,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "17/18",
+                "team": "Australia",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Reds",
+                "tournament": "Super Rugby",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Eliott MAUREL",
+        "position": "Back row",
+        "dob": "25/01/2001",
+        "height": "1.92m",
+        "weight": "110kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "US Colomiers",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Grégoire BAZIN",
+        "position": "Back row",
+        "dob": "30/04/2000",
+        "height": "1.93m",
+        "weight": "105kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "US Colomiers",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 23,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "23/24",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 20,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 18,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Jérémy BÉCHU",
+        "position": "Back row",
+        "dob": "03/10/2003",
+        "height": "1.88m",
+        "weight": "102kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "US Colomiers",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 24,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 17,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Luka PLATARET",
+        "position": "Back row",
+        "dob": "27/08/1999",
+        "height": "1.84m",
+        "weight": "105kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "US Colomiers",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 7,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "Nevers",
+                "tournament": "Pro D2",
+                "matches": 27,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Nevers",
+                "tournament": "Pro D2",
+                "matches": 27,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "22/23",
+                "team": "Nevers",
+                "tournament": "Pro D2",
+                "matches": 24,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "21/22",
+                "team": "Nevers",
+                "tournament": "Pro D2",
+                "matches": 20,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "20/21",
+                "team": "Nevers",
+                "tournament": "Pro D2",
+                "matches": 25,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "19/20",
+                "team": "Nevers",
+                "tournament": "Pro D2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Nicolas MARTINS",
+        "position": "Back row",
+        "dob": "18/01/1999",
+        "height": "1.96m",
+        "weight": "100kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "US Colomiers",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "25/26",
+                "team": "Portugal",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Portugal",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 21,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "Portugal",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "1 1 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 17,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "22/23",
+                "team": "Portugal",
+                "tournament": "Rugby World Cup 2023 Final Qualification Tournament",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Portugal",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Paolo PARPAGIOLA",
+        "position": "Back row",
+        "dob": "03/05/2003",
+        "height": "1.91m",
+        "weight": "98kg",
+        "contract": "ACADEMY",
+        "nation": "France",
+        "club": "US Colomiers",
+        "league": "Pro D2",
+        "value": 45000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Arthur DIAZ",
+        "position": "Scrum-half",
+        "dob": "03/08/2003",
+        "height": "1.64m",
+        "weight": "73kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "US Colomiers",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 13,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Jules DANGLOT",
+        "position": "Scrum-half",
+        "dob": "06/08/2001",
+        "height": "1.70m",
+        "weight": "74kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "US Colomiers",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 5,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "Toulon",
+                "tournament": "Top 14",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Toulon",
+                "tournament": "Top 14",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Toulon",
+                "tournament": "Top 14",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "4",
+                "tournament": "4 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Toulon",
+                "tournament": "Top 14",
+                "matches": 17,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Natan CULINAT",
+        "position": "Scrum-half",
+        "dob": "/12/2005",
+        "height": "-",
+        "weight": "-",
+        "contract": "ACADEMY",
+        "nation": "France",
+        "club": "US Colomiers",
+        "league": "Pro D2",
+        "value": 45000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Ugo SÉGUÉLA",
+        "position": "Scrum-half",
+        "dob": "14/02/2001",
+        "height": "1.70m",
+        "weight": "74kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "US Colomiers",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 13,
+                "tries": 1,
+                "points": 22
+            },
+            {
+                "season": "23/24",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 28,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "22/23",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 25,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 26,
+                "tries": 0,
+                "points": 2
+            },
+            {
+                "season": "20/21",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "France U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Théo GIRAL",
+        "position": "Fly-half",
+        "dob": "04/02/2003",
+        "height": "1.79m",
+        "weight": "85kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "US Colomiers",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 1,
+                "points": 42
+            },
+            {
+                "season": "24/25",
+                "team": "Clermont",
+                "tournament": "Top 14",
+                "matches": 5,
+                "tries": 0,
+                "points": 3
+            },
+            {
+                "season": "23/24",
+                "team": "Clermont",
+                "tournament": "Challenge Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Valentin DELPY",
+        "position": "Fly-half",
+        "dob": "22/08/2003",
+        "height": "1.85m",
+        "weight": "89kg",
+        "contract": "ACADEMY",
+        "nation": "France",
+        "club": "US Colomiers",
+        "league": "Pro D2",
+        "value": 45000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 7,
+                "tries": 1,
+                "points": 76
+            },
+            {
+                "season": "24/25",
+                "team": "Toulouse",
+                "tournament": "Top 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 21
+            },
+            {
+                "season": "24/25",
+                "team": "Perpignan",
+                "tournament": "Top 14",
+                "matches": 11,
+                "tries": 0,
+                "points": 35
+            },
+            {
+                "season": "23/24",
+                "team": "Toulouse",
+                "tournament": "Top 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 4
+            },
+            {
+                "season": "23/24",
+                "team": "Blagnac",
+                "tournament": "Nationale",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Blagnac",
+                "tournament": "Nationale",
+                "matches": 17,
+                "tries": 0,
+                "points": 71
+            }
+        ]
+    },
+    {
+        "name": "Baptiste SERRANO",
+        "position": "Centre",
+        "dob": "19/01/2002",
+        "height": "1.83m",
+        "weight": "93kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "US Colomiers",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Blagnac",
+                "tournament": "Nationale",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Enzo SALLES",
+        "position": "Centre",
+        "dob": "26/12/2001",
+        "height": "1.92m",
+        "weight": "97kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "US Colomiers",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Martin DULON",
+        "position": "Centre",
+        "dob": "11/01/2000",
+        "height": "1.87m",
+        "weight": "96kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "US Colomiers",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 21,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "23/24",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "22/23",
+                "team": "Carcassonne",
+                "tournament": "Pro D2",
+                "matches": 18,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Carcassonne",
+                "tournament": "Pro D2",
+                "matches": 25,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "20/21",
+                "team": "Carcassonne",
+                "tournament": "Pro D2",
+                "matches": 28,
+                "tries": 3,
+                "points": 15
+            }
+        ]
+    },
+    {
+        "name": "Matías OSADCZUK",
+        "position": "Centre",
+        "dob": "22/04/1997",
+        "height": "1.91m",
+        "weight": "96kg",
+        "contract": "PRO",
+        "nation": "Argentina",
+        "club": "US Colomiers",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Ray NU'U",
+        "position": "Centre",
+        "dob": "28/04/1998",
+        "height": "1.80m",
+        "weight": "102kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "US Colomiers",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 22,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "23/24",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Rebels",
+                "tournament": "Super Rugby Pacific",
+                "matches": 8,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Southland",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Anzelo TUITAVUKI",
+        "position": "Winger",
+        "dob": "10/10/1998",
+        "height": "1.82m",
+        "weight": "102kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "US Colomiers",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 11,
+                "points": 55
+            },
+            {
+                "season": "23/24",
+                "team": "Moana Pasifika",
+                "tournament": "Super Rugby Pacific",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Tonga",
+                "tournament": "Rugby World Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Moana Pasifika",
+                "tournament": "Super Rugby Pacific",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Hawke's Bay",
+                "tournament": "NPC",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Tonga",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Moana Pasifika",
+                "tournament": "Super Rugby Pacific",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Hawke's Bay",
+                "tournament": "NPC",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Tonga",
+                "tournament": "Pacific Nations Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Hawke's Bay",
+                "tournament": "NPC",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Hawke's Bay",
+                "tournament": "NPC",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Martin ALONSO",
+        "position": "Winger",
+        "dob": "02/12/1999",
+        "height": "1.82m",
+        "weight": "88kg",
+        "contract": "PRO",
+        "nation": "Spain",
+        "club": "US Colomiers",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 16,
+                "tries": 9,
+                "points": 45
+            },
+            {
+                "season": "23/24",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 12,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Spain",
+                "tournament": "Rugby Europe Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "La Rochelle",
+                "tournament": "Top 14",
+                "matches": 8,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Spain",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "La Rochelle",
+                "tournament": "Top 14",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Spain",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "La Rochelle",
+                "tournament": "Top 14",
+                "matches": 8,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "Spain",
+                "tournament": "Rugby Europe Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Rayan HOUARI",
+        "position": "Winger",
+        "dob": "/01/2005",
+        "height": "1.92m",
+        "weight": "91kg",
+        "contract": "ACADEMY",
+        "nation": "France",
+        "club": "US Colomiers",
+        "league": "Pro D2",
+        "value": 45000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Rodrigo MARTA",
+        "position": "Winger",
+        "dob": "18/11/1999",
+        "height": "1.83m",
+        "weight": "87kg",
+        "contract": "PRO",
+        "nation": "Portugal",
+        "club": "US Colomiers",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "25/26",
+                "team": "Portugal",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 16,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "24/25",
+                "team": "Portugal",
+                "tournament": "Rugby Europe Championship",
+                "matches": 3,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "23/24",
+                "team": "Portugal",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "1 1 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Dax",
+                "tournament": "Nationale",
+                "matches": 20,
+                "tries": 15,
+                "points": 75
+            },
+            {
+                "season": "22/23",
+                "team": "Portugal",
+                "tournament": "Rugby World Cup 2023 Final Qualification Tournament",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "4",
+                "tournament": "4 0 0",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Portugal",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "4",
+                "tournament": "1 1 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Portugal",
+                "tournament": "Rugby Europe Championship",
+                "matches": 5,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "19/20",
+                "team": "Portugal",
+                "tournament": "Rugby Europe Championship",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Valentin SAURS",
+        "position": "Winger",
+        "dob": "12/02/1995",
+        "height": "1.82m",
+        "weight": "88kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "US Colomiers",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 10,
+                "tries": 3,
+                "points": 18
+            },
+            {
+                "season": "23/24",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 22,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "21/22",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 22,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "20/21",
+                "team": "Agen",
+                "tournament": "Top 14",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "Agen",
+                "tournament": "Top 14",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "4",
+                "tournament": "0 0 4",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Agen",
+                "tournament": "Top 14",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Agen",
+                "tournament": "Challenge Cup",
+                "matches": 4,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "17/18",
+                "team": "4",
+                "tournament": "0 0 4",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Agen",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "15/16",
+                "team": "Agen",
+                "tournament": "Top 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Vincent PINTO",
+        "position": "Winger",
+        "dob": "10/04/1999",
+        "height": "1.87m",
+        "weight": "93kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "US Colomiers",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 7,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "25/26",
+                "team": "Portugal",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 22,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "24/25",
+                "team": "Portugal",
+                "tournament": "Rugby Europe Championship",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 20,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "23/24",
+                "team": "Portugal",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Portugal",
+                "tournament": "Rugby World Cup 2023 Final Qualification Tournament",
+                "matches": 3,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Portugal",
+                "tournament": "Rugby Europe Championship",
+                "matches": 3,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 10,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "Pau",
+                "tournament": "Top 14",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "6",
+                "tournament": "4 0 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Pau",
+                "tournament": "Challenge Cup",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "France U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 5,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "18/19",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Alberto CARMONA",
+        "position": "Fullback",
+        "dob": "11/05/2004",
+        "height": "1.90m",
+        "weight": "93kg",
+        "contract": "ACADEMY",
+        "nation": "Spain",
+        "club": "US Colomiers",
+        "league": "Pro D2",
+        "value": 45000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "25/26",
+                "team": "Spain",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Spain",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Spain",
+                "tournament": "Rugby Europe Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Spain U20",
+                "tournament": "U20 Championship",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Spain",
+                "tournament": "Rugby Europe Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Spain",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Alexandre BORIE",
+        "position": "Fullback",
+        "dob": "17/04/2001",
+        "height": "1.72m",
+        "weight": "85kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "US Colomiers",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 7,
+                "tries": 0,
+                "points": 12
+            },
+            {
+                "season": "24/25",
+                "team": "Massy",
+                "tournament": "Nationale",
+                "matches": 20,
+                "tries": 4,
+                "points": 173
+            },
+            {
+                "season": "21/22",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 12,
+                "tries": 1,
+                "points": 8
+            }
+        ]
+    },
+    {
+        "name": "Max AURIAC",
+        "position": "Fullback",
+        "dob": "20/11/2002",
+        "height": "1.83m",
+        "weight": "85kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "US Colomiers",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 13,
+                "tries": 1,
+                "points": 73
+            },
+            {
+                "season": "23/24",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 25,
+                "tries": 3,
+                "points": 32
+            },
+            {
+                "season": "22/23",
+                "team": "Toulouse",
+                "tournament": "Top 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 3
+            },
+            {
+                "season": "21/22",
+                "team": "France U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 4,
+                "tries": 2,
+                "points": 53
+            },
+            {
+                "season": "21/22",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 3,
+                "tries": 7,
+                "points": 0
+            }
+        ]
+    }
+]

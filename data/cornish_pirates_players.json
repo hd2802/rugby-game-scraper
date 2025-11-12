@@ -1,0 +1,1582 @@
+[
+    {
+        "name": "Alessandro HEANEY",
+        "position": "Prop",
+        "dob": "21/07/2002",
+        "height": "1.85m",
+        "weight": "126kg",
+        "contract": "PRO",
+        "nation": "Ireland",
+        "club": "Cornish Pirates",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Cornish Pirates",
+                "tournament": "Champ Rugby",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "RFC Los Angeles",
+                "tournament": "Major League Rugby",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "RFC Los Angeles",
+                "tournament": "Major League Rugby",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Alfie PETCH",
+        "position": "Prop",
+        "dob": "21/12/1999",
+        "height": "1.80m",
+        "weight": "128kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Cornish Pirates",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Cornish Pirates",
+                "tournament": "Champ Rugby",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Gloucester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Cornish Pirates",
+                "tournament": "RFU Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Hartpury RFC",
+                "tournament": "RFU Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Biarritz",
+                "tournament": "Pro D2",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Northampton",
+                "tournament": "Premiership",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Exeter",
+                "tournament": "Premiership",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Exeter",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Exeter",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "England U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Billy YOUNG",
+        "position": "Prop",
+        "dob": "15/06/1999",
+        "height": "1.79m",
+        "weight": "113kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Cornish Pirates",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Cornish Pirates",
+                "tournament": "Champ Rugby",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Cornish Pirates",
+                "tournament": "RFU Championship",
+                "matches": 22,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "6",
+                "tournament": "1 0 5",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Cornish Pirates",
+                "tournament": "RFU Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "James FRENCH",
+        "position": "Prop",
+        "dob": "22/11/1998",
+        "height": "1.85m",
+        "weight": "124kg",
+        "contract": "PRO",
+        "nation": "Ireland",
+        "club": "Cornish Pirates",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Cornish Pirates",
+                "tournament": "Champ Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Cornish Pirates",
+                "tournament": "RFU Championship",
+                "matches": 16,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "5",
+                "tournament": "1 0 4",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Ulster",
+                "tournament": "United Rugby Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Munster",
+                "tournament": "United Rugby Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Munster",
+                "tournament": "Champions Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Ollie ANDREWS",
+        "position": "Prop",
+        "dob": "20/11/1999",
+        "height": "1.89m",
+        "weight": "123kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Cornish Pirates",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Cornish Pirates",
+                "tournament": "Champ Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Cornish Pirates",
+                "tournament": "RFU Championship",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Coventry",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Coventry",
+                "tournament": "RFU Championship",
+                "matches": 21,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Matt PRITCHARD",
+        "position": "Hooker",
+        "dob": "14/10/2002",
+        "height": "1.82m",
+        "weight": "107kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Cornish Pirates",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Cornish Pirates",
+                "tournament": "Champ Rugby",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Cornish Pirates",
+                "tournament": "RFU Championship",
+                "matches": 6,
+                "tries": 3,
+                "points": 15
+            }
+        ]
+    },
+    {
+        "name": "Morgan NELSON",
+        "position": "Hooker",
+        "dob": "26/10/1999",
+        "height": "1.80m",
+        "weight": "109kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Cornish Pirates",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Cornish Pirates",
+                "tournament": "Champ Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Cornish Pirates",
+                "tournament": "RFU Championship",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Gloucester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Cornish Pirates",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 4,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "15",
+                "tournament": "10 1 4",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Cornish Pirates",
+                "tournament": "RFU Championship",
+                "matches": 11,
+                "tries": 5,
+                "points": 25
+            }
+        ]
+    },
+    {
+        "name": "Alfie BELL",
+        "position": "Lock",
+        "dob": "12/04/2003",
+        "height": "2.03m",
+        "weight": "120kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Cornish Pirates",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Cornish Pirates",
+                "tournament": "Champ Rugby",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Cornish Pirates",
+                "tournament": "RFU Championship",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Exeter",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Wasps",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Ampthill",
+                "tournament": "RFU Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Exeter",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Wasps",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "England U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Charlie RICE",
+        "position": "Lock",
+        "dob": "24/02/2002",
+        "height": "1.98m",
+        "weight": "120kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Cornish Pirates",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Cornish Pirates",
+                "tournament": "Champ Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Cornish Pirates",
+                "tournament": "RFU Championship",
+                "matches": 17,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Hartpury RFC",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Bristol",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Cornish Pirates",
+                "tournament": "RFU Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Bristol",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Bristol",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "England U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Matt CANNON",
+        "position": "Lock",
+        "dob": "26/11/2001",
+        "height": "1.93m",
+        "weight": "118kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Cornish Pirates",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Cornish Pirates",
+                "tournament": "Champ Rugby",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Cornish Pirates",
+                "tournament": "RFU Championship",
+                "matches": 17,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "6",
+                "tournament": "1 0 5",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Milo HALLAM",
+        "position": "Lock",
+        "dob": "01/01/2003",
+        "height": "1.91m",
+        "weight": "120kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Cornish Pirates",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Cornish Pirates",
+                "tournament": "Champ Rugby",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Cornish Pirates",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Alex EVERETT",
+        "position": "Back row",
+        "dob": "15/10/1996",
+        "height": "1.85m",
+        "weight": "107kg",
+        "contract": "PRO",
+        "nation": "Wales",
+        "club": "Cornish Pirates",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Cornish Pirates",
+                "tournament": "Champ Rugby",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Cornish Pirates",
+                "tournament": "RFU Championship",
+                "matches": 14,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Cornish Pirates",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "20",
+                "tournament": "15 1 4",
+                "matches": 18,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Cornish Pirates",
+                "tournament": "RFU Championship",
+                "matches": 21,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Cardiff",
+                "tournament": "Champions Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Barnaby ELDERKIN",
+        "position": "Back row",
+        "dob": "/06/2005",
+        "height": "1.90m",
+        "weight": "100kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Cornish Pirates",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Cornish Pirates",
+                "tournament": "Champ Rugby",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Cornish Pirates",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Jack FORSYTHE",
+        "position": "Back row",
+        "dob": "14/03/2002",
+        "height": "1.85m",
+        "weight": "97kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Cornish Pirates",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Cornish Pirates",
+                "tournament": "Champ Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Cornish Pirates",
+                "tournament": "RFU Championship",
+                "matches": 6,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Worcester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "John STEVENS",
+        "position": "Back row",
+        "dob": "15/12/1994",
+        "height": "1.85m",
+        "weight": "103kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Cornish Pirates",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Cornish Pirates",
+                "tournament": "RFU Championship",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Cornish Pirates",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "16",
+                "tournament": "12 1 3",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Cornish Pirates",
+                "tournament": "RFU Championship",
+                "matches": 17,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Josh KING",
+        "position": "Back row",
+        "dob": "04/09/2001",
+        "height": "1.95m",
+        "weight": "109kg",
+        "contract": "PRO",
+        "nation": "Scotland",
+        "club": "Cornish Pirates",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Cornish Pirates",
+                "tournament": "Champ Rugby",
+                "matches": 6,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Cornish Pirates",
+                "tournament": "RFU Championship",
+                "matches": 20,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "6",
+                "tournament": "1 0 5",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Cornish Pirates",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "13",
+                "tournament": "9 1 3",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Luke RATCLIFF",
+        "position": "Back row",
+        "dob": "25/02/1999",
+        "height": "1.94m",
+        "weight": "110kg",
+        "contract": "PRO",
+        "nation": "Australia",
+        "club": "Cornish Pirates",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Cornish Pirates",
+                "tournament": "Champ Rugby",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Rory SUTTOR",
+        "position": "Back row",
+        "dob": "23/06/1998",
+        "height": "1.90m",
+        "weight": "101kg",
+        "contract": "PRO",
+        "nation": "Australia",
+        "club": "Cornish Pirates",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Cornish Pirates",
+                "tournament": "Champ Rugby",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Tomiwa AGBONGBON",
+        "position": "Back row",
+        "dob": "13/12/2001",
+        "height": "1.90m",
+        "weight": "114kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "Cornish Pirates",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Cornish Pirates",
+                "tournament": "Champ Rugby",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Cornish Pirates",
+                "tournament": "RFU Championship",
+                "matches": 16,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "5",
+                "tournament": "0 0 5",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Leicester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Dan HISCOCKS",
+        "position": "Scrum-half",
+        "dob": "30/01/2001",
+        "height": "1.65m",
+        "weight": "76kg",
+        "contract": "PRO",
+        "nation": "Wales",
+        "club": "Cornish Pirates",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Cornish Pirates",
+                "tournament": "Champ Rugby",
+                "matches": 6,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "Cornish Pirates",
+                "tournament": "RFU Championship",
+                "matches": 22,
+                "tries": 8,
+                "points": 40
+            },
+            {
+                "season": "24/25",
+                "team": "6",
+                "tournament": "1 0 5",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Ealing Trailfinders",
+                "tournament": "RFU Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Will RIGELSFORD",
+        "position": "Scrum-half",
+        "dob": "08/10/1997",
+        "height": "1.77m",
+        "weight": "80kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Cornish Pirates",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Cornish Pirates",
+                "tournament": "Champ Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Cornish Pirates",
+                "tournament": "RFU Championship",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Arwel ROBSON",
+        "position": "Fly-half",
+        "dob": "21/02/1997",
+        "height": "1.80m",
+        "weight": "85kg",
+        "contract": "PRO",
+        "nation": "Wales",
+        "club": "Cornish Pirates",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Cornish Pirates",
+                "tournament": "Champ Rugby",
+                "matches": 6,
+                "tries": 1,
+                "points": 41
+            },
+            {
+                "season": "24/25",
+                "team": "Chambéry",
+                "tournament": "Nationale",
+                "matches": 17,
+                "tries": 1,
+                "points": 108
+            },
+            {
+                "season": "23/24",
+                "team": "Cardiff",
+                "tournament": "United Rugby Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Cornish Pirates",
+                "tournament": "RFU Championship",
+                "matches": 18,
+                "tries": 1,
+                "points": 98
+            },
+            {
+                "season": "20/21",
+                "team": "Dragons",
+                "tournament": "Pro 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Dragons",
+                "tournament": "Pro 14",
+                "matches": 7,
+                "tries": 0,
+                "points": 4
+            },
+            {
+                "season": "19/20",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Dragons",
+                "tournament": "Pro 14",
+                "matches": 6,
+                "tries": 1,
+                "points": 16
+            },
+            {
+                "season": "17/18",
+                "team": "Dragons",
+                "tournament": "Pro 14",
+                "matches": 10,
+                "tries": 0,
+                "points": 46
+            },
+            {
+                "season": "17/18",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 1,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Louie SINCLAIR",
+        "position": "Fly-half",
+        "dob": "12/09/2004",
+        "height": "1.88m",
+        "weight": "88kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Cornish Pirates",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Cornish Pirates",
+                "tournament": "Champ Rugby",
+                "matches": 6,
+                "tries": 0,
+                "points": 4
+            },
+            {
+                "season": "24/25",
+                "team": "Cornish Pirates",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Chester RIBBONS",
+        "position": "Centre",
+        "dob": "30/01/2003",
+        "height": "1.91m",
+        "weight": "95kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Cornish Pirates",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Cornish Pirates",
+                "tournament": "Champ Rugby",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Cornish Pirates",
+                "tournament": "RFU Championship",
+                "matches": 13,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Harry YATES",
+        "position": "Centre",
+        "dob": "28/06/2001",
+        "height": "1.87m",
+        "weight": "107kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Cornish Pirates",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Cornish Pirates",
+                "tournament": "Champ Rugby",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Cornish Pirates",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "13",
+                "tournament": "10 0 3",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Joe ELDERKIN",
+        "position": "Centre",
+        "dob": "12/10/1998",
+        "height": "1.83m",
+        "weight": "95kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Cornish Pirates",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Cornish Pirates",
+                "tournament": "Champ Rugby",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Cornish Pirates",
+                "tournament": "RFU Championship",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Cornish Pirates",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "20",
+                "tournament": "15 1 4",
+                "matches": 20,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Cornish Pirates",
+                "tournament": "RFU Championship",
+                "matches": 18,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Arthur RELTON",
+        "position": "Winger",
+        "dob": "07/06/2001",
+        "height": "1.80m",
+        "weight": "86kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Cornish Pirates",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Cornish Pirates",
+                "tournament": "Champ Rugby",
+                "matches": 5,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "24/25",
+                "team": "Cornish Pirates",
+                "tournament": "RFU Championship",
+                "matches": 17,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "24/25",
+                "team": "5",
+                "tournament": "1 0 4",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Cornish Pirates",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "11",
+                "tournament": "8 1 2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Exeter",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 3,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Exeter",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Cornish Pirates",
+                "tournament": "RFU Championship",
+                "matches": 8,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "21/22",
+                "team": "Exeter",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Exeter",
+                "tournament": "Premiership",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "England U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 5,
+                "tries": 6,
+                "points": 30
+            }
+        ]
+    },
+    {
+        "name": "Ben CAMBRIANI",
+        "position": "Winger",
+        "dob": "24/12/1999",
+        "height": "1.88m",
+        "weight": "92kg",
+        "contract": "PRO",
+        "nation": "Wales",
+        "club": "Cornish Pirates",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Cornish Pirates",
+                "tournament": "Champ Rugby",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Zebre",
+                "tournament": "United Rugby Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Ampthill",
+                "tournament": "RFU Championship",
+                "matches": 8,
+                "tries": 8,
+                "points": 40
+            }
+        ]
+    },
+    {
+        "name": "Matty WARD",
+        "position": "Winger",
+        "dob": "30/09/2001",
+        "height": "1.83m",
+        "weight": "92kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Cornish Pirates",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Cornish Pirates",
+                "tournament": "Champ Rugby",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Gloucester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Hartpury RFC",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Iwan PRICE-THOMAS",
+        "position": "Fullback",
+        "dob": "16/02/2001",
+        "height": "1.90m",
+        "weight": "93kg",
+        "contract": "PRO",
+        "nation": "Wales",
+        "club": "Cornish Pirates",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Cornish Pirates",
+                "tournament": "Champ Rugby",
+                "matches": 6,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Cornish Pirates",
+                "tournament": "RFU Championship",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "6",
+                "tournament": "1 0 5",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    }
+]

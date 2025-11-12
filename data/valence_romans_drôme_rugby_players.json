@@ -1,0 +1,3264 @@
+[
+    {
+        "name": "Andréa PONTANIER",
+        "position": "Prop",
+        "dob": "26/10/2001",
+        "height": "1.80m",
+        "weight": "108kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Valence Romans Drôme Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 21,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Valence Romans",
+                "tournament": "Nationale",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Valence Romans",
+                "tournament": "Nationale",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Anthony ALÉO",
+        "position": "Prop",
+        "dob": "24/04/1992",
+        "height": "1.76m",
+        "weight": "112kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Valence Romans Drôme Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 23,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Valence Romans",
+                "tournament": "Nationale",
+                "matches": 23,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Valence Romans",
+                "tournament": "Nationale",
+                "matches": 25,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Béziers",
+                "tournament": "Pro D2",
+                "matches": 25,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Montauban",
+                "tournament": "Pro D2",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Esteban CHOUTEAU",
+        "position": "Prop",
+        "dob": "10/04/2003",
+        "height": "1.70m",
+        "weight": "101kg",
+        "contract": "ACADEMY",
+        "nation": "France",
+        "club": "Valence Romans Drôme Rugby",
+        "league": "Pro D2",
+        "value": 45000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Gareth MILASINOVICH",
+        "position": "Prop",
+        "dob": "15/12/1995",
+        "height": "1.91m",
+        "weight": "134kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Valence Romans Drôme Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 22,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 23,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Ulster",
+                "tournament": "United Rugby Championship",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Saracens",
+                "tournament": "Premiership",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Ulster",
+                "tournament": "United Rugby Championship",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Ulster",
+                "tournament": "Pro 14",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Worcester",
+                "tournament": "Premiership",
+                "matches": 19,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Worcester",
+                "tournament": "Premiership",
+                "matches": 20,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Worcester",
+                "tournament": "Premiership",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Worcester",
+                "tournament": "Challenge Cup",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Kévin GOZE",
+        "position": "Prop",
+        "dob": "04/11/1992",
+        "height": "1.92m",
+        "weight": "134kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Valence Romans Drôme Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 16,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Valence Romans",
+                "tournament": "Nationale",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Valence Romans",
+                "tournament": "Nationale",
+                "matches": 21,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 20,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Grenoble",
+                "tournament": "Top 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Bourgoin",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Grenoble",
+                "tournament": "Top 14",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "14/15",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Grenoble",
+                "tournament": "Top 14",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Suetena ASOMUA",
+        "position": "Prop",
+        "dob": "06/07/1998",
+        "height": "1.97m",
+        "weight": "128kg",
+        "contract": "PRO",
+        "nation": "Samoa",
+        "club": "Valence Romans Drôme Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Counties Manukau",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Moana Pasifika",
+                "tournament": "Super Rugby Pacific",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Counties Manukau",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Moana Pasifika",
+                "tournament": "Super Rugby Pacific",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Counties Manukau",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Moana Pasifika",
+                "tournament": "Super Rugby Pacific",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Counties Manukau",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Counties Manukau",
+                "tournament": "NPC",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Counties Manukau",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Talat SAHIN",
+        "position": "Prop",
+        "dob": "/01/2005",
+        "height": "1.81m",
+        "weight": "121kg",
+        "contract": "ACADEMY",
+        "nation": "France",
+        "club": "Valence Romans Drôme Rugby",
+        "league": "Pro D2",
+        "value": 45000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Tom ROSS",
+        "position": "Prop",
+        "dob": "29/04/1998",
+        "height": "1.81m",
+        "weight": "124kg",
+        "contract": "PRO",
+        "nation": "Australia",
+        "club": "Valence Romans Drôme Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Nice",
+                "tournament": "Pro D2",
+                "matches": 21,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Waratahs",
+                "tournament": "Super Rugby Pacific",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Brumbies",
+                "tournament": "Super Rugby Pacific",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Brumbies",
+                "tournament": "Super Rugby Pacific",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Australia A",
+                "tournament": "Pacific Nations Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Brumbies",
+                "tournament": "Super Rugby AU",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Southland",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Brumbies",
+                "tournament": "Super Rugby",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Brumbies",
+                "tournament": "Super Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Vincent VIAL",
+        "position": "Prop",
+        "dob": "21/06/1994",
+        "height": "1.79m",
+        "weight": "133kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Valence Romans Drôme Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 22,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Switzerland",
+                "tournament": "Rugby Europe Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Grenoble",
+                "tournament": "Pro D2",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Grenoble",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Andrew QUATTRIN",
+        "position": "Hooker",
+        "dob": "29/08/1996",
+        "height": "1.83m",
+        "weight": "114kg",
+        "contract": "PRO",
+        "nation": "Canada",
+        "club": "Valence Romans Drôme Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "24/25",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 17,
+                "tries": 0,
+                "points": 42
+            },
+            {
+                "season": "23/24",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 15,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "22/23",
+                "team": "Manawatu",
+                "tournament": "NPC",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Toronto",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 0,
+                "points": 17
+            },
+            {
+                "season": "21/22",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Toronto",
+                "tournament": "Major League Rugby",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Toronto",
+                "tournament": "Major League Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Canada",
+                "tournament": "Pacific Nations Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Dorian MARCO-PENA",
+        "position": "Hooker",
+        "dob": "14/08/1996",
+        "height": "1.73m",
+        "weight": "100kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Valence Romans Drôme Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "24/25",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 27,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "23/24",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 25,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "22/23",
+                "team": "Valence Romans",
+                "tournament": "Nationale",
+                "matches": 26,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "21/22",
+                "team": "Béziers",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "20/21",
+                "team": "Béziers",
+                "tournament": "Pro D2",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Béziers",
+                "tournament": "Pro D2",
+                "matches": 17,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "18/19",
+                "team": "Béziers",
+                "tournament": "Pro D2",
+                "matches": 21,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "17/18",
+                "team": "Béziers",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "Béziers",
+                "tournament": "Pro D2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Issam HAMEL",
+        "position": "Hooker",
+        "dob": "18/06/1997",
+        "height": "1.83m",
+        "weight": "110kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Valence Romans Drôme Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 15,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "22/23",
+                "team": "Nevers",
+                "tournament": "Pro D2",
+                "matches": 27,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "21/22",
+                "team": "Nevers",
+                "tournament": "Pro D2",
+                "matches": 29,
+                "tries": 11,
+                "points": 55
+            },
+            {
+                "season": "20/21",
+                "team": "Nevers",
+                "tournament": "Pro D2",
+                "matches": 27,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "19/20",
+                "team": "Racing 92",
+                "tournament": "Top 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Bourgoin",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Sacha IDOUMI",
+        "position": "Hooker",
+        "dob": "19/10/2002",
+        "height": "1.83m",
+        "weight": "105kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Valence Romans Drôme Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Nice",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "23/24",
+                "team": "La Rochelle",
+                "tournament": "Top 14",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Mont-de-Marsan",
+                "tournament": "Pro D2",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "La Rochelle",
+                "tournament": "Top 14",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "La Rochelle",
+                "tournament": "Top 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Tom NUBLAT",
+        "position": "Hooker",
+        "dob": "/09/2006",
+        "height": "1.82m",
+        "weight": "107kg",
+        "contract": "ACADEMY",
+        "nation": "France",
+        "club": "Valence Romans Drôme Rugby",
+        "league": "Pro D2",
+        "value": 45000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Switzerland",
+                "tournament": "Rugby Europe Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Florian GOUMAT",
+        "position": "Lock",
+        "dob": "30/03/1990",
+        "height": "1.94m",
+        "weight": "117kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Valence Romans Drôme Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 22,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 22,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Valence Romans",
+                "tournament": "Nationale",
+                "matches": 18,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Valence Romans",
+                "tournament": "Nationale",
+                "matches": 25,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 18,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Hugo FABRÈGUE",
+        "position": "Lock",
+        "dob": "03/09/1992",
+        "height": "1.92m",
+        "weight": "116kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Valence Romans Drôme Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 9,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 20,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Oyonnax",
+                "tournament": "Top 14",
+                "matches": 19,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 27,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Nevers",
+                "tournament": "Pro D2",
+                "matches": 24,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Nevers",
+                "tournament": "Pro D2",
+                "matches": 27,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "Nevers",
+                "tournament": "Pro D2",
+                "matches": 16,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "Nevers",
+                "tournament": "Pro D2",
+                "matches": 24,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "17/18",
+                "team": "Nevers",
+                "tournament": "Pro D2",
+                "matches": 29,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Nathan HUGUEN",
+        "position": "Lock",
+        "dob": "26/01/2002",
+        "height": "1.97m",
+        "weight": "111kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Valence Romans Drôme Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Paris",
+                "tournament": "Challenge Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Ryan MCCAULEY",
+        "position": "Lock",
+        "dob": "08/06/1997",
+        "height": "2.03m",
+        "weight": "118kg",
+        "contract": "PRO",
+        "nation": "Australia",
+        "club": "Valence Romans Drôme Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 23,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 22,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Western Force",
+                "tournament": "Super Rugby Pacific",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Exeter",
+                "tournament": "Premiership",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Western Force",
+                "tournament": "Super Rugby Pacific",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Western Force",
+                "tournament": "Super Rugby AU",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "5",
+                "tournament": "0 0 5",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Waratahs",
+                "tournament": "Super Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Waratahs",
+                "tournament": "Super Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Waratahs",
+                "tournament": "Super Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Waratahs",
+                "tournament": "Super Rugby",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Adrien ROUX",
+        "position": "Back row",
+        "dob": "16/09/2002",
+        "height": "1.80m",
+        "weight": "93kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Valence Romans Drôme Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 24,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Axel BRUCHET",
+        "position": "Back row",
+        "dob": "25/10/1999",
+        "height": "1.92m",
+        "weight": "100kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Valence Romans Drôme Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 24,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 25,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Valence Romans",
+                "tournament": "Nationale",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Valence Romans",
+                "tournament": "Nationale",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Ilia SPANDERASHVILI",
+        "position": "Back row",
+        "dob": "10/09/1997",
+        "height": "1.94m",
+        "weight": "110kg",
+        "contract": "PRO",
+        "nation": "Georgia",
+        "club": "Valence Romans Drôme Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "25/26",
+                "team": "Georgia",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 16,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Georgia",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Black Lion",
+                "tournament": "Challenge Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Georgia",
+                "tournament": "Rugby Europe Championship",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Georgia",
+                "tournament": "Rugby Europe Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Izaiha MOORE-AIONO",
+        "position": "Back row",
+        "dob": "03/03/2000",
+        "height": "1.83m",
+        "weight": "103kg",
+        "contract": "PRO",
+        "nation": "Samoa",
+        "club": "Valence Romans Drôme Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Saracens",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Castres",
+                "tournament": "Champions Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Northampton",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Ampthill",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "17",
+                "tournament": "8 0 9",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Samoa",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "London Irish",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "London Irish",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "London Irish",
+                "tournament": "Premiership",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "London Irish",
+                "tournament": "Premiership",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Loan RÉAL",
+        "position": "Back row",
+        "dob": "21/11/1999",
+        "height": "1.86m",
+        "weight": "106kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Valence Romans Drôme Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Tarbes",
+                "tournament": "Nationale",
+                "matches": 10,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "Tarbes",
+                "tournament": "Nationale",
+                "matches": 23,
+                "tries": 5,
+                "points": 25
+            }
+        ]
+    },
+    {
+        "name": "Louis SUAUD",
+        "position": "Back row",
+        "dob": "26/06/1999",
+        "height": "1.92m",
+        "weight": "110kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Valence Romans Drôme Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 9,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Nice",
+                "tournament": "Pro D2",
+                "matches": 28,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Nice",
+                "tournament": "Nationale",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Nice",
+                "tournament": "Nationale",
+                "matches": 16,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "Nice",
+                "tournament": "Nationale",
+                "matches": 19,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Matthieu VACHON",
+        "position": "Back row",
+        "dob": "06/05/1991",
+        "height": "1.87m",
+        "weight": "105kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Valence Romans Drôme Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Blagnac",
+                "tournament": "Nationale",
+                "matches": 6,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Blagnac",
+                "tournament": "Nationale",
+                "matches": 22,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "Blagnac",
+                "tournament": "Nationale",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Nama COULIBALY",
+        "position": "Back row",
+        "dob": "14/10/2004",
+        "height": "1.88m",
+        "weight": "103kg",
+        "contract": "ACADEMY",
+        "nation": "France",
+        "club": "Valence Romans Drôme Rugby",
+        "league": "Pro D2",
+        "value": 45000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Philippe LAVILLE",
+        "position": "Back row",
+        "dob": "28/04/2001",
+        "height": "1.89m",
+        "weight": "110kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Valence Romans Drôme Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Valence Romans",
+                "tournament": "Nationale",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Valence Romans",
+                "tournament": "Nationale",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Thembelani BHOLI",
+        "position": "Back row",
+        "dob": "18/01/1990",
+        "height": "1.91m",
+        "weight": "117kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Valence Romans Drôme Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 20,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Sharks",
+                "tournament": "Rainbow Cup SA",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Kings",
+                "tournament": "Pro 14",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Sharks",
+                "tournament": "Super Rugby Unlocked",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Bulls",
+                "tournament": "Super Rugby",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Bulls",
+                "tournament": "Super Rugby",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Kings",
+                "tournament": "Super Rugby",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Kings",
+                "tournament": "Super Rugby",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Mattéo RODOR",
+        "position": "Scrum-half",
+        "dob": "04/07/1999",
+        "height": "1.70m",
+        "weight": "73kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Valence Romans Drôme Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 7,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 25,
+                "tries": 5,
+                "points": 28
+            },
+            {
+                "season": "23/24",
+                "team": "Perpignan",
+                "tournament": "Top 14",
+                "matches": 11,
+                "tries": 0,
+                "points": 2
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "0 0 4",
+                "matches": 3,
+                "tries": 2,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Perpignan",
+                "tournament": "Top 14",
+                "matches": 18,
+                "tries": 1,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Perpignan",
+                "tournament": "Top 14",
+                "matches": 18,
+                "tries": 1,
+                "points": 18
+            },
+            {
+                "season": "21/22",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 3,
+                "tries": 2,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Perpignan",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Perpignan",
+                "tournament": "Pro D2",
+                "matches": 21,
+                "tries": 2,
+                "points": 30
+            },
+            {
+                "season": "18/19",
+                "team": "Perpignan",
+                "tournament": "Challenge Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Paul DUMAS",
+        "position": "Scrum-half",
+        "dob": "19/09/2004",
+        "height": "1.73m",
+        "weight": "79kg",
+        "contract": "ACADEMY",
+        "nation": "France",
+        "club": "Valence Romans Drôme Rugby",
+        "league": "Pro D2",
+        "value": 45000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Lyon",
+                "tournament": "Top 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Thomas LHUSÉRO",
+        "position": "Scrum-half",
+        "dob": "29/09/1996",
+        "height": "1.78m",
+        "weight": "82kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Valence Romans Drôme Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 21,
+                "tries": 2,
+                "points": 19
+            },
+            {
+                "season": "23/24",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 26,
+                "tries": 1,
+                "points": 16
+            },
+            {
+                "season": "22/23",
+                "team": "Tarbes",
+                "tournament": "Nationale",
+                "matches": 14,
+                "tries": 6,
+                "points": 40
+            },
+            {
+                "season": "21/22",
+                "team": "Tarbes",
+                "tournament": "Nationale",
+                "matches": 19,
+                "tries": 5,
+                "points": 84
+            }
+        ]
+    },
+    {
+        "name": "Adrien MARTIN",
+        "position": "Fly-half",
+        "dob": "/05/2005",
+        "height": "1.85m",
+        "weight": "81kg",
+        "contract": "ACADEMY",
+        "nation": "France",
+        "club": "Valence Romans Drôme Rugby",
+        "league": "Pro D2",
+        "value": 45000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 2,
+                "tries": 0,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Lucas MÉRET",
+        "position": "Fly-half",
+        "dob": "30/01/1995",
+        "height": "1.78m",
+        "weight": "87kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Valence Romans Drôme Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 1,
+                "points": 129
+            },
+            {
+                "season": "24/25",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 28,
+                "tries": 0,
+                "points": 332
+            },
+            {
+                "season": "23/24",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 26,
+                "tries": 0,
+                "points": 223
+            },
+            {
+                "season": "22/23",
+                "team": "Valence Romans",
+                "tournament": "Nationale",
+                "matches": 26,
+                "tries": 1,
+                "points": 180
+            },
+            {
+                "season": "21/22",
+                "team": "Narbonne",
+                "tournament": "Pro D2",
+                "matches": 20,
+                "tries": 1,
+                "points": 54
+            },
+            {
+                "season": "20/21",
+                "team": "Carcassonne",
+                "tournament": "Pro D2",
+                "matches": 22,
+                "tries": 0,
+                "points": 123
+            },
+            {
+                "season": "19/20",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 11,
+                "tries": 0,
+                "points": 4
+            },
+            {
+                "season": "18/19",
+                "team": "6",
+                "tournament": "2 1 3",
+                "matches": 5,
+                "tries": 6,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 27,
+                "tries": 0,
+                "points": 204
+            },
+            {
+                "season": "16/17",
+                "team": "Bayonne",
+                "tournament": "Top 14",
+                "matches": 11,
+                "tries": 0,
+                "points": 7
+            },
+            {
+                "season": "16/17",
+                "team": "5",
+                "tournament": "0 0 5",
+                "matches": 4,
+                "tries": 4,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Bayonne",
+                "tournament": "Pro D2",
+                "matches": 24,
+                "tries": 0,
+                "points": 19
+            }
+        ]
+    },
+    {
+        "name": "Anatole PAUVERT",
+        "position": "Centre",
+        "dob": "23/05/1997",
+        "height": "1.82m",
+        "weight": "90kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Valence Romans Drôme Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 22,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "23/24",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 20,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Valence Romans",
+                "tournament": "Nationale",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Valence Romans",
+                "tournament": "Nationale",
+                "matches": 14,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "20/21",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Racing 92",
+                "tournament": "Top 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Racing 92",
+                "tournament": "Top 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Ben NEICERU",
+        "position": "Centre",
+        "dob": "29/01/1993",
+        "height": "1.75m",
+        "weight": "103kg",
+        "contract": "PRO",
+        "nation": "Fiji",
+        "club": "Valence Romans Drôme Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 11,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 23,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "22/23",
+                "team": "Valence Romans",
+                "tournament": "Nationale",
+                "matches": 23,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "21/22",
+                "team": "Chambéry",
+                "tournament": "Nationale",
+                "matches": 21,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Dylan IDRISSI",
+        "position": "Centre",
+        "dob": "15/02/2003",
+        "height": "1.88m",
+        "weight": "90kg",
+        "contract": "ACADEMY",
+        "nation": "France",
+        "club": "Valence Romans Drôme Rugby",
+        "league": "Pro D2",
+        "value": 45000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 9,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "Racing 92",
+                "tournament": "Champions Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Louis MARROU",
+        "position": "Centre",
+        "dob": "14/09/1993",
+        "height": "1.82m",
+        "weight": "102kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Valence Romans Drôme Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 7,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "24/25",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 24,
+                "tries": 8,
+                "points": 40
+            },
+            {
+                "season": "23/24",
+                "team": "Aix",
+                "tournament": "Pro D2",
+                "matches": 16,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "22/23",
+                "team": "Aix",
+                "tournament": "Pro D2",
+                "matches": 28,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "21/22",
+                "team": "Aix",
+                "tournament": "Pro D2",
+                "matches": 28,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "20/21",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Carcassonne",
+                "tournament": "Pro D2",
+                "matches": 16,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "18/19",
+                "team": "Carcassonne",
+                "tournament": "Pro D2",
+                "matches": 21,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "17/18",
+                "team": "Carcassonne",
+                "tournament": "Pro D2",
+                "matches": 25,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "16/17",
+                "team": "Carcassonne",
+                "tournament": "Pro D2",
+                "matches": 25,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "15/16",
+                "team": "Aix",
+                "tournament": "Pro D2",
+                "matches": 24,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "14/15",
+                "team": "Grenoble",
+                "tournament": "Challenge Cup",
+                "matches": 6,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "13/14",
+                "team": "Grenoble",
+                "tournament": "Top 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Mathieu GUILLOMOT",
+        "position": "Centre",
+        "dob": "15/11/1993",
+        "height": "1.83m",
+        "weight": "93kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Valence Romans Drôme Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 20,
+                "tries": 1,
+                "points": 8
+            },
+            {
+                "season": "22/23",
+                "team": "Massy",
+                "tournament": "Pro D2",
+                "matches": 23,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Massy",
+                "tournament": "Nationale",
+                "matches": 25,
+                "tries": 2,
+                "points": 13
+            },
+            {
+                "season": "16/17",
+                "team": "Carcassonne",
+                "tournament": "Pro D2",
+                "matches": 9,
+                "tries": 0,
+                "points": 2
+            },
+            {
+                "season": "15/16",
+                "team": "Carcassonne",
+                "tournament": "Pro D2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Calum RANDLE",
+        "position": "Winger",
+        "dob": "18/01/2000",
+        "height": "1.85m",
+        "weight": "95kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Valence Romans Drôme Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Union Cognac-Saint-Jean",
+                "tournament": "Nationale",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Montpellier",
+                "tournament": "Champions Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Mosese MAWALU",
+        "position": "Winger",
+        "dob": "08/07/1993",
+        "height": "1.79m",
+        "weight": "115kg",
+        "contract": "PRO",
+        "nation": "Fiji",
+        "club": "Valence Romans Drôme Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 16,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "23/24",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 20,
+                "tries": 12,
+                "points": 60
+            },
+            {
+                "season": "22/23",
+                "team": "Chambéry",
+                "tournament": "Nationale",
+                "matches": 16,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "21/22",
+                "team": "Chambéry",
+                "tournament": "Nationale",
+                "matches": 18,
+                "tries": 9,
+                "points": 45
+            }
+        ]
+    },
+    {
+        "name": "Osea WAQANINAVATU",
+        "position": "Winger",
+        "dob": "22/04/2000",
+        "height": "1.77m",
+        "weight": "105kg",
+        "contract": "PRO",
+        "nation": "Fiji",
+        "club": "Valence Romans Drôme Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Tarbes",
+                "tournament": "Nationale",
+                "matches": 13,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Castres",
+                "tournament": "Challenge Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Fiji U20",
+                "tournament": "U20 Championship",
+                "matches": 5,
+                "tries": 3,
+                "points": 15
+            }
+        ]
+    },
+    {
+        "name": "Owen LANE",
+        "position": "Winger",
+        "dob": "20/12/1997",
+        "height": "1.85m",
+        "weight": "100kg",
+        "contract": "PRO",
+        "nation": "Wales",
+        "club": "Valence Romans Drôme Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 7,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 16,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "Cardiff",
+                "tournament": "United Rugby Championship",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Cardiff",
+                "tournament": "Challenge Cup",
+                "matches": 4,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "22/23",
+                "team": "8",
+                "tournament": "3 0 5",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Cardiff",
+                "tournament": "United Rugby Championship",
+                "matches": 14,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Wales",
+                "tournament": "Autumn Nations Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Barbarian F.C.",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Cardiff",
+                "tournament": "Pro 14",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Wales",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Cardiff",
+                "tournament": "Pro 14",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Wales",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Cardiff",
+                "tournament": "Pro 14",
+                "matches": 15,
+                "tries": 8,
+                "points": 40
+            },
+            {
+                "season": "18/19",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Cardiff",
+                "tournament": "Anglo Welsh Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "11",
+                "tournament": "7 0 4",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "6",
+                "tournament": "5 0 1",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Thomas ROZIÈRE",
+        "position": "Winger",
+        "dob": "13/04/2000",
+        "height": "1.77m",
+        "weight": "89kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Valence Romans Drôme Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "23/24",
+                "team": "Clermont",
+                "tournament": "Top 14",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Clermont",
+                "tournament": "Top 14",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Massy",
+                "tournament": "Pro D2",
+                "matches": 10,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "21/22",
+                "team": "Clermont",
+                "tournament": "Top 14",
+                "matches": 11,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "20/21",
+                "team": "Clermont",
+                "tournament": "Top 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Jocelyn DEBRICON",
+        "position": "Fullback",
+        "dob": "/01/2005",
+        "height": "-",
+        "weight": "-",
+        "contract": "ACADEMY",
+        "nation": "France",
+        "club": "Valence Romans Drôme Rugby",
+        "league": "Pro D2",
+        "value": 45000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Joris MOURA",
+        "position": "Fullback",
+        "dob": "07/05/2000",
+        "height": "1.86m",
+        "weight": "90kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Valence Romans Drôme Rugby",
+        "league": "Pro D2",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 26,
+                "tries": 5,
+                "points": 80
+            },
+            {
+                "season": "24/25",
+                "team": "Portugal",
+                "tournament": "Rugby Europe Championship",
+                "matches": 4,
+                "tries": 2,
+                "points": 24
+            },
+            {
+                "season": "23/24",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 14,
+                "tries": 2,
+                "points": 42
+            },
+            {
+                "season": "23/24",
+                "team": "Portugal",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 1,
+                "points": 7
+            },
+            {
+                "season": "22/23",
+                "team": "Valence Romans",
+                "tournament": "Nationale",
+                "matches": 25,
+                "tries": 5,
+                "points": 132
+            },
+            {
+                "season": "21/22",
+                "team": "Valence Romans",
+                "tournament": "Nationale",
+                "matches": 25,
+                "tries": 1,
+                "points": 18
+            },
+            {
+                "season": "20/21",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 5,
+                "tries": 1,
+                "points": 27
+            },
+            {
+                "season": "19/20",
+                "team": "Lyon",
+                "tournament": "Champions Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "France U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 19
+            }
+        ]
+    }
+]

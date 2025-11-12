@@ -1,0 +1,2816 @@
+[
+    {
+        "name": "Aki SEIULI",
+        "position": "Prop",
+        "dob": "22/12/1992",
+        "height": "1.84m",
+        "weight": "118kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Utah Warriors",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Dragons",
+                "tournament": "United Rugby Championship",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Samoa",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Dragons",
+                "tournament": "United Rugby Championship",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Barbarian F.C.",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Samoa",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Dragons",
+                "tournament": "United Rugby Championship",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Dragons",
+                "tournament": "United Rugby Championship",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "4",
+                "tournament": "0 0 4",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Samoa",
+                "tournament": "Pacific Nations Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Glasgow",
+                "tournament": "Pro 14",
+                "matches": 15,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Glasgow",
+                "tournament": "Pro 14",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "4",
+                "tournament": "2 1 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Highlanders",
+                "tournament": "Super Rugby",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "Highlanders",
+                "tournament": "Super Rugby",
+                "matches": 14,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "15/16",
+                "team": "Highlanders",
+                "tournament": "Super Rugby",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "13/14",
+                "team": "Highlanders",
+                "tournament": "Super Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Angus MACLELLAN",
+        "position": "Prop",
+        "dob": "24/08/1992",
+        "height": "1.85m",
+        "weight": "125kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "Utah Warriors",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "USA",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "USA",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "USA",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Emerson PRIOR",
+        "position": "Prop",
+        "dob": "04/06/1998",
+        "height": "1.89m",
+        "weight": "122kg",
+        "contract": "PRO",
+        "nation": "Canada",
+        "club": "Utah Warriors",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Fred APULU",
+        "position": "Prop",
+        "dob": "08/05/1996",
+        "height": "1.93m",
+        "weight": "137kg",
+        "contract": "PRO",
+        "nation": "Samoa",
+        "club": "Utah Warriors",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Chicago Hounds",
+                "tournament": "Major League Rugby",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Chicago Hounds",
+                "tournament": "Major League Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "LA Giltinis",
+                "tournament": "Major League Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Tesimale NIUPULUSU",
+        "position": "Prop",
+        "dob": "18/07/2000",
+        "height": "1.88m",
+        "weight": "131kg",
+        "contract": "PRO",
+        "nation": "Samoa",
+        "club": "Utah Warriors",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": []
+    },
+    {
+        "name": "Tonga KOFE",
+        "position": "Prop",
+        "dob": "02/02/1996",
+        "height": "1.88m",
+        "weight": "143kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "Utah Warriors",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Leicester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "25/26",
+                "team": "USA",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 0,
+                "points": 12
+            },
+            {
+                "season": "24/25",
+                "team": "USA",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Liam COLTMAN",
+        "position": "Hooker",
+        "dob": "25/01/1990",
+        "height": "1.85m",
+        "weight": "112kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Utah Warriors",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 10,
+                "points": 50
+            },
+            {
+                "season": "24/25",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 13,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "Lyon",
+                "tournament": "Top 14",
+                "matches": 20,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Lyon",
+                "tournament": "Top 14",
+                "matches": 18,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Aotearoa",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "6",
+                "tournament": "5 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Highlanders",
+                "tournament": "Super Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "8",
+                "tournament": "3 0 5",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "19/20",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Highlanders",
+                "tournament": "Super Rugby",
+                "matches": 15,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "18/19",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Highlanders",
+                "tournament": "Super Rugby",
+                "matches": 15,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "17/18",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Highlanders",
+                "tournament": "Super Rugby",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Highlanders",
+                "tournament": "Super Rugby",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Highlanders",
+                "tournament": "Super Rugby",
+                "matches": 19,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Highlanders",
+                "tournament": "Super Rugby",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Phil BRADFORD",
+        "position": "Hooker",
+        "dob": "15/04/1997",
+        "height": "1.80m",
+        "weight": "114kg",
+        "contract": "PRO",
+        "nation": "Australia",
+        "club": "Utah Warriors",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 11,
+                "tries": 2,
+                "points": 14
+            },
+            {
+                "season": "23/24",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 12,
+                "tries": 3,
+                "points": 15
+            }
+        ]
+    },
+    {
+        "name": "Ratu Vere VUGAKOTO",
+        "position": "Hooker",
+        "dob": "29/12/1997",
+        "height": "1.83m",
+        "weight": "123kg",
+        "contract": "PRO",
+        "nation": "Fiji",
+        "club": "Utah Warriors",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 11,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 3,
+                "tries": 1,
+                "points": 7
+            },
+            {
+                "season": "22/23",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 15,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "20/21",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 17,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Fiji",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Fiji",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Fiji",
+                "tournament": "Pacific Nations Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Tyler WONG",
+        "position": "Hooker",
+        "dob": "10/08/1999",
+        "height": "1.88m",
+        "weight": "110kg",
+        "contract": "PRO",
+        "nation": "Canada",
+        "club": "Utah Warriors",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Toronto",
+                "tournament": "Major League Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Gavin THORNBURY",
+        "position": "Lock",
+        "dob": "19/10/1993",
+        "height": "2.04m",
+        "weight": "120kg",
+        "contract": "PRO",
+        "nation": "Ireland",
+        "club": "Utah Warriors",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Northampton",
+                "tournament": "Premiership",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Connacht",
+                "tournament": "Champions Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Connacht",
+                "tournament": "United Rugby Championship",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Connacht",
+                "tournament": "United Rugby Championship",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Connacht",
+                "tournament": "Pro 14",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Connacht",
+                "tournament": "Pro 14",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Connacht",
+                "tournament": "Pro 14",
+                "matches": 12,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "18/19",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Connacht",
+                "tournament": "Pro 14",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "2",
+                "tournament": "0 1 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Lone IKA",
+        "position": "Lock",
+        "dob": "-",
+        "height": "1.93m",
+        "weight": "114kg",
+        "contract": "PRO",
+        "nation": "Tonga",
+        "club": "Utah Warriors",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": []
+    },
+    {
+        "name": "Matt JENSEN",
+        "position": "Lock",
+        "dob": "21/04/1992",
+        "height": "2.03m",
+        "weight": "120kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "Utah Warriors",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 18,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "USA",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Reid DAVIS",
+        "position": "Lock",
+        "dob": "04/05/1999",
+        "height": "1.97m",
+        "weight": "109kg",
+        "contract": "PRO",
+        "nation": "Canada",
+        "club": "Utah Warriors",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Seattle",
+                "tournament": "Major League Rugby",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Saia UHILA",
+        "position": "Lock",
+        "dob": "02/02/1987",
+        "height": "1.93m",
+        "weight": "122kg",
+        "contract": "PRO",
+        "nation": "Tonga",
+        "club": "Utah Warriors",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "USA",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 12,
+                "tries": 0,
+                "points": 12
+            },
+            {
+                "season": "20/21",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Bailey WILSON",
+        "position": "Back row",
+        "dob": "28/12/1999",
+        "height": "1.90m",
+        "weight": "107kg",
+        "contract": "PRO",
+        "nation": "Australia",
+        "club": "Utah Warriors",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "USA",
+                "tournament": "La Vila International Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 15,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "19/20",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Dylan NEL",
+        "position": "Back row",
+        "dob": "27/11/1992",
+        "height": "1.85m",
+        "weight": "110kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Utah Warriors",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 0,
+                "points": 22
+            },
+            {
+                "season": "23/24",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 11,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Southland",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Southland",
+                "tournament": "NPC",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 10,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "20/21",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 6,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "Chiefs",
+                "tournament": "Super Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Frank LOCHORE",
+        "position": "Back row",
+        "dob": "07/06/2001",
+        "height": "1.93m",
+        "weight": "111kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Utah Warriors",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 18,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Hawke's Bay",
+                "tournament": "NPC",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "23/24",
+                "team": "Hawke's Bay",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "22/23",
+                "team": "Hawke's Bay",
+                "tournament": "NPC",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Hawke's Bay",
+                "tournament": "NPC",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Kalisi MOLI",
+        "position": "Back row",
+        "dob": "06/06/1997",
+        "height": "1.88m",
+        "weight": "112kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "Utah Warriors",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Lance WILLIAMS",
+        "position": "Back row",
+        "dob": "18/02/1993",
+        "height": "1.85m",
+        "weight": "107kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "Utah Warriors",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "21/22",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "20/21",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 14,
+                "tries": 3,
+                "points": 15
+            }
+        ]
+    },
+    {
+        "name": "Mason BARKER",
+        "position": "Back row",
+        "dob": "14/06/2002",
+        "height": "1.88m",
+        "weight": "108kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "Utah Warriors",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": []
+    },
+    {
+        "name": "Miah NOAESE",
+        "position": "Back row",
+        "dob": "04/01/2002",
+        "height": "1.91m",
+        "weight": "113kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "Utah Warriors",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Papa MATELAU",
+        "position": "Back row",
+        "dob": "/06/2006",
+        "height": "1.84m",
+        "weight": "106kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "Utah Warriors",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": []
+    },
+    {
+        "name": "Ronnie MCELLIGOTT",
+        "position": "Back row",
+        "dob": "17/08/2000",
+        "height": "1.85m",
+        "weight": "100kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "Utah Warriors",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Dallas",
+                "tournament": "Major League Rugby",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Sione LATU",
+        "position": "Back row",
+        "dob": "22/09/2003",
+        "height": "1.91m",
+        "weight": "105kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "Utah Warriors",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "23/24",
+                "team": "Anthem RC",
+                "tournament": "Major League Rugby",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Tamarau MCGAHAN",
+        "position": "Back row",
+        "dob": "08/12/1999",
+        "height": "1.88m",
+        "weight": "109kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Utah Warriors",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "North Harbour",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "North Harbour",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "North Harbour",
+                "tournament": "NPC",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Logan CROWLEY",
+        "position": "Scrum-half",
+        "dob": "04/03/1996",
+        "height": "1.74m",
+        "weight": "79kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Utah Warriors",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Taranaki",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Taranaki",
+                "tournament": "NPC",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Taranaki",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Taranaki",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Taranaki",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "Southland",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Sam REIMER",
+        "position": "Scrum-half",
+        "dob": "08/10/2002",
+        "height": "1.75m",
+        "weight": "85kg",
+        "contract": "PRO",
+        "nation": "Canada",
+        "club": "Utah Warriors",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Toronto",
+                "tournament": "Major League Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Zion GOING",
+        "position": "Scrum-half",
+        "dob": "20/04/2001",
+        "height": "1.86m",
+        "weight": "90kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Utah Warriors",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 18,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 14,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "D'Angelo LEUILA",
+        "position": "Fly-half",
+        "dob": "18/01/1997",
+        "height": "1.75m",
+        "weight": "104kg",
+        "contract": "PRO",
+        "nation": "Samoa",
+        "club": "Utah Warriors",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 13,
+                "tries": 1,
+                "points": 95
+            },
+            {
+                "season": "23/24",
+                "team": "Moana Pasifika",
+                "tournament": "Super Rugby Pacific",
+                "matches": 4,
+                "tries": 0,
+                "points": 2
+            },
+            {
+                "season": "23/24",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 6,
+                "points": 61
+            },
+            {
+                "season": "23/24",
+                "team": "Samoa",
+                "tournament": "Rugby World Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 5,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 4,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Moana Pasifika",
+                "tournament": "Super Rugby Pacific",
+                "matches": 5,
+                "tries": 0,
+                "points": 7
+            },
+            {
+                "season": "22/23",
+                "team": "Samoa",
+                "tournament": "Autumn Nations Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 2
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 2,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Moana Pasifika",
+                "tournament": "Super Rugby Pacific",
+                "matches": 1,
+                "tries": 0,
+                "points": 2
+            },
+            {
+                "season": "21/22",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Samoa",
+                "tournament": "Pacific Nations Cup",
+                "matches": 3,
+                "tries": 1,
+                "points": 7
+            },
+            {
+                "season": "20/21",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 1,
+                "points": 55
+            },
+            {
+                "season": "20/21",
+                "team": "Samoa",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 2
+            },
+            {
+                "season": "18/19",
+                "team": "Samoa",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 3
+            },
+            {
+                "season": "16/17",
+                "team": "Samoa",
+                "tournament": "Test Matchs",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Samoa",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Joel HODGSON",
+        "position": "Fly-half",
+        "dob": "01/08/1992",
+        "height": "1.76m",
+        "weight": "86kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Utah Warriors",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 17,
+                "tries": 7,
+                "points": 96
+            },
+            {
+                "season": "23/24",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 0,
+                "points": 111
+            },
+            {
+                "season": "22/23",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 0,
+                "points": 122
+            },
+            {
+                "season": "21/22",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 10,
+                "tries": 1,
+                "points": 39
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 13,
+                "tries": 0,
+                "points": 26
+            },
+            {
+                "season": "20/21",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 2,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 8,
+                "tries": 0,
+                "points": 4
+            },
+            {
+                "season": "18/19",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 7,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 1,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 20,
+                "tries": 0,
+                "points": 47
+            },
+            {
+                "season": "17/18",
+                "team": "7",
+                "tournament": "6 0 1",
+                "matches": 4,
+                "tries": 3,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 2,
+                "tries": 2,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 22,
+                "tries": 2,
+                "points": 70
+            },
+            {
+                "season": "16/17",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 3,
+                "tries": 2,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Northampton",
+                "tournament": "Premiership",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 11,
+                "tries": 1,
+                "points": 38
+            },
+            {
+                "season": "13/14",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 2,
+                "tries": 1,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Cole SEMU",
+        "position": "Centre",
+        "dob": "15/02/2000",
+        "height": "1.77m",
+        "weight": "100kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Utah Warriors",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Gabe CASEY",
+        "position": "Centre",
+        "dob": "15/07/1999",
+        "height": "1.90m",
+        "weight": "93kg",
+        "contract": "PRO",
+        "nation": "Canada",
+        "club": "Utah Warriors",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Kyle BROWN",
+        "position": "Centre",
+        "dob": "03/08/2002",
+        "height": "1.81m",
+        "weight": "84kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Utah Warriors",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Manawatu",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "Manawatu",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Manawatu",
+                "tournament": "NPC",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Paul LASIKE",
+        "position": "Centre",
+        "dob": "18/06/1990",
+        "height": "1.80m",
+        "weight": "118kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Utah Warriors",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 7,
+                "tries": 0,
+                "points": 17
+            },
+            {
+                "season": "22/23",
+                "team": "USA",
+                "tournament": "Rugby World Cup 2023 Final Qualification Tournament",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 4,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "USA",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Harlequins",
+                "tournament": "Premiership",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Harlequins",
+                "tournament": "Champions Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "14",
+                "tournament": "6 1 7",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "USA",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Harlequins",
+                "tournament": "Premiership",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "USA",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "USA",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Spencer JONES",
+        "position": "Centre",
+        "dob": "17/07/1997",
+        "height": "1.85m",
+        "weight": "100kg",
+        "contract": "PRO",
+        "nation": "Canada",
+        "club": "Utah Warriors",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 10,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Toronto",
+                "tournament": "Major League Rugby",
+                "matches": 8,
+                "tries": 0,
+                "points": 3
+            },
+            {
+                "season": "21/22",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 6,
+                "tries": 0,
+                "points": 9
+            },
+            {
+                "season": "20/21",
+                "team": "Toronto",
+                "tournament": "Major League Rugby",
+                "matches": 9,
+                "tries": 0,
+                "points": 8
+            }
+        ]
+    },
+    {
+        "name": "Tomasi TONGA",
+        "position": "Centre",
+        "dob": "07/07/1998",
+        "height": "1.83m",
+        "weight": "104kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "Utah Warriors",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 11,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Joe MANO",
+        "position": "Winger",
+        "dob": "02/07/1995",
+        "height": "1.83m",
+        "weight": "96kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "Utah Warriors",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 14,
+                "points": 70
+            },
+            {
+                "season": "23/24",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 10,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "USA",
+                "tournament": "La Vila International Rugby Cup",
+                "matches": 2,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "22/23",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 14,
+                "tries": 14,
+                "points": 70
+            },
+            {
+                "season": "21/22",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 7,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "20/21",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Nic BENN",
+        "position": "Winger",
+        "dob": "28/04/2001",
+        "height": "1.88m",
+        "weight": "93kg",
+        "contract": "PRO",
+        "nation": "Australia",
+        "club": "Utah Warriors",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 17,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "24/25",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Dallas",
+                "tournament": "Major League Rugby",
+                "matches": 17,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "23/24",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Toronto",
+                "tournament": "Major League Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Nolan TUAMOHELOA",
+        "position": "Winger",
+        "dob": "18/12/1998",
+        "height": "1.83m",
+        "weight": "90kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "Utah Warriors",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "RFC Los Angeles",
+                "tournament": "Major League Rugby",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "RFC Los Angeles",
+                "tournament": "Major League Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Tielu SAGALA",
+        "position": "Winger",
+        "dob": "23/05/2001",
+        "height": "1.85m",
+        "weight": "94kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "Utah Warriors",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Jordan TRAINOR",
+        "position": "Fullback",
+        "dob": "31/01/1996",
+        "height": "1.87m",
+        "weight": "95kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Utah Warriors",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 8,
+                "points": 40
+            },
+            {
+                "season": "24/25",
+                "team": "Northland",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "Northland",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "22/23",
+                "team": "NOLA",
+                "tournament": "Major League Rugby",
+                "matches": 10,
+                "tries": 2,
+                "points": 14
+            },
+            {
+                "season": "22/23",
+                "team": "Northland",
+                "tournament": "NPC",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "LA Giltinis",
+                "tournament": "Major League Rugby",
+                "matches": 13,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "Auckland",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "19/20",
+                "team": "Auckland",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "Blues",
+                "tournament": "Super Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Blues",
+                "tournament": "Super Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Sione MAHE",
+        "position": "Fullback",
+        "dob": "21/01/2000",
+        "height": "1.83m",
+        "weight": "88kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "Utah Warriors",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    }
+]

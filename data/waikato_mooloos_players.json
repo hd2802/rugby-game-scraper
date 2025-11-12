@@ -1,0 +1,3496 @@
+[
+    {
+        "name": "Gabe ROBINSON",
+        "position": "Prop",
+        "dob": "22/08/2003",
+        "height": "1.84m",
+        "weight": "116kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Waikato Mooloos",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "New Zealand U20",
+                "tournament": "U20 Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "George DYER",
+        "position": "Prop",
+        "dob": "22/10/1999",
+        "height": "1.88m",
+        "weight": "118kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Waikato Mooloos",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "All Blacks XV",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Chiefs",
+                "tournament": "Super Rugby Pacific",
+                "matches": 16,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Chiefs",
+                "tournament": "Super Rugby Pacific",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "All Blacks XV",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Chiefs",
+                "tournament": "Super Rugby Pacific",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Chiefs",
+                "tournament": "Super Rugby Pacific",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "New Zealand U20",
+                "tournament": "U20 Championship",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Mason TUPAEA",
+        "position": "Prop",
+        "dob": "16/10/2002",
+        "height": "1.88m",
+        "weight": "188kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Waikato Mooloos",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Blues",
+                "tournament": "Super Rugby Pacific",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Blues",
+                "tournament": "Super Rugby Pacific",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "New Zealand U20",
+                "tournament": "Oceania Rugby U20 Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Ollie NORRIS",
+        "position": "Prop",
+        "dob": "11/12/1999",
+        "height": "1.94m",
+        "weight": "122kg",
+        "contract": "PRO",
+        "nation": "Australia",
+        "club": "Waikato Mooloos",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Chiefs",
+                "tournament": "Super Rugby Pacific",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Chiefs",
+                "tournament": "Super Rugby Pacific",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 12,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "All Blacks XV",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Māori All Blacks",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Chiefs",
+                "tournament": "Super Rugby Pacific",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Chiefs",
+                "tournament": "Super Rugby Pacific",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Chiefs",
+                "tournament": "Super Rugby Aotearoa",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Chiefs",
+                "tournament": "Super Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "New Zealand U20",
+                "tournament": "U20 Championship",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Pita ANAE AH-SUE",
+        "position": "Prop",
+        "dob": "16/12/1992",
+        "height": "1.83m",
+        "weight": "111kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Waikato Mooloos",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 18,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "24/25",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Samoa",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 13,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Sefo KAUTAI",
+        "position": "Prop",
+        "dob": "16/08/1996",
+        "height": "1.89m",
+        "weight": "133kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Waikato Mooloos",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 13,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Brumbies",
+                "tournament": "Super Rugby Pacific",
+                "matches": 16,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Brumbies",
+                "tournament": "Super Rugby Pacific",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Brumbies",
+                "tournament": "Super Rugby Pacific",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Brumbies",
+                "tournament": "Super Rugby AU",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Chiefs",
+                "tournament": "Super Rugby",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Chiefs",
+                "tournament": "Super Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Chiefs",
+                "tournament": "Super Rugby",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Taipari QUINN",
+        "position": "Prop",
+        "dob": "-",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Waikato Mooloos",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Will MARTIN",
+        "position": "Prop",
+        "dob": "/12/2004",
+        "height": "1.89m",
+        "weight": "115kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Waikato Mooloos",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "New Zealand U20",
+                "tournament": "Rugby Championship U20",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "New Zealand U20",
+                "tournament": "U20 Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Liam GILHEANEY-BLACK",
+        "position": "Hooker",
+        "dob": "-",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Waikato Mooloos",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Manaaki BOYLE-TIATIA",
+        "position": "Hooker",
+        "dob": "-",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Waikato Mooloos",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Sean RALPH",
+        "position": "Hooker",
+        "dob": "22/06/2003",
+        "height": "1.78m",
+        "weight": "103kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Waikato Mooloos",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Dylan ETI",
+        "position": "Lock",
+        "dob": "/11/2005",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "Samoa",
+        "club": "Waikato Mooloos",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "New Zealand U20",
+                "tournament": "Rugby Championship U20",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "James TUCKER",
+        "position": "Lock",
+        "dob": "05/08/1994",
+        "height": "1.97m",
+        "weight": "115kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Waikato Mooloos",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Yakult Levins Toda",
+                "tournament": "Japan Rugby League One - Division 3",
+                "matches": 8,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "24/25",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Blues",
+                "tournament": "Super Rugby Pacific",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "Blues",
+                "tournament": "Super Rugby Pacific",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Brumbies",
+                "tournament": "Super Rugby AU",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "17/18",
+                "team": "Zebre",
+                "tournament": "Pro 14",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Chiefs",
+                "tournament": "Super Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Chiefs",
+                "tournament": "Super Rugby",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Laghlan MCWHANNELL",
+        "position": "Lock",
+        "dob": "20/10/1998",
+        "height": "1.98m",
+        "weight": "114kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Waikato Mooloos",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Blues",
+                "tournament": "Super Rugby Pacific",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Māori All Blacks",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Blues",
+                "tournament": "Super Rugby Pacific",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "Māori All Blacks",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Chiefs",
+                "tournament": "Super Rugby Pacific",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Chiefs",
+                "tournament": "Super Rugby Pacific",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "20/21",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Andrew SMITH",
+        "position": "Back row",
+        "dob": "01/02/2004",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Waikato Mooloos",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "New Zealand U20",
+                "tournament": "Rugby Championship U20",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Hamilton BURR",
+        "position": "Back row",
+        "dob": "19/06/1996",
+        "height": "1.95m",
+        "weight": "109kg",
+        "contract": "PRO",
+        "nation": "Scotland",
+        "club": "Waikato Mooloos",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Chiefs",
+                "tournament": "Super Rugby Pacific",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Chiefs",
+                "tournament": "Super Rugby Pacific",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Glasgow",
+                "tournament": "Pro 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Jahrome BROWN",
+        "position": "Back row",
+        "dob": "29/09/1996",
+        "height": "1.89m",
+        "weight": "105kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Waikato Mooloos",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Chiefs",
+                "tournament": "Super Rugby Pacific",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Māori All Blacks",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Brumbies",
+                "tournament": "Super Rugby Pacific",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Brumbies",
+                "tournament": "Super Rugby Pacific",
+                "matches": 7,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "Brumbies",
+                "tournament": "Super Rugby Pacific",
+                "matches": 13,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "20/21",
+                "team": "Brumbies",
+                "tournament": "Super Rugby AU",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Brumbies",
+                "tournament": "Super Rugby",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Liam ANDERSON",
+        "position": "Back row",
+        "dob": "-",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Waikato Mooloos",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Luke JACOBSON",
+        "position": "Back row",
+        "dob": "20/04/1997",
+        "height": "1.91m",
+        "weight": "107kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Waikato Mooloos",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "All Blacks XV",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Chiefs",
+                "tournament": "Super Rugby Pacific",
+                "matches": 14,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Chiefs",
+                "tournament": "Super Rugby Pacific",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Chiefs",
+                "tournament": "Super Rugby Pacific",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "New Zealand",
+                "tournament": "Rugby Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Chiefs",
+                "tournament": "Super Rugby Pacific",
+                "matches": 12,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 6,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Chiefs",
+                "tournament": "Super Rugby Aotearoa",
+                "matches": 7,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Chiefs",
+                "tournament": "Super Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Chiefs",
+                "tournament": "Super Rugby",
+                "matches": 8,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "18/19",
+                "team": "New Zealand",
+                "tournament": "Rugby Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Chiefs",
+                "tournament": "Super Rugby",
+                "matches": 13,
+                "tries": 3,
+                "points": 15
+            }
+        ]
+    },
+    {
+        "name": "Malachi WRAMPLING-ALEC",
+        "position": "Back row",
+        "dob": "15/04/2004",
+        "height": "1.92m",
+        "weight": "112kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Waikato Mooloos",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Chiefs",
+                "tournament": "Super Rugby Pacific",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "New Zealand U20",
+                "tournament": "Rugby Championship U20",
+                "matches": 3,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "22/23",
+                "team": "New Zealand U20",
+                "tournament": "U20 Championship",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Mitch JACOBSON",
+        "position": "Back row",
+        "dob": "13/01/1996",
+        "height": "1.93m",
+        "weight": "108kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Waikato Mooloos",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 15,
+                "tries": 0,
+                "points": 17
+            },
+            {
+                "season": "22/23",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Chiefs",
+                "tournament": "Super Rugby Pacific",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "Sunwolves",
+                "tournament": "Super Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "Chiefs",
+                "tournament": "Super Rugby",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Oli MATHIS",
+        "position": "Back row",
+        "dob": "/09/2005",
+        "height": "1.86m",
+        "weight": "98kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Waikato Mooloos",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "New Zealand U20",
+                "tournament": "U20 Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 5,
+                "points": 25
+            }
+        ]
+    },
+    {
+        "name": "Patrick MCCURRAN",
+        "position": "Back row",
+        "dob": "05/06/1998",
+        "height": "1.89m",
+        "weight": "108kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Waikato Mooloos",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Samipeni FINAU",
+        "position": "Back row",
+        "dob": "10/05/1999",
+        "height": "1.96m",
+        "weight": "115kg",
+        "contract": "PRO",
+        "nation": "Tonga",
+        "club": "Waikato Mooloos",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Chiefs",
+                "tournament": "Super Rugby Pacific",
+                "matches": 17,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "24/25",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Chiefs",
+                "tournament": "Super Rugby Pacific",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Chiefs",
+                "tournament": "Super Rugby Pacific",
+                "matches": 14,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "22/23",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Chiefs",
+                "tournament": "Super Rugby Pacific",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Chiefs",
+                "tournament": "Super Rugby Aotearoa",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "New Zealand U20",
+                "tournament": "U20 Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Senita LAUAKI",
+        "position": "Back row",
+        "dob": "21/07/2003",
+        "height": "1.90m",
+        "weight": "110kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Waikato Mooloos",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Xavier SAIFOLOI",
+        "position": "Back row",
+        "dob": "23/06/2003",
+        "height": "1.95m",
+        "weight": "114kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Waikato Mooloos",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Charlie MARSH",
+        "position": "Scrum-half",
+        "dob": "-",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Waikato Mooloos",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Rui FARRANT",
+        "position": "Scrum-half",
+        "dob": "30/10/2004",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Waikato Mooloos",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 3,
+                "points": 15
+            }
+        ]
+    },
+    {
+        "name": "Xavier ROE",
+        "position": "Scrum-half",
+        "dob": "13/12/1998",
+        "height": "1.79m",
+        "weight": "86kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Waikato Mooloos",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "All Blacks XV",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Chiefs",
+                "tournament": "Super Rugby Pacific",
+                "matches": 16,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "24/25",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Chiefs",
+                "tournament": "Super Rugby Pacific",
+                "matches": 14,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "21/22",
+                "team": "Chiefs",
+                "tournament": "Super Rugby Pacific",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Chiefs",
+                "tournament": "Super Rugby Aotearoa",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 4,
+                "points": 20
+            }
+        ]
+    },
+    {
+        "name": "Aaron CRUDEN",
+        "position": "Fly-half",
+        "dob": "08/01/1989",
+        "height": "1.78m",
+        "weight": "84kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Waikato Mooloos",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 1,
+                "points": 49
+            },
+            {
+                "season": "23/24",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 2,
+                "points": 48
+            },
+            {
+                "season": "22/23",
+                "team": "Tokyo Sungoliath",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 10,
+                "tries": 3,
+                "points": 93
+            },
+            {
+                "season": "22/23",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 4,
+                "tries": 2,
+                "points": 22
+            },
+            {
+                "season": "21/22",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 8,
+                "tries": 4,
+                "points": 80
+            },
+            {
+                "season": "19/20",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 6,
+                "tries": 0,
+                "points": 54
+            },
+            {
+                "season": "19/20",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Chiefs",
+                "tournament": "Super Rugby",
+                "matches": 5,
+                "tries": 1,
+                "points": 39
+            },
+            {
+                "season": "19/20",
+                "team": "7",
+                "tournament": "0 0 7",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 15,
+                "tries": 3,
+                "points": 50
+            },
+            {
+                "season": "18/19",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 20,
+                "tries": 3,
+                "points": 34
+            },
+            {
+                "season": "17/18",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 4,
+                "tries": 1,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Chiefs",
+                "tournament": "Super Rugby",
+                "matches": 16,
+                "tries": 2,
+                "points": 78
+            },
+            {
+                "season": "16/17",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 7,
+                "tries": 0,
+                "points": 14
+            },
+            {
+                "season": "15/16",
+                "team": "Chiefs",
+                "tournament": "Super Rugby",
+                "matches": 17,
+                "tries": 5,
+                "points": 54
+            },
+            {
+                "season": "15/16",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 19
+            },
+            {
+                "season": "14/15",
+                "team": "Chiefs",
+                "tournament": "Super Rugby",
+                "matches": 8,
+                "tries": 1,
+                "points": 93
+            },
+            {
+                "season": "14/15",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 2,
+                "points": 24
+            },
+            {
+                "season": "13/14",
+                "team": "Chiefs",
+                "tournament": "Super Rugby",
+                "matches": 12,
+                "tries": 1,
+                "points": 104
+            },
+            {
+                "season": "13/14",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 7,
+                "tries": 1,
+                "points": 74
+            },
+            {
+                "season": "13/14",
+                "team": "3",
+                "tournament": "2 1 0",
+                "matches": 3,
+                "tries": 9,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Lima SOPOAGA",
+        "position": "Fly-half",
+        "dob": "03/02/1991",
+        "height": "1.75m",
+        "weight": "91kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Waikato Mooloos",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Shimizu Blue Sharks",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 12,
+                "tries": 5,
+                "points": 61
+            },
+            {
+                "season": "24/25",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 6,
+                "tries": 1,
+                "points": 28
+            },
+            {
+                "season": "23/24",
+                "team": "Shimizu Blue Sharks",
+                "tournament": "Japan Rugby League One - Division 3",
+                "matches": 9,
+                "tries": 1,
+                "points": 16
+            },
+            {
+                "season": "23/24",
+                "team": "Samoa",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 2,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 1,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Lyon",
+                "tournament": "Top 14",
+                "matches": 11,
+                "tries": 0,
+                "points": 44
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 8,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Lyon",
+                "tournament": "Top 14",
+                "matches": 12,
+                "tries": 0,
+                "points": 57
+            },
+            {
+                "season": "21/22",
+                "team": "4",
+                "tournament": "4 0 0",
+                "matches": 3,
+                "tries": 2,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Wasps",
+                "tournament": "Premiership",
+                "matches": 8,
+                "tries": 1,
+                "points": 48
+            },
+            {
+                "season": "20/21",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Wasps",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 6
+            },
+            {
+                "season": "19/20",
+                "team": "12",
+                "tournament": "7 0 5",
+                "matches": 7,
+                "tries": 12,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 4,
+                "tries": 2,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Wasps",
+                "tournament": "Premiership",
+                "matches": 17,
+                "tries": 1,
+                "points": 116
+            },
+            {
+                "season": "18/19",
+                "team": "6",
+                "tournament": "0 1 5",
+                "matches": 5,
+                "tries": 4,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 5,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Highlanders",
+                "tournament": "Super Rugby",
+                "matches": 17,
+                "tries": 3,
+                "points": 158
+            },
+            {
+                "season": "17/18",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 8
+            },
+            {
+                "season": "17/18",
+                "team": "All Blacks XV",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 6
+            },
+            {
+                "season": "16/17",
+                "team": "Highlanders",
+                "tournament": "Super Rugby",
+                "matches": 8,
+                "tries": 1,
+                "points": 54
+            },
+            {
+                "season": "16/17",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 8
+            },
+            {
+                "season": "15/16",
+                "team": "Highlanders",
+                "tournament": "Super Rugby",
+                "matches": 16,
+                "tries": 5,
+                "points": 186
+            },
+            {
+                "season": "15/16",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Highlanders",
+                "tournament": "Super Rugby",
+                "matches": 18,
+                "tries": 2,
+                "points": 191
+            },
+            {
+                "season": "14/15",
+                "team": "New Zealand",
+                "tournament": "Rugby Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 12
+            },
+            {
+                "season": "13/14",
+                "team": "Highlanders",
+                "tournament": "Super Rugby",
+                "matches": 15,
+                "tries": 2,
+                "points": 178
+            }
+        ]
+    },
+    {
+        "name": "Aki TUIVAILALA",
+        "position": "Centre",
+        "dob": "24/09/2004",
+        "height": "1.86m",
+        "weight": "98kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Waikato Mooloos",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "New Zealand U20",
+                "tournament": "Rugby Championship U20",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "New Zealand U20",
+                "tournament": "U20 Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Anton LIENERT-BROWN",
+        "position": "Centre",
+        "dob": "15/04/1995",
+        "height": "1.85m",
+        "weight": "104kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Waikato Mooloos",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Chiefs",
+                "tournament": "Super Rugby Pacific",
+                "matches": 6,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Chiefs",
+                "tournament": "Super Rugby Pacific",
+                "matches": 14,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "7",
+                "tournament": "5 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "6",
+                "tournament": "3 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Chiefs",
+                "tournament": "Super Rugby Pacific",
+                "matches": 8,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "3",
+                "tournament": "2 1 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Chiefs",
+                "tournament": "Super Rugby Pacific",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Chiefs",
+                "tournament": "Super Rugby Aotearoa",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Chiefs",
+                "tournament": "Super Rugby",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "7",
+                "tournament": "0 0 7",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Chiefs",
+                "tournament": "Super Rugby",
+                "matches": 14,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "18/19",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "3",
+                "tournament": "1 1 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Chiefs",
+                "tournament": "Super Rugby",
+                "matches": 15,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "17/18",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "6",
+                "tournament": "5 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Chiefs",
+                "tournament": "Super Rugby",
+                "matches": 16,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "5",
+                "tournament": "5 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Chiefs",
+                "tournament": "Super Rugby",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "New Zealand",
+                "tournament": "Rugby Championship",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "14/15",
+                "team": "Chiefs",
+                "tournament": "Super Rugby",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Chiefs",
+                "tournament": "Super Rugby",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Austin ANDERSON",
+        "position": "Centre",
+        "dob": "18/11/2003",
+        "height": "1.86m",
+        "weight": "94kg",
+        "contract": "PRO",
+        "nation": "Australia",
+        "club": "Waikato Mooloos",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Brumbies",
+                "tournament": "Super Rugby Pacific",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Bailyn SULLIVAN",
+        "position": "Centre",
+        "dob": "03/09/1998",
+        "height": "1.87m",
+        "weight": "103kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Waikato Mooloos",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 15,
+                "tries": 8,
+                "points": 40
+            },
+            {
+                "season": "24/25",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "Māori All Blacks",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "All Blacks XV",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Māori All Blacks",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 12,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "21/22",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "20/21",
+                "team": "Chiefs",
+                "tournament": "Super Rugby Aotearoa",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "19/20",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Chiefs",
+                "tournament": "Super Rugby",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Chiefs",
+                "tournament": "Super Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Gideon WRAMPLING",
+        "position": "Centre",
+        "dob": "26/07/2001",
+        "height": "1.88m",
+        "weight": "102kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Waikato Mooloos",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Chiefs",
+                "tournament": "Super Rugby Pacific",
+                "matches": 11,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Māori All Blacks",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Chiefs",
+                "tournament": "Super Rugby Pacific",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Chiefs",
+                "tournament": "Super Rugby Pacific",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "Chiefs",
+                "tournament": "Super Rugby Aotearoa",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Dan SINKINSON",
+        "position": "Winger",
+        "dob": "08/02/2001",
+        "height": "1.88m",
+        "weight": "95kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Waikato Mooloos",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 6,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 4,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "22/23",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 4,
+                "points": 22
+            },
+            {
+                "season": "21/22",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "20/21",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Liam COOMBES-FABLING",
+        "position": "Winger",
+        "dob": "07/07/1998",
+        "height": "1.80m",
+        "weight": "86kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Waikato Mooloos",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Chiefs",
+                "tournament": "Super Rugby Pacific",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Chiefs",
+                "tournament": "Super Rugby Pacific",
+                "matches": 4,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 6,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "19/20",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Waisake SALABIAU",
+        "position": "Winger",
+        "dob": "20/07/2004",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "Fiji",
+        "club": "Waikato Mooloos",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Fiji U20",
+                "tournament": "U20 Championship",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Joshua MOORBY",
+        "position": "Fullback",
+        "dob": "11/07/1998",
+        "height": "1.88m",
+        "weight": "96kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Waikato Mooloos",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 15,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 14,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "23/24",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Māori All Blacks",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 14,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "22/23",
+                "team": "Northland",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 10,
+                "tries": 9,
+                "points": 45
+            },
+            {
+                "season": "21/22",
+                "team": "Northland",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "20/21",
+                "team": "Southland",
+                "tournament": "NPC",
+                "matches": 4,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "Southland",
+                "tournament": "NPC",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Tepaea COOK-SAVAGE",
+        "position": "Fullback",
+        "dob": "02/08/2001",
+        "height": "1.73m",
+        "weight": "83kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Waikato Mooloos",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 3,
+                "points": 28
+            },
+            {
+                "season": "23/24",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 2,
+                "points": 33
+            },
+            {
+                "season": "22/23",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 3,
+                "points": 49
+            },
+            {
+                "season": "21/22",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Waikato",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    }
+]

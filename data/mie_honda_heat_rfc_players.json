@@ -1,0 +1,3250 @@
+[
+    {
+        "name": "Feinga FAKAI",
+        "position": "Prop",
+        "dob": "06/07/1997",
+        "height": "1.80m",
+        "weight": "116kg",
+        "contract": "PRO",
+        "nation": "Tonga",
+        "club": "Mie Honda Heat RFC",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 15,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Kurita Water Gush",
+                "tournament": "Japan Rugby League One - Division 3",
+                "matches": 9,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Kurita Water Gush",
+                "tournament": "Japan Rugby League One - Division 3",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Gun TAJIMA",
+        "position": "Prop",
+        "dob": "19/08/1999",
+        "height": "1.78m",
+        "weight": "112kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mie Honda Heat RFC",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "21/22",
+                "team": "Toyota Industries Shuttles",
+                "tournament": "Japan Rugby League One - Division 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Kanato HIRANO",
+        "position": "Prop",
+        "dob": "08/02/2000",
+        "height": "1.80m",
+        "weight": "108kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mie Honda Heat RFC",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Katsuyuki HOSHINO",
+        "position": "Prop",
+        "dob": "24/08/1999",
+        "height": "1.86m",
+        "weight": "120kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mie Honda Heat RFC",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Matthys BASSON",
+        "position": "Prop",
+        "dob": "09/06/1995",
+        "height": "1.91m",
+        "weight": "115kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Mie Honda Heat RFC",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Bulls",
+                "tournament": "Super Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Taiki YOSHIOKA",
+        "position": "Prop",
+        "dob": "02/09/1995",
+        "height": "1.83m",
+        "weight": "115kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mie Honda Heat RFC",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Takumi FUJII",
+        "position": "Prop",
+        "dob": "02/09/1995",
+        "height": "1.76m",
+        "weight": "110kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mie Honda Heat RFC",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 10,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Tatsuhiko TSURUKAWA",
+        "position": "Prop",
+        "dob": "21/05/1995",
+        "height": "1.82m",
+        "weight": "114kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mie Honda Heat RFC",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 19,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 18,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Hiroaki SHIRAHAMA",
+        "position": "Hooker",
+        "dob": "28/10/1994",
+        "height": "1.75m",
+        "weight": "105kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mie Honda Heat RFC",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Ikuma YAMADA",
+        "position": "Hooker",
+        "dob": "26/01/1999",
+        "height": "1.77m",
+        "weight": "100kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mie Honda Heat RFC",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 19,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Koki HIDA",
+        "position": "Hooker",
+        "dob": "17/09/2000",
+        "height": "1.77m",
+        "weight": "100kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mie Honda Heat RFC",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 19,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Shun HIZUME",
+        "position": "Hooker",
+        "dob": "28/01/1999",
+        "height": "1.71m",
+        "weight": "100kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mie Honda Heat RFC",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "22/23",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Connor WIHONGI",
+        "position": "Lock",
+        "dob": "20/08/1997",
+        "height": "2.00m",
+        "weight": "120kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Mie Honda Heat RFC",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Franco MOSTERT",
+        "position": "Lock",
+        "dob": "27/11/1990",
+        "height": "1.98m",
+        "weight": "112kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Mie Honda Heat RFC",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 17,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "24/25",
+                "team": "South Africa",
+                "tournament": "Autumn Nations Series",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 17,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "6",
+                "tournament": "5 0 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "South Africa",
+                "tournament": "Autumn Nations Series",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "South Africa",
+                "tournament": "Autumn Nations Series",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "6",
+                "tournament": "4 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Gloucester",
+                "tournament": "Premiership",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "7",
+                "tournament": "6 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Gloucester",
+                "tournament": "Premiership",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "2",
+                "tournament": "1 1 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Lions",
+                "tournament": "Super Rugby",
+                "matches": 19,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Lions",
+                "tournament": "Super Rugby",
+                "matches": 17,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "16/17",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "5",
+                "tournament": "2 1 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Lions",
+                "tournament": "Super Rugby",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "15/16",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Lions",
+                "tournament": "Super Rugby",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Lions",
+                "tournament": "Super Rugby",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Janko SWANEPOEL",
+        "position": "Lock",
+        "dob": "08/09/1999",
+        "height": "2.00m",
+        "weight": "107kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Mie Honda Heat RFC",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 19,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Bulls",
+                "tournament": "United Rugby Championship",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Bulls",
+                "tournament": "United Rugby Championship",
+                "matches": 16,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Bulls",
+                "tournament": "United Rugby Championship",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Bulls",
+                "tournament": "Rainbow Cup SA",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "South Africa U20",
+                "tournament": "U20 Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Mark ABBOTT",
+        "position": "Lock",
+        "dob": "20/02/1990",
+        "height": "1.98m",
+        "weight": "115kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Mie Honda Heat RFC",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 12,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "22/23",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "Sunwolves",
+                "tournament": "Super Rugby",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby",
+                "matches": 14,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "15/16",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "13/14",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Ryoma NISHIMURA",
+        "position": "Lock",
+        "dob": "21/11/1995",
+        "height": "1.90m",
+        "weight": "110kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mie Honda Heat RFC",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Toyota Verblitz",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Toyota Verblitz",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Toyota Verblitz",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Waimana RIEDLINGER-KAPA",
+        "position": "Lock",
+        "dob": "02/09/1998",
+        "height": "1.92m",
+        "weight": "108kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Mie Honda Heat RFC",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Kintetsu Liners",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Kintetsu Liners",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Auckland",
+                "tournament": "NPC",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Auckland",
+                "tournament": "NPC",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Yoji AKIYAMA",
+        "position": "Lock",
+        "dob": "06/02/1992",
+        "height": "1.89m",
+        "weight": "110kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mie Honda Heat RFC",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Yu KASAKAKE",
+        "position": "Lock",
+        "dob": "01/10/2001",
+        "height": "1.92m",
+        "weight": "110kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mie Honda Heat RFC",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": []
+    },
+    {
+        "name": "Kosuke HATTORI",
+        "position": "Back row",
+        "dob": "04/06/1993",
+        "height": "1.81m",
+        "weight": "102kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mie Honda Heat RFC",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Pablo MATERA",
+        "position": "Back row",
+        "dob": "18/07/1993",
+        "height": "1.92m",
+        "weight": "105kg",
+        "contract": "PRO",
+        "nation": "Argentina",
+        "club": "Mie Honda Heat RFC",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Argentina",
+                "tournament": "Autumn Nations Series",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 15,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "24/25",
+                "team": "Argentina",
+                "tournament": "Autumn Nations Series",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "6",
+                "tournament": "2 0 4",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 5,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "23/24",
+                "team": "Argentina",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "6",
+                "tournament": "3 0 3",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 10,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Argentina",
+                "tournament": "Autumn Nations Series",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Argentina",
+                "tournament": "Autumn Nations Series",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "6",
+                "tournament": "2 0 4",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Paris",
+                "tournament": "Top 14",
+                "matches": 17,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "Argentina",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "5",
+                "tournament": "0 0 5",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Paris",
+                "tournament": "Top 14",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Argentina",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "3",
+                "tournament": "1 1 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Jaguares",
+                "tournament": "Super Rugby",
+                "matches": 17,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "18/19",
+                "team": "Argentina",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Jaguares",
+                "tournament": "Super Rugby",
+                "matches": 13,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "17/18",
+                "team": "Argentina",
+                "tournament": "Test Matchs",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "6",
+                "tournament": "2 0 4",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Jaguares",
+                "tournament": "Super Rugby",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "Argentina",
+                "tournament": "Test Matchs",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "6",
+                "tournament": "0 0 6",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Jaguares",
+                "tournament": "Super Rugby",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "15/16",
+                "team": "Argentina",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "6",
+                "tournament": "4 0 2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "6",
+                "tournament": "1 0 5",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Argentina",
+                "tournament": "Rugby Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Leicester",
+                "tournament": "Premiership",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "13/14",
+                "team": "Argentina",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Ryo FURUTA",
+        "position": "Back row",
+        "dob": "29/09/1995",
+        "height": "1.83m",
+        "weight": "99kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mie Honda Heat RFC",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 11,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Ryota KOBAYASHI",
+        "position": "Back row",
+        "dob": "11/06/1991",
+        "height": "1.82m",
+        "weight": "98kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mie Honda Heat RFC",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 14,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Talifolofola TANGIPA",
+        "position": "Back row",
+        "dob": "21/05/1996",
+        "height": "1.86m",
+        "weight": "117kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Mie Honda Heat RFC",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 12,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "Toyota Industries Shuttles",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 11,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Toyota Industries Shuttles",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 8,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Toyota Industries Shuttles",
+                "tournament": "Japan Rugby League One - Division 3",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Tevita TUPOU",
+        "position": "Back row",
+        "dob": "26/09/1991",
+        "height": "1.86m",
+        "weight": "104kg",
+        "contract": "PRO",
+        "nation": "Tonga",
+        "club": "Mie Honda Heat RFC",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Kintetsu Liners",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Kintetsu Liners",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Kintetsu Liners",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Sunwolves",
+                "tournament": "Super Rugby",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Tony HUNT",
+        "position": "Back row",
+        "dob": "09/02/1998",
+        "height": "1.89m",
+        "weight": "106kg",
+        "contract": "PRO",
+        "nation": "Australia",
+        "club": "Mie Honda Heat RFC",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Azuma DOEI",
+        "position": "Scrum-half",
+        "dob": "24/07/1998",
+        "height": "1.72m",
+        "weight": "75kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mie Honda Heat RFC",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 18,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Munakata Sanix Blues",
+                "tournament": "Japan Rugby League One - Division 3",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Kenta YAMAJI",
+        "position": "Scrum-half",
+        "dob": "09/08/1989",
+        "height": "1.71m",
+        "weight": "73kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mie Honda Heat RFC",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "23/24",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Shogo NEZUKA",
+        "position": "Scrum-half",
+        "dob": "13/01/1997",
+        "height": "1.63m",
+        "weight": "70kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mie Honda Heat RFC",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 11,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Taichi TAKENAKA",
+        "position": "Scrum-half",
+        "dob": "25/12/1995",
+        "height": "1.73m",
+        "weight": "82kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mie Honda Heat RFC",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Munakata Sanix Blues",
+                "tournament": "Japan Rugby League One - Division 3",
+                "matches": 3,
+                "tries": 1,
+                "points": 19
+            }
+        ]
+    },
+    {
+        "name": "Takuro HOJO",
+        "position": "Scrum-half",
+        "dob": "18/09/2001",
+        "height": "1.73m",
+        "weight": "79kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mie Honda Heat RFC",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 8,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "FC DU PLESSIS",
+        "position": "Fly-half",
+        "dob": "07/02/2001",
+        "height": "1.85m",
+        "weight": "89kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Mie Honda Heat RFC",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 5,
+                "tries": 1,
+                "points": 8
+            },
+            {
+                "season": "20/21",
+                "team": "Toulon",
+                "tournament": "Top 14",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Gwangtee OH",
+        "position": "Fly-half",
+        "dob": "16/11/1996",
+        "height": "1.80m",
+        "weight": "90kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mie Honda Heat RFC",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 13,
+                "tries": 4,
+                "points": 61
+            },
+            {
+                "season": "23/24",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 16,
+                "tries": 1,
+                "points": 63
+            },
+            {
+                "season": "22/23",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 10,
+                "tries": 1,
+                "points": 50
+            },
+            {
+                "season": "21/22",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 7,
+                "tries": 0,
+                "points": 14
+            }
+        ]
+    },
+    {
+        "name": "Hayata NAKAO",
+        "position": "Fly-half",
+        "dob": "20/01/1995",
+        "height": "1.76m",
+        "weight": "89kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mie Honda Heat RFC",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 17,
+                "tries": 0,
+                "points": 32
+            },
+            {
+                "season": "23/24",
+                "team": "Brave Lupus",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 14
+            },
+            {
+                "season": "22/23",
+                "team": "Brave Lupus",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 3,
+                "tries": 1,
+                "points": 24
+            },
+            {
+                "season": "22/23",
+                "team": "Japan",
+                "tournament": "Autumn Nations Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Brave Lupus",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 16,
+                "tries": 2,
+                "points": 68
+            }
+        ]
+    },
+    {
+        "name": "Manu VUNIPOLA",
+        "position": "Fly-half",
+        "dob": "04/05/2000",
+        "height": "1.83m",
+        "weight": "92kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Mie Honda Heat RFC",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 8,
+                "tries": 0,
+                "points": 48
+            },
+            {
+                "season": "23/24",
+                "team": "Saracens",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 5,
+                "tries": 0,
+                "points": 39
+            },
+            {
+                "season": "23/24",
+                "team": "9",
+                "tournament": "4 0 5",
+                "matches": 4,
+                "tries": 2,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Ampthill",
+                "tournament": "RFU Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 4
+            },
+            {
+                "season": "22/23",
+                "team": "Saracens",
+                "tournament": "Premiership",
+                "matches": 9,
+                "tries": 2,
+                "points": 26
+            },
+            {
+                "season": "22/23",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Saracens",
+                "tournament": "Premiership",
+                "matches": 10,
+                "tries": 0,
+                "points": 4
+            },
+            {
+                "season": "21/22",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 4,
+                "tries": 1,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 2,
+                "tries": 2,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Saracens",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 4,
+                "tries": 2,
+                "points": 18
+            },
+            {
+                "season": "19/20",
+                "team": "18",
+                "tournament": "12 1 5",
+                "matches": 14,
+                "tries": 16,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "7",
+                "tournament": "4 0 3",
+                "matches": 4,
+                "tries": 6,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "England U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 10
+            },
+            {
+                "season": "18/19",
+                "team": "Saracens",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "England U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 13
+            },
+            {
+                "season": "18/19",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 4,
+                "tries": 3,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Yuto YOHENA",
+        "position": "Fly-half",
+        "dob": "23/09/2000",
+        "height": "1.78m",
+        "weight": "85kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mie Honda Heat RFC",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": []
+    },
+    {
+        "name": "Dawid KELLERMAN",
+        "position": "Centre",
+        "dob": "21/07/2000",
+        "height": "1.85m",
+        "weight": "98kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Mie Honda Heat RFC",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 11,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 10,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 6,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 8,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Fraser QUIRK",
+        "position": "Centre",
+        "dob": "14/08/1998",
+        "height": "1.87m",
+        "weight": "100kg",
+        "contract": "PRO",
+        "nation": "Australia",
+        "club": "Mie Honda Heat RFC",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 10,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Johnny FA'AULI",
+        "position": "Centre",
+        "dob": "13/09/1995",
+        "height": "1.80m",
+        "weight": "103kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Mie Honda Heat RFC",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Shizuoka Blue Revs",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 7,
+                "tries": 1,
+                "points": 7
+            },
+            {
+                "season": "22/23",
+                "team": "Shizuoka Blue Revs",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Brave Lupus",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "Chiefs",
+                "tournament": "Super Rugby",
+                "matches": 12,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "16/17",
+                "team": "Chiefs",
+                "tournament": "Super Rugby",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Kaito KAWAI",
+        "position": "Centre",
+        "dob": "29/07/1999",
+        "height": "1.83m",
+        "weight": "90kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mie Honda Heat RFC",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "22/23",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Kyogo OKANO",
+        "position": "Centre",
+        "dob": "31/10/2001",
+        "height": "1.84m",
+        "weight": "98kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mie Honda Heat RFC",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 15,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Soki WATANABE",
+        "position": "Centre",
+        "dob": "14/01/1997",
+        "height": "1.75m",
+        "weight": "89kg",
+        "contract": "",
+        "nation": "Japan",
+        "club": "Mie Honda Heat RFC",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 15,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 8,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Larry SULUNGA",
+        "position": "Winger",
+        "dob": "22/10/1998",
+        "height": "1.84m",
+        "weight": "109kg",
+        "contract": "PRO",
+        "nation": "Tonga",
+        "club": "Mie Honda Heat RFC",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 14,
+                "tries": 4,
+                "points": 24
+            },
+            {
+                "season": "23/24",
+                "team": "Urayasu",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Urayasu",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 11,
+                "tries": 8,
+                "points": 40
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Red Hurricanes",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 11,
+                "tries": 5,
+                "points": 25
+            }
+        ]
+    },
+    {
+        "name": "Lomano LEMEKI",
+        "position": "Winger",
+        "dob": "20/01/1989",
+        "height": "1.78m",
+        "weight": "96kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Mie Honda Heat RFC",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 6,
+                "tries": 8,
+                "points": 40
+            },
+            {
+                "season": "23/24",
+                "team": "Green Rockets Tokatsu",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 10,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Japan",
+                "tournament": "Rugby World Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 3
+            },
+            {
+                "season": "22/23",
+                "team": "Green Rockets Tokatsu",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 18,
+                "tries": 6,
+                "points": 37
+            },
+            {
+                "season": "21/22",
+                "team": "Green Rockets Tokatsu",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 12,
+                "tries": 3,
+                "points": 38
+            },
+            {
+                "season": "21/22",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Japan",
+                "tournament": "Rugby World Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Japan",
+                "tournament": "Pacific Nations Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Sunwolves",
+                "tournament": "Super Rugby",
+                "matches": 7,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "17/18",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 6,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "16/17",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 3,
+                "points": 15
+            }
+        ]
+    },
+    {
+        "name": "Naoki MOTOMURA",
+        "position": "Winger",
+        "dob": "11/04/1992",
+        "height": "1.84m",
+        "weight": "91kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mie Honda Heat RFC",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 6,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 4,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "22/23",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 9,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Tevita LI",
+        "position": "Winger",
+        "dob": "23/03/1995",
+        "height": "1.82m",
+        "weight": "95kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Mie Honda Heat RFC",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 11,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Tokyo Sungoliath",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 14,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "21/22",
+                "team": "Tokyo Sungoliath",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 10,
+                "tries": 9,
+                "points": 45
+            },
+            {
+                "season": "21/22",
+                "team": "North Harbour",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 13,
+                "points": 65
+            },
+            {
+                "season": "18/19",
+                "team": "Highlanders",
+                "tournament": "Super Rugby",
+                "matches": 12,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "17/18",
+                "team": "Highlanders",
+                "tournament": "Super Rugby",
+                "matches": 13,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "16/17",
+                "team": "Highlanders",
+                "tournament": "Super Rugby",
+                "matches": 11,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "15/16",
+                "team": "Blues",
+                "tournament": "Super Rugby",
+                "matches": 15,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "14/15",
+                "team": "Blues",
+                "tournament": "Super Rugby",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Blues",
+                "tournament": "Super Rugby",
+                "matches": 8,
+                "tries": 3,
+                "points": 15
+            }
+        ]
+    },
+    {
+        "name": "Yoshikazu FUJITA",
+        "position": "Winger",
+        "dob": "08/09/1993",
+        "height": "1.84m",
+        "weight": "90kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mie Honda Heat RFC",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "23/24",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 11,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Wild Knights",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Sunwolves",
+                "tournament": "Super Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Haruhiko UEMURA",
+        "position": "Fullback",
+        "dob": "13/11/2000",
+        "height": "1.77m",
+        "weight": "80kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mie Honda Heat RFC",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 9,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 12,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Kengo GUNJI",
+        "position": "Fullback",
+        "dob": "13/09/1997",
+        "height": "1.84m",
+        "weight": "90kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mie Honda Heat RFC",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 2
+            },
+            {
+                "season": "21/22",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Tom BANKS",
+        "position": "Fullback",
+        "dob": "18/06/1994",
+        "height": "1.86m",
+        "weight": "93kg",
+        "contract": "PRO",
+        "nation": "Australia",
+        "club": "Mie Honda Heat RFC",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 9,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 13,
+                "tries": 8,
+                "points": 40
+            },
+            {
+                "season": "23/24",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 13,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "22/23",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 11,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Australia",
+                "tournament": "Autumn Nations Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Brumbies",
+                "tournament": "Super Rugby Pacific",
+                "matches": 13,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "21/22",
+                "team": "Australia",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Brumbies",
+                "tournament": "Super Rugby AU",
+                "matches": 10,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "20/21",
+                "team": "5",
+                "tournament": "1 0 4",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Australia",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Brumbies",
+                "tournament": "Super Rugby",
+                "matches": 6,
+                "tries": 4,
+                "points": 22
+            },
+            {
+                "season": "19/20",
+                "team": "8",
+                "tournament": "6 0 2",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Australia",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "3",
+                "tournament": "1 2 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Brumbies",
+                "tournament": "Super Rugby",
+                "matches": 18,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "18/19",
+                "team": "Australia",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Brumbies",
+                "tournament": "Super Rugby",
+                "matches": 16,
+                "tries": 9,
+                "points": 45
+            },
+            {
+                "season": "17/18",
+                "team": "Australia",
+                "tournament": "Rugby Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Brumbies",
+                "tournament": "Super Rugby",
+                "matches": 10,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "15/16",
+                "team": "Reds",
+                "tournament": "Super Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Reds",
+                "tournament": "Super Rugby",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    }
+]

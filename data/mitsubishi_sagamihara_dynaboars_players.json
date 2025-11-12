@@ -1,0 +1,3177 @@
+[
+    {
+        "name": "Chang Ho AHN",
+        "position": "Prop",
+        "dob": "20/11/1997",
+        "height": "1.78m",
+        "weight": "112kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mitsubishi Sagamihara Dynaboars",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Canon Eagles",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 18,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Canon Eagles",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Canon Eagles",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Hayato HOSODA",
+        "position": "Prop",
+        "dob": "29/06/1995",
+        "height": "1.73m",
+        "weight": "103kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mitsubishi Sagamihara Dynaboars",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Jun MORIMOTO",
+        "position": "Prop",
+        "dob": "04/06/1996",
+        "height": "1.75m",
+        "weight": "115kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mitsubishi Sagamihara Dynaboars",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Kanzo SCHINCKEL",
+        "position": "Prop",
+        "dob": "20/08/1999",
+        "height": "1.87m",
+        "weight": "125kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mitsubishi Sagamihara Dynaboars",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Khutha MCHUNU",
+        "position": "Prop",
+        "dob": "01/07/1997",
+        "height": "1.83m",
+        "weight": "120kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Mitsubishi Sagamihara Dynaboars",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Bulls",
+                "tournament": "Champions Cup",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Sharks",
+                "tournament": "United Rugby Championship",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Sharks",
+                "tournament": "Rainbow Cup SA",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Cheetahs",
+                "tournament": "Super Rugby Unlocked",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Sharks",
+                "tournament": "Super Rugby",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Mototsugu HACHIYA",
+        "position": "Prop",
+        "dob": "07/04/1998",
+        "height": "1.80m",
+        "weight": "115kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mitsubishi Sagamihara Dynaboars",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Nick SCHONERT",
+        "position": "Prop",
+        "dob": "20/09/1991",
+        "height": "1.89m",
+        "weight": "123kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Mitsubishi Sagamihara Dynaboars",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Sale",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Sale",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "11",
+                "tournament": "6 0 5",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Sale",
+                "tournament": "Premiership",
+                "matches": 19,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Sale",
+                "tournament": "Premiership",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "6",
+                "tournament": "3 0 3",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Worcester",
+                "tournament": "Premiership",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Worcester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "13",
+                "tournament": "5 0 8",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Worcester",
+                "tournament": "Premiership",
+                "matches": 18,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Worcester",
+                "tournament": "Premiership",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Worcester",
+                "tournament": "Premiership",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Worcester",
+                "tournament": "Premiership",
+                "matches": 20,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Rento TSUKAYAMA",
+        "position": "Prop",
+        "dob": "07/09/1998",
+        "height": "1.86m",
+        "weight": "107kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mitsubishi Sagamihara Dynaboars",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Canon Eagles",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Canon Eagles",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Shunsuke SAKAMOTO",
+        "position": "Prop",
+        "dob": "13/03/1998",
+        "height": "1.80m",
+        "weight": "107kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mitsubishi Sagamihara Dynaboars",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 18,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Tomoaki ISHII",
+        "position": "Prop",
+        "dob": "23/08/1995",
+        "height": "1.82m",
+        "weight": "120kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mitsubishi Sagamihara Dynaboars",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Yu CHINEN",
+        "position": "Prop",
+        "dob": "18/11/1990",
+        "height": "1.83m",
+        "weight": "120kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mitsubishi Sagamihara Dynaboars",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Brave Lupus",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Kakeru UMEMOTO",
+        "position": "Hooker",
+        "dob": "05/01/2000",
+        "height": "1.71m",
+        "weight": "96kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mitsubishi Sagamihara Dynaboars",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": []
+    },
+    {
+        "name": "Seunghyok LEE",
+        "position": "Hooker",
+        "dob": "27/01/1999",
+        "height": "1.79m",
+        "weight": "110kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mitsubishi Sagamihara Dynaboars",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 17,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Japan",
+                "tournament": "Autumn Nations Series",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 11,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Shoma SAGAWA",
+        "position": "Hooker",
+        "dob": "20/01/2002",
+        "height": "1.80m",
+        "weight": "105kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mitsubishi Sagamihara Dynaboars",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Japan XV",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Yoshimitsu YASUE",
+        "position": "Hooker",
+        "dob": "25/08/1984",
+        "height": "1.76m",
+        "weight": "109kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mitsubishi Sagamihara Dynaboars",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 18,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "21/22",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Yuki MIYAZATO",
+        "position": "Hooker",
+        "dob": "06/01/1997",
+        "height": "1.75m",
+        "weight": "110kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mitsubishi Sagamihara Dynaboars",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 16,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Epineri ULUIVITI",
+        "position": "Lock",
+        "dob": "07/07/1996",
+        "height": "1.96m",
+        "weight": "122kg",
+        "contract": "PRO",
+        "nation": "Fiji",
+        "club": "Mitsubishi Sagamihara Dynaboars",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Japan",
+                "tournament": "Autumn Nations Series",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 10,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "24/25",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Japan XV",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Japan",
+                "tournament": "Pacific Nations Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 14,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 8,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Jackson HEMOPO",
+        "position": "Lock",
+        "dob": "14/11/1993",
+        "height": "1.95m",
+        "weight": "112kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Mitsubishi Sagamihara Dynaboars",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 9,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 13,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "22/23",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 11,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 10,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Highlanders",
+                "tournament": "Super Rugby",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Highlanders",
+                "tournament": "Super Rugby",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Highlanders",
+                "tournament": "Super Rugby",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Highlanders",
+                "tournament": "Super Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Kohki MATSUMOTO",
+        "position": "Lock",
+        "dob": "03/11/2001",
+        "height": "1.90m",
+        "weight": "104kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mitsubishi Sagamihara Dynaboars",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Lewis CHESSUM",
+        "position": "Lock",
+        "dob": "27/02/2003",
+        "height": "2.07m",
+        "weight": "122kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Mitsubishi Sagamihara Dynaboars",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Leicester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Nottingham",
+                "tournament": "RFU Championship",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Leicester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Nottingham",
+                "tournament": "RFU Championship",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Leicester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "England U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "5",
+                "tournament": "1 2 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Leicester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "England U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Makoto DANIEL LINDE",
+        "position": "Lock",
+        "dob": "09/11/1987",
+        "height": "1.95m",
+        "weight": "110kg",
+        "contract": "PRO",
+        "nation": "Australia",
+        "club": "Mitsubishi Sagamihara Dynaboars",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Maoya NAKAGAWA",
+        "position": "Lock",
+        "dob": "12/09/1996",
+        "height": "1.91m",
+        "weight": "109kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mitsubishi Sagamihara Dynaboars",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "22/23",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Mie Honda Heat",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Songyu CHO",
+        "position": "Lock",
+        "dob": "13/05/1999",
+        "height": "1.85m",
+        "weight": "102kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mitsubishi Sagamihara Dynaboars",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Walt STEENKAMP",
+        "position": "Lock",
+        "dob": "21/07/1995",
+        "height": "2.03m",
+        "weight": "121kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Mitsubishi Sagamihara Dynaboars",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 13,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 14,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "22/23",
+                "team": "Bulls",
+                "tournament": "United Rugby Championship",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 15,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Bulls",
+                "tournament": "United Rugby Championship",
+                "matches": 21,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "Bulls",
+                "tournament": "Rainbow Cup SA",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Cheetahs",
+                "tournament": "Pro 14",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "3",
+                "tournament": "2 0 0",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Bulls",
+                "tournament": "Super Rugby Unlocked",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Cheetahs",
+                "tournament": "Pro 14",
+                "matches": 20,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Friedle OLIVIER",
+        "position": "Back row",
+        "dob": "27/05/1992",
+        "height": "1.96m",
+        "weight": "116kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Mitsubishi Sagamihara Dynaboars",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Cheetahs",
+                "tournament": "Challenge Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Cheetahs",
+                "tournament": "Challenge Cup",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Cheetahs",
+                "tournament": "Challenge Cup",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Kohki SATO",
+        "position": "Back row",
+        "dob": "22/07/1995",
+        "height": "1.79m",
+        "weight": "96kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mitsubishi Sagamihara Dynaboars",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Kouki HATTORI",
+        "position": "Back row",
+        "dob": "16/01/2000",
+        "height": "1.77m",
+        "weight": "96kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mitsubishi Sagamihara Dynaboars",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Kyo YOSHIDA",
+        "position": "Back row",
+        "dob": "30/06/1995",
+        "height": "1.88m",
+        "weight": "108kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mitsubishi Sagamihara Dynaboars",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 18,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 15,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "22/23",
+                "team": "Toyota Verblitz",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Toyota Verblitz",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Sunwolves",
+                "tournament": "Super Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Marino MIKAELE TU'U",
+        "position": "Back row",
+        "dob": "06/11/1997",
+        "height": "1.92m",
+        "weight": "113kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Mitsubishi Sagamihara Dynaboars",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 9,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 13,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "22/23",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Hawke's Bay",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "21/22",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 12,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "Hawke's Bay",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 1,
+                "points": 7
+            },
+            {
+                "season": "20/21",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Aotearoa",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Hawke's Bay",
+                "tournament": "NPC",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Highlanders",
+                "tournament": "Super Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "8",
+                "tournament": "3 0 5",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Hawke's Bay",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "18/19",
+                "team": "Highlanders",
+                "tournament": "Super Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Highlanders",
+                "tournament": "Super Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Masataka TSURUYA",
+        "position": "Back row",
+        "dob": "18/10/1990",
+        "height": "1.86m",
+        "weight": "105kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mitsubishi Sagamihara Dynaboars",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 13,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "22/23",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 14,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Timote TAVALEA",
+        "position": "Back row",
+        "dob": "05/08/1998",
+        "height": "1.86m",
+        "weight": "103kg",
+        "contract": "PRO",
+        "nation": "Australia",
+        "club": "Mitsubishi Sagamihara Dynaboars",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Yusuke SAKAMOTO",
+        "position": "Back row",
+        "dob": "25/10/1998",
+        "height": "1.76m",
+        "weight": "95kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mitsubishi Sagamihara Dynaboars",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Barbarian F.C.",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 15,
+                "tries": 4,
+                "points": 20
+            }
+        ]
+    },
+    {
+        "name": "Jack STRATTON",
+        "position": "Scrum-half",
+        "dob": "21/08/1994",
+        "height": "1.85m",
+        "weight": "92kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Mitsubishi Sagamihara Dynaboars",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 16,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Brave Lupus",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 12,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "21/22",
+                "team": "Brave Lupus",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "Crusaders",
+                "tournament": "Super Rugby",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Kota IWAMURA",
+        "position": "Scrum-half",
+        "dob": "07/12/1993",
+        "height": "1.82m",
+        "weight": "87kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mitsubishi Sagamihara Dynaboars",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 14,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 16,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Ryoto SHIBATA",
+        "position": "Scrum-half",
+        "dob": "12/08/1999",
+        "height": "1.77m",
+        "weight": "80kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mitsubishi Sagamihara Dynaboars",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "22/23",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Ryuta NAKAMORI",
+        "position": "Scrum-half",
+        "dob": "16/07/2000",
+        "height": "1.74m",
+        "weight": "75kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mitsubishi Sagamihara Dynaboars",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "James GRAYSON",
+        "position": "Fly-half",
+        "dob": "26/06/1998",
+        "height": "1.87m",
+        "weight": "88kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Mitsubishi Sagamihara Dynaboars",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 18,
+                "tries": 2,
+                "points": 99
+            },
+            {
+                "season": "23/24",
+                "team": "Northampton",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 22
+            },
+            {
+                "season": "23/24",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 15,
+                "tries": 4,
+                "points": 148
+            },
+            {
+                "season": "22/23",
+                "team": "Northampton",
+                "tournament": "Premiership",
+                "matches": 9,
+                "tries": 2,
+                "points": 49
+            },
+            {
+                "season": "22/23",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 4,
+                "tries": 3,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Northampton",
+                "tournament": "Premiership",
+                "matches": 13,
+                "tries": 2,
+                "points": 81
+            },
+            {
+                "season": "21/22",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 4,
+                "tries": 4,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Northampton",
+                "tournament": "Premiership",
+                "matches": 11,
+                "tries": 1,
+                "points": 83
+            },
+            {
+                "season": "20/21",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 1,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Northampton",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 30
+            },
+            {
+                "season": "19/20",
+                "team": "12",
+                "tournament": "6 0 6",
+                "matches": 12,
+                "tries": 20,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Northampton",
+                "tournament": "Premiership",
+                "matches": 9,
+                "tries": 0,
+                "points": 25
+            },
+            {
+                "season": "18/19",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "6",
+                "tournament": "5 0 1",
+                "matches": 6,
+                "tries": 4,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Northampton",
+                "tournament": "Premiership",
+                "matches": 9,
+                "tries": 0,
+                "points": 11
+            }
+        ]
+    },
+    {
+        "name": "Ryuto FUKUYAMA",
+        "position": "Fly-half",
+        "dob": "06/10/1999",
+        "height": "1.68m",
+        "weight": "83kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mitsubishi Sagamihara Dynaboars",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Charlie LAWRENCE",
+        "position": "Centre",
+        "dob": "27/05/1998",
+        "height": "1.71m",
+        "weight": "92kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Mitsubishi Sagamihara Dynaboars",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "25/26",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Japan XV",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Japan",
+                "tournament": "Pacific Nations Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Toyota Verblitz",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 15,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "22/23",
+                "team": "Toyota Verblitz",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 11,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "Toyota Verblitz",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 11,
+                "tries": 6,
+                "points": 30
+            }
+        ]
+    },
+    {
+        "name": "Curtis RONA",
+        "position": "Centre",
+        "dob": "26/05/1992",
+        "height": "1.94m",
+        "weight": "105kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Mitsubishi Sagamihara Dynaboars",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 12,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "23/24",
+                "team": "Barbarian F.C.",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "London Irish",
+                "tournament": "Premiership",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 15,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "21/22",
+                "team": "London Irish",
+                "tournament": "Premiership",
+                "matches": 20,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "2 1 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "London Irish",
+                "tournament": "Premiership",
+                "matches": 18,
+                "tries": 8,
+                "points": 40
+            },
+            {
+                "season": "20/21",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "London Irish",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "18",
+                "tournament": "6 1 11",
+                "matches": 18,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Waratahs",
+                "tournament": "Super Rugby",
+                "matches": 13,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "17/18",
+                "team": "Waratahs",
+                "tournament": "Super Rugby",
+                "matches": 18,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "17/18",
+                "team": "Australia",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Western Force",
+                "tournament": "Super Rugby",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "Australia",
+                "tournament": "Rugby Championship",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Joichiro IWASHITA",
+        "position": "Centre",
+        "dob": "17/11/1996",
+        "height": "1.74m",
+        "weight": "87kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mitsubishi Sagamihara Dynaboars",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 7,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Munakata Sanix Blues",
+                "tournament": "Japan Rugby League One - Division 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Matt VAEGA",
+        "position": "Centre",
+        "dob": "07/09/1994",
+        "height": "1.78m",
+        "weight": "93kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Mitsubishi Sagamihara Dynaboars",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 14,
+                "tries": 7,
+                "points": 61
+            },
+            {
+                "season": "23/24",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 15,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "22/23",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 10,
+                "tries": 0,
+                "points": 2
+            },
+            {
+                "season": "21/22",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 7,
+                "tries": 1,
+                "points": 7
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Blues",
+                "tournament": "Super Rugby",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Blues",
+                "tournament": "Super Rugby",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Naco JOAPE",
+        "position": "Centre",
+        "dob": "25/07/2002",
+        "height": "1.81m",
+        "weight": "98kg",
+        "contract": "PRO",
+        "nation": "Fiji",
+        "club": "Mitsubishi Sagamihara Dynaboars",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 9,
+                "tries": 3,
+                "points": 15
+            }
+        ]
+    },
+    {
+        "name": "Nozomi NARA",
+        "position": "Centre",
+        "dob": "04/11/1996",
+        "height": "1.80m",
+        "weight": "93kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mitsubishi Sagamihara Dynaboars",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "23/24",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 12,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 10,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Riku MISHIMA",
+        "position": "Centre",
+        "dob": "02/09/2000",
+        "height": "1.75m",
+        "weight": "91kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mitsubishi Sagamihara Dynaboars",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Tonisio VAIHU",
+        "position": "Centre",
+        "dob": "12/02/1991",
+        "height": "1.77m",
+        "weight": "108kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Mitsubishi Sagamihara Dynaboars",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 4,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Red Hurricanes",
+                "tournament": "Japan Rugby League One - Division 3",
+                "matches": 3,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Red Hurricanes",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Ben PALTRIDGE",
+        "position": "Winger",
+        "dob": "21/09/1992",
+        "height": "1.77m",
+        "weight": "88kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Mitsubishi Sagamihara Dynaboars",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 6,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 13,
+                "tries": 8,
+                "points": 40
+            },
+            {
+                "season": "22/23",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 6,
+                "tries": 9,
+                "points": 45
+            }
+        ]
+    },
+    {
+        "name": "DJ KASHIMA",
+        "position": "Winger",
+        "dob": "11/03/2001",
+        "height": "1.75m",
+        "weight": "87kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mitsubishi Sagamihara Dynaboars",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Honeti TAUMOHAAPAI",
+        "position": "Winger",
+        "dob": "02/10/1992",
+        "height": "1.80m",
+        "weight": "94kg",
+        "contract": "",
+        "nation": "Tonga",
+        "club": "Mitsubishi Sagamihara Dynaboars",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 12,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "23/24",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 10,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "22/23",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 11,
+                "tries": 8,
+                "points": 40
+            },
+            {
+                "season": "21/22",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 9,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Kurt-Lee ARENDSE",
+        "position": "Winger",
+        "dob": "17/06/1996",
+        "height": "1.76m",
+        "weight": "82kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Mitsubishi Sagamihara Dynaboars",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Bulls",
+                "tournament": "United Rugby Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "25/26",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "25/26",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Bulls",
+                "tournament": "United Rugby Championship",
+                "matches": 4,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "24/25",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 12,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "24/25",
+                "team": "South Africa",
+                "tournament": "Autumn Nations Series",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Bulls",
+                "tournament": "United Rugby Championship",
+                "matches": 13,
+                "tries": 10,
+                "points": 50
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 5,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Bulls",
+                "tournament": "United Rugby Championship",
+                "matches": 12,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "22/23",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "South Africa",
+                "tournament": "Autumn Nations Series",
+                "matches": 4,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Bulls",
+                "tournament": "United Rugby Championship",
+                "matches": 14,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "21/22",
+                "team": "South Africa",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Bulls",
+                "tournament": "Super Rugby Unlocked",
+                "matches": 4,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Haniteli VAILEA",
+        "position": "Fullback",
+        "dob": "12/07/2002",
+        "height": "1.80m",
+        "weight": "98kg",
+        "contract": "",
+        "nation": "Tonga",
+        "club": "Mitsubishi Sagamihara Dynaboars",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 12,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Kazuki ISHIDA",
+        "position": "Fullback",
+        "dob": "14/01/1996",
+        "height": "1.75m",
+        "weight": "85kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mitsubishi Sagamihara Dynaboars",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 7,
+                "tries": 0,
+                "points": 16
+            },
+            {
+                "season": "23/24",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 11,
+                "tries": 1,
+                "points": 9
+            },
+            {
+                "season": "22/23",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 14,
+                "tries": 0,
+                "points": 18
+            },
+            {
+                "season": "21/22",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 10,
+                "tries": 1,
+                "points": 71
+            }
+        ]
+    },
+    {
+        "name": "Kento NAKAI",
+        "position": "Fullback",
+        "dob": "11/08/1996",
+        "height": "1.82m",
+        "weight": "92kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mitsubishi Sagamihara Dynaboars",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "23/24",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Shizuoka Blue Revs",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Satoshi KOIZUMI",
+        "position": "Fullback",
+        "dob": "22/06/2000",
+        "height": "1.78m",
+        "weight": "87kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mitsubishi Sagamihara Dynaboars",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 12,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "23/24",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Sora Roland ALAIA'SA",
+        "position": "Fullback",
+        "dob": "10/07/1995",
+        "height": "1.72m",
+        "weight": "94kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Mitsubishi Sagamihara Dynaboars",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "23/24",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 14,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 8,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Tai DOWLING",
+        "position": "Fullback",
+        "dob": "06/07/2003",
+        "height": "1.83m",
+        "weight": "90kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Mitsubishi Sagamihara Dynaboars",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    }
+]

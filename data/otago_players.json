@@ -1,0 +1,2492 @@
+[
+    {
+        "name": "Abraham POLE",
+        "position": "Prop",
+        "dob": "28/06/1998",
+        "height": "1.88m",
+        "weight": "123kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Otago",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Moana Pasifika",
+                "tournament": "Super Rugby Pacific",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Moana Pasifika",
+                "tournament": "Super Rugby Pacific",
+                "matches": 14,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Moana Pasifika",
+                "tournament": "Super Rugby Pacific",
+                "matches": 13,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "22/23",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Moana Pasifika",
+                "tournament": "Super Rugby Pacific",
+                "matches": 9,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "21/22",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Ben LOPAS",
+        "position": "Prop",
+        "dob": "28/12/2001",
+        "height": "1.81m",
+        "weight": "111kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Otago",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "George BOWER",
+        "position": "Prop",
+        "dob": "28/05/1992",
+        "height": "1.86m",
+        "weight": "120kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Otago",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "All Blacks XV",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Aotearoa",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "4",
+                "tournament": "4 0 0",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Crusaders",
+                "tournament": "Super Rugby",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "7",
+                "tournament": "6 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Crusaders",
+                "tournament": "Super Rugby",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Moana TAKATAKA",
+        "position": "Prop",
+        "dob": "-",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "Tonga",
+        "club": "Otago",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Rohan WINGHAM",
+        "position": "Prop",
+        "dob": "04/12/2002",
+        "height": "1.89m",
+        "weight": "117kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Otago",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Saula MA'U",
+        "position": "Prop",
+        "dob": "29/04/2000",
+        "height": "1.94m",
+        "weight": "140kg",
+        "contract": "PRO",
+        "nation": "Tonga",
+        "club": "Otago",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "All Blacks XV",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "A-One LOLOFIE",
+        "position": "Hooker",
+        "dob": "25/03/2004",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Otago",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "New Zealand U20",
+                "tournament": "Rugby Championship U20",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Henry BELL",
+        "position": "Hooker",
+        "dob": "22/08/1999",
+        "height": "1.78m",
+        "weight": "107kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Otago",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 9,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "20/21",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Liam COLTMAN",
+        "position": "Hooker",
+        "dob": "25/01/1990",
+        "height": "1.85m",
+        "weight": "112kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Otago",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 10,
+                "points": 50
+            },
+            {
+                "season": "24/25",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 13,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "Lyon",
+                "tournament": "Top 14",
+                "matches": 20,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Lyon",
+                "tournament": "Top 14",
+                "matches": 18,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Aotearoa",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "6",
+                "tournament": "5 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Highlanders",
+                "tournament": "Super Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "8",
+                "tournament": "3 0 5",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "19/20",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Highlanders",
+                "tournament": "Super Rugby",
+                "matches": 15,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "18/19",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Highlanders",
+                "tournament": "Super Rugby",
+                "matches": 15,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "17/18",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Highlanders",
+                "tournament": "Super Rugby",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Highlanders",
+                "tournament": "Super Rugby",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Highlanders",
+                "tournament": "Super Rugby",
+                "matches": 19,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Highlanders",
+                "tournament": "Super Rugby",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Nic SOUCHON",
+        "position": "Hooker",
+        "dob": "13/08/1997",
+        "height": "1.80m",
+        "weight": "107kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Otago",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Pacific",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Southland",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 15,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "Southland",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Old Glory DC",
+                "tournament": "Major League Rugby",
+                "matches": 18,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "22/23",
+                "team": "Southland",
+                "tournament": "NPC",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Bay of Plenty",
+                "tournament": "NPC",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Bay of Plenty",
+                "tournament": "NPC",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Josh TENGBLAD",
+        "position": "Lock",
+        "dob": "/10/2005",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Otago",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "New Zealand U20",
+                "tournament": "Rugby Championship U20",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Will STODART",
+        "position": "Lock",
+        "dob": "03/10/2003",
+        "height": "1.97m",
+        "weight": "116kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Otago",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 12,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "22/23",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "New Zealand U20",
+                "tournament": "U20 Championship",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Charles ELTON",
+        "position": "Back row",
+        "dob": "07/06/1993",
+        "height": "1.89m",
+        "weight": "107kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Otago",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Seattle",
+                "tournament": "Major League Rugby",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Seattle",
+                "tournament": "Major League Rugby",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Seattle",
+                "tournament": "Major League Rugby",
+                "matches": 17,
+                "tries": 0,
+                "points": 12
+            },
+            {
+                "season": "19/20",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Christian LIO-WILLIE",
+        "position": "Back row",
+        "dob": "26/08/1998",
+        "height": "1.87m",
+        "weight": "109kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Otago",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "All Blacks XV",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 16,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 10,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "23/24",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "All Blacks XV",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Crusaders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 17,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Harry TAYLOR",
+        "position": "Back row",
+        "dob": "06/12/2001",
+        "height": "1.85m",
+        "weight": "107kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Otago",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Joseva TAMANI",
+        "position": "Back row",
+        "dob": "02/04/1997",
+        "height": "1.95m",
+        "weight": "111kg",
+        "contract": "PRO",
+        "nation": "Fiji",
+        "club": "Otago",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Fijian Drua",
+                "tournament": "Super Rugby Pacific",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 13,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 15,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "22/23",
+                "team": "Fijian Drua",
+                "tournament": "Super Rugby Pacific",
+                "matches": 13,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "22/23",
+                "team": "Fiji",
+                "tournament": "Pacific Nations Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Fijian Drua",
+                "tournament": "Super Rugby Pacific",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Konrad TOLEAFOA",
+        "position": "Back row",
+        "dob": "29/10/2003",
+        "height": "1.90m",
+        "weight": "112kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Otago",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Lucas CASEY",
+        "position": "Back row",
+        "dob": "30/04/2003",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Otago",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 12,
+                "tries": 9,
+                "points": 45
+            },
+            {
+                "season": "23/24",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Oliver HAIG",
+        "position": "Back row",
+        "dob": "03/01/2002",
+        "height": "1.96m",
+        "weight": "115kg",
+        "contract": "PRO",
+        "nation": "Scotland",
+        "club": "Otago",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "New Zealand U20",
+                "tournament": "Oceania Rugby U20 Championship",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Slade MCDOWALL",
+        "position": "Back row",
+        "dob": "08/03/1998",
+        "height": "1.83m",
+        "weight": "99kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Otago",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Manawatu",
+                "tournament": "NPC",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 7,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Manawatu",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 13,
+                "tries": 8,
+                "points": 40
+            },
+            {
+                "season": "21/22",
+                "team": "Manawatu",
+                "tournament": "NPC",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Bob MARTIN",
+        "position": "Scrum-half",
+        "dob": "31/03/2000",
+        "height": "1.81m",
+        "weight": "91kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Otago",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Dylan PLEDGER",
+        "position": "Scrum-half",
+        "dob": "/06/2005",
+        "height": "1.71m",
+        "weight": "74kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Otago",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 8,
+                "points": 40
+            },
+            {
+                "season": "24/25",
+                "team": "New Zealand U20",
+                "tournament": "Rugby Championship U20",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "New Zealand U20",
+                "tournament": "Rugby Championship U20",
+                "matches": 3,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Nathan HASTIE",
+        "position": "Scrum-half",
+        "dob": "27/04/2001",
+        "height": "1.77m",
+        "weight": "88kg",
+        "contract": "PRO",
+        "nation": "Australia",
+        "club": "Otago",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 13,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Cameron MILLAR",
+        "position": "Fly-half",
+        "dob": "13/07/2002",
+        "height": "1.85m",
+        "weight": "85kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Otago",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 10,
+                "tries": 0,
+                "points": 29
+            },
+            {
+                "season": "24/25",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 13,
+                "tries": 3,
+                "points": 156
+            },
+            {
+                "season": "23/24",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 8,
+                "tries": 1,
+                "points": 61
+            },
+            {
+                "season": "23/24",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 1,
+                "points": 100
+            },
+            {
+                "season": "22/23",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 4,
+                "tries": 1,
+                "points": 7
+            },
+            {
+                "season": "22/23",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 0,
+                "points": 75
+            },
+            {
+                "season": "21/22",
+                "team": "New Zealand U20",
+                "tournament": "Oceania Rugby U20 Championship",
+                "matches": 3,
+                "tries": 1,
+                "points": 20
+            },
+            {
+                "season": "20/21",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 4,
+                "tries": 0,
+                "points": 2
+            }
+        ]
+    },
+    {
+        "name": "Jae BROOMFIELD",
+        "position": "Fly-half",
+        "dob": "04/03/2003",
+        "height": "1.84m",
+        "weight": "96kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Otago",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 13,
+                "tries": 3,
+                "points": 15
+            }
+        ]
+    },
+    {
+        "name": "Charlie POWELL",
+        "position": "Centre",
+        "dob": "29/10/1999",
+        "height": "1.80m",
+        "weight": "93kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Otago",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Hartpury RFC",
+                "tournament": "RFU Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Southland",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "22/23",
+                "team": "Jersey Reds",
+                "tournament": "RFU Championship",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Bristol",
+                "tournament": "Premiership",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Bristol",
+                "tournament": "Premiership",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Bristol",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "Bristol",
+                "tournament": "Challenge Cup",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Jake TE HIWI",
+        "position": "Centre",
+        "dob": "02/02/2002",
+        "height": "1.84m",
+        "weight": "100kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Otago",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "New Zealand U20",
+                "tournament": "Oceania Rugby U20 Championship",
+                "matches": 3,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Josh TIMU",
+        "position": "Centre",
+        "dob": "06/07/1997",
+        "height": "1.83m",
+        "weight": "94kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Otago",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 4,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "19/20",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "18/19",
+                "team": "Sunwolves",
+                "tournament": "Super Rugby",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Josh WHAANGA",
+        "position": "Centre",
+        "dob": "15/03/2004",
+        "height": "1.93m",
+        "weight": "98kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Otago",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "New Zealand U20",
+                "tournament": "Rugby Championship U20",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 4,
+                "points": 20
+            }
+        ]
+    },
+    {
+        "name": "Riley LUCAS",
+        "position": "Centre",
+        "dob": "/02/2005",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Otago",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Jona NAREKI",
+        "position": "Winger",
+        "dob": "27/12/1997",
+        "height": "1.75m",
+        "weight": "83kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Otago",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 6,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 12,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "23/24",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 10,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 3,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "All Blacks XV",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 6,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 3,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Aotearoa",
+                "matches": 7,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "20/21",
+                "team": "6",
+                "tournament": "5 0 1",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Highlanders",
+                "tournament": "Super Rugby",
+                "matches": 5,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "19/20",
+                "team": "8",
+                "tournament": "3 0 5",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Sam GILBERT",
+        "position": "Winger",
+        "dob": "21/01/1999",
+        "height": "1.89m",
+        "weight": "99kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Otago",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 12,
+                "tries": 5,
+                "points": 89
+            },
+            {
+                "season": "24/25",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 12,
+                "tries": 3,
+                "points": 21
+            },
+            {
+                "season": "23/24",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 14,
+                "tries": 1,
+                "points": 78
+            },
+            {
+                "season": "23/24",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "All Blacks XV",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 12,
+                "tries": 4,
+                "points": 122
+            },
+            {
+                "season": "22/23",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 7,
+                "tries": 1,
+                "points": 49
+            },
+            {
+                "season": "21/22",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 12,
+                "tries": 4,
+                "points": 38
+            },
+            {
+                "season": "21/22",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 2,
+                "points": 12
+            },
+            {
+                "season": "20/21",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Aotearoa",
+                "matches": 1,
+                "tries": 0,
+                "points": 2
+            },
+            {
+                "season": "20/21",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 2,
+                "points": 12
+            },
+            {
+                "season": "19/20",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Aotearoa",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Finn HURLEY",
+        "position": "Fullback",
+        "dob": "25/06/2003",
+        "height": "1.75m",
+        "weight": "75kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Otago",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 3,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 2,
+                "tries": 1,
+                "points": 7
+            },
+            {
+                "season": "23/24",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "22/23",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 2,
+                "points": 29
+            },
+            {
+                "season": "21/22",
+                "team": "New Zealand U20",
+                "tournament": "Oceania Rugby U20 Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Sam NEMEC-VIAL",
+        "position": "Fullback",
+        "dob": "-",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Otago",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 12,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Thomas UMAGA-JENSEN",
+        "position": "Fullback",
+        "dob": "31/12/1997",
+        "height": "1.87m",
+        "weight": "112kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Otago",
+        "league": "NPC",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 11,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Pacific",
+                "matches": 11,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Aotearoa",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Highlanders",
+                "tournament": "Super Rugby",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Highlanders",
+                "tournament": "Super Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    }
+]

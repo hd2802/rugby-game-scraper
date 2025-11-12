@@ -1,0 +1,2126 @@
+[
+    {
+        "name": "Alexandre CANDEL",
+        "position": "Prop",
+        "dob": "26/06/2001",
+        "height": "1.79m",
+        "weight": "103kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Niort RC",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Niort",
+                "tournament": "Nationale",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Massy",
+                "tournament": "Nationale",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Massy",
+                "tournament": "Pro D2",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Florian BOUGEROL",
+        "position": "Prop",
+        "dob": "19/02/1998",
+        "height": "1.80m",
+        "weight": "115kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Niort RC",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Niort",
+                "tournament": "Nationale",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Niort",
+                "tournament": "Nationale",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Mathis ROUME",
+        "position": "Prop",
+        "dob": "28/01/2002",
+        "height": "1.78m",
+        "weight": "108kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Niort RC",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Niort",
+                "tournament": "Nationale",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Niort",
+                "tournament": "Nationale",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Mees ERASMUS",
+        "position": "Prop",
+        "dob": "16/06/1994",
+        "height": "1.83m",
+        "weight": "123kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Niort RC",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Niort",
+                "tournament": "Nationale",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Niort",
+                "tournament": "Nationale",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Tarbes",
+                "tournament": "Nationale",
+                "matches": 22,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Tarbes",
+                "tournament": "Nationale",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Tarbes",
+                "tournament": "Nationale",
+                "matches": 16,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Brumbies",
+                "tournament": "Super Rugby",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Michael KUMBIRAI",
+        "position": "Prop",
+        "dob": "09/05/1996",
+        "height": "1.87m",
+        "weight": "127kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Niort RC",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Niort",
+                "tournament": "Nationale",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Nationale",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Sharks",
+                "tournament": "Rainbow Cup SA",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Sharks",
+                "tournament": "Super Rugby Unlocked",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Stormers",
+                "tournament": "Super Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Regi CHURCHWARD",
+        "position": "Prop",
+        "dob": "14/08/1996",
+        "height": "1.96m",
+        "weight": "140kg",
+        "contract": "PRO",
+        "nation": "Australia",
+        "club": "Niort RC",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Niort",
+                "tournament": "Nationale",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Arnaud FELTRIN",
+        "position": "Hooker",
+        "dob": "15/04/1996",
+        "height": "1.80m",
+        "weight": "112kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Niort RC",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Niort",
+                "tournament": "Nationale",
+                "matches": 10,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Montauban",
+                "tournament": "Pro D2",
+                "matches": 20,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Montauban",
+                "tournament": "Pro D2",
+                "matches": 22,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "16/17",
+                "team": "Albi",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Corentin CHABEAUDIE",
+        "position": "Hooker",
+        "dob": "03/02/1997",
+        "height": "1.83m",
+        "weight": "121kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Niort RC",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Niort",
+                "tournament": "Nationale",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Niort",
+                "tournament": "Nationale",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Massy",
+                "tournament": "Pro D2",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Massy",
+                "tournament": "Nationale",
+                "matches": 20,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "19/20",
+                "team": "Agen",
+                "tournament": "Challenge Cup",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Agen",
+                "tournament": "Top 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Agen",
+                "tournament": "Challenge Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Yanis GIMENEZ",
+        "position": "Hooker",
+        "dob": "26/03/2000",
+        "height": "1.81m",
+        "weight": "103kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Niort RC",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Niort",
+                "tournament": "Nationale",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Niort",
+                "tournament": "Nationale",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Vienne",
+                "tournament": "Nationale",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Grenoble",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Valence Romans",
+                "tournament": "Nationale",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Grenoble",
+                "tournament": "Pro D2",
+                "matches": 20,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "César BAUDIN",
+        "position": "Lock",
+        "dob": "18/07/1999",
+        "height": "1.97m",
+        "weight": "110kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Niort RC",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Niort",
+                "tournament": "Nationale",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Niort",
+                "tournament": "Nationale",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "La Rochelle",
+                "tournament": "Top 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Chris MINIMBI",
+        "position": "Lock",
+        "dob": "24/01/2000",
+        "height": "1.98m",
+        "weight": "120kg",
+        "contract": "PRO",
+        "nation": "Fiji",
+        "club": "Niort RC",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Niort",
+                "tournament": "Nationale",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Fijian Drua",
+                "tournament": "Super Rugby Pacific",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Fijian Drua",
+                "tournament": "Super Rugby Pacific",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Fiji",
+                "tournament": "Autumn Nations Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Fiji U20",
+                "tournament": "U20 Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Chris VAN LEEUWEN",
+        "position": "Lock",
+        "dob": "26/04/1995",
+        "height": "1.98m",
+        "weight": "125kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Niort RC",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Niort",
+                "tournament": "Nationale",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Niort",
+                "tournament": "Nationale",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Netherlands",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Suresnes",
+                "tournament": "Nationale",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Netherlands",
+                "tournament": "Rugby Europe Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Suresnes",
+                "tournament": "Nationale",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Netherlands",
+                "tournament": "Rugby Europe Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Suresnes",
+                "tournament": "Nationale",
+                "matches": 18,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Netherlands",
+                "tournament": "Rugby Europe Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Netherlands",
+                "tournament": "Rugby Europe Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Netherlands",
+                "tournament": "Rugby Europe Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Michel HIMMER",
+        "position": "Lock",
+        "dob": "05/04/2000",
+        "height": "1.97m",
+        "weight": "116kg",
+        "contract": "PRO",
+        "nation": "Germany",
+        "club": "Niort RC",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Niort",
+                "tournament": "Nationale",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Germany",
+                "tournament": "Rugby Europe Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Germany",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Germany",
+                "tournament": "Rugby Europe Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Stephan LE ROUX",
+        "position": "Lock",
+        "dob": "25/02/2000",
+        "height": "2.00m",
+        "weight": "121kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Niort RC",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Niort",
+                "tournament": "Nationale",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Niort",
+                "tournament": "Nationale",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Youssouf YATERA",
+        "position": "Lock",
+        "dob": "07/11/2001",
+        "height": "1.92m",
+        "weight": "107kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Niort RC",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Niort",
+                "tournament": "Nationale",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Niort",
+                "tournament": "Nationale",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Suresnes",
+                "tournament": "Nationale",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Suresnes",
+                "tournament": "Nationale",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Chris MASSYN",
+        "position": "Back row",
+        "dob": "03/06/1994",
+        "height": "1.87m",
+        "weight": "115kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Niort RC",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Niort",
+                "tournament": "Nationale",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Niort",
+                "tournament": "Nationale",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Cheetahs",
+                "tournament": "Pro 14",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "Stormers",
+                "tournament": "Super Rugby",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Fotu LOKOTUI",
+        "position": "Back row",
+        "dob": "19/03/1992",
+        "height": "1.89m",
+        "weight": "113kg",
+        "contract": "PRO",
+        "nation": "Tonga",
+        "club": "Niort RC",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Niort",
+                "tournament": "Nationale",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Agen",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "Tonga",
+                "tournament": "Pacific Nations Cup",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Agen",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Tonga",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Agen",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Agen",
+                "tournament": "Pro D2",
+                "matches": 22,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Tonga",
+                "tournament": "Autumn Nations Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Glasgow",
+                "tournament": "Pro 14",
+                "matches": 9,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Tonga",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Tonga",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Tonga",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Jeff GOUFAN",
+        "position": "Back row",
+        "dob": "18/06/1999",
+        "height": "1.92m",
+        "weight": "105kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Niort RC",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Niort",
+                "tournament": "Nationale",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Niort",
+                "tournament": "Nationale",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Mathieu TIXIER",
+        "position": "Back row",
+        "dob": "24/08/1999",
+        "height": "1.93m",
+        "weight": "105kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Niort RC",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Niort",
+                "tournament": "Nationale",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Niort",
+                "tournament": "Nationale",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Raphaël NIETO",
+        "position": "Back row",
+        "dob": "27/08/2000",
+        "height": "1.89m",
+        "weight": "104kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Niort RC",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Niort",
+                "tournament": "Nationale",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Niort",
+                "tournament": "Nationale",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Spain",
+                "tournament": "Test Matchs",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Spain",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Spain",
+                "tournament": "Rugby Europe Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Benjamin ALÇACÈBE",
+        "position": "Scrum-half",
+        "dob": "04/04/1992",
+        "height": "1.70m",
+        "weight": "77kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Niort RC",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Niort",
+                "tournament": "Nationale",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Niort",
+                "tournament": "Nationale",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Bourgoin",
+                "tournament": "Pro D2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Bourgoin",
+                "tournament": "Pro D2",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Mathis BRUNET",
+        "position": "Scrum-half",
+        "dob": "31/07/2003",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Niort RC",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Niort",
+                "tournament": "Nationale",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "La Rochelle",
+                "tournament": "Top 14",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "La Rochelle",
+                "tournament": "Top 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Tim MENZEL",
+        "position": "Scrum-half",
+        "dob": "01/01/1992",
+        "height": "1.70m",
+        "weight": "73kg",
+        "contract": "PRO",
+        "nation": "Germany",
+        "club": "Niort RC",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Niort",
+                "tournament": "Nationale",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Germany",
+                "tournament": "Rugby Europe Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 24,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Valence Romans",
+                "tournament": "Nationale",
+                "matches": 26,
+                "tries": 1,
+                "points": 14
+            },
+            {
+                "season": "21/22",
+                "team": "Valence Romans",
+                "tournament": "Nationale",
+                "matches": 21,
+                "tries": 1,
+                "points": 17
+            },
+            {
+                "season": "18/19",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Germany",
+                "tournament": "Rugby Europe Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Germany",
+                "tournament": "Rugby Europe Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 6
+            },
+            {
+                "season": "13/14",
+                "team": "Perpignan",
+                "tournament": "Top 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Anthony FUERTES",
+        "position": "Fly-half",
+        "dob": "16/06/1997",
+        "height": "1.71m",
+        "weight": "83kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Niort RC",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Niort",
+                "tournament": "Nationale",
+                "matches": 9,
+                "tries": 0,
+                "points": 87
+            },
+            {
+                "season": "24/25",
+                "team": "Niort",
+                "tournament": "Nationale",
+                "matches": 1,
+                "tries": 0,
+                "points": 19
+            },
+            {
+                "season": "23/24",
+                "team": "Tarbes",
+                "tournament": "Nationale",
+                "matches": 21,
+                "tries": 1,
+                "points": 178
+            },
+            {
+                "season": "22/23",
+                "team": "Tarbes",
+                "tournament": "Nationale",
+                "matches": 23,
+                "tries": 1,
+                "points": 251
+            },
+            {
+                "season": "21/22",
+                "team": "Dijon",
+                "tournament": "Nationale",
+                "matches": 16,
+                "tries": 2,
+                "points": 145
+            },
+            {
+                "season": "18/19",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "17/18",
+                "team": "Oyonnax",
+                "tournament": "Challenge Cup",
+                "matches": 5,
+                "tries": 1,
+                "points": 9
+            },
+            {
+                "season": "16/17",
+                "team": "La Rochelle",
+                "tournament": "Top 14",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "La Rochelle",
+                "tournament": "Top 14",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Anthony LAVAUX",
+        "position": "Fly-half",
+        "dob": "22/04/2000",
+        "height": "1.82m",
+        "weight": "80kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Niort RC",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Niort",
+                "tournament": "Nationale",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Niort",
+                "tournament": "Nationale",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Ozzy CHAMPS",
+        "position": "Fly-half",
+        "dob": "07/06/2002",
+        "height": "1.88m",
+        "weight": "85kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Niort RC",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Niort",
+                "tournament": "Nationale",
+                "matches": 2,
+                "tries": 0,
+                "points": 2
+            }
+        ]
+    },
+    {
+        "name": "François JOLY",
+        "position": "Centre",
+        "dob": "20/08/2001",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Niort RC",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Niort",
+                "tournament": "Nationale",
+                "matches": 6,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Jimy BUCH",
+        "position": "Centre",
+        "dob": "26/10/1999",
+        "height": "1.85m",
+        "weight": "100kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Niort RC",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Niort",
+                "tournament": "Nationale",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Raphaël SANCHEZ",
+        "position": "Centre",
+        "dob": "22/04/1999",
+        "height": "1.80m",
+        "weight": "85kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Niort RC",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Niort",
+                "tournament": "Nationale",
+                "matches": 7,
+                "tries": 0,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Niort",
+                "tournament": "Nationale",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Montauban",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Montauban",
+                "tournament": "Pro D2",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Montauban",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "La Rochelle",
+                "tournament": "Top 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Seva GALALA",
+        "position": "Centre",
+        "dob": "29/01/1993",
+        "height": "1.88m",
+        "weight": "115kg",
+        "contract": "PRO",
+        "nation": "Fiji",
+        "club": "Niort RC",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Niort",
+                "tournament": "Nationale",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Montauban",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Montauban",
+                "tournament": "Pro D2",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Montauban",
+                "tournament": "Pro D2",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 14,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 28,
+                "tries": 8,
+                "points": 40
+            },
+            {
+                "season": "18/19",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Fiji",
+                "tournament": "Pacific Nations Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 22,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "16/17",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 12,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "14/15",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "14/15",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "13/14",
+                "team": "7",
+                "tournament": "5 1 1",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Vaea TUTUILA VAEA",
+        "position": "Centre",
+        "dob": "22/12/2000",
+        "height": "1.80m",
+        "weight": "100kg",
+        "contract": "PRO",
+        "nation": "Tonga",
+        "club": "Niort RC",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Niort",
+                "tournament": "Nationale",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Niort",
+                "tournament": "Nationale",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Carcassonne",
+                "tournament": "Nationale",
+                "matches": 17,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "22/23",
+                "team": "Tarbes",
+                "tournament": "Nationale",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Pau",
+                "tournament": "Challenge Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Tonga",
+                "tournament": "Autumn Nations Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Alexandre BÉNARD",
+        "position": "Winger",
+        "dob": "01/04/1998",
+        "height": "1.90m",
+        "weight": "95kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Niort RC",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Niort",
+                "tournament": "Nationale",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Mathis TERRASSON",
+        "position": "Winger",
+        "dob": "17/06/2003",
+        "height": "1.79m",
+        "weight": "79kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Niort RC",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Niort",
+                "tournament": "Nationale",
+                "matches": 6,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Niort",
+                "tournament": "Nationale",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Paul MARSAN",
+        "position": "Winger",
+        "dob": "07/11/2001",
+        "height": "1.86m",
+        "weight": "93kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Niort RC",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Niort",
+                "tournament": "Nationale",
+                "matches": 7,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Niort",
+                "tournament": "Nationale",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Tom MARCHÉ",
+        "position": "Winger",
+        "dob": "10/06/2002",
+        "height": "1.75m",
+        "weight": "84kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Niort RC",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Niort",
+                "tournament": "Nationale",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Wesley DOUGLAS",
+        "position": "Winger",
+        "dob": "28/11/1996",
+        "height": "1.83m",
+        "weight": "90kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Niort RC",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Niort",
+                "tournament": "Nationale",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Brive",
+                "tournament": "Challenge Cup",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 11,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Béziers",
+                "tournament": "Pro D2",
+                "matches": 14,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "18/19",
+                "team": "Béziers",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "17/18",
+                "team": "Béziers",
+                "tournament": "Pro D2",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "Béziers",
+                "tournament": "Pro D2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Maxime TETLOW",
+        "position": "Fullback",
+        "dob": "22/04/2004",
+        "height": "1.80m",
+        "weight": "81kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Niort RC",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Niort",
+                "tournament": "Nationale",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Quentin PILET",
+        "position": "Fullback",
+        "dob": "13/09/1993",
+        "height": "1.86m",
+        "weight": "90kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Niort RC",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Niort",
+                "tournament": "Nationale",
+                "matches": 7,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Niort",
+                "tournament": "Nationale",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Albi",
+                "tournament": "Nationale",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    }
+]

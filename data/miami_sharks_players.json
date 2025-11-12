@@ -1,0 +1,2574 @@
+[
+    {
+        "name": "Alec MCDONNELL",
+        "position": "Prop",
+        "dob": "16/07/1996",
+        "height": "1.78m",
+        "weight": "118kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "Miami Sharks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Houston",
+                "tournament": "Major League Rugby",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "New-York",
+                "tournament": "Major League Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Alex TUCCI",
+        "position": "Prop",
+        "dob": "18/12/1991",
+        "height": "1.91m",
+        "weight": "121kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "Miami Sharks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Dallas",
+                "tournament": "Major League Rugby",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Dallas",
+                "tournament": "Major League Rugby",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Jonas PETRAKOPOULOS",
+        "position": "Prop",
+        "dob": "15/09/1998",
+        "height": "1.81m",
+        "weight": "113kg",
+        "contract": "PRO",
+        "nation": "Netherlands",
+        "club": "Miami Sharks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "RFC Los Angeles",
+                "tournament": "Major League Rugby",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "RFC Los Angeles",
+                "tournament": "Major League Rugby",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "RFC Los Angeles",
+                "tournament": "Major League Rugby",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "New-York",
+                "tournament": "Major League Rugby",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Ma'ake MUTI",
+        "position": "Prop",
+        "dob": "11/08/1997",
+        "height": "1.86m",
+        "weight": "128kg",
+        "contract": "PRO",
+        "nation": "Tonga",
+        "club": "Miami Sharks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "LA Giltinis",
+                "tournament": "Major League Rugby",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Reinaldo PIUSSI",
+        "position": "Prop",
+        "dob": "18/05/1999",
+        "height": "1.92m",
+        "weight": "140kg",
+        "contract": "PRO",
+        "nation": "Uruguay",
+        "club": "Miami Sharks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Uruguay",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Uruguay",
+                "tournament": "Test Matchs",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Uruguay",
+                "tournament": "Test Matchs",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Uruguay",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Setu VOLE",
+        "position": "Prop",
+        "dob": "15/06/2001",
+        "height": "1.83m",
+        "weight": "122kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "Miami Sharks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "23/24",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Tau KOLOAMATANGI",
+        "position": "Prop",
+        "dob": "03/01/1995",
+        "height": "1.72m",
+        "weight": "115kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Miami Sharks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Tonga",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Tonga",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Moana Pasifika",
+                "tournament": "Super Rugby Pacific",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Tonga",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Moana Pasifika",
+                "tournament": "Super Rugby Pacific",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Otago",
+                "tournament": "NPC",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Isaac BALES",
+        "position": "Hooker",
+        "dob": "08/11/1999",
+        "height": "1.76m",
+        "weight": "111kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "Miami Sharks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "RFC Los Angeles",
+                "tournament": "Major League Rugby",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Kirby MYHILL",
+        "position": "Hooker",
+        "dob": "05/02/1992",
+        "height": "1.83m",
+        "weight": "108kg",
+        "contract": "PRO",
+        "nation": "Wales",
+        "club": "Miami Sharks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Scarlets",
+                "tournament": "United Rugby Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 15,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Cardiff",
+                "tournament": "United Rugby Championship",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Cardiff",
+                "tournament": "United Rugby Championship",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Wales",
+                "tournament": "Autumn Nations Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Barbarian F.C.",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Cardiff",
+                "tournament": "Pro 14",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Cardiff",
+                "tournament": "Pro 14",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Cardiff",
+                "tournament": "Pro 14",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Cardiff",
+                "tournament": "Pro 14",
+                "matches": 14,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "17/18",
+                "team": "4",
+                "tournament": "0 0 4",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Cardiff",
+                "tournament": "Pro 12",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "6",
+                "tournament": "5 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Scarlets",
+                "tournament": "Pro 12",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Scarlets",
+                "tournament": "Pro 12",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Scarlets",
+                "tournament": "Heineken Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "12",
+                "tournament": "7 1 4",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Sean MCNULTY",
+        "position": "Hooker",
+        "dob": "07/10/1995",
+        "height": "1.88m",
+        "weight": "112kg",
+        "contract": "PRO",
+        "nation": "Ireland",
+        "club": "Miami Sharks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "USA",
+                "tournament": "Autumn Nations Series",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "USA",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "USA",
+                "tournament": "Pacific Nations Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "San Diego",
+                "tournament": "Major League Rugby",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "LA Giltinis",
+                "tournament": "Major League Rugby",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Seattle",
+                "tournament": "Major League Rugby",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "LA Giltinis",
+                "tournament": "Major League Rugby",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Tomás BEKERMAN",
+        "position": "Hooker",
+        "dob": "09/03/2002",
+        "height": "1.80m",
+        "weight": "104kg",
+        "contract": "PRO",
+        "nation": "Argentina",
+        "club": "Miami Sharks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "Dallas",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 5,
+                "points": 25
+            }
+        ]
+    },
+    {
+        "name": "Federico GUTIÉRREZ",
+        "position": "Lock",
+        "dob": "13/06/1992",
+        "height": "2.01m",
+        "weight": "117kg",
+        "contract": "PRO",
+        "nation": "Argentina",
+        "club": "Miami Sharks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Albi",
+                "tournament": "Nationale",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Mauro REBUSSONE",
+        "position": "Lock",
+        "dob": "06/02/1993",
+        "height": "1.93m",
+        "weight": "118kg",
+        "contract": "PRO",
+        "nation": "Argentina",
+        "club": "Miami Sharks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 12,
+                "tries": 0,
+                "points": 12
+            },
+            {
+                "season": "23/24",
+                "team": "Narbonne",
+                "tournament": "Nationale",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Narbonne",
+                "tournament": "Nationale",
+                "matches": 21,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Rick ROSE",
+        "position": "Lock",
+        "dob": "28/07/2001",
+        "height": "2.01m",
+        "weight": "116kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "Miami Sharks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Tomás CASARES",
+        "position": "Lock",
+        "dob": "11/04/1999",
+        "height": "1.93m",
+        "weight": "105kg",
+        "contract": "PRO",
+        "nation": "Argentina",
+        "club": "Miami Sharks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "USA",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 8,
+                "tries": 0,
+                "points": 12
+            }
+        ]
+    },
+    {
+        "name": "Benjamin BONASSO",
+        "position": "Back row",
+        "dob": "01/06/1997",
+        "height": "1.93m",
+        "weight": "106kg",
+        "contract": "PRO",
+        "nation": "Argentina",
+        "club": "Miami Sharks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 14,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "USA",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 15,
+                "tries": 0,
+                "points": 17
+            },
+            {
+                "season": "23/24",
+                "team": "USA",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "New-York",
+                "tournament": "Major League Rugby",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "USA",
+                "tournament": "Rugby World Cup 2023 Final Qualification Tournament",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "New-York",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "USA",
+                "tournament": "Test Matchs",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "New-York",
+                "tournament": "Major League Rugby",
+                "matches": 17,
+                "tries": 3,
+                "points": 15
+            }
+        ]
+    },
+    {
+        "name": "Braemar MURRAY",
+        "position": "Back row",
+        "dob": "08/07/2004",
+        "height": "1.92m",
+        "weight": "103kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "Miami Sharks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Anthem RC",
+                "tournament": "Major League Rugby",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Calvin IHRIG",
+        "position": "Back row",
+        "dob": "07/07/2001",
+        "height": "1.93m",
+        "weight": "100kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "Miami Sharks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Chase SCHOR-HASKIN",
+        "position": "Back row",
+        "dob": "23/05/1999",
+        "height": "1.89m",
+        "weight": "98kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "Miami Sharks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "NOLA",
+                "tournament": "Major League Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Manuel ARDAO",
+        "position": "Back row",
+        "dob": "09/09/1998",
+        "height": "1.77m",
+        "weight": "98kg",
+        "contract": "PRO",
+        "nation": "Uruguay",
+        "club": "Miami Sharks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Uruguay",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 14,
+                "tries": 0,
+                "points": 29
+            },
+            {
+                "season": "24/25",
+                "team": "Uruguay",
+                "tournament": "Test Matchs",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 12,
+                "tries": 0,
+                "points": 29
+            },
+            {
+                "season": "23/24",
+                "team": "Uruguay",
+                "tournament": "Test Matchs",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Uruguay",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Uruguay",
+                "tournament": "Test Matchs",
+                "matches": 7,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "19/20",
+                "team": "Uruguay",
+                "tournament": "Rugby World Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Uruguay",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Marques FUALA'AU",
+        "position": "Back row",
+        "dob": "11/10/1999",
+        "height": "1.87m",
+        "weight": "104kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "Miami Sharks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Dallas",
+                "tournament": "Major League Rugby",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Ronan FOLEY",
+        "position": "Back row",
+        "dob": "26/08/1998",
+        "height": "1.90m",
+        "weight": "104kg",
+        "contract": "PRO",
+        "nation": "Ireland",
+        "club": "Miami Sharks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Dallas",
+                "tournament": "Major League Rugby",
+                "matches": 15,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Seattle",
+                "tournament": "Major League Rugby",
+                "matches": 11,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "Toronto",
+                "tournament": "Major League Rugby",
+                "matches": 15,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "20/21",
+                "team": "Toronto",
+                "tournament": "Major League Rugby",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Damian MORLEY",
+        "position": "Scrum-half",
+        "dob": "19/12/2002",
+        "height": "1.77m",
+        "weight": "84kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "Miami Sharks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Tomás CUBELLI",
+        "position": "Scrum-half",
+        "dob": "12/06/1989",
+        "height": "1.77m",
+        "weight": "81kg",
+        "contract": "PRO",
+        "nation": "Argentina",
+        "club": "Miami Sharks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 13,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Argentina",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Biarritz",
+                "tournament": "Pro D2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Biarritz",
+                "tournament": "Top 14",
+                "matches": 13,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "21/22",
+                "team": "Argentina",
+                "tournament": "Autumn Nations Cup",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "6",
+                "tournament": "2 0 4",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Western Force",
+                "tournament": "Super Rugby AU",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "4",
+                "tournament": "0 0 4",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Argentina",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Jaguares",
+                "tournament": "Super Rugby",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Argentina",
+                "tournament": "Rugby World Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Jaguares",
+                "tournament": "Super Rugby",
+                "matches": 18,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "18/19",
+                "team": "Argentina",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Argentina",
+                "tournament": "Rugby Championship",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "Brumbies",
+                "tournament": "Super Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Argentina",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "5",
+                "tournament": "0 0 5",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Brumbies",
+                "tournament": "Super Rugby",
+                "matches": 15,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "15/16",
+                "team": "Argentina",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "7",
+                "tournament": "4 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "6",
+                "tournament": "1 0 5",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Argentina",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "14/15",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Argentina",
+                "tournament": "Test Matchs",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "6",
+                "tournament": "1 0 5",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Martin ELIAS",
+        "position": "Fly-half",
+        "dob": "16/10/1996",
+        "height": "1.83m",
+        "weight": "88kg",
+        "contract": "PRO",
+        "nation": "Argentina",
+        "club": "Miami Sharks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 14,
+                "tries": 1,
+                "points": 34
+            },
+            {
+                "season": "23/24",
+                "team": "Dallas",
+                "tournament": "Major League Rugby",
+                "matches": 13,
+                "tries": 1,
+                "points": 79
+            },
+            {
+                "season": "22/23",
+                "team": "Dallas",
+                "tournament": "Major League Rugby",
+                "matches": 10,
+                "tries": 0,
+                "points": 37
+            }
+        ]
+    },
+    {
+        "name": "Shane O'LEARY",
+        "position": "Fly-half",
+        "dob": "12/03/1993",
+        "height": "1.78m",
+        "weight": "90kg",
+        "contract": "PRO",
+        "nation": "Ireland",
+        "club": "Miami Sharks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 11,
+                "tries": 2,
+                "points": 95
+            },
+            {
+                "season": "24/25",
+                "team": "Canada",
+                "tournament": "Pacific Nations Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 6,
+                "tries": 1,
+                "points": 11
+            },
+            {
+                "season": "22/23",
+                "team": "Toronto",
+                "tournament": "Major League Rugby",
+                "matches": 11,
+                "tries": 0,
+                "points": 52
+            },
+            {
+                "season": "21/22",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 0,
+                "points": 23
+            },
+            {
+                "season": "20/21",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 24,
+                "tries": 0,
+                "points": 29
+            },
+            {
+                "season": "19/20",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Canada",
+                "tournament": "Pacific Nations Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 8
+            },
+            {
+                "season": "17/18",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 12
+            },
+            {
+                "season": "16/17",
+                "team": "Connacht",
+                "tournament": "Pro 12",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Connacht",
+                "tournament": "Pro 12",
+                "matches": 7,
+                "tries": 0,
+                "points": 22
+            },
+            {
+                "season": "15/16",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 2,
+                "tries": 1,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Connacht",
+                "tournament": "Pro 12",
+                "matches": 4,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "13/14",
+                "team": "Grenoble",
+                "tournament": "European Challenge Cup",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Guiseppe DU TOIT",
+        "position": "Centre",
+        "dob": "29/07/1995",
+        "height": "1.83m",
+        "weight": "98kg",
+        "contract": "PRO",
+        "nation": "Canada",
+        "club": "Miami Sharks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 17,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Toronto",
+                "tournament": "Major League Rugby",
+                "matches": 10,
+                "tries": 0,
+                "points": 22
+            },
+            {
+                "season": "20/21",
+                "team": "Toronto",
+                "tournament": "Major League Rugby",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Toronto",
+                "tournament": "Major League Rugby",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Canada",
+                "tournament": "Rugby World Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Josh MCADAM",
+        "position": "Centre",
+        "dob": "24/06/1997",
+        "height": "1.91m",
+        "weight": "106kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Miami Sharks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Lautaro SOTO",
+        "position": "Centre",
+        "dob": "05/04/2002",
+        "height": "1.83m",
+        "weight": "87kg",
+        "contract": "PRO",
+        "nation": "Argentina",
+        "club": "Miami Sharks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Matias ORLANDO",
+        "position": "Centre",
+        "dob": "14/11/1991",
+        "height": "1.83m",
+        "weight": "94kg",
+        "contract": "PRO",
+        "nation": "Argentina",
+        "club": "Miami Sharks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 14,
+                "tries": 0,
+                "points": 12
+            },
+            {
+                "season": "24/25",
+                "team": "Argentina",
+                "tournament": "Autumn Nations Series",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Newcastle",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "6",
+                "tournament": "0 0 6",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Argentina",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Argentina",
+                "tournament": "Autumn Nations Series",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Argentina",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Jaguares",
+                "tournament": "Super Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Argentina",
+                "tournament": "Rugby World Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "3",
+                "tournament": "1 2 0",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Jaguares",
+                "tournament": "Super Rugby",
+                "matches": 17,
+                "tries": 8,
+                "points": 40
+            },
+            {
+                "season": "18/19",
+                "team": "Argentina",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Jaguares",
+                "tournament": "Super Rugby",
+                "matches": 16,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "17/18",
+                "team": "Argentina",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Jaguares",
+                "tournament": "Super Rugby",
+                "matches": 13,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "16/17",
+                "team": "Argentina",
+                "tournament": "Test Matchs",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "6",
+                "tournament": "0 0 6",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Jaguares",
+                "tournament": "Super Rugby",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Argentina",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "6",
+                "tournament": "1 0 5",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Argentina",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Santiago VIDELA",
+        "position": "Centre",
+        "dob": "16/01/1998",
+        "height": "1.80m",
+        "weight": "90kg",
+        "contract": "PRO",
+        "nation": "Chile",
+        "club": "Miami Sharks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 11,
+                "tries": 2,
+                "points": 46
+            },
+            {
+                "season": "24/25",
+                "team": "Chile",
+                "tournament": "Test Matchs",
+                "matches": 8,
+                "tries": 0,
+                "points": 70
+            },
+            {
+                "season": "23/24",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 12,
+                "tries": 2,
+                "points": 67
+            },
+            {
+                "season": "23/24",
+                "team": "Chile",
+                "tournament": "Test Matchs",
+                "matches": 6,
+                "tries": 0,
+                "points": 58
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Chile",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 13
+            },
+            {
+                "season": "21/22",
+                "team": "Chile",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 3,
+                "points": 66
+            }
+        ]
+    },
+    {
+        "name": "Tomás CUBILLA",
+        "position": "Centre",
+        "dob": "07/02/1998",
+        "height": "1.85m",
+        "weight": "100kg",
+        "contract": "PRO",
+        "nation": "Argentina",
+        "club": "Miami Sharks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 9,
+                "tries": 0,
+                "points": 24
+            },
+            {
+                "season": "23/24",
+                "team": "Dallas",
+                "tournament": "Major League Rugby",
+                "matches": 8,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "22/23",
+                "team": "Dallas",
+                "tournament": "Major League Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Tomás INCIARTE",
+        "position": "Centre",
+        "dob": "22/10/1996",
+        "height": "1.84m",
+        "weight": "96kg",
+        "contract": "PRO",
+        "nation": "Uruguay",
+        "club": "Miami Sharks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 15,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "Uruguay",
+                "tournament": "Test Matchs",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Uruguay",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Uruguay",
+                "tournament": "Test Matchs",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Uruguay",
+                "tournament": "Rugby World Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Uruguay",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Blake PEREDA",
+        "position": "Winger",
+        "dob": "-",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "Miami Sharks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Jake NEGRETE",
+        "position": "Winger",
+        "dob": "10/04/2001",
+        "height": "1.78m",
+        "weight": "91kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "Miami Sharks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Jake NEGRETE",
+        "position": "Winger",
+        "dob": "10/04/2001",
+        "height": "1.78m",
+        "weight": "91kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "Miami Sharks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Josiah MORRA",
+        "position": "Winger",
+        "dob": "07/02/1998",
+        "height": "1.80m",
+        "weight": "94kg",
+        "contract": "PRO",
+        "nation": "Canada",
+        "club": "Miami Sharks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 8,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Canada",
+                "tournament": "La Vila International Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Canada",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Marcos YOUNG",
+        "position": "Winger",
+        "dob": "14/11/1998",
+        "height": "1.83m",
+        "weight": "92kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "Miami Sharks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 15,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 15,
+                "tries": 0,
+                "points": 12
+            },
+            {
+                "season": "22/23",
+                "team": "Old Glory DC",
+                "tournament": "Major League Rugby",
+                "matches": 14,
+                "tries": 4,
+                "points": 20
+            }
+        ]
+    },
+    {
+        "name": "Tomy MALANOS",
+        "position": "Winger",
+        "dob": "04/07/1997",
+        "height": "1.78m",
+        "weight": "86kg",
+        "contract": "PRO",
+        "nation": "Argentina",
+        "club": "Miami Sharks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Dallas",
+                "tournament": "Major League Rugby",
+                "matches": 13,
+                "tries": 0,
+                "points": 27
+            },
+            {
+                "season": "22/23",
+                "team": "Dallas",
+                "tournament": "Major League Rugby",
+                "matches": 16,
+                "tries": 0,
+                "points": 24
+            }
+        ]
+    },
+    {
+        "name": "Zach BASTRES",
+        "position": "Winger",
+        "dob": "12/07/1999",
+        "height": "1.87m",
+        "weight": "95kg",
+        "contract": "PRO",
+        "nation": "United-States",
+        "club": "Miami Sharks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "23/24",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "New England",
+                "tournament": "Major League Rugby",
+                "matches": 4,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Connor BURNS",
+        "position": "Fullback",
+        "dob": "06/01/1998",
+        "height": "1.91m",
+        "weight": "103kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Miami Sharks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Utah",
+                "tournament": "Major League Rugby",
+                "matches": 11,
+                "tries": 0,
+                "points": 14
+            }
+        ]
+    },
+    {
+        "name": "Marcos ELIÇAGARAY",
+        "position": "Fullback",
+        "dob": "05/01/2000",
+        "height": "1.85m",
+        "weight": "91kg",
+        "contract": "PRO",
+        "nation": "Argentina",
+        "club": "Miami Sharks",
+        "league": "MLR",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Miami",
+                "tournament": "Major League Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    }
+]

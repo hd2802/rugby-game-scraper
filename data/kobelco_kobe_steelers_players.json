@@ -1,0 +1,3465 @@
+[
+    {
+        "name": "Haruto TAKAHASHI",
+        "position": "Prop",
+        "dob": "29/06/2002",
+        "height": "1.86m",
+        "weight": "108kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Kobelco Kobe Steelers",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": []
+    },
+    {
+        "name": "Hikaru MORIWAKI",
+        "position": "Prop",
+        "dob": "17/02/2002",
+        "height": "1.76m",
+        "weight": "106kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Kobelco Kobe Steelers",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Hiroshi YAMASHITA",
+        "position": "Prop",
+        "dob": "01/01/1986",
+        "height": "1.83m",
+        "weight": "122kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Kobelco Kobe Steelers",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 20,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Sunwolves",
+                "tournament": "Super Rugby",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Chiefs",
+                "tournament": "Super Rugby",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Jiwon GU",
+        "position": "Prop",
+        "dob": "20/07/1994",
+        "height": "1.83m",
+        "weight": "117kg",
+        "contract": "PRO",
+        "nation": "South Korea",
+        "club": "Kobelco Kobe Steelers",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Japan XV",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Sunwolves",
+                "tournament": "Super Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Sunwolves",
+                "tournament": "Super Rugby",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Sunwolves",
+                "tournament": "Super Rugby",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Sunwolves",
+                "tournament": "Super Rugby",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Kauvaka KAIVELATA",
+        "position": "Prop",
+        "dob": "11/07/2002",
+        "height": "1.88m",
+        "weight": "118kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Kobelco Kobe Steelers",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Chiefs",
+                "tournament": "Super Rugby Pacific",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Counties Manukau",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Counties Manukau",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Counties Manukau",
+                "tournament": "NPC",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Koki YAMAMOTO",
+        "position": "Prop",
+        "dob": "29/10/1990",
+        "height": "1.81m",
+        "weight": "116kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Kobelco Kobe Steelers",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "23/24",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Japan",
+                "tournament": "Pacific Nations Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Sunwolves",
+                "tournament": "Super Rugby",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Sunwolves",
+                "tournament": "Super Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Shigure TAKAO",
+        "position": "Prop",
+        "dob": "15/08/1996",
+        "height": "1.78m",
+        "weight": "110kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Kobelco Kobe Steelers",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 21,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Sho MAEDA",
+        "position": "Prop",
+        "dob": "30/04/1999",
+        "height": "1.80m",
+        "weight": "110kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Kobelco Kobe Steelers",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Manawatu",
+                "tournament": "NPC",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Takayuki WATANABE",
+        "position": "Prop",
+        "dob": "27/05/1994",
+        "height": "1.80m",
+        "weight": "120kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Kobelco Kobe Steelers",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "George TURNER",
+        "position": "Hooker",
+        "dob": "08/10/1992",
+        "height": "1.80m",
+        "weight": "106kg",
+        "contract": "PRO",
+        "nation": "Scotland",
+        "club": "Kobelco Kobe Steelers",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Harlequins",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "25/26",
+                "team": "Scotland",
+                "tournament": "Autumn Nations Series",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 13,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "24/25",
+                "team": "Scotland",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Glasgow",
+                "tournament": "United Rugby Championship",
+                "matches": 7,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Scotland",
+                "tournament": "Summer Nations Series",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Glasgow",
+                "tournament": "United Rugby Championship",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "6",
+                "tournament": "5 1 0",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Scotland",
+                "tournament": "Autumn Nations Series",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Glasgow",
+                "tournament": "United Rugby Championship",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Scotland",
+                "tournament": "Autumn Nations Series",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Glasgow",
+                "tournament": "Pro 14",
+                "matches": 6,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Scotland",
+                "tournament": "Autumn Nations Cup",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Glasgow",
+                "tournament": "Pro 14",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Scotland",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Glasgow",
+                "tournament": "Pro 14",
+                "matches": 11,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "18/19",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Glasgow",
+                "tournament": "Pro 14",
+                "matches": 14,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "17/18",
+                "team": "5",
+                "tournament": "1 0 4",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Scotland",
+                "tournament": "Test Matchs",
+                "matches": 5,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "16/17",
+                "team": "Edinburgh",
+                "tournament": "Pro 12",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Edinburgh",
+                "tournament": "Pro 12",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Edinburgh",
+                "tournament": "Pro 12",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Edinburgh",
+                "tournament": "Pro 12",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Hiroaki USHIHARA",
+        "position": "Hooker",
+        "dob": "17/01/1993",
+        "height": "1.73m",
+        "weight": "102kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Kobelco Kobe Steelers",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "23/24",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Toyota Industries Shuttles",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Red Hurricanes",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Kenta MATSUOKA",
+        "position": "Hooker",
+        "dob": "06/06/1997",
+        "height": "1.75m",
+        "weight": "100kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Kobelco Kobe Steelers",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Japan",
+                "tournament": "Autumn Nations Series",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 16,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "Japan",
+                "tournament": "Pacific Nations Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 15,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "21/22",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Takuya KITADE",
+        "position": "Hooker",
+        "dob": "14/09/1992",
+        "height": "1.80m",
+        "weight": "102kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Kobelco Kobe Steelers",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 13,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "22/23",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Tokyo Sungoliath",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Sunwolves",
+                "tournament": "Super Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Amanaki SAUMAKI",
+        "position": "Lock",
+        "dob": "08/03/1997",
+        "height": "1.89m",
+        "weight": "108kg",
+        "contract": "PRO",
+        "nation": "Tonga",
+        "club": "Kobelco Kobe Steelers",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 17,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "24/25",
+                "team": "Japan XV",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 14,
+                "tries": 8,
+                "points": 40
+            },
+            {
+                "season": "23/24",
+                "team": "Japan",
+                "tournament": "Summer Nations Series",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Japan XV",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 11,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "21/22",
+                "team": "Canon Eagles",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 14,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Brodie RETALLICK",
+        "position": "Lock",
+        "dob": "31/05/1991",
+        "height": "2.04m",
+        "weight": "121kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Kobelco Kobe Steelers",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 18,
+                "tries": 10,
+                "points": 50
+            },
+            {
+                "season": "23/24",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 16,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "6",
+                "tournament": "4 0 2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Chiefs",
+                "tournament": "Super Rugby Pacific",
+                "matches": 13,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "22/23",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "1",
+                "tournament": "0 1 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Chiefs",
+                "tournament": "Super Rugby Pacific",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Hawke's Bay",
+                "tournament": "NPC",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "New Zealand",
+                "tournament": "Autumn Nations Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "New Zealand",
+                "tournament": "Rugby World Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Chiefs",
+                "tournament": "Super Rugby",
+                "matches": 9,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "18/19",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "2",
+                "tournament": "1 1 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Chiefs",
+                "tournament": "Super Rugby",
+                "matches": 13,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "17/18",
+                "team": "New Zealand",
+                "tournament": "Rugby Championship",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "Chiefs",
+                "tournament": "Super Rugby",
+                "matches": 14,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "16/17",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "4",
+                "tournament": "4 0 0",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Chiefs",
+                "tournament": "Super Rugby",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "15/16",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "6",
+                "tournament": "6 0 0",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "6",
+                "tournament": "6 0 0",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Chiefs",
+                "tournament": "Super Rugby",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "14/15",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "3",
+                "tournament": "2 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Chiefs",
+                "tournament": "Super Rugby",
+                "matches": 16,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "13/14",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "5",
+                "tournament": "4 1 0",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Gerard COWLEY-TUIOTI",
+        "position": "Lock",
+        "dob": "16/06/1992",
+        "height": "1.96m",
+        "weight": "115kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Kobelco Kobe Steelers",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 20,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "23/24",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 8,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Blues",
+                "tournament": "Super Rugby Aotearoa",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "6",
+                "tournament": "6 0 0",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Blues",
+                "tournament": "Super Rugby",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "6",
+                "tournament": "5 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "North Harbour",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Blues",
+                "tournament": "Super Rugby",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "Blues",
+                "tournament": "Super Rugby",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Blues",
+                "tournament": "Super Rugby",
+                "matches": 15,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "15/16",
+                "team": "Blues",
+                "tournament": "Super Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Naohiro KOTAKI",
+        "position": "Lock",
+        "dob": "13/06/1992",
+        "height": "1.94m",
+        "weight": "110kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Kobelco Kobe Steelers",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Japan XV",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Sunwolves",
+                "tournament": "Super Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Sunwolves",
+                "tournament": "Super Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Takara IMAMURA",
+        "position": "Lock",
+        "dob": "17/01/1997",
+        "height": "1.87m",
+        "weight": "106kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Kobelco Kobe Steelers",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Takuma MOTOHASHI",
+        "position": "Lock",
+        "dob": "30/04/2002",
+        "height": "1.93m",
+        "weight": "118kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Kobelco Kobe Steelers",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Japan XV",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Waisake RARATUBUA",
+        "position": "Lock",
+        "dob": "17/03/1998",
+        "height": "1.93m",
+        "weight": "120kg",
+        "contract": "PRO",
+        "nation": "Fiji",
+        "club": "Kobelco Kobe Steelers",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 19,
+                "tries": 8,
+                "points": 40
+            },
+            {
+                "season": "24/25",
+                "team": "Japan XV",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 16,
+                "tries": 3,
+                "points": 15
+            }
+        ]
+    },
+    {
+        "name": "Hayato FUKUNISHI",
+        "position": "Back row",
+        "dob": "17/05/2000",
+        "height": "1.78m",
+        "weight": "98kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Kobelco Kobe Steelers",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Hikaru HASHIMOTO",
+        "position": "Back row",
+        "dob": "17/05/1993",
+        "height": "1.82m",
+        "weight": "95kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Kobelco Kobe Steelers",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Isileli NAKAJIMA",
+        "position": "Back row",
+        "dob": "09/07/1989",
+        "height": "1.86m",
+        "weight": "120kg",
+        "contract": "PRO",
+        "nation": "Tonga",
+        "club": "Kobelco Kobe Steelers",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 10,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Solomone FUNAKI",
+        "position": "Back row",
+        "dob": "04/12/2002",
+        "height": "1.86m",
+        "weight": "114kg",
+        "contract": "PRO",
+        "nation": "Tonga",
+        "club": "Kobelco Kobe Steelers",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 13,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Sosefo FAKATAVA",
+        "position": "Back row",
+        "dob": "25/10/1997",
+        "height": "1.87m",
+        "weight": "113kg",
+        "contract": "PRO",
+        "nation": "Tonga",
+        "club": "Kobelco Kobe Steelers",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Canon Eagles",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Canon Eagles",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Tiennan COSTLEY",
+        "position": "Back row",
+        "dob": "14/06/2000",
+        "height": "1.92m",
+        "weight": "102kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Kobelco Kobe Steelers",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 18,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "Japan",
+                "tournament": "Pacific Nations Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 16,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Japan XV",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Willie POTGIETER",
+        "position": "Back row",
+        "dob": "05/01/2002",
+        "height": "1.90m",
+        "weight": "106kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Kobelco Kobe Steelers",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 16,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "23/24",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Atsushi HIWASA",
+        "position": "Scrum-half",
+        "dob": "22/05/1987",
+        "height": "1.66m",
+        "weight": "72kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Kobelco Kobe Steelers",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 20,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 16,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "22/23",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 12,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "15/16",
+                "team": "Sunwolves",
+                "tournament": "Super Rugby",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Daiki NAKAJIMA",
+        "position": "Scrum-half",
+        "dob": "25/03/1996",
+        "height": "1.71m",
+        "weight": "81kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Kobelco Kobe Steelers",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 7,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 13,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "21/22",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 13,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "21/22",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Itsuki KAMIMURA",
+        "position": "Scrum-half",
+        "dob": "13/12/2002",
+        "height": "1.68m",
+        "weight": "74kg",
+        "contract": "ACADEMY",
+        "nation": "Japan",
+        "club": "Kobelco Kobe Steelers",
+        "league": "League One D1",
+        "value": 45000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Kentaro OBATA",
+        "position": "Scrum-half",
+        "dob": "03/12/1996",
+        "height": "1.72m",
+        "weight": "73kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Kobelco Kobe Steelers",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "23/24",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Bryn GATLAND",
+        "position": "Fly-half",
+        "dob": "10/05/1995",
+        "height": "1.78m",
+        "weight": "90kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Kobelco Kobe Steelers",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 17,
+                "tries": 4,
+                "points": 190
+            },
+            {
+                "season": "23/24",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 16,
+                "tries": 5,
+                "points": 217
+            },
+            {
+                "season": "22/23",
+                "team": "Chiefs",
+                "tournament": "Super Rugby Pacific",
+                "matches": 8,
+                "tries": 1,
+                "points": 21
+            },
+            {
+                "season": "22/23",
+                "team": "North Harbour",
+                "tournament": "NPC",
+                "matches": 5,
+                "tries": 1,
+                "points": 47
+            },
+            {
+                "season": "21/22",
+                "team": "Chiefs",
+                "tournament": "Super Rugby Pacific",
+                "matches": 15,
+                "tries": 2,
+                "points": 122
+            },
+            {
+                "season": "21/22",
+                "team": "North Harbour",
+                "tournament": "NPC",
+                "matches": 11,
+                "tries": 4,
+                "points": 139
+            },
+            {
+                "season": "20/21",
+                "team": "Chiefs",
+                "tournament": "Super Rugby Aotearoa",
+                "matches": 6,
+                "tries": 1,
+                "points": 19
+            },
+            {
+                "season": "20/21",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "North Harbour",
+                "tournament": "NPC",
+                "matches": 2,
+                "tries": 0,
+                "points": 14
+            },
+            {
+                "season": "19/20",
+                "team": "Highlanders",
+                "tournament": "Super Rugby Aotearoa",
+                "matches": 5,
+                "tries": 0,
+                "points": 3
+            },
+            {
+                "season": "19/20",
+                "team": "North Harbour",
+                "tournament": "NPC",
+                "matches": 10,
+                "tries": 3,
+                "points": 119
+            },
+            {
+                "season": "18/19",
+                "team": "Highlanders",
+                "tournament": "Super Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 6
+            },
+            {
+                "season": "17/18",
+                "team": "Blues",
+                "tournament": "Super Rugby",
+                "matches": 12,
+                "tries": 2,
+                "points": 49
+            },
+            {
+                "season": "16/17",
+                "team": "Blues",
+                "tournament": "Super Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 11
+            }
+        ]
+    },
+    {
+        "name": "Seungsin LEE",
+        "position": "Fly-half",
+        "dob": "13/01/2001",
+        "height": "1.76m",
+        "weight": "89kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Kobelco Kobe Steelers",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 2
+            },
+            {
+                "season": "25/26",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 1,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 18,
+                "tries": 5,
+                "points": 55
+            },
+            {
+                "season": "24/25",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 21
+            },
+            {
+                "season": "24/25",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 4,
+                "tries": 5,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 16,
+                "tries": 3,
+                "points": 23
+            },
+            {
+                "season": "23/24",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 28
+            },
+            {
+                "season": "23/24",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 2,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 4,
+                "tries": 4,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 12,
+                "tries": 0,
+                "points": 101
+            },
+            {
+                "season": "22/23",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 4
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 1,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 2,
+                "tries": 6,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 13,
+                "tries": 5,
+                "points": 97
+            },
+            {
+                "season": "21/22",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 20
+            }
+        ]
+    },
+    {
+        "name": "Taihei KUSAKA",
+        "position": "Fly-half",
+        "dob": "08/11/1999",
+        "height": "1.81m",
+        "weight": "90kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Kobelco Kobe Steelers",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "22/23",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 6
+            }
+        ]
+    },
+    {
+        "name": "Michael LITTLE",
+        "position": "Centre",
+        "dob": "14/03/1993",
+        "height": "1.83m",
+        "weight": "89kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Kobelco Kobe Steelers",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 13,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "23/24",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 13,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "22/23",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 9,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "21/22",
+                "team": "Sagamihara",
+                "tournament": "Japan Rugby League One - Division 2",
+                "matches": 9,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Sunwolves",
+                "tournament": "Super Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Sunwolves",
+                "tournament": "Super Rugby",
+                "matches": 13,
+                "tries": 3,
+                "points": 15
+            }
+        ]
+    },
+    {
+        "name": "Ngani LAUMAPE",
+        "position": "Centre",
+        "dob": "22/04/1993",
+        "height": "1.71m",
+        "weight": "104kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Kobelco Kobe Steelers",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Manawatu",
+                "tournament": "NPC",
+                "matches": 8,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 12,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "22/23",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 4,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "Paris",
+                "tournament": "Top 14",
+                "matches": 20,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby Aotearoa",
+                "matches": 8,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby",
+                "matches": 6,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "6",
+                "tournament": "4 0 2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby",
+                "matches": 16,
+                "tries": 13,
+                "points": 65
+            },
+            {
+                "season": "18/19",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "18/19",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby",
+                "matches": 16,
+                "tries": 9,
+                "points": 45
+            },
+            {
+                "season": "17/18",
+                "team": "All Blacks XV",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby",
+                "matches": 17,
+                "tries": 15,
+                "points": 75
+            },
+            {
+                "season": "16/17",
+                "team": "New Zealand",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "15/16",
+                "team": "Hurricanes",
+                "tournament": "Super Rugby",
+                "matches": 11,
+                "tries": 4,
+                "points": 20
+            }
+        ]
+    },
+    {
+        "name": "Quinton MAHINA",
+        "position": "Centre",
+        "dob": "29/04/1999",
+        "height": "1.74m",
+        "weight": "93kg",
+        "contract": "PRO",
+        "nation": "Australia",
+        "club": "Kobelco Kobe Steelers",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "23/24",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Ryohei YAMANAKA",
+        "position": "Centre",
+        "dob": "22/06/1988",
+        "height": "1.88m",
+        "weight": "96kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Kobelco Kobe Steelers",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 12,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Japan",
+                "tournament": "Rugby World Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 16,
+                "tries": 5,
+                "points": 56
+            },
+            {
+                "season": "22/23",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 11,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "21/22",
+                "team": "Japan",
+                "tournament": "Autumn Nations Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Japan",
+                "tournament": "Rugby World Cup",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Sunwolves",
+                "tournament": "Super Rugby",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Sunwolves",
+                "tournament": "Super Rugby",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Sunwolves",
+                "tournament": "Super Rugby",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Shintaro HAYASHI",
+        "position": "Centre",
+        "dob": "13/09/1993",
+        "height": "1.78m",
+        "weight": "87kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Kobelco Kobe Steelers",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "23/24",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Tali IOASA",
+        "position": "Centre",
+        "dob": "/01/2005",
+        "height": "1.92m",
+        "weight": "104kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Kobelco Kobe Steelers",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Timothy LAFAELE",
+        "position": "Centre",
+        "dob": "19/08/1991",
+        "height": "1.86m",
+        "weight": "98kg",
+        "contract": "PRO",
+        "nation": "Samoa",
+        "club": "Kobelco Kobe Steelers",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 20,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 13,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "22/23",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Sunwolves",
+                "tournament": "Super Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "18/19",
+                "team": "3",
+                "tournament": "3 0 0",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Sunwolves",
+                "tournament": "Super Rugby",
+                "matches": 9,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "17/18",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "Sunwolves",
+                "tournament": "Super Rugby",
+                "matches": 9,
+                "tries": 4,
+                "points": 22
+            },
+            {
+                "season": "16/17",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 5,
+                "tries": 0,
+                "points": 2
+            }
+        ]
+    },
+    {
+        "name": "Ataata MOEAKIOLA",
+        "position": "Winger",
+        "dob": "06/02/1996",
+        "height": "1.85m",
+        "weight": "107kg",
+        "contract": "PRO",
+        "nation": "Tonga",
+        "club": "Kobelco Kobe Steelers",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 14,
+                "tries": 11,
+                "points": 55
+            },
+            {
+                "season": "23/24",
+                "team": "Manawatu",
+                "tournament": "NPC",
+                "matches": 4,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 12,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "21/22",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 13,
+                "tries": 9,
+                "points": 45
+            },
+            {
+                "season": "19/20",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Chiefs",
+                "tournament": "Super Rugby",
+                "matches": 9,
+                "tries": 3,
+                "points": 15
+            }
+        ]
+    },
+    {
+        "name": "Inoke BURUA",
+        "position": "Winger",
+        "dob": "30/05/1999",
+        "height": "1.80m",
+        "weight": "100kg",
+        "contract": "PRO",
+        "nation": "Fiji",
+        "club": "Kobelco Kobe Steelers",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 11,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "Canon Eagles",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 12,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "22/23",
+                "team": "Canon Eagles",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 17,
+                "tries": 14,
+                "points": 70
+            }
+        ]
+    },
+    {
+        "name": "Kazuma UEDA",
+        "position": "Winger",
+        "dob": "04/12/2002",
+        "height": "1.76m",
+        "weight": "87kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Kobelco Kobe Steelers",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Japan XV",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "Japan",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Rakuhei YAMASHITA",
+        "position": "Winger",
+        "dob": "30/01/1992",
+        "height": "1.75m",
+        "weight": "85kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Kobelco Kobe Steelers",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 14,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 15,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "22/23",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 12,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "21/22",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 12,
+                "tries": 11,
+                "points": 55
+            }
+        ]
+    },
+    {
+        "name": "Ryota FUNABIKI",
+        "position": "Winger",
+        "dob": "09/09/2001",
+        "height": "1.78m",
+        "weight": "82kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Kobelco Kobe Steelers",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Talilotu FAKATULOLO",
+        "position": "Winger",
+        "dob": "20/05/2001",
+        "height": "1.85m",
+        "weight": "97kg",
+        "contract": "PRO",
+        "nation": "Tonga",
+        "club": "Kobelco Kobe Steelers",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Kanta MATSUNAGA",
+        "position": "Fullback",
+        "dob": "28/09/1999",
+        "height": "1.67m",
+        "weight": "79kg",
+        "contract": "PRO",
+        "nation": "Japan",
+        "club": "Kobelco Kobe Steelers",
+        "league": "League One D1",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 20,
+                "tries": 11,
+                "points": 55
+            },
+            {
+                "season": "23/24",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 16,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "22/23",
+                "team": "Kobelco Steelers",
+                "tournament": "Japan Rugby League One - Division 1",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    }
+]

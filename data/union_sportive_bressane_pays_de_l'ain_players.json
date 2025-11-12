@@ -1,0 +1,1774 @@
+[
+    {
+        "name": "Fernandez CORRÉA",
+        "position": "Prop",
+        "dob": "27/11/1997",
+        "height": "1.81m",
+        "weight": "102kg",
+        "contract": "PRO",
+        "nation": "Senegal",
+        "club": "Union Sportive Bressane Pays de l'Ain",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Massy",
+                "tournament": "Nationale",
+                "matches": 19,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Massy",
+                "tournament": "Nationale",
+                "matches": 21,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Massy",
+                "tournament": "Pro D2",
+                "matches": 25,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Massy",
+                "tournament": "Nationale",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Agen",
+                "tournament": "Top 14",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Agen",
+                "tournament": "Challenge Cup",
+                "matches": 5,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "18/19",
+                "team": "Agen",
+                "tournament": "Top 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Agen",
+                "tournament": "Challenge Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Lasha MCHEDLIDZE",
+        "position": "Prop",
+        "dob": "16/10/1994",
+        "height": "1.78m",
+        "weight": "132kg",
+        "contract": "PRO",
+        "nation": "Georgia",
+        "club": "Union Sportive Bressane Pays de l'Ain",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Hyères",
+                "tournament": "Nationale",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Aurillac",
+                "tournament": "Pro D2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Hyères",
+                "tournament": "Nationale",
+                "matches": 19,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Nikoloz KARDAVA",
+        "position": "Prop",
+        "dob": "01/08/2001",
+        "height": "1.85m",
+        "weight": "133kg",
+        "contract": "PRO",
+        "nation": "Georgia",
+        "club": "Union Sportive Bressane Pays de l'Ain",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Valentin GORGÉ",
+        "position": "Prop",
+        "dob": "06/03/2002",
+        "height": "1.90m",
+        "weight": "140kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Union Sportive Bressane Pays de l'Ain",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Victor MUPUNGA",
+        "position": "Prop",
+        "dob": "28/08/1999",
+        "height": "1.81m",
+        "weight": "128kg",
+        "contract": "PRO",
+        "nation": "Zimbabwe",
+        "club": "Union Sportive Bressane Pays de l'Ain",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Vittorio LASTRA",
+        "position": "Prop",
+        "dob": "26/03/1996",
+        "height": "1.83m",
+        "weight": "120kg",
+        "contract": "PRO",
+        "nation": "Chile",
+        "club": "Union Sportive Bressane Pays de l'Ain",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Chile",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Chile",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Clément JULLIEN",
+        "position": "Hooker",
+        "dob": "16/05/1992",
+        "height": "1.82m",
+        "weight": "107kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Union Sportive Bressane Pays de l'Ain",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 16,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 18,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 24,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "21/22",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Pro D2",
+                "matches": 17,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "18/19",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Pro D2",
+                "matches": 24,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "16/17",
+                "team": "Carcassonne",
+                "tournament": "Pro D2",
+                "matches": 15,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "15/16",
+                "team": "Carcassonne",
+                "tournament": "Pro D2",
+                "matches": 30,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Oyonnax",
+                "tournament": "Top 14",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "5",
+                "tournament": "3 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Clermont",
+                "tournament": "Top 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Louis DASALMARTINI",
+        "position": "Hooker",
+        "dob": "23/08/2001",
+        "height": "1.78m",
+        "weight": "101kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Union Sportive Bressane Pays de l'Ain",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 18,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 18,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Gaël FOREL",
+        "position": "Lock",
+        "dob": "16/10/2000",
+        "height": "1.94m",
+        "weight": "114kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Union Sportive Bressane Pays de l'Ain",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Thomas DÉLIANCE",
+        "position": "Lock",
+        "dob": "14/01/2002",
+        "height": "1.93m",
+        "weight": "90kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Union Sportive Bressane Pays de l'Ain",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 8,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 21,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 18,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Tiko BATIBASAGA",
+        "position": "Lock",
+        "dob": "12/08/2000",
+        "height": "1.98m",
+        "weight": "135kg",
+        "contract": "PRO",
+        "nation": "Fiji",
+        "club": "Union Sportive Bressane Pays de l'Ain",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Victor FROMENTÈZE",
+        "position": "Lock",
+        "dob": "19/02/1996",
+        "height": "1.92m",
+        "weight": "115kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Union Sportive Bressane Pays de l'Ain",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 18,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Blagnac",
+                "tournament": "Nationale",
+                "matches": 13,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Rennes",
+                "tournament": "Nationale",
+                "matches": 20,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Dijon",
+                "tournament": "Nationale",
+                "matches": 18,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Victor TEMPLIER",
+        "position": "Lock",
+        "dob": "15/01/2003",
+        "height": "1.96m",
+        "weight": "116kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Union Sportive Bressane Pays de l'Ain",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Pau",
+                "tournament": "Challenge Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Pau",
+                "tournament": "Challenge Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Hugo QUIROS",
+        "position": "Back row",
+        "dob": "12/02/2003",
+        "height": "1.85m",
+        "weight": "103kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Union Sportive Bressane Pays de l'Ain",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Loic BARADEL",
+        "position": "Back row",
+        "dob": "25/10/1996",
+        "height": "1.89m",
+        "weight": "100kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Union Sportive Bressane Pays de l'Ain",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 20,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 22,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 24,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Pro D2",
+                "matches": 28,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "18/19",
+                "team": "Grenoble",
+                "tournament": "Top 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Pro D2",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Grenoble",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Grenoble",
+                "tournament": "Challenge Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "4",
+                "tournament": "1 0 3",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Luke STRINGER",
+        "position": "Back row",
+        "dob": "12/12/1995",
+        "height": "1.92m",
+        "weight": "107kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Union Sportive Bressane Pays de l'Ain",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 6,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "Albi",
+                "tournament": "Nationale",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Albi",
+                "tournament": "Nationale",
+                "matches": 13,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "Montauban",
+                "tournament": "Pro D2",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Montauban",
+                "tournament": "Pro D2",
+                "matches": 20,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "18/19",
+                "team": "Sharks",
+                "tournament": "Super Rugby",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Mattéo BROEDERS",
+        "position": "Back row",
+        "dob": "08/07/2000",
+        "height": "1.95m",
+        "weight": "106kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Union Sportive Bressane Pays de l'Ain",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Bourgoin",
+                "tournament": "Nationale",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Bourgoin",
+                "tournament": "Nationale",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Bourgoin",
+                "tournament": "Nationale",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Bourgoin",
+                "tournament": "Nationale",
+                "matches": 16,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Nail AIT NACEUR",
+        "position": "Back row",
+        "dob": "08/03/2002",
+        "height": "1.88m",
+        "weight": "96kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Union Sportive Bressane Pays de l'Ain",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 19,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Quentin WITT",
+        "position": "Back row",
+        "dob": "16/03/1990",
+        "height": "1.92m",
+        "weight": "108kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Union Sportive Bressane Pays de l'Ain",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 21,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Montauban",
+                "tournament": "Pro D2",
+                "matches": 21,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Montauban",
+                "tournament": "Pro D2",
+                "matches": 23,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Aix",
+                "tournament": "Pro D2",
+                "matches": 25,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "20/21",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 26,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 25,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "17/18",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "13/14",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Pro D2",
+                "matches": 20,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Waël MAY",
+        "position": "Back row",
+        "dob": "15/06/2000",
+        "height": "1.90m",
+        "weight": "105kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Union Sportive Bressane Pays de l'Ain",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 7,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 18,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 22,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Chambéry",
+                "tournament": "Nationale",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Jérémie MARTIN",
+        "position": "Scrum-half",
+        "dob": "11/06/2002",
+        "height": "1.74m",
+        "weight": "78kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Union Sportive Bressane Pays de l'Ain",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 16,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Aix",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Aix",
+                "tournament": "Pro D2",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Jérémy VALENÇOT",
+        "position": "Scrum-half",
+        "dob": "28/02/1997",
+        "height": "1.74m",
+        "weight": "83kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Union Sportive Bressane Pays de l'Ain",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 23,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 21,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 19,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Grenoble",
+                "tournament": "Pro D2",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Grenoble",
+                "tournament": "Pro D2",
+                "matches": 21,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Grenoble",
+                "tournament": "Pro D2",
+                "matches": 18,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "18/19",
+                "team": "Grenoble",
+                "tournament": "Top 14",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "2",
+                "tournament": "1 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Grenoble",
+                "tournament": "Pro D2",
+                "matches": 16,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "Grenoble",
+                "tournament": "Top 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Bruce HOUSTON",
+        "position": "Fly-half",
+        "dob": "26/08/1999",
+        "height": "1.93m",
+        "weight": "95kg",
+        "contract": "PRO",
+        "nation": "Ireland",
+        "club": "Union Sportive Bressane Pays de l'Ain",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 8,
+                "tries": 0,
+                "points": 11
+            },
+            {
+                "season": "24/25",
+                "team": "Cornish Pirates",
+                "tournament": "RFU Championship",
+                "matches": 22,
+                "tries": 1,
+                "points": 137
+            },
+            {
+                "season": "24/25",
+                "team": "6",
+                "tournament": "1 0 5",
+                "matches": 4,
+                "tries": 1,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Ealing Trailfinders",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 2
+            },
+            {
+                "season": "23/24",
+                "team": "Cornish Pirates",
+                "tournament": "RFU Championship",
+                "matches": 17,
+                "tries": 1,
+                "points": 101
+            },
+            {
+                "season": "18/19",
+                "team": "Ulster",
+                "tournament": "Pro 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Nathan AZAÏS",
+        "position": "Fly-half",
+        "dob": "28/09/2003",
+        "height": "1.88m",
+        "weight": "90kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Union Sportive Bressane Pays de l'Ain",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 10,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 23,
+                "tries": 3,
+                "points": 35
+            }
+        ]
+    },
+    {
+        "name": "Aaron STAFFORD",
+        "position": "Centre",
+        "dob": "24/02/2000",
+        "height": "1.87m",
+        "weight": "94kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Union Sportive Bressane Pays de l'Ain",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 10,
+                "tries": 1,
+                "points": 8
+            },
+            {
+                "season": "20/21",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Alexandre BADET",
+        "position": "Centre",
+        "dob": "09/02/1998",
+        "height": "1.82m",
+        "weight": "86kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Union Sportive Bressane Pays de l'Ain",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 16,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Pro D2",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Dimitri DOUCET",
+        "position": "Centre",
+        "dob": "22/08/1993",
+        "height": "1.82m",
+        "weight": "86kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Union Sportive Bressane Pays de l'Ain",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 11,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Pro D2",
+                "matches": 15,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "18/19",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Pro D2",
+                "matches": 13,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Joel MATAVESI",
+        "position": "Centre",
+        "dob": "27/05/1996",
+        "height": "1.86m",
+        "weight": "110kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Union Sportive Bressane Pays de l'Ain",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Bedford",
+                "tournament": "RFU Championship",
+                "matches": 15,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "24/25",
+                "team": "6",
+                "tournament": "3 0 3",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Northampton",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Bedford",
+                "tournament": "RFU Championship",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Northampton",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 5,
+                "tries": 1,
+                "points": 22
+            },
+            {
+                "season": "22/23",
+                "team": "Bedford",
+                "tournament": "RFU Championship",
+                "matches": 6,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "21/22",
+                "team": "Northampton",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Newcastle",
+                "tournament": "Challenge Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Newcastle",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Kilian BAKOUR",
+        "position": "Centre",
+        "dob": "12/01/2003",
+        "height": "1.78m",
+        "weight": "93kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Union Sportive Bressane Pays de l'Ain",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 8,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Montpellier",
+                "tournament": "Top 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Romain LAMIT",
+        "position": "Centre",
+        "dob": "21/01/2003",
+        "height": "1.82m",
+        "weight": "85kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Union Sportive Bressane Pays de l'Ain",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "La Rochelle",
+                "tournament": "Top 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Junior NGANDU",
+        "position": "Winger",
+        "dob": "17/10/2001",
+        "height": "1.84m",
+        "weight": "93kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Union Sportive Bressane Pays de l'Ain",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Suresnes",
+                "tournament": "Nationale",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Thibaut PERRETTE",
+        "position": "Winger",
+        "dob": "01/03/2001",
+        "height": "1.78m",
+        "weight": "86kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Union Sportive Bressane Pays de l'Ain",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 22,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "22/23",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 4,
+                "points": 20
+            }
+        ]
+    },
+    {
+        "name": "Florent MASSIP",
+        "position": "Fullback",
+        "dob": "29/03/1994",
+        "height": "1.90m",
+        "weight": "92kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Union Sportive Bressane Pays de l'Ain",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 9,
+                "tries": 3,
+                "points": 104
+            },
+            {
+                "season": "24/25",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 18,
+                "tries": 3,
+                "points": 226
+            },
+            {
+                "season": "23/24",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 17,
+                "tries": 3,
+                "points": 214
+            },
+            {
+                "season": "22/23",
+                "team": "Aix",
+                "tournament": "Pro D2",
+                "matches": 17,
+                "tries": 4,
+                "points": 157
+            },
+            {
+                "season": "21/22",
+                "team": "Aix",
+                "tournament": "Pro D2",
+                "matches": 22,
+                "tries": 4,
+                "points": 241
+            },
+            {
+                "season": "20/21",
+                "team": "Aix",
+                "tournament": "Pro D2",
+                "matches": 24,
+                "tries": 5,
+                "points": 355
+            },
+            {
+                "season": "19/20",
+                "team": "Aix",
+                "tournament": "Pro D2",
+                "matches": 17,
+                "tries": 0,
+                "points": 119
+            },
+            {
+                "season": "18/19",
+                "team": "Aix",
+                "tournament": "Pro D2",
+                "matches": 28,
+                "tries": 5,
+                "points": 327
+            }
+        ]
+    },
+    {
+        "name": "Jules MARGARIT",
+        "position": "Fullback",
+        "dob": "27/06/2001",
+        "height": "1.86m",
+        "weight": "90kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Union Sportive Bressane Pays de l'Ain",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 8,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Bourg-en-Bresse",
+                "tournament": "Nationale",
+                "matches": 14,
+                "tries": 4,
+                "points": 25
+            },
+            {
+                "season": "23/24",
+                "team": "Aurillac",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Aurillac",
+                "tournament": "Pro D2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    }
+]

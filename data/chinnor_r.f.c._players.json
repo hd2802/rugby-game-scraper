@@ -1,0 +1,1335 @@
+[
+    {
+        "name": "Alex PYBUS",
+        "position": "Prop",
+        "dob": "-",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "Ireland",
+        "club": "Chinnor R.F.C.",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": []
+    },
+    {
+        "name": "Kai OWEN",
+        "position": "Prop",
+        "dob": "27/02/1999",
+        "height": "1.84m",
+        "weight": "122kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Chinnor R.F.C.",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Chinnor",
+                "tournament": "Champ Rugby",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Nottingham",
+                "tournament": "RFU Championship",
+                "matches": 16,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "5",
+                "tournament": "0 0 5",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Nottingham",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "18",
+                "tournament": "7 0 11",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Worcester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Doncaster",
+                "tournament": "RFU Championship",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Worcester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "20/21",
+                "team": "Worcester",
+                "tournament": "Challenge Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Worcester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Worcester",
+                "tournament": "Challenge Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "England U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "4",
+                "tournament": "3 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Lawson PORTER",
+        "position": "Prop",
+        "dob": "-",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "Ireland",
+        "club": "Chinnor R.F.C.",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Chinnor",
+                "tournament": "Champ Rugby",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Chinnor",
+                "tournament": "RFU Championship",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Ramaz RUKHADZE",
+        "position": "Prop",
+        "dob": "05/11/1993",
+        "height": "1.86m",
+        "weight": "126kg",
+        "contract": "PRO",
+        "nation": "Georgia",
+        "club": "Chinnor R.F.C.",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Chinnor",
+                "tournament": "Champ Rugby",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Chinnor",
+                "tournament": "RFU Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Rob HARDWICK",
+        "position": "Prop",
+        "dob": "16/01/2002",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Chinnor R.F.C.",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Chinnor",
+                "tournament": "Champ Rugby",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Chinnor",
+                "tournament": "RFU Championship",
+                "matches": 22,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "22/23",
+                "team": "Ampthill",
+                "tournament": "RFU Championship",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Wasps",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Wasps",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "England U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Alun WALKER",
+        "position": "Hooker",
+        "dob": "28/09/1999",
+        "height": "1.80m",
+        "weight": "115kg",
+        "contract": "PRO",
+        "nation": "Scotland",
+        "club": "Chinnor R.F.C.",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Chinnor",
+                "tournament": "Champ Rugby",
+                "matches": 5,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "Chinnor",
+                "tournament": "RFU Championship",
+                "matches": 21,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "22/23",
+                "team": "Newcastle",
+                "tournament": "Challenge Cup",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Ealing Trailfinders",
+                "tournament": "RFU Championship",
+                "matches": 7,
+                "tries": 8,
+                "points": 40
+            }
+        ]
+    },
+    {
+        "name": "Chris MOORE",
+        "position": "Hooker",
+        "dob": "10/08/2000",
+        "height": "1.85m",
+        "weight": "110kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Chinnor R.F.C.",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Chinnor",
+                "tournament": "Champ Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Chinnor",
+                "tournament": "RFU Championship",
+                "matches": 9,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Munster",
+                "tournament": "United Rugby Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Ospreys",
+                "tournament": "Challenge Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Luke THOMPSON",
+        "position": "Hooker",
+        "dob": "/02/2009",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "Ireland",
+        "club": "Chinnor R.F.C.",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Chinnor",
+                "tournament": "Champ Rugby",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Ampthill",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "8",
+                "tournament": "3 0 5",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Will CAVE",
+        "position": "Hooker",
+        "dob": "-",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Chinnor R.F.C.",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Chinnor",
+                "tournament": "Champ Rugby",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Chinnor",
+                "tournament": "RFU Championship",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Conor-Terrah BROCKSCHMIDT",
+        "position": "Lock",
+        "dob": "08/02/1994",
+        "height": "1.91m",
+        "weight": "111kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Chinnor R.F.C.",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Chinnor",
+                "tournament": "Champ Rugby",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Chinnor",
+                "tournament": "RFU Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Dan COOKE",
+        "position": "Lock",
+        "dob": "-",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "Zimbabwe",
+        "club": "Chinnor R.F.C.",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Chinnor",
+                "tournament": "Champ Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Chinnor",
+                "tournament": "RFU Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Isaac RIDGE",
+        "position": "Lock",
+        "dob": "-",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Chinnor R.F.C.",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": []
+    },
+    {
+        "name": "Jamie CAMPBELL",
+        "position": "Lock",
+        "dob": "28/05/2001",
+        "height": "2.00m",
+        "weight": "113kg",
+        "contract": "PRO",
+        "nation": "Scotland",
+        "club": "Chinnor R.F.C.",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Chinnor",
+                "tournament": "Champ Rugby",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Edinburgh",
+                "tournament": "United Rugby Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Scotland U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Cameron RAFFERTY",
+        "position": "Back row",
+        "dob": "-",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Chinnor R.F.C.",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Chinnor",
+                "tournament": "Champ Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Chinnor",
+                "tournament": "RFU Championship",
+                "matches": 13,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Ampthill",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "George STOKES",
+        "position": "Back row",
+        "dob": "13/07/1995",
+        "height": "1.85m",
+        "weight": "102kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Chinnor R.F.C.",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Chinnor",
+                "tournament": "Champ Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Chinnor",
+                "tournament": "RFU Championship",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Harry DUGMORE",
+        "position": "Back row",
+        "dob": "23/06/2001",
+        "height": "1.91m",
+        "weight": "109kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Chinnor R.F.C.",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Chinnor",
+                "tournament": "Champ Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Chinnor",
+                "tournament": "RFU Championship",
+                "matches": 22,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Cornish Pirates",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 4,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "9",
+                "tournament": "8 0 1",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Izzy WHARTON",
+        "position": "Back row",
+        "dob": "-",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Chinnor R.F.C.",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Chinnor",
+                "tournament": "RFU Championship",
+                "matches": 9,
+                "tries": 3,
+                "points": 15
+            }
+        ]
+    },
+    {
+        "name": "Joe HARMEN",
+        "position": "Back row",
+        "dob": "-",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Chinnor R.F.C.",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": []
+    },
+    {
+        "name": "Karl MAIN",
+        "position": "Back row",
+        "dob": "25/04/1995",
+        "height": "1.86m",
+        "weight": "110kg",
+        "contract": "PRO",
+        "nation": "Scotland",
+        "club": "Chinnor R.F.C.",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Ampthill",
+                "tournament": "RFU Championship",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "3",
+                "tournament": "0 0 3",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Scott HALL",
+        "position": "Back row",
+        "dob": "10/05/1998",
+        "height": "1.90m",
+        "weight": "109kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Chinnor R.F.C.",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Chinnor",
+                "tournament": "Champ Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Chinnor",
+                "tournament": "RFU Championship",
+                "matches": 17,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Nottingham",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "12",
+                "tournament": "6 0 6",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Nottingham",
+                "tournament": "RFU Championship",
+                "matches": 9,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Leicester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Callum PASCOE",
+        "position": "Scrum-half",
+        "dob": "03/07/2001",
+        "height": "1.70m",
+        "weight": "80kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Chinnor R.F.C.",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Chinnor",
+                "tournament": "Champ Rugby",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Chinnor",
+                "tournament": "RFU Championship",
+                "matches": 20,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "Newcastle",
+                "tournament": "Challenge Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Harry CHARMAN",
+        "position": "Scrum-half",
+        "dob": "-",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Chinnor R.F.C.",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": []
+    },
+    {
+        "name": "Luke CARTER",
+        "position": "Scrum-half",
+        "dob": "-",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Chinnor R.F.C.",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Chinnor",
+                "tournament": "Champ Rugby",
+                "matches": 6,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "Chinnor",
+                "tournament": "RFU Championship",
+                "matches": 22,
+                "tries": 15,
+                "points": 75
+            }
+        ]
+    },
+    {
+        "name": "Nathan CHAMBERLAIN",
+        "position": "Fly-half",
+        "dob": "14/03/2000",
+        "height": "1.83m",
+        "weight": "90kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Chinnor R.F.C.",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Chinnor",
+                "tournament": "Champ Rugby",
+                "matches": 5,
+                "tries": 1,
+                "points": 29
+            },
+            {
+                "season": "24/25",
+                "team": "Hartpury RFC",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 8
+            },
+            {
+                "season": "24/25",
+                "team": "Chinnor",
+                "tournament": "RFU Championship",
+                "matches": 7,
+                "tries": 2,
+                "points": 67
+            },
+            {
+                "season": "23/24",
+                "team": "Hartpury RFC",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 5,
+                "tries": 0,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "London Scottish",
+                "tournament": "RFU Championship",
+                "matches": 12,
+                "tries": 0,
+                "points": 62
+            },
+            {
+                "season": "20/21",
+                "team": "Edinburgh",
+                "tournament": "Pro 14",
+                "matches": 13,
+                "tries": 1,
+                "points": 27
+            },
+            {
+                "season": "20/21",
+                "team": "4",
+                "tournament": "1 1 2",
+                "matches": 2,
+                "tries": 1,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Edinburgh",
+                "tournament": "Pro 14",
+                "matches": 3,
+                "tries": 0,
+                "points": 3
+            },
+            {
+                "season": "19/20",
+                "team": "Scotland U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 5,
+                "tries": 4,
+                "points": 63
+            },
+            {
+                "season": "18/19",
+                "team": "Scotland U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "4",
+                "tournament": "0 0 4",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Nick SMITH",
+        "position": "Fly-half",
+        "dob": "19/07/1993",
+        "height": "1.82m",
+        "weight": "90kg",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Chinnor R.F.C.",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Chinnor",
+                "tournament": "Champ Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 4
+            },
+            {
+                "season": "24/25",
+                "team": "Chinnor",
+                "tournament": "RFU Championship",
+                "matches": 17,
+                "tries": 1,
+                "points": 18
+            },
+            {
+                "season": "19/20",
+                "team": "Biarritz",
+                "tournament": "Pro D2",
+                "matches": 5,
+                "tries": 1,
+                "points": 17
+            }
+        ]
+    },
+    {
+        "name": "Oscar YANDALL",
+        "position": "Fly-half",
+        "dob": "-",
+        "height": "1.90m",
+        "weight": "91kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Chinnor R.F.C.",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Chinnor",
+                "tournament": "RFU Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Grant HUGHES",
+        "position": "Centre",
+        "dob": "22/01/1999",
+        "height": "1.80m",
+        "weight": "95kg",
+        "contract": "PRO",
+        "nation": "Scotland",
+        "club": "Chinnor R.F.C.",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Chinnor",
+                "tournament": "Champ Rugby",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Chinnor",
+                "tournament": "RFU Championship",
+                "matches": 22,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "18/19",
+                "team": "Scotland U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "4",
+                "tournament": "0 0 4",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "James BOURTON",
+        "position": "Centre",
+        "dob": "-",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Chinnor R.F.C.",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Chinnor",
+                "tournament": "Champ Rugby",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Chinnor",
+                "tournament": "RFU Championship",
+                "matches": 14,
+                "tries": 1,
+                "points": 9
+            }
+        ]
+    },
+    {
+        "name": "Morgan PASSMAN",
+        "position": "Centre",
+        "dob": "30/09/1999",
+        "height": "1.83m",
+        "weight": "102kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Chinnor R.F.C.",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Chinnor",
+                "tournament": "Champ Rugby",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Chinnor",
+                "tournament": "RFU Championship",
+                "matches": 20,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "20/21",
+                "team": "Newcastle",
+                "tournament": "Premiership",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Sam HANKS",
+        "position": "Centre",
+        "dob": "29/06/1994",
+        "height": "1.80m",
+        "weight": "99kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Chinnor R.F.C.",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Chinnor",
+                "tournament": "Champ Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Cambridge",
+                "tournament": "RFU Championship",
+                "matches": 18,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "Cambridge",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "19",
+                "tournament": "2 0 17",
+                "matches": 18,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Ampthill",
+                "tournament": "RFU Championship",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Tom WATSON",
+        "position": "Centre",
+        "dob": "-",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Chinnor R.F.C.",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Chinnor",
+                "tournament": "Champ Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Chinnor",
+                "tournament": "RFU Championship",
+                "matches": 14,
+                "tries": 3,
+                "points": 15
+            }
+        ]
+    },
+    {
+        "name": "Freddie OWSLEY",
+        "position": "Winger",
+        "dob": "06/01/1997",
+        "height": "1.93m",
+        "weight": "93kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Chinnor R.F.C.",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Chinnor",
+                "tournament": "Champ Rugby",
+                "matches": 4,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Bristol",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Edinburgh",
+                "tournament": "Challenge Cup",
+                "matches": 1,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Kieran GOSS",
+        "position": "Winger",
+        "dob": "06/07/1991",
+        "height": "1.84m",
+        "weight": "92kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Chinnor R.F.C.",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Chinnor",
+                "tournament": "Champ Rugby",
+                "matches": 4,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Chinnor",
+                "tournament": "RFU Championship",
+                "matches": 21,
+                "tries": 9,
+                "points": 45
+            }
+        ]
+    },
+    {
+        "name": "Ryan CROWLEY",
+        "position": "Winger",
+        "dob": "26/08/1998",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "Wales",
+        "club": "Chinnor R.F.C.",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Leicester",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "25/26",
+                "team": "Chinnor",
+                "tournament": "Champ Rugby",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Chinnor",
+                "tournament": "RFU Championship",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Joe BROCK",
+        "position": "Fullback",
+        "dob": "04/10/2001",
+        "height": "1.95m",
+        "weight": "100kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Chinnor R.F.C.",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": []
+    }
+]

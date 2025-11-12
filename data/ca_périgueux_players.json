@@ -1,0 +1,2403 @@
+[
+    {
+        "name": "Anthony PELMARD",
+        "position": "Prop",
+        "dob": "20/08/1995",
+        "height": "1.85m",
+        "weight": "130kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "CA Périgueux",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 18,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 23,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Dax",
+                "tournament": "Nationale",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Blagnac",
+                "tournament": "Nationale",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Émilien BORGES",
+        "position": "Prop",
+        "dob": "07/07/2001",
+        "height": "1.83m",
+        "weight": "108kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "CA Périgueux",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 20,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Gonzalo HUGHES",
+        "position": "Prop",
+        "dob": "09/04/1998",
+        "height": "1.86m",
+        "weight": "114kg",
+        "contract": "PRO",
+        "nation": "Argentina",
+        "club": "CA Périgueux",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Jason TINDILIÈRE",
+        "position": "Prop",
+        "dob": "01/01/1997",
+        "height": "1.85m",
+        "weight": "110kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "CA Périgueux",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 20,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Kalivati TAWAKE",
+        "position": "Prop",
+        "dob": "16/11/1988",
+        "height": "1.85m",
+        "weight": "136kg",
+        "contract": "PRO",
+        "nation": "Fiji",
+        "club": "CA Périgueux",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 20,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 16,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "Biarritz",
+                "tournament": "Pro D2",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Fiji",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Biarritz",
+                "tournament": "Pro D2",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "Fiji",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Waratahs",
+                "tournament": "Super Rugby",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Fiji",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "Fiji",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Martin AUGEIX",
+        "position": "Prop",
+        "dob": "07/09/2001",
+        "height": "1.82m",
+        "weight": "122kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "CA Périgueux",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Union Cognac-Saint-Jean",
+                "tournament": "Nationale",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Agen",
+                "tournament": "Top 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Thomas VIDAL",
+        "position": "Prop",
+        "dob": "08/01/2000",
+        "height": "1.75m",
+        "weight": "110kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "CA Périgueux",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 17,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Castres",
+                "tournament": "Challenge Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Kito FALATEA",
+        "position": "Hooker",
+        "dob": "03/08/1998",
+        "height": "1.82m",
+        "weight": "115kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "CA Périgueux",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Dax",
+                "tournament": "Pro D2",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Manu LEIATAUA",
+        "position": "Hooker",
+        "dob": "26/12/1986",
+        "height": "1.80m",
+        "weight": "106kg",
+        "contract": "PRO",
+        "nation": "Samoa",
+        "club": "CA Périgueux",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 21,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "23/24",
+                "team": "Oyonnax",
+                "tournament": "Top 14",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "3",
+                "tournament": "1 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 16,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "22/23",
+                "team": "Samoa",
+                "tournament": "Autumn Nations Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 20,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "20/21",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 24,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Perpignan",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Perpignan",
+                "tournament": "Top 14",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "18/19",
+                "team": "4",
+                "tournament": "0 0 4",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Samoa",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Bayonne",
+                "tournament": "Pro D2",
+                "matches": 19,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "Samoa",
+                "tournament": "Test Matchs",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Bayonne",
+                "tournament": "Top 14",
+                "matches": 20,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Samoa",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "15/16",
+                "team": "Aurillac",
+                "tournament": "Pro D2",
+                "matches": 22,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "15/16",
+                "team": "Samoa",
+                "tournament": "Rugby World Cup",
+                "matches": 1,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "14/15",
+                "team": "Aurillac",
+                "tournament": "Pro D2",
+                "matches": 25,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "14/15",
+                "team": "Samoa",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Samoa",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Maxime LANÇON",
+        "position": "Hooker",
+        "dob": "21/04/2001",
+        "height": "1.85m",
+        "weight": "104kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "CA Périgueux",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Langon",
+                "tournament": "Nationale",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Charles FOURÈS",
+        "position": "Lock",
+        "dob": "02/05/2000",
+        "height": "2.03m",
+        "weight": "110kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "CA Périgueux",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Albi",
+                "tournament": "Nationale",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Albi",
+                "tournament": "Nationale",
+                "matches": 13,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Clément LANEN",
+        "position": "Lock",
+        "dob": "01/04/1998",
+        "height": "1.95m",
+        "weight": "105kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "CA Périgueux",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 22,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 19,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Massy",
+                "tournament": "Pro D2",
+                "matches": 18,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Clermont",
+                "tournament": "Top 14",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Clermont",
+                "tournament": "Champions Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Clermont",
+                "tournament": "Top 14",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Damien LAVERGNE",
+        "position": "Lock",
+        "dob": "15/12/1991",
+        "height": "1.88m",
+        "weight": "115kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "CA Périgueux",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 17,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 22,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "17/18",
+                "team": "Soyaux-Angoulême",
+                "tournament": "Pro D2",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "6",
+                "tournament": "5 0 1",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "6",
+                "tournament": "3 0 3",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "7",
+                "tournament": "5 1 1",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Jaco WILLEMSE",
+        "position": "Lock",
+        "dob": "14/03/1996",
+        "height": "2.01m",
+        "weight": "126kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "CA Périgueux",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 9,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 13,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 24,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Joeli MATALAWERU",
+        "position": "Lock",
+        "dob": "12/01/2001",
+        "height": "2.00m",
+        "weight": "122kg",
+        "contract": "PRO",
+        "nation": "Fiji",
+        "club": "CA Périgueux",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Tarbes",
+                "tournament": "Nationale",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Brive",
+                "tournament": "Challenge Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Raphaël VIEILLEDENT",
+        "position": "Lock",
+        "dob": "08/01/1997",
+        "height": "2.00m",
+        "weight": "119kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "CA Périgueux",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Rouen",
+                "tournament": "Pro D2",
+                "matches": 12,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Chambéry",
+                "tournament": "Nationale",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Thomas ROUSSEL",
+        "position": "Lock",
+        "dob": "24/02/2004",
+        "height": "1.91m",
+        "weight": "108kg",
+        "contract": "ACADEMY",
+        "nation": "France",
+        "club": "CA Périgueux",
+        "league": "Nationale",
+        "value": 45000,
+        "playing_history": []
+    },
+    {
+        "name": "Afa AMOSA",
+        "position": "Back row",
+        "dob": "11/10/1990",
+        "height": "1.87m",
+        "weight": "113kg",
+        "contract": "PRO",
+        "nation": "Australia",
+        "club": "CA Périgueux",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 22,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "22/23",
+                "team": "Bayonne",
+                "tournament": "Top 14",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Agen",
+                "tournament": "Pro D2",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Samoa",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Bayonne",
+                "tournament": "Pro D2",
+                "matches": 21,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 10,
+                "tries": 1,
+                "points": 7
+            },
+            {
+                "season": "20/21",
+                "team": "Bayonne",
+                "tournament": "Top 14",
+                "matches": 11,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Samoa",
+                "tournament": "Test Matchs",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Bordeaux",
+                "tournament": "Top 14",
+                "matches": 23,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "18/19",
+                "team": "5",
+                "tournament": "1 1 3",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Samoa",
+                "tournament": "Pacific Nations Cup",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "17/18",
+                "team": "La Rochelle",
+                "tournament": "Top 14",
+                "matches": 16,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "17/18",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "La Rochelle",
+                "tournament": "Top 14",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "4",
+                "tournament": "4 0 0",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "La Rochelle",
+                "tournament": "Top 14",
+                "matches": 22,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "15/16",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 25,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "13/14",
+                "team": "Colomiers",
+                "tournament": "Pro D2",
+                "matches": 21,
+                "tries": 3,
+                "points": 15
+            }
+        ]
+    },
+    {
+        "name": "Antoine BOUTHIER",
+        "position": "Back row",
+        "dob": "22/06/2004",
+        "height": "1.97m",
+        "weight": "95kg",
+        "contract": "ACADEMY",
+        "nation": "France",
+        "club": "CA Périgueux",
+        "league": "Nationale",
+        "value": 45000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 8,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Perpignan",
+                "tournament": "Top 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Perpignan",
+                "tournament": "Challenge Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Bastien GEST",
+        "position": "Back row",
+        "dob": "24/09/2002",
+        "height": "1.90m",
+        "weight": "96kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "CA Périgueux",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Blagnac",
+                "tournament": "Nationale",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Hendri STORM",
+        "position": "Back row",
+        "dob": "08/01/1995",
+        "height": "1.96m",
+        "weight": "113kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "CA Périgueux",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 15,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Karl LAMBERT",
+        "position": "Back row",
+        "dob": "14/07/1998",
+        "height": "1.91m",
+        "weight": "104kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "CA Périgueux",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 7,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 24,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 21,
+                "tries": 5,
+                "points": 25
+            }
+        ]
+    },
+    {
+        "name": "Nahum MERIGAN",
+        "position": "Back row",
+        "dob": "25/03/2001",
+        "height": "1.90m",
+        "weight": "114kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "CA Périgueux",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 10,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 21,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "23/24",
+                "team": "Bath",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Cambridge",
+                "tournament": "RFU Championship",
+                "matches": 10,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "22/23",
+                "team": "Hartpury RFC",
+                "tournament": "RFU Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Bath",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "1",
+                "tournament": "0 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Ampthill",
+                "tournament": "RFU Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "Bath",
+                "tournament": "Premiership",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "21/22",
+                "team": "2",
+                "tournament": "0 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "England U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 5,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "19/20",
+                "team": "Bath",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Sacha ROSENBERG",
+        "position": "Back row",
+        "dob": "24/03/2004",
+        "height": "1.83m",
+        "weight": "98kg",
+        "contract": "ACADEMY",
+        "nation": "France",
+        "club": "CA Périgueux",
+        "league": "Nationale",
+        "value": 45000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Mattéo BORDENAVE",
+        "position": "Scrum-half",
+        "dob": "09/03/2004",
+        "height": "1.74m",
+        "weight": "64kg",
+        "contract": "ACADEMY",
+        "nation": "France",
+        "club": "CA Périgueux",
+        "league": "Nationale",
+        "value": 45000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Nicolas FALTREPT",
+        "position": "Scrum-half",
+        "dob": "25/06/1991",
+        "height": "1.72m",
+        "weight": "86kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "CA Périgueux",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 16,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Valence Romans",
+                "tournament": "Pro D2",
+                "matches": 14,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Thibault DULUCQ",
+        "position": "Scrum-half",
+        "dob": "08/01/2001",
+        "height": "1.78m",
+        "weight": "75kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "CA Périgueux",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 7,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Tarbes",
+                "tournament": "Nationale",
+                "matches": 23,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Tarbes",
+                "tournament": "Nationale",
+                "matches": 18,
+                "tries": 1,
+                "points": 7
+            },
+            {
+                "season": "21/22",
+                "team": "Tarbes",
+                "tournament": "Nationale",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Anderson NEISEN",
+        "position": "Fly-half",
+        "dob": "03/04/1993",
+        "height": "1.82m",
+        "weight": "95kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "CA Périgueux",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 22,
+                "tries": 1,
+                "points": 97
+            },
+            {
+                "season": "23/24",
+                "team": "Aurillac",
+                "tournament": "Pro D2",
+                "matches": 15,
+                "tries": 1,
+                "points": 13
+            },
+            {
+                "season": "22/23",
+                "team": "Aurillac",
+                "tournament": "Pro D2",
+                "matches": 25,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Aurillac",
+                "tournament": "Pro D2",
+                "matches": 16,
+                "tries": 0,
+                "points": 8
+            },
+            {
+                "season": "20/21",
+                "team": "Aurillac",
+                "tournament": "Pro D2",
+                "matches": 24,
+                "tries": 1,
+                "points": 15
+            },
+            {
+                "season": "19/20",
+                "team": "Aurillac",
+                "tournament": "Pro D2",
+                "matches": 15,
+                "tries": 0,
+                "points": 48
+            },
+            {
+                "season": "15/16",
+                "team": "Brive",
+                "tournament": "Challenge Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Brive",
+                "tournament": "Challenge Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 12
+            },
+            {
+                "season": "13/14",
+                "team": "6",
+                "tournament": "4 1 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Greg HUTLEY",
+        "position": "Fly-half",
+        "dob": "25/05/2001",
+        "height": "1.82m",
+        "weight": "87kg",
+        "contract": "PRO",
+        "nation": "Ireland",
+        "club": "CA Périgueux",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 8,
+                "tries": 0,
+                "points": 64
+            },
+            {
+                "season": "24/25",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 16,
+                "tries": 0,
+                "points": 114
+            },
+            {
+                "season": "23/24",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 22,
+                "tries": 0,
+                "points": 79
+            }
+        ]
+    },
+    {
+        "name": "Jaun KOTZÉ",
+        "position": "Fly-half",
+        "dob": "18/05/1992",
+        "height": "1.75m",
+        "weight": "90kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "CA Périgueux",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 8,
+                "tries": 0,
+                "points": 40
+            },
+            {
+                "season": "24/25",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 5,
+                "tries": 0,
+                "points": 2
+            },
+            {
+                "season": "23/24",
+                "team": "Hyères",
+                "tournament": "Nationale",
+                "matches": 20,
+                "tries": 0,
+                "points": 170
+            },
+            {
+                "season": "22/23",
+                "team": "Massy",
+                "tournament": "Pro D2",
+                "matches": 14,
+                "tries": 0,
+                "points": 18
+            },
+            {
+                "season": "21/22",
+                "team": "Massy",
+                "tournament": "Nationale",
+                "matches": 23,
+                "tries": 1,
+                "points": 78
+            }
+        ]
+    },
+    {
+        "name": "Cyril COUTURIER",
+        "position": "Centre",
+        "dob": "26/12/1992",
+        "height": "1.80m",
+        "weight": "95kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "CA Périgueux",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 7,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "24/25",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 20,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "23/24",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 17,
+                "tries": 3,
+                "points": 15
+            }
+        ]
+    },
+    {
+        "name": "Dorian LAVERNHE",
+        "position": "Centre",
+        "dob": "27/06/1999",
+        "height": "1.85m",
+        "weight": "96kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "CA Périgueux",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 20,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Aix",
+                "tournament": "Pro D2",
+                "matches": 11,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Aix",
+                "tournament": "Pro D2",
+                "matches": 16,
+                "tries": 0,
+                "points": 2
+            },
+            {
+                "season": "21/22",
+                "team": "Nice",
+                "tournament": "Nationale",
+                "matches": 14,
+                "tries": 0,
+                "points": 39
+            },
+            {
+                "season": "20/21",
+                "team": "Aix",
+                "tournament": "Pro D2",
+                "matches": 12,
+                "tries": 0,
+                "points": 3
+            },
+            {
+                "season": "19/20",
+                "team": "Aix",
+                "tournament": "Pro D2",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Clermont",
+                "tournament": "Challenge Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Clermont",
+                "tournament": "Top 14",
+                "matches": 8,
+                "tries": 0,
+                "points": 9
+            }
+        ]
+    },
+    {
+        "name": "Frederick HICKES",
+        "position": "Centre",
+        "dob": "17/07/1992",
+        "height": "1.83m",
+        "weight": "105kg",
+        "contract": "PRO",
+        "nation": "Fiji",
+        "club": "CA Périgueux",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 8,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 16,
+                "tries": 6,
+                "points": 30
+            },
+            {
+                "season": "23/24",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 20,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "19/20",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 9,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 16,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "17/18",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 22,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "16/17",
+                "team": "Vannes",
+                "tournament": "Pro D2",
+                "matches": 16,
+                "tries": 4,
+                "points": 20
+            }
+        ]
+    },
+    {
+        "name": "Henry TUILAGI",
+        "position": "Centre",
+        "dob": "14/07/2000",
+        "height": "1.82m",
+        "weight": "107kg",
+        "contract": "PRO",
+        "nation": "Samoa",
+        "club": "CA Périgueux",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "23/24",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Union Cognac-Saint-Jean",
+                "tournament": "Nationale",
+                "matches": 10,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "21/22",
+                "team": "Carcassonne",
+                "tournament": "Pro D2",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Nicolas PIATON",
+        "position": "Centre",
+        "dob": "07/09/2003",
+        "height": "1.84m",
+        "weight": "91kg",
+        "contract": "ACADEMY",
+        "nation": "France",
+        "club": "CA Périgueux",
+        "league": "Nationale",
+        "value": 45000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 17,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Rory SCHOLES",
+        "position": "Winger",
+        "dob": "23/04/1993",
+        "height": "1.86m",
+        "weight": "95kg",
+        "contract": "PRO",
+        "nation": "Ireland",
+        "club": "CA Périgueux",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 8,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "23/24",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 12,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "19/20",
+                "team": "Brive",
+                "tournament": "Top 14",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "5",
+                "tournament": "2 0 3",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Brive",
+                "tournament": "Pro D2",
+                "matches": 13,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "18/19",
+                "team": "1",
+                "tournament": "1 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Connacht",
+                "tournament": "Pro 14",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Edinburgh",
+                "tournament": "Pro 12",
+                "matches": 10,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "16/17",
+                "team": "2",
+                "tournament": "2 0 0",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Ulster",
+                "tournament": "Pro 12",
+                "matches": 13,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "15/16",
+                "team": "5",
+                "tournament": "4 0 1",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Ulster",
+                "tournament": "Pro 12",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Ulster",
+                "tournament": "Pro 12",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Tim GIRESSE",
+        "position": "Winger",
+        "dob": "07/09/1993",
+        "height": "1.80m",
+        "weight": "90kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "CA Périgueux",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 5,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "24/25",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 11,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "Albi",
+                "tournament": "Nationale",
+                "matches": 10,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "22/23",
+                "team": "Valence Romans",
+                "tournament": "Nationale",
+                "matches": 12,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "21/22",
+                "team": "Valence Romans",
+                "tournament": "Nationale",
+                "matches": 20,
+                "tries": 9,
+                "points": 45
+            },
+            {
+                "season": "20/21",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 11,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "18/19",
+                "team": "Oyonnax",
+                "tournament": "Pro D2",
+                "matches": 24,
+                "tries": 9,
+                "points": 45
+            },
+            {
+                "season": "17/18",
+                "team": "Oyonnax",
+                "tournament": "Top 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "5",
+                "tournament": "1 0 4",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Biarritz",
+                "tournament": "Pro D2",
+                "matches": 24,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "15/16",
+                "team": "Biarritz",
+                "tournament": "Pro D2",
+                "matches": 14,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Biarritz",
+                "tournament": "Pro D2",
+                "matches": 10,
+                "tries": 3,
+                "points": 15
+            }
+        ]
+    },
+    {
+        "name": "Vincent FOUILLADE",
+        "position": "Winger",
+        "dob": "11/03/1997",
+        "height": "1.82m",
+        "weight": "85kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "CA Périgueux",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 5,
+                "tries": 0,
+                "points": 2
+            },
+            {
+                "season": "24/25",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 16,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "23/24",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 18,
+                "tries": 1,
+                "points": 7
+            }
+        ]
+    },
+    {
+        "name": "Yon CAMOU",
+        "position": "Fullback",
+        "dob": "07/06/2002",
+        "height": "1.80m",
+        "weight": "83kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "CA Périgueux",
+        "league": "Nationale",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 9,
+                "tries": 1,
+                "points": 12
+            },
+            {
+                "season": "24/25",
+                "team": "Périgueux",
+                "tournament": "Nationale",
+                "matches": 22,
+                "tries": 5,
+                "points": 62
+            },
+            {
+                "season": "23/24",
+                "team": "Tarbes",
+                "tournament": "Nationale",
+                "matches": 21,
+                "tries": 3,
+                "points": 18
+            }
+        ]
+    }
+]

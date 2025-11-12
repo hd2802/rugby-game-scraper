@@ -1,0 +1,1441 @@
+[
+    {
+        "name": "Barnaby VAUGHAN",
+        "position": "Prop",
+        "dob": "-",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Richmond FC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Richmond",
+                "tournament": "Champ Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Chris FREEMAN",
+        "position": "Prop",
+        "dob": "-",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Richmond FC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Richmond",
+                "tournament": "Champ Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Hamish MURRAY",
+        "position": "Prop",
+        "dob": "-",
+        "height": "1.83m",
+        "weight": "110kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Richmond FC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": []
+    },
+    {
+        "name": "Jimmy LITCHFIELD",
+        "position": "Prop",
+        "dob": "27/10/1991",
+        "height": "1.88m",
+        "weight": "130kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Richmond FC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Richmond",
+                "tournament": "Champ Rugby",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Richmond",
+                "tournament": "RFU Championship",
+                "matches": 22,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Luke SPRING",
+        "position": "Prop",
+        "dob": "-",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Richmond FC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Richmond",
+                "tournament": "Champ Rugby",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Richmond",
+                "tournament": "RFU Championship",
+                "matches": 18,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Seb BROWNHILL",
+        "position": "Prop",
+        "dob": "30/06/1998",
+        "height": "1.90m",
+        "weight": "130kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Richmond FC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Richmond",
+                "tournament": "Champ Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Cambridge",
+                "tournament": "RFU Championship",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Cambridge",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Theo BEVACQUA",
+        "position": "Prop",
+        "dob": "13/09/2001",
+        "height": "1.83m",
+        "weight": "111kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Richmond FC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Richmond",
+                "tournament": "Champ Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Cardiff",
+                "tournament": "Pro 14",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Wales U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Wales U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Alexander POST",
+        "position": "Hooker",
+        "dob": "10/10/1995",
+        "height": "1.80m",
+        "weight": "105kg",
+        "contract": "PRO",
+        "nation": "Hong Kong",
+        "club": "Richmond FC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Richmond",
+                "tournament": "Champ Rugby",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Hong Kong",
+                "tournament": "Test Matchs",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Richmond",
+                "tournament": "RFU Championship",
+                "matches": 17,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "22/23",
+                "team": "Hong Kong",
+                "tournament": "Rugby World Cup 2023 Final Qualification Tournament",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Callum TORPEY",
+        "position": "Hooker",
+        "dob": "-",
+        "height": "1.80m",
+        "weight": "95kg",
+        "contract": "PRO",
+        "nation": "Ireland",
+        "club": "Richmond FC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "22/23",
+                "team": "Richmond",
+                "tournament": "RFU Championship",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Harry HOCKING",
+        "position": "Hooker",
+        "dob": "19/02/2002",
+        "height": "1.84m",
+        "weight": "107kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Richmond FC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Richmond",
+                "tournament": "Champ Rugby",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "24/25",
+                "team": "Cornish Pirates",
+                "tournament": "RFU Championship",
+                "matches": 19,
+                "tries": 7,
+                "points": 35
+            },
+            {
+                "season": "24/25",
+                "team": "5",
+                "tournament": "0 0 5",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Cornish Pirates",
+                "tournament": "RFU Championship",
+                "matches": 5,
+                "tries": 5,
+                "points": 25
+            }
+        ]
+    },
+    {
+        "name": "Will GOFFEY",
+        "position": "Hooker",
+        "dob": "-",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Richmond FC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Richmond",
+                "tournament": "Champ Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Hartpury RFC",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Hartpury RFC",
+                "tournament": "RFU Championship",
+                "matches": 3,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Alex ASHTON",
+        "position": "Lock",
+        "dob": "03/02/2002",
+        "height": "1.93m",
+        "weight": "114kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Richmond FC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": []
+    },
+    {
+        "name": "Aron SUGGATE",
+        "position": "Lock",
+        "dob": "-",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Richmond FC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": []
+    },
+    {
+        "name": "Cameron GRAY",
+        "position": "Lock",
+        "dob": "-",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Richmond FC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "17/18",
+                "team": "Wasps",
+                "tournament": "Anglo Welsh Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Dan ORMEROD",
+        "position": "Lock",
+        "dob": "-",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Richmond FC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": []
+    },
+    {
+        "name": "George NUGENT",
+        "position": "Lock",
+        "dob": "-",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Richmond FC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Richmond",
+                "tournament": "Champ Rugby",
+                "matches": 6,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "22/23",
+                "team": "Richmond",
+                "tournament": "RFU Championship",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Jake MONSON",
+        "position": "Lock",
+        "dob": "-",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Richmond FC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Richmond",
+                "tournament": "Champ Rugby",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Richmond",
+                "tournament": "RFU Championship",
+                "matches": 16,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Luke FROST",
+        "position": "Lock",
+        "dob": "14/06/1997",
+        "height": "1.91m",
+        "weight": "110kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Richmond FC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Bedford",
+                "tournament": "RFU Championship",
+                "matches": 21,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "24/25",
+                "team": "6",
+                "tournament": "3 0 3",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "Bedford",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "19",
+                "tournament": "11 0 8",
+                "matches": 19,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Bedford",
+                "tournament": "RFU Championship",
+                "matches": 17,
+                "tries": 5,
+                "points": 25
+            },
+            {
+                "season": "21/22",
+                "team": "Northampton",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 2,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "David MASSEY",
+        "position": "Back row",
+        "dob": "-",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Richmond FC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "22/23",
+                "team": "Richmond",
+                "tournament": "RFU Championship",
+                "matches": 21,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Donnacha BYRNE",
+        "position": "Back row",
+        "dob": "04/03/2001",
+        "height": "1.88m",
+        "weight": "108kg",
+        "contract": "PRO",
+        "nation": "Ireland",
+        "club": "Richmond FC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Richmond",
+                "tournament": "Champ Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "Ireland U20",
+                "tournament": "U20 Six Nations Championship",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Ethan BENSON",
+        "position": "Back row",
+        "dob": "05/09/2000",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Richmond FC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Richmond",
+                "tournament": "Champ Rugby",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Richmond",
+                "tournament": "RFU Championship",
+                "matches": 16,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "19/20",
+                "team": "Saracens",
+                "tournament": "Premiership",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Henry WILLS",
+        "position": "Back row",
+        "dob": "-",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Richmond FC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Richmond",
+                "tournament": "Champ Rugby",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Jared CARDEW",
+        "position": "Back row",
+        "dob": "05/05/1996",
+        "height": "1.85m",
+        "weight": "105kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Richmond FC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Richmond",
+                "tournament": "Champ Rugby",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "24/25",
+                "team": "Cambridge",
+                "tournament": "RFU Championship",
+                "matches": 12,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Cambridge",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "23/24",
+                "team": "16",
+                "tournament": "1 0 15",
+                "matches": 10,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Doncaster",
+                "tournament": "RFU Championship",
+                "matches": 19,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Miles WAKELING",
+        "position": "Back row",
+        "dob": "10/05/1999",
+        "height": "1.88m",
+        "weight": "101kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Richmond FC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Richmond",
+                "tournament": "Champ Rugby",
+                "matches": 6,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Richmond",
+                "tournament": "RFU Championship",
+                "matches": 17,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Sam PIM",
+        "position": "Back row",
+        "dob": "-",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "Ireland",
+        "club": "Richmond FC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Richmond",
+                "tournament": "Champ Rugby",
+                "matches": 4,
+                "tries": 3,
+                "points": 15
+            }
+        ]
+    },
+    {
+        "name": "Xavier HASTINGS",
+        "position": "Back row",
+        "dob": "17/05/2001",
+        "height": "1.86m",
+        "weight": "105kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Richmond FC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Richmond",
+                "tournament": "Champ Rugby",
+                "matches": 5,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Alex SCHWARZ",
+        "position": "Scrum-half",
+        "dob": "21/03/1993",
+        "height": "1.75m",
+        "weight": "81kg",
+        "contract": "PRO",
+        "nation": "Wales",
+        "club": "Richmond FC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Richmond",
+                "tournament": "Champ Rugby",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Cornish Pirates",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 4,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "20",
+                "tournament": "15 1 4",
+                "matches": 15,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Cornish Pirates",
+                "tournament": "RFU Championship",
+                "matches": 14,
+                "tries": 4,
+                "points": 20
+            },
+            {
+                "season": "20/21",
+                "team": "Wasps",
+                "tournament": "Premiership",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "17/18",
+                "team": "Scarlets",
+                "tournament": "Anglo Welsh Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Brodie YOUNG",
+        "position": "Scrum-half",
+        "dob": "-",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Richmond FC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": []
+    },
+    {
+        "name": "Freddie CHARLES",
+        "position": "Scrum-half",
+        "dob": "-",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Richmond FC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Richmond",
+                "tournament": "Champ Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Luc JONES",
+        "position": "Scrum-half",
+        "dob": "12/05/1994",
+        "height": "1.86m",
+        "weight": "83kg",
+        "contract": "PRO",
+        "nation": "Wales",
+        "club": "Richmond FC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Richmond",
+                "tournament": "Champ Rugby",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "16/17",
+                "team": "Dragons",
+                "tournament": "Pro 12",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "16/17",
+                "team": "Harlequins",
+                "tournament": "Premiership",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "15/16",
+                "team": "Dragons",
+                "tournament": "Pro 12",
+                "matches": 4,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "14/15",
+                "team": "Dragons",
+                "tournament": "Pro 12",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "13/14",
+                "team": "Dragons",
+                "tournament": "European Challenge Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Matt MARSH",
+        "position": "Scrum-half",
+        "dob": "22/08/1998",
+        "height": "1.74m",
+        "weight": "83kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Richmond FC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": []
+    },
+    {
+        "name": "Alex BURRAGE",
+        "position": "Fly-half",
+        "dob": "-",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Richmond FC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "22/23",
+                "team": "Richmond",
+                "tournament": "RFU Championship",
+                "matches": 13,
+                "tries": 0,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Jason BAGGOTT",
+        "position": "Fly-half",
+        "dob": "12/07/1995",
+        "height": "1.87m",
+        "weight": "97kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Richmond FC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Richmond",
+                "tournament": "Champ Rugby",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "19/20",
+                "team": "Edinburgh",
+                "tournament": "Challenge Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "18/19",
+                "team": "Edinburgh",
+                "tournament": "Pro 14",
+                "matches": 4,
+                "tries": 0,
+                "points": 2
+            }
+        ]
+    },
+    {
+        "name": "Lewis DENNETT",
+        "position": "Fly-half",
+        "dob": "-",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Richmond FC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Richmond",
+                "tournament": "Champ Rugby",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Tom HAMBLE",
+        "position": "Fly-half",
+        "dob": "-",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Richmond FC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": []
+    },
+    {
+        "name": "Tom SMITH",
+        "position": "Fly-half",
+        "dob": "-",
+        "height": "1.75m",
+        "weight": "80kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Richmond FC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": []
+    },
+    {
+        "name": "Chidera OBONNA",
+        "position": "Centre",
+        "dob": "18/10/2000",
+        "height": "1.85m",
+        "weight": "94kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Richmond FC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Richmond",
+                "tournament": "Champ Rugby",
+                "matches": 6,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "20/21",
+                "team": "Newcastle",
+                "tournament": "Challenge Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "20/21",
+                "team": "4",
+                "tournament": "2 0 2",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "James LANGSTON",
+        "position": "Centre",
+        "dob": "-",
+        "height": "1.78m",
+        "weight": "93kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Richmond FC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Richmond",
+                "tournament": "Champ Rugby",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Paddy CASE",
+        "position": "Centre",
+        "dob": "03/08/2000",
+        "height": "1.90m",
+        "weight": "92kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Richmond FC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Richmond",
+                "tournament": "Champ Rugby",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "22/23",
+                "team": "Richmond",
+                "tournament": "RFU Championship",
+                "matches": 8,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Sam DARDIS",
+        "position": "Centre",
+        "dob": "-",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "Ireland",
+        "club": "Richmond FC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": []
+    },
+    {
+        "name": "Tololima SAVAIINAEA",
+        "position": "Centre",
+        "dob": "-",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "New Zealand",
+        "club": "Richmond FC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Richmond",
+                "tournament": "Champ Rugby",
+                "matches": 3,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Alexander O'MEARA",
+        "position": "Winger",
+        "dob": "23/03/1993",
+        "height": "1.78m",
+        "weight": "84kg",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Richmond FC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Richmond",
+                "tournament": "Champ Rugby",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "Richmond",
+                "tournament": "RFU Championship",
+                "matches": 21,
+                "tries": 3,
+                "points": 15
+            }
+        ]
+    },
+    {
+        "name": "Conrad BURNE",
+        "position": "Winger",
+        "dob": "-",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Richmond FC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": []
+    },
+    {
+        "name": "Josh ADDAMS",
+        "position": "Winger",
+        "dob": "-",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Richmond FC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Richmond",
+                "tournament": "Champ Rugby",
+                "matches": 5,
+                "tries": 1,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Paul ALTIER",
+        "position": "Winger",
+        "dob": "19/05/1999",
+        "height": "1.83m",
+        "weight": "87kg",
+        "contract": "PRO",
+        "nation": "France",
+        "club": "Richmond FC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "24/25",
+                "team": "Chambéry",
+                "tournament": "Nationale",
+                "matches": 19,
+                "tries": 3,
+                "points": 15
+            },
+            {
+                "season": "23/24",
+                "team": "Chambéry",
+                "tournament": "Nationale",
+                "matches": 20,
+                "tries": 3,
+                "points": 22
+            },
+            {
+                "season": "23/24",
+                "team": "Hong Kong",
+                "tournament": "Test Matchs",
+                "matches": 4,
+                "tries": 0,
+                "points": 12
+            },
+            {
+                "season": "22/23",
+                "team": "Chambéry",
+                "tournament": "Nationale",
+                "matches": 7,
+                "tries": 2,
+                "points": 10
+            },
+            {
+                "season": "21/22",
+                "team": "Dijon",
+                "tournament": "Nationale",
+                "matches": 21,
+                "tries": 7,
+                "points": 35
+            }
+        ]
+    },
+    {
+        "name": "Ronnie DU RANDT",
+        "position": "Winger",
+        "dob": "05/03/2001",
+        "height": "1.83m",
+        "weight": "83kg",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Richmond FC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Richmond",
+                "tournament": "Champ Rugby",
+                "matches": 6,
+                "tries": 1,
+                "points": 5
+            },
+            {
+                "season": "23/24",
+                "team": "Nottingham",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Sam SMITH",
+        "position": "Winger",
+        "dob": "15/01/2000",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Richmond FC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "23/24",
+                "team": "London Scottish",
+                "tournament": "Premiership Rugby Cup",
+                "matches": 1,
+                "tries": 0,
+                "points": 0
+            },
+            {
+                "season": "22/23",
+                "team": "London Scottish",
+                "tournament": "RFU Championship",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Archie BROSCH",
+        "position": "Fullback",
+        "dob": "-",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Richmond FC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Richmond",
+                "tournament": "Champ Rugby",
+                "matches": 2,
+                "tries": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "name": "Callum GRIEVE",
+        "position": "Fullback",
+        "dob": "-",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Richmond FC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Richmond",
+                "tournament": "Champ Rugby",
+                "matches": 6,
+                "tries": 0,
+                "points": 44
+            }
+        ]
+    },
+    {
+        "name": "Greg KITSON",
+        "position": "Fullback",
+        "dob": "16/10/2000",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "England",
+        "club": "Richmond FC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": [
+            {
+                "season": "25/26",
+                "team": "Richmond",
+                "tournament": "Champ Rugby",
+                "matches": 4,
+                "tries": 2,
+                "points": 10
+            }
+        ]
+    },
+    {
+        "name": "Werner NEL",
+        "position": "Fullback",
+        "dob": "-",
+        "height": "-",
+        "weight": "-",
+        "contract": "PRO",
+        "nation": "South Africa",
+        "club": "Richmond FC",
+        "league": "Champ Rugby",
+        "value": 75000,
+        "playing_history": []
+    }
+]
