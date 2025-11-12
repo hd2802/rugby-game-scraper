@@ -43,9 +43,9 @@ def get_international_players():
         club_name = "Unknown Club"
 
         for h1 in soup.find_all('h1'):
-            if 'rugby team' in h1.get_text(separator=" ", strip=True).lower():
+            if 'rugby union team' in h1.get_text(separator=" ", strip=True).lower():
                 club_name = h1.get_text().split("The ")
-                club_name = "".join(club_name).split(" rugby")[0].strip()
+                club_name = "".join(club_name).split(" rugby")[0].strip().replace(' national', '')
                 international_data[club_name] = []
                 print(f"\n--- Scraping data for {club_name} ---")
                 squad_table = h1.find_next('table')
