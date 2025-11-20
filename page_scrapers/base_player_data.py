@@ -3,9 +3,11 @@ import requests
 from bs4 import BeautifulSoup
 import json
 
+from pricer.pricer import get_raw_price
+
 """ 
 This code will read from club_links.json with each link, the code will find the table data for each player in the club.
-Then each data of the players will be saved in a new file in out/player_data.json that stores the data as such:
+Then each data of the players will be saved in a new file in out/base_player_data.json that stores the data as such:
 
     [
         { "Bath Rubgy": [
@@ -40,7 +42,7 @@ def process_player_row(cells):
         'height': cells[5].text.strip().replace('\xa0', '') if len(cells) > 1 else '',
         'weight': cells[6].text.strip().replace('\xa0', '') if len(cells) > 1 else '',
         'contract': cells[9].text.strip() if len(cells) > 2 else '',
-        'nation': cells[0].find_next('img').attrs['alt'] if len(cells) > 2 else '',
+        'raw_price': get_raw_price(cells[1].text.strip())
     }
 
 def process_squad_link(url):
