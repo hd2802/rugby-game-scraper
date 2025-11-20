@@ -43,30 +43,36 @@ def process_player_row(cells):
     }
 
 def process_squad_link(url):
-    response = requests.get(url, headers=headers)
-    soup = BeautifulSoup(response.text, 'html.parser')
-    
-    club_header = soup.find('h1')
-    club_text = club_header.text.replace("The ", '')
-    club_name = " ".join(club_text.split()[:club_text.split().index("rugby")])
+    try:
+        response = requests.get(url, headers=headers)
+        soup = BeautifulSoup(response.text, 'html.parser')
+        
+        club_header = soup.find('h1')
+        club_text = club_header.text.replace("The ", '')
+        club_name = " ".join(club_text.split()[:club_text.split().index("rugby")])
 
-    print(f"Scraping data for {club_name}")
+        print(f"Scraping data for {club_name}")
 
-    club_player_obj = {}
-    club_player_obj[club_name] = []
+        club_player_obj = {}
+        club_player_obj[club_name] = []
 
-    squad_table = soup.find('table')
-    for row in squad_table.find_all('tr')[1:]:
-        cells = row.find_all('td')
-        club_player_obj[club_name].append(process_player_row(cells))
+        squad_table = soup.find('table')
+        for row in squad_table.find_all('tr')[1:]:
+            cells = row.find_all('td')
+            club_player_obj[club_name].append(process_player_row(cells))
 
-    return club_player_obj
+        return club_player_obj
+    except:
+        print(f"Error processing squad with url {url}")
 
 """ Runnable functions (ran in main) """
 def load_club_links():
-    with open(CLUB_LINKS_PATH) as f:
-        d = json.load(f)
-        return d
+    try:
+        with open(CLUB_LINKS_PATH) as f:
+            d = json.load(f)
+            return d
+    except:
+        print("Error reading data from file")
     
 def fetch_player_data(links_json_array):
     full_data = []
@@ -79,13 +85,17 @@ def fetch_player_data(links_json_array):
 
 def save_player_data(player_data):
     try:
-        with open(f"{SAVE_PATH}/player_data.json", 'w') as f:
+        with open(f"{SAVE_PATH}/base_player_data.json", 'w') as f:
             json.dump(player_data, f, ensure_ascii=False, indent=4)
         print(f"Player data saved successfully at {SAVE_PATH}")
     except:
         print("Error saving player data")
 
 def main():
+    print("===========================================")
+    print("Running base_player_data.py")
     club_links_json_array = load_club_links()
     player_data = fetch_player_data(club_links_json_array)
-    save_player_data(player_data)
+    if player_data:
+        save_player_data(player_data)
+    print("===========================================")

@@ -6,8 +6,14 @@ def fetch_club_links():
     if not file_validation.check_file_exists("club_links.json"):
         tourn.main()
     else:
-        print("club_links.json already exists - No need to run tourn.main()")
+        print("club_links.json already exists - Skipping running tourn.main()")
+
+def player_data_stage_one():
+    if not file_validation.check_file_exists("base_player_data.json"):
+        base_player_data.main()
+    else:
+        print("base_player_data.json already exists - Skipping running base_player_data.main()")
 
 if __name__ in "__main__":
     fetch_club_links()
-    base_player_data.main()
+    player_data_stage_one()
