@@ -18,6 +18,8 @@ Then each data of the players will be saved in a new file in out/player_data.jso
     ]
 """
 
+target_leagues = ["Premiership", "Top 14", "United Rugby Championship"]
+
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/129 Safari/537.36"
 }
@@ -30,7 +32,6 @@ SAVE_PATH = BASE_DIR.parent / "out"
 
 """ Helper functions (not called in main, but called in functions that are themselves called in main)"""
 def process_player_row(cells):
-    print(f"Processing player {cells[1].text.strip()}")
     return {
         'name': cells[1].text.strip() if len(cells) > 3 else '',
         'url': f"https://all.rugby{cells[1].find_next('a').attrs['href']}",
@@ -78,10 +79,20 @@ def fetch_player_data(links_json_array):
     full_data = []
     for obj in links_json_array:
         for key in obj:
-            for url in obj[key]:
-                data = process_squad_link(url)
-                full_data.append(data)
+            if key in target_leagues:
+                for url in obj[key]:
+                    data = process_squad_link(url)
+                    full_data.append(data)
+
     return full_data
+
+def save_player_data(player_data):
+    try:
+        with open(f"{SAVE_PATH}/base_player_data.json", 'w') as f:
+            json.dump(player_data, f, ensure_ascii=False, indent=4)
+        print(f"Player data saved successfully at {SAVE_PATH}")
+    except:
+        print("Error saving player data")
 
 def save_player_data(player_data):
     try:
