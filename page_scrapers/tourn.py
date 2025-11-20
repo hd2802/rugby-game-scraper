@@ -30,8 +30,10 @@ def get_club_links(url):
     response = requests.get(url, headers=headers)
     soup = BeautifulSoup(response.text, 'html.parser')
 
-    league_name = soup.find('h1').text.split()[0]
-    
+    header = soup.find('h1').text.split()
+    year_index = header.index('2025') if '2025' in header else header.index('2026')
+    league_name = " ".join(header[:year_index])
+
     teams_header = soup.find('h2')
     
     all_links = teams_header.find_all_next('a')
@@ -78,5 +80,6 @@ def main():
     print("Running tourn.py")
     seed_links = load_seed_links()
     league_data = process_seed_links(seed_links)
-    save_league_data(league_data)
+    if league_data:
+        save_league_data(league_data)
     print("===========================================")
