@@ -41,7 +41,7 @@ def get_club_links(url):
         if "Table" in a.text:
             break
         else:
-            full_club_links.append(f"https://all.rugby{a.attrs['href']}")
+            full_club_links.append(f"https://all.rugby{a.attrs['href']}squad")
     
     league_object = { league_name: full_club_links }
     return league_object
