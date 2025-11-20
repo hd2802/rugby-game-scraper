@@ -29,6 +29,19 @@ CLUB_LINKS_PATH = DATA_DIR / "club_links.json"
 SAVE_PATH = BASE_DIR.parent / "out"
 
 """ Helper functions (not called in main, but called in functions that are themselves called in main)"""
+def process_player_row(cells):
+    print(f"Processing player {cells[1].text.strip()}")
+    return {
+        'name': cells[1].text.strip() if len(cells) > 3 else '',
+        'url': f"https://all.rugby{cells[1].find_next('a').attrs['href']}",
+        'position': cells[2].text.strip() if len(cells) > 1 else '',
+        'dob': cells[4].text.strip() if len(cells) > 1 else '',
+        'height': cells[5].text.strip().replace('\xa0', '') if len(cells) > 1 else '',
+        'weight': cells[6].text.strip().replace('\xa0', '') if len(cells) > 1 else '',
+        'contract': cells[9].text.strip() if len(cells) > 2 else '',
+        'nation': cells[0].find_next('img').attrs['alt'] if len(cells) > 2 else '',
+    }
+
 def process_squad_link(url):
     response = requests.get(url, headers=headers)
     soup = BeautifulSoup(response.text, 'html.parser')
@@ -37,13 +50,17 @@ def process_squad_link(url):
     club_text = club_header.text.replace("The ", '')
     club_name = " ".join(club_text.split()[:club_text.split().index("rugby")])
 
+    print(f"Scraping data for {club_name}")
+
     club_player_obj = {}
     club_player_obj[club_name] = []
 
     squad_table = soup.find('table')
-    print(squad_table)
-    return club_player_obj
+    for row in squad_table.find_all('tr')[1:]:
+        cells = row.find_all('td')
+        club_player_obj[club_name].append(process_player_row(cells))
 
+    return club_player_obj
 
 """ Runnable functions (ran in main) """
 def load_club_links():
@@ -60,6 +77,15 @@ def fetch_player_data(links_json_array):
                 full_data.append(data)
     return full_data
 
+def save_player_data(player_data):
+    try:
+        with open(f"{SAVE_PATH}/player_data.json", 'w') as f:
+            json.dump(player_data, f, ensure_ascii=False, indent=4)
+        print(f"Player data saved successfully at {SAVE_PATH}")
+    except:
+        print("Error saving player data")
+
 def main():
     club_links_json_array = load_club_links()
     player_data = fetch_player_data(club_links_json_array)
+    save_player_data(player_data)
