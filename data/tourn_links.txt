@@ -1,3 +1,4 @@
+https://all.rugby/tournament/premiership/
 https://all.rugby/tournament/mlr/
 https://all.rugby/tournament/champ-rugby/
 https://all.rugby/tournament/top-14/
@@ -5,6 +6,5 @@ https://all.rugby/tournament/pro-d2/
 https://all.rugby/tournament/nationale/
 https://all.rugby/tournament/npc/
 https://all.rugby/tournament/league-one-d1/
-https://all.rugby/tournament/premiership/
 https://all.rugby/tournament/urc/
 https://all.rugby/tournament/super-rugby-pacific/
