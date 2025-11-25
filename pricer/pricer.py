@@ -33,7 +33,7 @@ def get_raw_price(name):
             val = float((line.split('£')[1] if '£' in line else line.split('$')[1]).split('m')[0])
             return val
         except:
-            return 0
+            return 0.0
     
     if val == 0:
         lookup = f"{first_name[0]}. {last_name}"
@@ -43,7 +43,7 @@ def get_raw_price(name):
             try:
                 start_index = lines.index(lookup)
             except ValueError:
-                return 0
+                return 0.0
             
             for i in range(start_index + 1, len(lines)):
                 line = lines[i].strip()

@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup
 import json
 
 from pricer.pricer import get_raw_price
+import playing_history.playing_history as playing_history
 
 """ 
 This code will read from club_links.json with each link, the code will find the table data for each player in the club.
@@ -33,6 +34,10 @@ CLUB_LINKS_PATH = DATA_DIR / "club_links.json"
 SAVE_PATH = BASE_DIR.parent / "out"
 
 """ Helper functions (not called in main, but called in functions that are themselves called in main)"""
+def get_playing_history(url):
+    player_data = playing_history.process_url(url)
+    return player_data
+
 def process_player_row(cells):
     return {
         'name': cells[1].text.strip() if len(cells) > 3 else '',
@@ -42,7 +47,8 @@ def process_player_row(cells):
         'height': cells[5].text.strip().replace('\xa0', '') if len(cells) > 1 else '',
         'weight': cells[6].text.strip().replace('\xa0', '') if len(cells) > 1 else '',
         'contract': cells[9].text.strip() if len(cells) > 2 else '',
-        'raw_price': get_raw_price(cells[1].text.strip())
+        'raw_price': get_raw_price(cells[1].text.strip()),
+        'playing_history': get_playing_history(f"https://all.rugby{cells[1].find_next('a').attrs['href']}")
     }
 
 def process_squad_link(url):
@@ -98,7 +104,7 @@ def save_player_data(player_data):
 
 def save_player_data(player_data):
     try:
-        with open(f"{SAVE_PATH}/base_player_data.json", 'w') as f:
+        with open(f"{SAVE_PATH}/player_data.json", 'w') as f:
             json.dump(player_data, f, ensure_ascii=False, indent=4)
         print(f"Player data saved successfully at {SAVE_PATH}")
     except:
