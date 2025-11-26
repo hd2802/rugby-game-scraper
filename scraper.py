@@ -15,5 +15,7 @@ def player_data_stage_one():
         print("player_data.json already exists - Skipping running base_player_data.main()")
 
 if __name__ in "__main__":
-    fetch_club_links()
-    player_data_stage_one()
+    #fetch_club_links()
+    #player_data_stage_one()
+
+    base_player_data.main()

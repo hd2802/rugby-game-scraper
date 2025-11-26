@@ -21,7 +21,9 @@ Then each data of the players will be saved in a new file in out/base_player_dat
     ]
 """
 
-target_leagues = ["Premiership", "Top 14", "United Rugby Championship"]
+#target_leagues = ["Premiership", "Top 14", "United Rugby Championship"]
+target_leagues = ["Major League Rugby", "Champ Rugby", "Pro D2", "Nationale", "NPC",
+                 "Japan Rugby League One - Division 1", "Super Rugby Pacific"]
 
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/129 Safari/537.36"
@@ -96,15 +98,7 @@ def fetch_player_data(links_json_array):
 
 def save_player_data(player_data):
     try:
-        with open(f"{SAVE_PATH}/base_player_data.json", 'w') as f:
-            json.dump(player_data, f, ensure_ascii=False, indent=4)
-        print(f"Player data saved successfully at {SAVE_PATH}")
-    except:
-        print("Error saving player data")
-
-def save_player_data(player_data):
-    try:
-        with open(f"{SAVE_PATH}/player_data.json", 'w') as f:
+        with open(f"{SAVE_PATH}/other_leagues_player_data.json", 'w') as f:
             json.dump(player_data, f, ensure_ascii=False, indent=4)
         print(f"Player data saved successfully at {SAVE_PATH}")
     except:
