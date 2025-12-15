@@ -1,0 +1,976 @@
+[
+    {
+        "club_name": "Bath Rugby",
+        "tournaments": [
+            "Champions Cup",
+            "Premiership",
+            "Premiership Rugby Cup"
+        ],
+        "domestic_league": "Premiership"
+    },
+    {
+        "club_name": "Bristol Bears",
+        "tournaments": [
+            "Champions Cup",
+            "Premiership",
+            "Premiership Rugby Cup"
+        ],
+        "domestic_league": "Premiership"
+    },
+    {
+        "club_name": "Exeter Chiefs",
+        "tournaments": [
+            "Challenge Cup",
+            "Premiership",
+            "Premiership Rugby Cup"
+        ],
+        "domestic_league": "Premiership"
+    },
+    {
+        "club_name": "Gloucester Rugby",
+        "tournaments": [
+            "Champions Cup",
+            "Premiership",
+            "Premiership Rugby Cup"
+        ],
+        "domestic_league": "Premiership"
+    },
+    {
+        "club_name": "Harlequins",
+        "tournaments": [
+            "Champions Cup",
+            "Premiership",
+            "Premiership Rugby Cup"
+        ],
+        "domestic_league": "Premiership"
+    },
+    {
+        "club_name": "Leicester Tigers",
+        "tournaments": [
+            "Champions Cup",
+            "Premiership",
+            "Premiership Rugby Cup"
+        ],
+        "domestic_league": "Premiership"
+    },
+    {
+        "club_name": "Newcastle",
+        "tournaments": [
+            "Challenge Cup",
+            "Premiership",
+            "Premiership Rugby Cup"
+        ],
+        "domestic_league": "Premiership"
+    },
+    {
+        "club_name": "Northampton Saints",
+        "tournaments": [
+            "Champions Cup",
+            "Premiership",
+            "Premiership Rugby Cup"
+        ],
+        "domestic_league": "Premiership"
+    },
+    {
+        "club_name": "Sale Sharks",
+        "tournaments": [
+            "Champions Cup",
+            "Premiership",
+            "Premiership Rugby Cup"
+        ],
+        "domestic_league": "Premiership"
+    },
+    {
+        "club_name": "Saracens",
+        "tournaments": [
+            "Champions Cup",
+            "Premiership",
+            "Premiership Rugby Cup"
+        ],
+        "domestic_league": "Premiership"
+    },
+    {
+        "club_name": "Anthem Rugby Carolina",
+        "tournaments": [
+            "Major League Rugby"
+        ],
+        "domestic_league": "Major League Rugby"
+    },
+    {
+        "club_name": "Chicago Hounds",
+        "tournaments": [
+            "Major League Rugby"
+        ],
+        "domestic_league": "Major League Rugby"
+    },
+    {
+        "club_name": "Houston Sabercats",
+        "tournaments": [
+            "Major League Rugby"
+        ],
+        "domestic_league": "Major League Rugby"
+    },
+    {
+        "club_name": "Miami Sharks",
+        "tournaments": [
+            "Major League Rugby"
+        ],
+        "domestic_league": "Major League Rugby"
+    },
+    {
+        "club_name": "New England Free Jacks",
+        "tournaments": [
+            "Major League Rugby"
+        ],
+        "domestic_league": "Major League Rugby"
+    },
+    {
+        "club_name": "NOLA Gold",
+        "tournaments": [
+            "Major League Rugby"
+        ],
+        "domestic_league": "Major League Rugby"
+    },
+    {
+        "club_name": "Old Glory DC RFC",
+        "tournaments": [
+            "Major League Rugby"
+        ],
+        "domestic_league": "Major League Rugby"
+    },
+    {
+        "club_name": "RFC Los Angeles",
+        "tournaments": [
+            "Major League Rugby"
+        ],
+        "domestic_league": "Major League Rugby"
+    },
+    {
+        "club_name": "San Diego Legion",
+        "tournaments": [
+            "Major League Rugby"
+        ],
+        "domestic_league": "Major League Rugby"
+    },
+    {
+        "club_name": "Seattle Seawolves",
+        "tournaments": [
+            "Major League Rugby"
+        ],
+        "domestic_league": "Major League Rugby"
+    },
+    {
+        "club_name": "Utah Warriors",
+        "tournaments": [
+            "Major League Rugby"
+        ],
+        "domestic_league": "Major League Rugby"
+    },
+    {
+        "club_name": "Ampthill Rugby",
+        "tournaments": [
+            "Champ Rugby"
+        ],
+        "domestic_league": "Champ Rugby"
+    },
+    {
+        "club_name": "Bedford Blues",
+        "tournaments": [
+            "Champ Rugby"
+        ],
+        "domestic_league": "Champ Rugby"
+    },
+    {
+        "club_name": "Caldy RFC",
+        "tournaments": [
+            "Champ Rugby"
+        ],
+        "domestic_league": "Champ Rugby"
+    },
+    {
+        "club_name": "Cambridge RUFC",
+        "tournaments": [
+            "Champ Rugby"
+        ],
+        "domestic_league": "Champ Rugby"
+    },
+    {
+        "club_name": "Chinnor R.F.C.",
+        "tournaments": [
+            "Champ Rugby"
+        ],
+        "domestic_league": "Champ Rugby"
+    },
+    {
+        "club_name": "Cornish Pirates",
+        "tournaments": [
+            "Champ Rugby"
+        ],
+        "domestic_league": "Champ Rugby"
+    },
+    {
+        "club_name": "Coventry Rugby",
+        "tournaments": [
+            "Champ Rugby"
+        ],
+        "domestic_league": "Champ Rugby"
+    },
+    {
+        "club_name": "Doncaster Knights",
+        "tournaments": [
+            "Champ Rugby"
+        ],
+        "domestic_league": "Champ Rugby"
+    },
+    {
+        "club_name": "Ealing Trailfinders",
+        "tournaments": [
+            "Champ Rugby"
+        ],
+        "domestic_league": "Champ Rugby"
+    },
+    {
+        "club_name": "Hartpury RFC",
+        "tournaments": [
+            "Champ Rugby"
+        ],
+        "domestic_league": "Champ Rugby"
+    },
+    {
+        "club_name": "London Scottish",
+        "tournaments": [
+            "Champ Rugby"
+        ],
+        "domestic_league": "Champ Rugby"
+    },
+    {
+        "club_name": "Nottingham Rugby",
+        "tournaments": [
+            "Champ Rugby"
+        ],
+        "domestic_league": "Champ Rugby"
+    },
+    {
+        "club_name": "Richmond FC",
+        "tournaments": [
+            "Champ Rugby"
+        ],
+        "domestic_league": "Champ Rugby"
+    },
+    {
+        "club_name": "Worcester Warriors",
+        "tournaments": [
+            "Champ Rugby"
+        ],
+        "domestic_league": "Champ Rugby"
+    },
+    {
+        "club_name": "Aviron Bayonnais",
+        "tournaments": [
+            "Champions Cup",
+            "Top 14"
+        ],
+        "domestic_league": "Top 14"
+    },
+    {
+        "club_name": "Union Bordeaux-Bègles",
+        "tournaments": [
+            "Champions Cup",
+            "Top 14"
+        ],
+        "domestic_league": "Top 14"
+    },
+    {
+        "club_name": "Castres Olympique",
+        "tournaments": [
+            "Champions Cup",
+            "Top 14"
+        ],
+        "domestic_league": "Top 14"
+    },
+    {
+        "club_name": "ASM Clermont Auvergne",
+        "tournaments": [
+            "Champions Cup",
+            "Top 14"
+        ],
+        "domestic_league": "Top 14"
+    },
+    {
+        "club_name": "Stade Rochelais",
+        "tournaments": [
+            "Champions Cup",
+            "Top 14"
+        ],
+        "domestic_league": "Top 14"
+    },
+    {
+        "club_name": "Lyon Olympique Universitaire Rugby",
+        "tournaments": [
+            "Challenge Cup",
+            "Top 14"
+        ],
+        "domestic_league": "Top 14"
+    },
+    {
+        "club_name": "Union Sportive Montauban",
+        "tournaments": [
+            "Challenge Cup",
+            "Top 14"
+        ],
+        "domestic_league": "Top 14"
+    },
+    {
+        "club_name": "Montpellier Hérault Rugby",
+        "tournaments": [
+            "Challenge Cup",
+            "Top 14"
+        ],
+        "domestic_league": "Top 14"
+    },
+    {
+        "club_name": "Stade Français Paris",
+        "tournaments": [
+            "Challenge Cup",
+            "Top 14"
+        ],
+        "domestic_league": "Top 14"
+    },
+    {
+        "club_name": "Section Paloise",
+        "tournaments": [
+            "Champions Cup",
+            "Top 14"
+        ],
+        "domestic_league": "Top 14"
+    },
+    {
+        "club_name": "USA Perpignan",
+        "tournaments": [
+            "Challenge Cup",
+            "Top 14"
+        ],
+        "domestic_league": "Top 14"
+    },
+    {
+        "club_name": "Racing 92",
+        "tournaments": [
+            "Challenge Cup",
+            "Top 14"
+        ],
+        "domestic_league": "Top 14"
+    },
+    {
+        "club_name": "Rugby Club Toulonnais",
+        "tournaments": [
+            "Champions Cup",
+            "Top 14"
+        ],
+        "domestic_league": "Top 14"
+    },
+    {
+        "club_name": "Stade Toulousain",
+        "tournaments": [
+            "Champions Cup",
+            "Top 14"
+        ],
+        "domestic_league": "Top 14"
+    },
+    {
+        "club_name": "SU Agen",
+        "tournaments": [
+            "Pro D2"
+        ],
+        "domestic_league": "Pro D2"
+    },
+    {
+        "club_name": "Provence Rugby",
+        "tournaments": [
+            "Pro D2"
+        ],
+        "domestic_league": "Pro D2"
+    },
+    {
+        "club_name": "Stade Aurillacois",
+        "tournaments": [
+            "Pro D2"
+        ],
+        "domestic_league": "Pro D2"
+    },
+    {
+        "club_name": "Association Sportive Béziers Hérault",
+        "tournaments": [
+            "Pro D2"
+        ],
+        "domestic_league": "Pro D2"
+    },
+    {
+        "club_name": "Biarritz Olympique Pays Basque",
+        "tournaments": [
+            "Pro D2"
+        ],
+        "domestic_league": "Pro D2"
+    },
+    {
+        "club_name": "CA Brive Corrèze Limousin",
+        "tournaments": [
+            "Pro D2"
+        ],
+        "domestic_league": "Pro D2"
+    },
+    {
+        "club_name": "US Carcassonne",
+        "tournaments": [
+            "Pro D2"
+        ],
+        "domestic_league": "Pro D2"
+    },
+    {
+        "club_name": "US Colomiers",
+        "tournaments": [
+            "Pro D2"
+        ],
+        "domestic_league": "Pro D2"
+    },
+    {
+        "club_name": "US Dax",
+        "tournaments": [
+            "Pro D2"
+        ],
+        "domestic_league": "Pro D2"
+    },
+    {
+        "club_name": "FC Grenoble Rugby",
+        "tournaments": [
+            "Pro D2"
+        ],
+        "domestic_league": "Pro D2"
+    },
+    {
+        "club_name": "Stade Montois",
+        "tournaments": [
+            "Pro D2"
+        ],
+        "domestic_league": "Pro D2"
+    },
+    {
+        "club_name": "USON Nevers",
+        "tournaments": [
+            "Pro D2"
+        ],
+        "domestic_league": "Pro D2"
+    },
+    {
+        "club_name": "Oyonnax Rugby",
+        "tournaments": [
+            "Pro D2"
+        ],
+        "domestic_league": "Pro D2"
+    },
+    {
+        "club_name": "SA XV Charente",
+        "tournaments": [
+            "Pro D2"
+        ],
+        "domestic_league": "Pro D2"
+    },
+    {
+        "club_name": "Valence Romans Drôme Rugby",
+        "tournaments": [
+            "Pro D2"
+        ],
+        "domestic_league": "Pro D2"
+    },
+    {
+        "club_name": "Rugby Club Vannes",
+        "tournaments": [
+            "Pro D2"
+        ],
+        "domestic_league": "Pro D2"
+    },
+    {
+        "club_name": "Sporting Club Albigeois",
+        "tournaments": [
+            "Nationale"
+        ],
+        "domestic_league": "Nationale"
+    },
+    {
+        "club_name": "Union Sportive Bressane Pays de l'Ain",
+        "tournaments": [
+            "Nationale"
+        ],
+        "domestic_league": "Nationale"
+    },
+    {
+        "club_name": "CS Bourgoin Jallieu Rugby",
+        "tournaments": [
+            "Nationale"
+        ],
+        "domestic_league": "Nationale"
+    },
+    {
+        "club_name": "SOC Rugby",
+        "tournaments": [
+            "Nationale"
+        ],
+        "domestic_league": "Nationale"
+    },
+    {
+        "club_name": "Olympique Marcquois Rugby",
+        "tournaments": [
+            "Nationale"
+        ],
+        "domestic_league": "Nationale"
+    },
+    {
+        "club_name": "Rugby Club Massy Essonne",
+        "tournaments": [
+            "Nationale"
+        ],
+        "domestic_league": "Nationale"
+    },
+    {
+        "club_name": "Racing Club Narbonnais",
+        "tournaments": [
+            "Nationale"
+        ],
+        "domestic_league": "Nationale"
+    },
+    {
+        "club_name": "Nissa Rugby",
+        "tournaments": [
+            "Nationale"
+        ],
+        "domestic_league": "Nationale"
+    },
+    {
+        "club_name": "Niort RC",
+        "tournaments": [
+            "Nationale"
+        ],
+        "domestic_league": "Nationale"
+    },
+    {
+        "club_name": "CA Périgueux",
+        "tournaments": [
+            "Nationale"
+        ],
+        "domestic_league": "Nationale"
+    },
+    {
+        "club_name": "Rennes Etudiants Club",
+        "tournaments": [
+            "Nationale"
+        ],
+        "domestic_league": "Nationale"
+    },
+    {
+        "club_name": "Du Rouen Normandie Rugby",
+        "tournaments": [
+            "Nationale"
+        ],
+        "domestic_league": "Nationale"
+    },
+    {
+        "club_name": "RC Suresnes",
+        "tournaments": [
+            "Nationale"
+        ],
+        "domestic_league": "Nationale"
+    },
+    {
+        "club_name": "Stado Tarbes",
+        "tournaments": [
+            "Nationale"
+        ],
+        "domestic_league": "Nationale"
+    },
+    {
+        "club_name": "Auckland",
+        "tournaments": [
+            "NPC"
+        ],
+        "domestic_league": "NPC"
+    },
+    {
+        "club_name": "Bay of Plenty Steamers",
+        "tournaments": [
+            "NPC"
+        ],
+        "domestic_league": "NPC"
+    },
+    {
+        "club_name": "Canterbury",
+        "tournaments": [
+            "NPC"
+        ],
+        "domestic_league": "NPC"
+    },
+    {
+        "club_name": "Counties Manukau Steelers",
+        "tournaments": [
+            "NPC"
+        ],
+        "domestic_league": "NPC"
+    },
+    {
+        "club_name": "Hawke's Bay Magpies",
+        "tournaments": [
+            "NPC"
+        ],
+        "domestic_league": "NPC"
+    },
+    {
+        "club_name": "Manawatu Turbos",
+        "tournaments": [
+            "NPC"
+        ],
+        "domestic_league": "NPC"
+    },
+    {
+        "club_name": "North Harbour",
+        "tournaments": [
+            "NPC"
+        ],
+        "domestic_league": "NPC"
+    },
+    {
+        "club_name": "Northland Taniwha",
+        "tournaments": [
+            "NPC"
+        ],
+        "domestic_league": "NPC"
+    },
+    {
+        "club_name": "Otago",
+        "tournaments": [
+            "NPC"
+        ],
+        "domestic_league": "NPC"
+    },
+    {
+        "club_name": "Southland Stags",
+        "tournaments": [
+            "NPC"
+        ],
+        "domestic_league": "NPC"
+    },
+    {
+        "club_name": "Taranaki Bulls",
+        "tournaments": [
+            "NPC"
+        ],
+        "domestic_league": "NPC"
+    },
+    {
+        "club_name": "Tasman Mako",
+        "tournaments": [
+            "NPC"
+        ],
+        "domestic_league": "NPC"
+    },
+    {
+        "club_name": "Waikato Mooloos",
+        "tournaments": [
+            "NPC"
+        ],
+        "domestic_league": "NPC"
+    },
+    {
+        "club_name": "Wellington Lions",
+        "tournaments": [
+            "NPC"
+        ],
+        "domestic_league": "NPC"
+    },
+    {
+        "club_name": "BlackRams Tokyo",
+        "tournaments": [
+            "Japan Rugby League One - Division 1"
+        ],
+        "domestic_league": "Japan Rugby League One - Division 1"
+    },
+    {
+        "club_name": "Toshiba Brave Lupus Tokyo",
+        "tournaments": [
+            "Japan Rugby League One - Division 1"
+        ],
+        "domestic_league": "Japan Rugby League One - Division 1"
+    },
+    {
+        "club_name": "Yokohama Canon Eagles",
+        "tournaments": [
+            "Japan Rugby League One - Division 1"
+        ],
+        "domestic_league": "Japan Rugby League One - Division 1"
+    },
+    {
+        "club_name": "Kobelco Kobe Steelers",
+        "tournaments": [
+            "Japan Rugby League One - Division 1"
+        ],
+        "domestic_league": "Japan Rugby League One - Division 1"
+    },
+    {
+        "club_name": "Kubota Spears Funabashi Tokyo-Bay",
+        "tournaments": [
+            "Japan Rugby League One - Division 1"
+        ],
+        "domestic_league": "Japan Rugby League One - Division 1"
+    },
+    {
+        "club_name": "Mie Honda Heat RFC",
+        "tournaments": [
+            "Japan Rugby League One - Division 1"
+        ],
+        "domestic_league": "Japan Rugby League One - Division 1"
+    },
+    {
+        "club_name": "Mitsubishi Sagamihara Dynaboars",
+        "tournaments": [
+            "Japan Rugby League One - Division 1"
+        ],
+        "domestic_league": "Japan Rugby League One - Division 1"
+    },
+    {
+        "club_name": "Shizuoka Blue Revs",
+        "tournaments": [
+            "Japan Rugby League One - Division 1"
+        ],
+        "domestic_league": "Japan Rugby League One - Division 1"
+    },
+    {
+        "club_name": "Tokyo Sungoliath",
+        "tournaments": [
+            "Japan Rugby League One - Division 1"
+        ],
+        "domestic_league": "Japan Rugby League One - Division 1"
+    },
+    {
+        "club_name": "Toyota Verblitz",
+        "tournaments": [
+            "Japan Rugby League One - Division 1"
+        ],
+        "domestic_league": "Japan Rugby League One - Division 1"
+    },
+    {
+        "club_name": "Urayasu D-Rocks",
+        "tournaments": [
+            "Japan Rugby League One - Division 1"
+        ],
+        "domestic_league": "Japan Rugby League One - Division 1"
+    },
+    {
+        "club_name": "Saitama Wild Knights",
+        "tournaments": [
+            "Japan Rugby League One - Division 1"
+        ],
+        "domestic_league": "Japan Rugby League One - Division 1"
+    },
+    {
+        "club_name": "Bulls",
+        "tournaments": [
+            "Champions Cup",
+            "United Rugby Championship"
+        ],
+        "domestic_league": "United Rugby Championship"
+    },
+    {
+        "club_name": "Cardiff Rugby",
+        "tournaments": [
+            "Challenge Cup",
+            "United Rugby Championship"
+        ],
+        "domestic_league": "United Rugby Championship"
+    },
+    {
+        "club_name": "Connacht Rugby",
+        "tournaments": [
+            "Challenge Cup",
+            "United Rugby Championship"
+        ],
+        "domestic_league": "United Rugby Championship"
+    },
+    {
+        "club_name": "Dragons RFC",
+        "tournaments": [
+            "Challenge Cup",
+            "United Rugby Championship"
+        ],
+        "domestic_league": "United Rugby Championship"
+    },
+    {
+        "club_name": "Edinburgh Rugby",
+        "tournaments": [
+            "Champions Cup",
+            "United Rugby Championship"
+        ],
+        "domestic_league": "United Rugby Championship"
+    },
+    {
+        "club_name": "Glasgow Warriors",
+        "tournaments": [
+            "Champions Cup",
+            "United Rugby Championship"
+        ],
+        "domestic_league": "United Rugby Championship"
+    },
+    {
+        "club_name": "Leinster Rugby",
+        "tournaments": [
+            "Champions Cup",
+            "United Rugby Championship"
+        ],
+        "domestic_league": "United Rugby Championship"
+    },
+    {
+        "club_name": "Lions Rugby",
+        "tournaments": [
+            "Challenge Cup",
+            "United Rugby Championship"
+        ],
+        "domestic_league": "United Rugby Championship"
+    },
+    {
+        "club_name": "Munster Rugby",
+        "tournaments": [
+            "Champions Cup",
+            "United Rugby Championship"
+        ],
+        "domestic_league": "United Rugby Championship"
+    },
+    {
+        "club_name": "Ospreys",
+        "tournaments": [
+            "Challenge Cup",
+            "United Rugby Championship"
+        ],
+        "domestic_league": "United Rugby Championship"
+    },
+    {
+        "club_name": "Scarlets",
+        "tournaments": [
+            "Champions Cup",
+            "United Rugby Championship"
+        ],
+        "domestic_league": "United Rugby Championship"
+    },
+    {
+        "club_name": "Sharks",
+        "tournaments": [
+            "Champions Cup",
+            "United Rugby Championship"
+        ],
+        "domestic_league": "United Rugby Championship"
+    },
+    {
+        "club_name": "Stormers",
+        "tournaments": [
+            "Champions Cup",
+            "United Rugby Championship"
+        ],
+        "domestic_league": "United Rugby Championship"
+    },
+    {
+        "club_name": "Benetton Rugby",
+        "tournaments": [
+            "Challenge Cup",
+            "United Rugby Championship"
+        ],
+        "domestic_league": "United Rugby Championship"
+    },
+    {
+        "club_name": "Ulster Rugby",
+        "tournaments": [
+            "Challenge Cup",
+            "United Rugby Championship"
+        ],
+        "domestic_league": "United Rugby Championship"
+    },
+    {
+        "club_name": "Zebre Parma",
+        "tournaments": [
+            "Challenge Cup",
+            "United Rugby Championship"
+        ],
+        "domestic_league": "United Rugby Championship"
+    },
+    {
+        "club_name": "Blues",
+        "tournaments": [
+            "Super Rugby Pacific"
+        ],
+        "domestic_league": "Super Rugby Pacific"
+    },
+    {
+        "club_name": "Brumbies",
+        "tournaments": [
+            "Super Rugby Pacific"
+        ],
+        "domestic_league": "Super Rugby Pacific"
+    },
+    {
+        "club_name": "Chiefs",
+        "tournaments": [
+            "Super Rugby Pacific"
+        ],
+        "domestic_league": "Super Rugby Pacific"
+    },
+    {
+        "club_name": "Crusaders",
+        "tournaments": [
+            "Super Rugby Pacific"
+        ],
+        "domestic_league": "Super Rugby Pacific"
+    },
+    {
+        "club_name": "Fijian Drua",
+        "tournaments": [
+            "Super Rugby Pacific"
+        ],
+        "domestic_league": "Super Rugby Pacific"
+    },
+    {
+        "club_name": "Highlanders",
+        "tournaments": [
+            "Super Rugby Pacific"
+        ],
+        "domestic_league": "Super Rugby Pacific"
+    },
+    {
+        "club_name": "Hurricanes",
+        "tournaments": [
+            "Super Rugby Pacific"
+        ],
+        "domestic_league": "Super Rugby Pacific"
+    },
+    {
+        "club_name": "Moana Pasifika",
+        "tournaments": [
+            "Super Rugby Pacific"
+        ],
+        "domestic_league": "Super Rugby Pacific"
+    },
+    {
+        "club_name": "Queensland Reds",
+        "tournaments": [
+            "Super Rugby Pacific"
+        ],
+        "domestic_league": "Super Rugby Pacific"
+    },
+    {
+        "club_name": "New South Wales Waratahs",
+        "tournaments": [
+            "Super Rugby Pacific"
+        ],
+        "domestic_league": "Super Rugby Pacific"
+    },
+    {
+        "club_name": "Western Force",
+        "tournaments": [
+            "Super Rugby Pacific"
+        ],
+        "domestic_league": "Super Rugby Pacific"
+    }
+]

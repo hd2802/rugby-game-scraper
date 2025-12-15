@@ -1,5 +1,6 @@
 from page_scrapers import tourn
 from page_scrapers import base_player_data
+from page_scrapers import club_data
 from utils import file_validation
 
 def fetch_club_links():
@@ -14,8 +15,13 @@ def player_data_stage_one():
     else:
         print("player_data.json already exists - Skipping running base_player_data.main()")
 
-if __name__ in "__main__":
-    #fetch_club_links()
-    #player_data_stage_one()
+def fetch_club_data():
+    if not file_validation.check_file_exists("club_data.json"):
+        club_data.main()
+    else:
+        print("club_data.json already exists - Skipping running club_data.main()")
 
-    base_player_data.main()
+if __name__ in "__main__":
+    fetch_club_links()
+    fetch_club_data()
+    player_data_stage_one()

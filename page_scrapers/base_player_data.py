@@ -21,8 +21,8 @@ Then each data of the players will be saved in a new file in out/base_player_dat
     ]
 """
 
-#target_leagues = ["Premiership", "Top 14", "United Rugby Championship"]
-target_leagues = ["Major League Rugby", "Champ Rugby", "Pro D2", "Nationale", "NPC",
+target_leagues = ["Premiership", "Top 14", "United Rugby Championship"]
+other_leagues = ["Major League Rugby", "Champ Rugby", "Pro D2", "Nationale", "NPC",
                  "Japan Rugby League One - Division 1", "Super Rugby Pacific"]
 
 headers = {
@@ -72,6 +72,13 @@ def process_squad_link(url):
             cells = row.find_all('td')
             club_player_obj[club_name].append(process_player_row(cells))
 
+        amatuer_header = squad_table.find_next('h2')
+        if "Academy" in amatuer_header.text:
+            amateur_table = amatuer_header.find_next('table')
+            for row in amateur_table.find_all('tr')[1:]:
+                cells = row.find_all('td')
+                club_player_obj[club_name].append(process_player_row(cells))
+
         return club_player_obj
     except:
         print(f"Error processing squad with url {url}")
@@ -98,7 +105,7 @@ def fetch_player_data(links_json_array):
 
 def save_player_data(player_data):
     try:
-        with open(f"{SAVE_PATH}/other_leagues_player_data.json", 'w') as f:
+        with open(f"{SAVE_PATH}/player_data.json", 'w') as f:
             json.dump(player_data, f, ensure_ascii=False, indent=4)
         print(f"Player data saved successfully at {SAVE_PATH}")
     except:
