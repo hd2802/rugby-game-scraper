@@ -1,6 +1,7 @@
 from page_scrapers import tourn
 from page_scrapers import base_player_data
 from page_scrapers import club_data
+from uploader import uploader
 from utils import file_validation
 
 def fetch_club_links():
@@ -25,3 +26,4 @@ if __name__ in "__main__":
     fetch_club_links()
     fetch_club_data()
     player_data_stage_one()
+    uploader.main()
